@@ -1,0 +1,352 @@
+{
+  "version": "2.0",
+  "class": "dataset",
+  "label": "Levande födda, antal efter region, kön, tabellinnehåll och år",
+  "source": "SCB",
+  "updated": "2025-02-21T07:00:00Z",
+  "note": [
+    "Vid beräkning av åldersdifferentierade tal per 1 000 av medelfolkmängden skall medelfolkmängden per födelseår användas.",
+    "Tabellen redovisar definitiva uppgifter om antalet levande födda  per år. För åren 1968–1997 redovisas levande födda inrapporterade fram t.o.m. vecka 13 året efter födelsen. För åren 1998 och framåt redovisas antalet födda inrapporterade fram t.o.m. vecka 4 året efter födelsen."
+  ],
+  "role": {
+    "time": [
+      "Tid"
+    ],
+    "metric": [
+      "ContentsCode"
+    ]
+  },
+  "id": [
+    "Region",
+    "Kon",
+    "ContentsCode",
+    "Tid"
+  ],
+  "size": [
+    21,
+    2,
+    1,
+    3
+  ],
+  "dimension": {
+    "Region": {
+      "label": "region",
+      "note": [
+        "Ny regional indelning fr.o.m. 1999-01-01. Delar av Södertälje kommun (kod 0181) bildar en ny kommun benämnd Nykvarn (kod 0140).",
+        "År 1968–1998 redovisas enligt regional indelning 1998-01-01.",
+        "Ny regional indelning fr.o.m. 2003-01-01. Delar av Uppsala kommun (kod 0380) bildar en ny kommun benämnd Knivsta (kod 0330)."
+      ],
+      "category": {
+        "index": {
+          "01": 0,
+          "03": 1,
+          "04": 2,
+          "05": 3,
+          "06": 4,
+          "07": 5,
+          "08": 6,
+          "09": 7,
+          "10": 8,
+          "12": 9,
+          "13": 10,
+          "14": 11,
+          "17": 12,
+          "18": 13,
+          "19": 14,
+          "20": 15,
+          "21": 16,
+          "22": 17,
+          "23": 18,
+          "24": 19,
+          "25": 20
+        },
+        "label": {
+          "01": "Stockholms län",
+          "03": "Uppsala län",
+          "04": "Södermanlands län",
+          "05": "Östergötlands län",
+          "06": "Jönköpings län",
+          "07": "Kronobergs län",
+          "08": "Kalmar län",
+          "09": "Gotlands län",
+          "10": "Blekinge län",
+          "12": "Skåne län",
+          "13": "Hallands län",
+          "14": "Västra Götalands län",
+          "17": "Värmlands län",
+          "18": "Örebro län",
+          "19": "Västmanlands län",
+          "20": "Dalarnas län",
+          "21": "Gävleborgs län",
+          "22": "Västernorrlands län",
+          "23": "Jämtlands län",
+          "24": "Västerbottens län",
+          "25": "Norrbottens län"
+        },
+        "note": {
+          "03": [
+            "Fr o m 2007-01-01 utökas Uppsala län med Heby kommun. Observera att länssiffrorna inte är jämförbara med länssiffrorna bakåt i tiden."
+          ],
+          "19": [
+            "Fr o m 2007-01-01 minskar Västmanlands län med Heby kommun. Observera att länssiffrorna inte är jämförbara med länssiffrorna bakåt i tiden."
+          ]
+        }
+      },
+      "extension": {
+        "elimination": false,
+        "categoryNoteMandatory": {
+          "03": {
+            "0": true
+          },
+          "19": {
+            "0": true
+          }
+        },
+        "show": "code_value"
+      }
+    },
+    "Kon": {
+      "label": "kön",
+      "category": {
+        "index": {
+          "1": 0,
+          "2": 1
+        },
+        "label": {
+          "1": "män",
+          "2": "kvinnor"
+        }
+      },
+      "extension": {
+        "elimination": true,
+        "show": "value"
+      },
+      "link": {
+        "describedby": [
+          {
+            "extension": {
+              "Kon": "Kön"
+            }
+          }
+        ]
+      }
+    },
+    "ContentsCode": {
+      "label": "tabellinnehåll",
+      "category": {
+        "index": {
+          "BE0101E2": 0
+        },
+        "label": {
+          "BE0101E2": "Antal"
+        },
+        "unit": {
+          "BE0101E2": {
+            "base": "antal",
+            "decimals": 0
+          }
+        }
+      },
+      "extension": {
+        "elimination": false,
+        "refperiod": {
+          "BE0101E2": ""
+        },
+        "show": "value",
+        "measuringType": {
+          "BE0101E2": "Flow"
+        },
+        "priceType": {
+          "BE0101E2": "NotApplicable"
+        },
+        "adjustment": {
+          "BE0101E2": "None"
+        }
+      }
+    },
+    "Tid": {
+      "label": "år",
+      "category": {
+        "index": {
+          "2022": 0,
+          "2023": 1,
+          "2024": 2
+        },
+        "label": {
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024"
+        }
+      },
+      "extension": {
+        "elimination": false,
+        "show": "code"
+      }
+    }
+  },
+  "extension": {
+    "noteMandatory": {
+      "0": true
+    },
+    "px": {
+      "infofile": "BE0101",
+      "tableid": "TAB1264",
+      "decimals": 0,
+      "official-statistics": true,
+      "aggregallowed": true,
+      "copyright": false,
+      "language": "sv",
+      "contents": "Levande födda, antal",
+      "descriptiondefault": false,
+      "heading": [
+        "ContentsCode",
+        "Tid"
+      ],
+      "stub": [
+        "Region",
+        "Kon"
+      ],
+      "matrix": "BE0101E2",
+      "subject-code": "BE",
+      "subject-area": "Befolkning"
+    },
+    "discontinued": null,
+    "contact": [
+      {
+        "name": "Statistikservice",
+        "organization": "SCB",
+        "phone": "010-479 50 00",
+        "mail": "information@scb.se",
+        "raw": " Statistikservice, SCB# +46 010-479 50 00#information@scb.se"
+      }
+    ]
+  },
+  "value": [
+    13420,
+    13326,
+    13111,
+    12936,
+    12455,
+    12546,
+    2033,
+    1928,
+    1993,
+    1958,
+    1888,
+    1852,
+    1468,
+    1285,
+    1314,
+    1408,
+    1241,
+    1256,
+    2289,
+    2182,
+    2245,
+    2246,
+    2112,
+    1998,
+    1948,
+    1826,
+    1738,
+    1774,
+    1755,
+    1730,
+    1060,
+    1012,
+    933,
+    981,
+    951,
+    903,
+    1111,
+    1093,
+    1085,
+    1065,
+    1015,
+    941,
+    234,
+    221,
+    226,
+    231,
+    233,
+    191,
+    692,
+    660,
+    603,
+    700,
+    641,
+    558,
+    7450,
+    7081,
+    6872,
+    6931,
+    6760,
+    6649,
+    1659,
+    1566,
+    1620,
+    1634,
+    1494,
+    1521,
+    9403,
+    8912,
+    8801,
+    8744,
+    8515,
+    8313,
+    1326,
+    1154,
+    1161,
+    1202,
+    1119,
+    1118,
+    1579,
+    1451,
+    1466,
+    1445,
+    1362,
+    1348,
+    1476,
+    1309,
+    1276,
+    1359,
+    1259,
+    1238,
+    1341,
+    1240,
+    1216,
+    1234,
+    1200,
+    1118,
+    1280,
+    1153,
+    1165,
+    1193,
+    1128,
+    1066,
+    1048,
+    1004,
+    921,
+    981,
+    945,
+    865,
+    611,
+    569,
+    589,
+    559,
+    589,
+    549,
+    1349,
+    1199,
+    1257,
+    1269,
+    1185,
+    1137,
+    1099,
+    1078,
+    1044,
+    1008,
+    955,
+    918
+  ]
+}

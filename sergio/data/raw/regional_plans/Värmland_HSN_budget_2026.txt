@@ -1,0 +1,634 @@
+Nämndens Årsplan och budget 2026
+Hälso- och sjukvårdsnämnd
+Innehållsförteckning
+1 Inledning .............................................................................................................................................3
+2 Nämndens uppdrag ...........................................................................................................................3
+3 För nämnden relevanta styrande dokument ..................................................................................3
+4 Nämndens omvärldsfaktorer: möjligheter och utmaningar ..........................................................3
+5 Nämndens prioriteringar ..................................................................................................................4
+6 Nämndens resultatmål och indikatorer ...........................................................................................4
+7 Intern ramfördelning på övergripande nivå ................................................................................. 12
+Bilagor
+Bilaga 1: Intern ramfördelning
+2
+1 Inledning
+Regionplan och budget utgör regionfullmäktiges övergripande styrning för perioden och är ett verktyg
+för att styra mot Region Värmlands vision "Livskvalitet i världsklass". I regionplanen fastställs årligen
+regionfullmäktiges övergripande effektmål för mandatperioden, årets budgetram, fördelning av
+nämndernas nettokostnadsramar samt en ekonomisk flerårsplan.
+Nämndens Årsplan och budget är nämndens styrande dokument för perioden och bygger på
+nämndens svar på planeringsdirektiv. I Nämndens Årsplan och budget fastställs årets prioriteringar,
+tidigare beslutade resultatmål och indikatorer samt intern ramfördelning på en övergripande nivå.
+Dokumentet utgör underlag för den fortsatta planeringen inom det egna ansvarsområdet.
+Beslut om Årsplan och budget ska tas innan årsskiftet 2025/2026. Innan årsskiftet ska nämnden även
+informeras om förvaltningsområdets verksamhetsplan.
+2 Nämndens uppdrag
+Hälso- och sjukvårdsnämndens uppdrag är att ansvara för den värmländska hälso- och sjukvården i
+sin helhet och ska se till att den styrs, samordnas och utvecklas på ett sådant sätt att de samlade
+resurserna är tillgängliga och anpassade till befolkningens behov.
+3 För nämnden relevanta styrande dokument
+• Hälso- och sjukvårdslagen (2017:30)
+• Tandvårdslagen (1985:125)
+• Lagen (1993:387) om stöd och service till vissa funktionshindrade, LSS
+• Lagen (2008:962) om valfrihetssystem
+• Smittskyddslagen (2004:168)
+• Lagen (2003:1210) om finansiell samordning av rehabiliteringsinsatser
+• Patientlagen (SFS 2014:821)
+• Patientsäkerhetslagen (SFS 2010:659)
+• Lag om statligt tandvårdsstöd (SFS 2008:145)
+• Patiendatalagen (2008:355)
+• Livsmedelslag (2006:804)
+• Kommunallagen (2017:725)
+• Medbestämmandelagen (1976:580)
+• Arbetsmiljölagen (1977:1160)
+• Lagen om facklig förtroendemans ställning på arbetsplatsen (1974:358)
+• Diskrimineringslagen (2008:567)
+• Barnkonventionen (2018:1197)
+• Föreskrifter och allmänna råd (HSLF-FS och SOSFS)
+• Läkemedelsverkets författningssamling
+• Strålsäkerhetsmyndighetens författningssamling
+• Inspektionen för vård- och omsorgs författningssamling
+• Dataskyddsförordningen (GDPR)
+• Regelverk för medicintekniska produkter
+• Värmlandsstrategin
+• Regionplan
+• Hälso- och sjukvårdens utvecklingsplan
+4 Nämndens omvärldsfaktorer: möjligheter och utmaningar
+Hälso- och sjukvården står inför omvärldsfaktorer som påverkar dess utveckling de kommande åren.
+En av de största utmaningarna är den demografiska förändringen, där en åldrande befolkning leder till
+såväl ökad efterfrågan på vård som en växande brist på vårdpersonal.
+Ekonomiska faktorer, som ökande vårdkostnader och ökad konkurrens om samhällets resurser,
+innebär betydande utmaningar som kräver utvecklade finansieringsmodeller och effektivare
+3
+resursanvändning. Klimatförändringar och globala hälsorisker riskerar också att öka belastningen på
+vården. Säkerhetshot och geopolitiska faktorer kan störa försörjningen av läkemedel och materiel,
+ökar behovet av insatser inom säkerhet och beredskap och robusthet i hälso- och sjukvårdssystemet.
+Parallellt med dessa utmaningar ger teknologiska framsteg, såsom AI, digitala vårdtjänster och robotik
+möjligheter att effektivisera vården, även om höga kostnader och digitala klyftor utgör utmaningar. För
+att möta framtidens behov krävs därför strategiska investeringar, teknologisk innovation och en
+starkare vårdorganisation som kan hantera både akuta kriser och långsiktig utveckling.
+Eftersom kostnaderna bedöms öka snabbare än de offentliga intäkterna och personalbrist riskerar att
+bli följden av de demografiska förändringarna måste vårdsystemen anpassas för att säkerställa
+långsiktig tillgänglighet till vård och för att omhänderta fler och äldre patienter med färre medarbetare.
+I den av regionfullmäktige i full politisk enighet beslutade utvecklingsplanen för framtidens hälso- och
+sjukvård mot 2040 dras slutsatsen att vi behöver ändra på våra arbetssätt och utveckla ett nytt
+vårdsystem som möter värmlänningarnas framtida vårdbehov. Utmaningarna synliggör behovet av ett
+systemskifte där vi går från ett suboptimerande och mekaniskt tänkande där alla resurser alltid ska
+beläggas till ett personcentrerat, flödesorienterat och medarbetardrivet innovativt tänkande som på sikt
+leder fram till ett nytt vårdsystem som både ökar tillgängligheten till vård och höjer vårdens kvalitet
+samtidigt som medarbetarnas arbetsmiljö förbättras och ekonomin stabiliseras.
+Det nya systemet ska formas kring en sammanhållen, personcentrerad och flödesbaserad vårdkedja,
+där primärvården, sjukhusens resurser och den högspecialiserade nationella vården samverkar
+gränsöverskridande med den kommunala omsorgen, för att alltid tillgängliggöra den bästa möjliga och
+mest effektiva vården för alla i Värmland.
+Den pågående satsningen på God och nära vård innebär att vården ska bli mer tillgänglig och
+anpassad till patientens behov, med större fokus på primärvården, digitala vårdlösningar och vård i
+hemmet. Genom att flytta vård närmare patienten och stärka samverkan mellan olika vårdnivåer kan
+sjukhusens belastning minska, samtidigt som patienterna får mer individanpassad och sammanhållen
+vård.
+5 Nämndens prioriteringar
+Prioriterade satsningar: vårdcentraler, psykiatri och vårdplatser
+Under 2026 fortsätter satsningen för att stärka hälso- och sjukvården med totalt 353 miljoner kronor.
+Satsningarna fokuserar på tre prioriterade områden: vårdcentralerna, psykiatrin och vårdplatser.
+Vårdcentralerna får en förstärkning på 64 miljoner kronor för att förbättra tillgänglighet, kontinuitet och
+kompetensförsörjning i den nära vården, bland annat genom en ST-läkarsatsning. En stark primärvård
+är grunden för en kostnadseffektiv och långsiktigt hållbar hälso- och sjukvård.
+Arbetet för en förbättrad psykisk hälsa tillförs 20 miljoner kronor, varav 15 miljoner går till första linjen
+och 5 miljoner till fler ST-läkare inom vuxenpsykiatrin. Syftet är att korta väntetider och förbättra
+tillgängligheten, så att fler barn, unga och vuxna snabbt får rätt stöd.
+Utvecklingen av vårdkapaciteten med fler vårdplatser fortsätter. Ytterligare 60 miljoner kronor avsätts
+för att utveckla fler fullskaliga vårdplatser och nya vårdformer i samverkan med kommunerna. Det
+bidrar till tryggare och mer effektiva vårdflöden och minskar belastningen på akutsjukvården.
+Satsningarna stärker vårdkedjan som helhet – från den nära vården till sjukhusens vårdplatser – och
+stödjer nämndens övergripande mål om Ekonomi i balans, Tillgänglig vård på lika villkor, Samverkan
+och utveckling av vården samt God, säker och nära vård.
+6 Nämndens resultatmål och indikatorer
+Nämndens resultatmål ska styra verksamheterna mot Region Värmlands vision och bidra till
+måluppfyllelse för regionfullmäktiges effektmål. Effektmålens inriktning beskrivs i Regionplan och
+budget. Det är av största vikt att under planeringsperioden 2026–2028 säkerställa en ekonomi i
+balans, som därför är det högst prioriterade målet även under 2026.
+4
+6.1 Effektmål: Trygga och nöjda invånare
+Resultatmål: Tillgänglig vård på lika villkor
+Beskrivning
+Tillgänglighet till vård och behandling regleras i lag. Lagförändringen från 2019 om en förstärkt
+vårdgaranti innebär att den enskilde inom 3 dagar ska få en medicinsk bedömning av läkare eller
+annan legitimerad hälso- och sjukvårdspersonal inom primärvården.
+Hälso- och sjukvården samt tandvården i Sverige, ska enligt lag vara jämlik, vilket innebär att
+bemötande, vård och behandling ska ges på lika villkor till alla oavsett kön, ålder, bostadsort,
+funktionalitet, utbildning, social ställning, etnisk eller religiös tillhörighet eller sexuell läggning, och
+oavsett kombinationer av dessa.
+Vårdens utbud ska vara jämlikt i hela Värmlands geografiska område vilket omfattar digitala verktyg,
+tjänster och möten, fysiska utbudspunkter samt mobil vård med fokus på innehållet i hälso- och
+sjukvårdstjänsterna oavsett den fysiska platsen. Vårdinsatserna ska ges inom rimlig tid och det ska
+finnas ett utbud av nära vård inom rimlig geografisk närhet.
+Öppettider och möjligheter till digitala tjänster och vårdlösningar ska utvecklas utifrån
+värmlänningarnas behov. Resultatmålet svarar mot Värmlandsstrategins insatsområde Förbättra
+livsvillkoren.
+Bidrar till de globala målen i Agenda 2030
+Mål 3: God hälsa och välbefinnande
+Mål 5: Jämställdhet
+Mål 10: Minskad ojämlikhet
+Indikatorer Målvärde Periodicitet Källa
+Besvarade telefonsamtal Ineras behörighetsstyrda
+inom femton minuter ≥ 60 % Månad PowerBI-rapport gällande
+1177 telefonstatistik.
+Datainsamling via
+telefonisystem VCC
+Callback kombinerat med
+manuell inrapportering
+Kontakt med
+≥90 % Månad som levereras vid två
+primärvården samma dag
+årliga mättillfällen till den
+nationella
+väntetidsdatabasen
+(SKR).
+Medicinsk bedömning
+som genomförs av
+legitimerad hälso- och Cosmic via regionens
+≥ 80 % Månad
+sjukvårdspersonal inom datalager.
+tre dagar
+(primärvårdsnivå)
+Första besök i den
+specialiserade somatiska
+Cosmic via regionens
+hälso- och sjukvården ≥80 % Månad
+datalager.
+inom 90 dagar - avser
+väntande
+Operation inom 90 dagar
+i den specialiserade
+Cosmic via regionens
+somatiska hälso- och ≥70 % Månad
+datalager.
+sjukvården - avser
+väntande
+5
+Indikatorer Målvärde Periodicitet Källa
+Behandling inom 90
+dagar i den
+Cosmic via regionens
+specialiserade somatiska ≥70 % Månad
+datalager.
+hälso- och sjukvården
+- avser väntande
+Första besök i den
+specialiserade
+Cosmic via regionens
+psykiatriska hälso- och ≥80 % Månad
+datalager.
+sjukvården inom 90
+dagar - avser väntande
+Behandling inom 90
+dagar i den
+specialiserade Cosmic via regionens
+≥70 % Månad
+psykiatriska hälso- och datalager.
+sjukvården - avser
+väntande
+Första besök inom 3
+Cosmic via regionens
+dagar till Första linjen, ≥90 % Månad
+datalager.
+Barn och unga
+Första bedömning till
+barn- och Cosmic via regionens
+≥ 80 % Månad
+ungdomspsykiatrin inom datalager.
+30 dagar
+Påbörjad utredning i
+barn- och Cosmic via regionens
+≥75 % Månad
+ungdomspsykiatrin inom datalager.
+30 dagar
+Påbörjad behandling i
+barn- och Cosmic via regionens
+≥ 75 % Månad
+ungdomspsykiatrin inom datalager.
+30 dagar
+Resultatmål: Hållbar beredskap
+Beskrivning
+I ett alltmer osäkert omvärldsläge förändras kravställningarna på samhällsviktiga verksamheter såsom
+hälso- och sjukvård. Inom detta område riktas regeringsuppdrag till sektorsansvariga myndigheter och
+genom överenskommelser med SKR, inriktningar för regionernas arbete med ökad motståndskraft och
+annan förmågehöjning.
+Området innefattar flera utmaningar för hälso- och sjukvården, då målbilden och därigenom
+möjligheten till uppföljning av arbetet inte tydligt kan definieras. Resultatmålet svarar mot
+Värmlandsstrategins insatsområde Förbättra livsvillkoren.
+Bidrar till de globala målen i Agenda 2030
+Mål 5: Jämställdhet
+Mål 16: Fredliga och inkluderande samhällen
+Mål 17: Genomförande och globalt partnerskap
+6
+6.2 Effektmål: Attraktivt och hållbart Värmland
+Resultatmål: Samverkan och utveckling av vården
+Beskrivning
+Hälso- och sjukvården i Värmland drivs i egen regi, i samverkan med andra offentliga huvudmän och
+genom avtal med privata vårdgivare. För att kunna skapa en effektiv hälso- och sjukvård nära
+invånarna förutsätts samverkan på alla nivåer, oavsett huvudmannaskap och utförare.
+Detta sker bland annat genom en samordnad uppföljning och återkoppling från och till
+samverkanspartners och hälso- och sjukvårdsnämnden. Regeringen har slutit överenskommelser med
+Sveriges kommuner och regioner om utveckling av god och nära vård. Regionen arbetar aktivt mot
+nära vård genom att säkerställa samverkans- och samordningsstrukturer med länets kommuner.
+Gemensamt med länets kommuner fortsätter arbetet 2026 med omställningen till Nära vård och att
+tillsammans utveckla hälsa, vård och omsorg med utgångspunkt från den gemensamt framtagna
+målbilden och handlingsplanen. Vården i Värmland står inför stora utmaningar för att klara av att möta
+framtida vårdbehov.
+Den snabba utvecklingen av nya läkemedel, medicinsk teknik, IT- lösningar samt den fördjupade
+kompetensen kring sjukdomar ger samtidigt möjligheter att möta och vårda patienter på nya sätt.
+Resultatmålet svarar mot Värmlandsstrategins insatsområden Förbättra livsvillkoren och Höja
+kompetensen.
+Bidrar till de globala målen i Agenda 2030
+Mål 3: God hälsa och välbefinnande
+Mål 4: God utbildning för alla
+Mål 5: Jämställdhet
+Mål 8: Anständiga arbetsvillkor och ekonomisk tillväxt
+Mål 10: Minskad ojämlikhet
+Indikatorer Målvärde Periodicitet Källa
+Oplanerade
+återinskrivningar inom 30 Cosmic via regionens
+< 20 % Månad
+dagar, patienter med datalager.
+kommunala insatser
+Cosmic via regionens
+Vårdtillfällen med datalager till
+påverkbar slutenvård i Vårdtillfällsdatabasen
+< 5 000 per 100 000 inv År
+urval av diagnoser - 65 år (SKR). Utfallet hämtas
+och äldre från Vården i siffror
+(SKR).
+PREM-enkät (Patient
+Reported Experience
+Measures) från Nationell
+Patientenkät (NPE).
+PREM står för Patient
+Upplevd delaktighet och
+Reported Experience
+involvering under
+Measures, som på
+utredning enligt
+≥ 85 % År svenska kallas
+standardiserade
+patientrapporterade
+vårdförlopp (SVF) i
+erfarenhetsmått. Både
+cancervården
+patienter som fått ett
+cancerbesked och de
+som avslutat SVF av
+någon annan orsak får
+enkäten sex till tio veckor
+efter avslutad utredning.
+7
+Resultatmål: Klinisk forskning och utbildning
+Beskrivning
+Klinisk forskning är en förutsättning för kvalitetssäkrad utveckling av hälso- och sjukvård och ska
+utgöra en integrerad del av vården och dess organisation. I regionernas uppdrag ingår att medverka
+vid finansiering, planering och genomförande av både kliniskt forskningsarbete på hälso- och
+sjukvårdens område, och inom den folkhälsovetenskapliga forskningen.
+Regioner och kommuner ska i dessa frågor, i den omfattning som behövs, samverka med varandra
+och med berörda universitet och högskolor. Både kunskap om och utförande av klinisk forskning
+behöver öka i Värmland. Det behöver skapas goda förutsättningar och integreras i alla verksamheter
+och på alla nivåer så att ett snabbt, för patienterna nyttiggörande, av relevanta forskningsresultat kan
+möjliggöras liksom att ge stöd i evidensbaserade beslut. Resultatmålet svarar mot
+Värmlandsstrategins insatsområde Höja kompetensen.
+Bidrar till de globala målen i Agenda 2030
+Mål 3: God hälsa och välbefinnande
+Mål 4: God utbildning för alla
+Mål 5: Jämställdhet
+Mål 8: Anständiga arbetsvillkor och ekonomisk tillväxt
+Mål 9: Hållbar industri, innovationer och infrastruktur
+Mål 10: Minskad ojämlikhet
+Mål 11: Hållbara städer och samhällen
+Mål 16: Fredliga och inkluderande samhällen
+Indikatorer Målvärde Periodicitet Källa
+Genomgången
+forskarutbildning
+År
+(licentiat- eller
+doktorsexamen)
+6.3 Effektmål: God, jämlik och jämställd hälsa
+Resultatmål: God, säker och nära vård
+Beskrivning
+Hälso- och sjukvården i Värmland ska vara god, säker och nära, med ett starkt fokus både på
+omvårdnadskvalitet och medicinsk kvalitet. Ett aktivt patientsäkerhetsarbete krävs för att minska antal
+vårdskador och dess konsekvenser.
+Regionen ska identifiera och förebygga patientsäkerhetsrisker och vårdskador vid vårdtillfällen,
+behandlingar och vid vårdens övergångar. Våra patienten ska ges vård på rätt vårdnivå. Vård på rätt
+vårdnivå spänner över insatser som stärker personens egenvårdsförmåga till insatser vid behov av
+högspecialiserad vård samt palliativ vård. Vård som behövs ofta ska finnas nära.
+Fortsatt utveckling av prehospital och mobil vård, nationell och regional nivåstrukturering samt arbete
+med horisontella prioriteringar enligt principen om vård efter behov är en förutsättning för en jämlik
+vård. Resultatmålet svarar mot Värmlandsstrategins insatsområde Förbättra livsvillkoren.
+Bidrar till de globala målen i Agenda 2030
+Mål 3: God hälsa och välbefinnande
+Mål 5: Jämställdhet
+Mål 9: Hållbar industri, innovationer och infrastruktur
+Mål 10: Minskad ojämlikhet
+Mål 11: Hållbara städer och samhällen
+8
+Indikatorer Målvärde Periodicitet Källa
+Cosmic, Paratus,
+Listningssystemet Flisa,
+Skörhetsbedömning i
+≥ 95 % Månad KPP-systemet Ecomed,
+primärvård
+ACG-systemet Johns
+Hopkins
+Cosmic via regionens
+Äldre med läkemedel datalager till Medrave.
+<10 % Tertial
+som bör undvikas Redovisas per rullande
+12-månadersperiod.
+Från och med 2024
+regionens egen hantering
+Patienter i somatisk
+via enkät i Microsoft
+slutenvård med
+<7 % Tertial Forms och
+sjukhusförvärvade
+sammanställning i
+trycksår
+statistikrapport i
+Rapportportalen.
+Cosmic via regionens
+Överbeläggningar i <2,5 per 100 disponibla datalager. Rikets resultat
+Månad
+somatisk slutenvård vårdplatser hämtas från SKR
+Väntetider i vården.
+Cosmic via regionens
+Utlokaliserade patienter i datalager. Rikets resultat
+Månad
+somatisk slutenvård hämtas från SKR
+Väntetider i vården.
+Cosmic via regionens
+Överbeläggningar i <1 per 100 disponibla datalager. Rikets resultat
+Månad
+psykiatrisk slutenvård vårdplatser hämtas från SKR
+Väntetider i vården.
+Resultatmål: Hälsofrämjande och förebyggande vård
+Beskrivning
+En viktig del i arbetet är att arbeta förebyggande och hälsofrämjande för att stärka hälsan i
+befolkningen så att behovet av hälso- och sjukvårdens insatser minskar. Regionen ska främja barns
+och ungas, vuxnas och de äldres fysiska och psykiska hälsa.
+Förebyggande och hälsofrämjande arbetssätt omfattar identifiering, rådgivning och samtal om
+riskbruk, missbruk och beroende, levnadsvanor, tandhälsa, frågor om våld i nära relationer och frågor
+om psykisk hälsa.
+Förebyggande och hälsofrämjande insatser är exempelvis hälsosamtal, friskvård, vaccinationer och
+screeningprogram. Resultatmålet svarar mot Värmlandsstrategins insatsområde Förbättra
+livsvillkoren.
+Bidrar till de globala målen i Agenda 2030
+Mål 3: God hälsa och välbefinnande
+Mål 5: Jämställdhet
+Mål 10: Minskad ojämlikhet
+9
+Indikatorer Målvärde Periodicitet Källa
+Tillfrågad om
+Cosmic, via regionens
+våldsutsatthet i ≥90 % Tertial
+datalager.
+primärvården
+6-åringars tandhälsa,
+År Egen uppföljning
+andel med karies, fyllning
+6.4 Effektmål: Hållbar organisation
+Resultatmål: Ekonomi i balans
+Beskrivning
+Region Värmlands verksamhet ska bedrivas med god ekonomisk hushållning, kostnadskontroll och
+långsiktig ekonomisk hållbarhet. Det innebär att verksamheten ska rymmas inom beslutade
+ekonomiska ramar.
+God ekonomisk hushållning är en förutsättning för att även i framtiden kunna ge värmlänningarna en
+god hälso- och sjukvård inklusive tandvård, regional utveckling, kollektivtrafik, kultur och bildning.
+Det finansiella perspektivet av god ekonomisk hushållning innebär att varje generation ska bära
+kostnaderna för den service som de konsumerar.
+Bidrar till de globala målen i Agenda 2030
+Mål 8: Anständiga arbetsvillkor och ekonomisk tillväxt
+Indikatorer Målvärde Periodicitet Källa
+Nettokostnad mot budget Månad Raindance
+Bemanningskostnad mot
+År Raindance
+budget
+Nyttjandegrad i e-
+År Raindance
+handelssystemet
+Resultatmål: Attraktiv arbetsgivare
+Beskrivning
+Region Värmland ska vara en attraktiv arbetsgivare. För att vara en attraktiv arbetsgivare är det viktigt
+att Region Värmland kan attrahera och rekrytera nya medarbetare, utveckla och behålla befintliga
+medarbetare och skapa bra avslut när medarbetare slutar sin anställning. Varje medarbetare är en
+viktig ambassadör för Region Värmland.
+Bidrar till de globala målen i Agenda 2030
+Mål 8: Anständiga arbetsvillkor och ekonomisk tillväxt
+Indikatorer Målvärde Periodicitet Källa
+Resultat erhålls från
+Hållbart
+medarbetarenkäten som
+medarbetarengagemang 70 År
+genomförs en gång per
+(HME) – totalindex
+år.
+Omräknade heltider
+Månad Heroma
+tillsvidareanställda
+Omräknade heltider
+Månad Heroma
+visstidsanställda
+10
+Resultatmål: Hållbar arbetsmiljö
+Beskrivning
+Region Värmland ska ha en Hållbar arbetsmiljö. Region Värmlands arbetsmiljöpolicy anger den
+politiska viljeinriktningen att arbetsmiljön i regionen ska stimulera till engagemang i ett
+utvecklingsvänligt arbetsklimat karaktäriserat av respekt och tillit, där alla kan känna delaktighet,
+medskapande och uppleva arbetsglädje i en kontinuerlig verksamhetsutveckling. Region Värmland
+arbetar med arbetsmiljöfrågorna på ett systematiskt sätt genom att undersöka, riskbedöma, åtgärda
+och följa upp arbetsmiljön - SAM, det systematiska arbetsmiljöarbetet. Arbetsmiljöarbetet ska skapa
+förutsättningar för ett långsiktigt hållbart arbetsliv.
+Bidrar till de globala målen i Agenda 2030
+Mål 8: Anständiga arbetsvillkor och ekonomisk tillväxt
+Indikatorer Målvärde Periodicitet Källa
+Sjukfrånvarokvot Månad Heroma
+Årlig uppföljning
+Systematisk
+Andel chefer som arbetsmiljöarbete (SAM),
+genomfört skyddsrond för År uppgift kommer att kunna
+medarbetare erhållas i SAM-modulen.
+Datakälla: Stratsys, SAM-
+modul
+Årlig uppföljning
+Systematisk
+arbetsmiljöarbete (SAM),
+Andel chefer som
+uppgift kommer att kunna
+genomfört skyddsrond för År
+erhållas i SAM-modulen.
+underliggande chefer
+Datakälla: Stratsys, SAM-
+modul
+Inhämta resultaten från
+Hållbart
+Hållbart
+säkerhetsengagemang 70 År
+säkerhetsengagemang
+(HSE) totalindex
+(HSE)
+Resultatmål: Minskad resursförbrukning
+Beskrivning
+För att minska vår resursförbrukning behöver vi arbeta mer förebyggande och strategiskt. Det innebär
+att vi aktivt ska undvika onödiga inköp och överanvändning av resurser. Vi måste till exempel minska
+mängden läkemedel, mat, förbrukningsmaterial och textilier som slängs i onödan. Vi behöver använda
+energi, lokaler, fordon, material och medicinska gaser så effektivt som möjligt. Det är också viktigt att
+minska lågvärdesvården och överförskrivningen av läkemedel, samt att gå över från engångs- till
+flergångsprodukter och till cirkulära system för exempelvis möbler, sjukvårdens förbrukningsmaterial,
+IT-utrustning och byggmaterial.
+Bidrar till de globala målen i Agenda 2030
+Mål 2: Ingen hunger
+Mål 7: Hållbar energi för alla
+Mål 9: Hållbar industri, innovationer och infrastruktur
+Mål 11: Hållbara städer och samhällen
+Mål 12: Hållbar konsumtion och produktion
+11
+Resultatmål: Låg miljöpåverkan
+Beskrivning
+För att hålla vårt miljöavtryck så lågt som möjligt från de resurser vi måste köpa in, använda och
+förbruka, samt från de direkta avtryck vi gör i miljön genom exempelvis markanvändning och
+transporter, krävs ett brett spektrum av insatser. Vi behöver bland annat gå över till fossilfria
+förbrukningsmaterial och transporter, öka andelen livsmedel med lågt klimatavtryck, ställa skarpare
+miljökrav vid upphandlingar och göra medvetna val av läkemedel och byggmaterial. Det är också
+viktigt att möjliggöra materialåtervinning i högre utsträckning samt att vårda och utveckla
+utomhusmiljöerna kring våra fastigheter för att bidra till en stärkt biologisk mångfald. Även genom vår
+placering i fonder och aktier samt genom våra bidrag, projektmedel och stöd kan vi främja aktiviteter
+och insatser som bidrar till miljömässig hållbarhet.
+Bidrar till de globala målen i Agenda 2030
+Mål 2: Ingen hunger
+Mål 3: God hälsa och välbefinnande
+Mål 5: Jämställdhet
+Mål 6: Rent vatten och sanitet
+Mål 11: Hållbara städer och samhällen
+Mål 13: Bekämpa klimatförändringarna
+Mål 15: Ekosystem och biologisk mångfald
+Indikatorer Målvärde Periodicitet Källa
+E-hälsomyndigheten
+Antibiotikaförskrivning 250 År genom
+Folkhälsomyndigheten
+7 Intern ramfördelning på övergripande nivå
+Nämndens planering för 2026 ska rymmas inom den nettokostnadsram som regionfullmäktige har
+tilldelat nämnden i Regionplan och budget 2026. Det är av största vikt att nämnden vidtar nödvändiga
+åtgärder för att nämndens verksamhet ska kunna utföras inom den tilldelade nettokostnadsramen.
+Nämndens aktiviteter, utvecklingsarbete, satsningar och återinvesteringar ska finansieras inom
+nämndens nettokostnadsram. Nämnden ska i dialog med verksamheten aktivt jobba med att ta fram
+möjligheter att frigöra medel genom omprioriteringar i verksamheten. Eventuella omprioriteringar,
+effektiviseringar eller besparingar får inte utformas så att de belastar någon annan del av
+organisationen utan en ömsesidig överenskommelse om detta.
+I dialog med förvaltningsledningen identifierar nämnden på vilken nivå nämndens interna
+ramfördelning ska beslutas. Om budget behöver styras om mellan poster på den beslutade nivån efter
+beslut om årets interna ramfördelning krävs nämndbeslut om budgetväxling, alternativt
+delegeringsbeslut om nämnden i samband med budgetbeslutet delegerar rätten att budgetväxla
+mellan poster inom nämndens interna ramfördelning till förvaltningsområdets direktör.
+Sammanfattning
+Efter regionfullmäktiges beslut om regionplan ska, i planeringsprocessen, hälso- och
+sjukvårdsnämnden besluta om resultatmål, indikatorer och intern fördelning av nettokostnadsram.
+Förankring av hälso- och sjukvårdens verksamhetsplanering 2026 planeras därefter via föredragning
+för hälso- och sjukvårdsnämnden i december 2025.
+Hälso- och sjukvårdsnämndens planeringsdirektiv förtydligar vad nämnden har att förhålla sig till i
+planeringen av verksamheterna. Nämndens svar på planeringsdirektivet utgör grunden för den
+fortsatta planeringen inom det egna ansvarsområdet.
+I ärendebeskrivningen framgår förvaltningens förslag avseende fördelning av nettokostandsramen till
+hälso- och sjukvårdens områden samt förslag på ramökning för vårdvalet.
+12
+Fördelning av nettokostnadsram
+Efter regionfullmäktiges beslut om fördelning av ram till regionens nämnder, har förslaget avseende
+ramfördelning inom hälso- och sjukvården på områdesnivå beretts av hälso- och sjukvårdsledningen.
+Beslut fattas av hälso- och sjukvårdsnämnden.
+Regionfullmäktige beslutade i samband med regionplanen att det är av största vikt att under
+planeringsperioden 2025–2027 komma tillbaka till en ekonomi i balans. Det har varit det högst
+prioriterade målet 2025 och fortsätter att vara det även under 2026.
+Ambitionen för hälso- och sjukvårdens förslag på fördelning av nettokostnadsram är att på en
+övergripande nivå nå en ekonomi i balans för nästkommande år. Förvaltningens bedömning är att det
+är möjligt under förutsättning att de riktade statsbidragen ligger kvar på samma nivå som 2025.
+Hälso- och sjukvårdsnämndens nettokostnadsram beslutades av regionfullmäktige till 9 398 miljoner
+(RS/250133) för år 2026, vilket betyder en ramhöjning med 353 miljoner kronor jämfört med år 2025.
+Efter beslutet i regionfullmäktige har beslut tagits om två budgetväxlingar där medel går från hälso-
+och sjukvården till regionfastigheter och regionledningskontoret med tillsammans
+2 miljoner kronor. Ny ekonomisk ram för hälso- och sjukvården blir då 9 396 miljoner kronor.
+I nedanstående tabell specificeras ramtillskotten samt övrig finansiering av budgeten, belopp i miljoner
+kronor.
+Ram 2025 9 045
+Remitterad vård av medicinska skäl 18
+Läkemedel 78
+Generell uppräkning inkl övrigt 196
+Vårdplatser 55
+Satsning arbetsskor 6
+Ram 2026 9 398
+Budgetväxlingar -2
+Ny ram 2026 9 396
+Finansiering
+Beräknade nettokostnader HS 9 909
+Effektivisering 1 % -99
+Beräknade statsbidrag -414
+Budget 2026 9 396
+Tillskotten för remitterad vård av medicinska skäl, läkemedel samt vårdplatser har fördelats till de
+verksamheter där kostnaderna förväntas uppkomma.
+I tillägg till ovanstående fördelningar har följande prioriteringar processats fram.
+• Vårdval vårdcentral stärks med 64 miljoner kronor vilket bland annat inkluderar en enskild
+satsning på fler ST-läkare med 20 miljoner kronor. Genom att förstärka vårdval vårdcentral
+säkerställs att samtliga vårdcentraler, i egen såväl som privat regi, ska klara av sitt
+grunduppdrag och möta förväntningarna både när det gäller omställningen till en god och nära
+vård och en förbättrad tillgänglighet.
+13
+• Arbetet med att upprätthålla och utveckla antalet vårdplatser fortsätter genom en satsning
+motsvarande 55 miljoner kronor. I tillägg satsas 5 miljoner kronor på förbättrad vård för äldre
+multisjuka patienter.
+• För att stärka arbetet med att motverka psykisk ohälsa bland barn och ges ett tillskott om 15
+miljoner kronor till Första Linjen och för att ytterligare stärka ST-utbildningen inom
+vuxenpsykiatrin ges ett tillskott på 5 miljoner kronor.
+• Utöver detta har resterande medel fördelats som ett generellt tillskott till verksamheterna i
+syfte att de fortsatt ska bidra till omställningen av en god och nära vård och ökad
+tillgänglighet.
+Nettokostnadsram per område
+I tabellen nedan finns förslag på nettokostnadsram per område, belopp i miljoner kronor. En
+omdisponering av budgeten har gjorts mellan områdena i syfte att bättre avspegla varje områdes
+förväntade kostnadsbild. I tillägg har några organisatoriska förändringar genomförts, till exempel har
+ett vårdvalskontor tillskapats under HS vårdstöd för att få en mer ändamålsenlig organisation runt
+vårdval. Resurser har då flyttats från område allmänmedicin och rehab till HS vårdstöd. Finansiering
+från riktade statsbidrag motsvarande närmare 414 miljoner kronor arbetats in i områdenas ramar med
+utgångspunkt från 2025 års prognos.
+Nettokostnadsramarna per område nedan är preliminära då det fortfarande pågår ett budgetarbete på
+enhetsnivå. Fördelningen mellan enheter och områden kan därför komma att justeras.
+Nettokostnads- Nettokostnads-
+Område ram 2025 ram 2026 Förändring
+Anopiva och prehospital vård 757 836 79
+Allmänmedicin och rehabilitering 1 146 823 -323
+Barn, kvinnosjukvård och habilitering 1 075 1 199 124
+Medicinska specialiteter 1 770 1 965 195
+Medicinsk diagnostik och service 637 722 85
+Kirurgiska specialiteter 1 078 1 267 188
+Psykiatriska specialiteter 549 564 16
+Område sjukhuset Torsby 344 417 73
+Område sjukhuset Arvika 252 258 6
+HS Folktandvården 201 201 0
+HS vårdstöd 828 1 238 411
+Regionservice 406 317 -89
+Politik och Revision 3 3 0
+9 045 9 810 765
+Varav finansiering från riktade statsbidrag -414
+Summa 9 396
+Ramökning för ersättningar inom vårdval
+14
+I Region Värmland finns Vårdval vårdcentral och Vårdval fysioterapi. De två vårdvalen regleras i
+upphandlingsunderlaget och samtliga utförare, oavsett privat eller offentlig regi, ska behandlas lika. I
+förfrågningsunderlagen ingår en ersättningsbilaga där ersättningen till utförarna regleras enligt
+regionfullmäktiges beslut (RS/250304). Ramen för ersättningarna slås fast av hälso- och
+sjukvårdsnämnden inom nämndens tilldelade budgetram för 2026.
+För att ge vårdcentralerna goda möjligheter att klara sitt basuppdrag samt aktivt bidra till en god och
+nära vård, samtidigt som arbetet med att effektivisera verksamheten fortsätter, föreslås ramen för
+ersättningarna öka med 64 miljoner kronor för 2026. Ökningen inkluderar justering för läkemedel,
+lönekostnader, samt del av prioriteringen till hälso- och sjukvård. Sammantaget innebär det en total
+ram för ersättning till vårdval vårdcentral 2026 på 1 241 miljoner kronor.
+I vårdval fysioterapi utgår ersättning per heltidsresurs kompletterat med en ersättning för SAL (service,
+administration och lokaler). Ersättningen per heltidsresurs inklusive SAL föreslås öka med 26 715
+kronor till 911 715 kronor 2026. Till skillnad från vårdval vårdcentral finns inte ett totalt belopp för hela
+vårdvalet beslutat. De föreslagna beloppen nedan innebär en kostnadsökning på cirka 3,3 miljoner
+kronor baserat på aktuellt antal utförare.
+15

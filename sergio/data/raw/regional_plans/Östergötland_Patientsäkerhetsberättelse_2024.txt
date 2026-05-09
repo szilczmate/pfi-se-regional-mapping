@@ -1,0 +1,1300 @@
+
+2/38
+Innehåll
+Sammanfattning ......................................................................................................................... 4
+GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ..................................................... 5
+Engagerad ledning och tydlig styrning ...................................................................................... 5
+Övergripande mål och strategier ............................................................................................ 5
+Organisation och ansvar ........................................................................................................ 5
+Samverkan mellan kommuner och region ............................................................................. 7
+Samverkan inom Regionens verksamheter ........................................................................... 7
+Informationssäkerhet ............................................................................................................. 8
+Strålsäkerhet .......................................................................................................................... 8
+En god säkerhetskultur .............................................................................................................. 9
+Arbetsmiljö och patientsäkerhet .......................................................................................... 10
+Adekvat kunskap och kompetens .............................................................................................. 11
+Patientsäkerhetskunskap ...................................................................................................... 11
+Patientsäkerhetsäker bemanning och schemaläggning ........................................................ 11
+Systemförståelse och kunskap om förbättrings- och implementeringsarbete ..................... 11
+Yrkeskunskap ........................................................................................................................ 12
+Patienten som medskapare ....................................................................................................... 12
+Levande bibliotek .................................................................................................................. 13
+Dokumenterad överenskommelse ........................................................................................ 13
+AGERA FÖR SÄKER VÅRD.......................................................................................................... 14
+Fallskador .............................................................................................................................. 14
+Trycksår ................................................................................................................................. 15
+Undernäring .......................................................................................................................... 16
+Vårdrelaterade infektioner inom slutenvård ........................................................................ 17
+Riskområden med särskilt fokus 2024 ................................................................................ 18
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+3/38
+Indikatorbaserad månadsuppföljning .................................................................................. 19
+Öka kunskap om inträffade vårdskador .................................................................................... 21
+Avvikelser .............................................................................................................................. 21
+Läkemedelsrelaterade avvikelser ......................................................................................... 22
+Omvårdnadsrelaterade avvikelser ....................................................................................... 22
+Vårdplatssituation, utlokaliseringar och överbeläggning .................................................... 23
+Journalgranskning ............................................................................................................... 25
+Lex Maria ............................................................................................................................. 26
+Patientförsäkringen LöF ...................................................................................................... 27
+Klagomål och synpunkter .................................................................................................... 28
+Tillförlitliga och säkra system och processer ............................................................................ 31
+Kunskapsstöd ........................................................................................................................ 31
+Processtöd omvårdnad ......................................................................................................... 32
+Vårddokumentation ............................................................................................................. 32
+Kunskapsspridning .............................................................................................................. 33
+Basala kläd- och hygienregler .............................................................................................. 33
+Medicinskteknisk säkerhet ................................................................................................... 33
+Säker vård här och nu .............................................................................................................. 34
+Stärka analys, lärande och utveckling ...................................................................................... 35
+Öka riskmedvetenhet och beredskap ....................................................................................... 36
+Riskfylld läkemedelshantering ............................................................................................. 37
+Färdighetsträning och simulering ........................................................................................ 37
+MÅL, STRATEGIER OCH UTMANINGAR FÖR KOMMANDE ÅR ................................................. 38
+Följande systemåtgärder behöver utvecklas under 2025: ................................................... 38
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+4/38
+Sammanfattning
+Patientsäkerhet handlar om att skydda patienter mot vårdskador. Med vårdskada avses lidande,
+kroppslig eller psykisk skada eller sjukdom samt dödsfall som hade kunnat undvikas om adekvata
+åtgärder hade vidtagits vid patientens kontakt med hälso- och sjukvården1. Vårdskador kan där-
+för inte anses acceptabla och arbetet med att minska vårdskador behöver fortsatt prioriteras på
+alla nivåer. Regional handlingsplan för ökad patientsäkerhet 2022-2025 har tagits fram som
+grund för detta arbete. Ett omfattande omställningsarbete har pågått under året mot bakgrund
+av det stora ekonomiska underskottet. Övergripande risk- och sårbarhetsanalyser har genomförts
+där bibehållen patientsäkerhet trots neddragningar har ställt stora krav på förändrat arbetssätt
+och prioriteringar i vården.
+Ledning och styrning av patientsäkerhet har tydliggjorts genom att lokal samverkansgrupp (LSG)
+har utökats med ökad representation från Regionledningen. Ledningsstruktur inom omvårdnads-
+områdets har beslutats och påbörjat sitt arbete. Samverkan för att förebygga vårdskador pågår på
+olika nivåer, från övergripande ledningsnivå(LGVO) med fokus på samverkan mellan huvudmän
+till samverkan mellan sjukhus och kliniker/vårdcentraler. Området har behov av ytterligare
+insatser med fokus på patientens bästa före verksamheternas organisatoriska avgränsningar.
+Vården blir säkrare när den utformas i samverkan med patient och närstående. Synpunkter och
+klagomål kan i högre grad tas tillvara i det systematiska kvalitets- och patientsäkerhetsarbetet.
+Kunskap inom patientsäkerhetsområdet är av stor vikt för att driva utveckling och förbättring på
+alla nivåer, från beslutsfattande till den patientnära vården. Området är under utveckling. Indika-
+torbaserad uppföljning har utvecklats i form av en uppföljningsportal med uppdatering varje
+månad. Region Östergötland har för få vårdplatser i förhållande till behovet vilket ökar risken för
+vårdskador. Framtagande av bemanningsnycklar, förändring av vårdavdelningars storlek och
+ökad samverkan med kommunal vård har genomförts för att nå robusthet på sikt. Utöver detta
+har tre fokusområden varit föremål för särskilda insatser under året; minska infartsrelaterade
+infektioner, ökad diagnostisk säkerhet samt införandet av skörhetsbedömning. Dessa kommer
+fortsätta även under 2025. Riskbedömningar inom omvårdnadsområdet har ökat vilket är posi-
+tivt men fortsatt ses en oförändrad andel patienter som drabbas av vårdskador. Anmälningar
+enligt lex Maria har dock varit i samma storleksordning som tidigare år. Sammantaget kan vi se
+en viss förbättring av patientsäkerheten jämfört med tidigare år.
+Områden för fortsatta insatser är:
+• Säkerhetskultur, vilket utgör grunden för fortsatt positiv utveckling mot en säkrare vård,
+• Kopplingen mellan arbetsmiljö och patientsäkerhet
+• Utveckling av samverkan med kommunal hälso- och sjukvård för att förhindra undvikbar
+sjukhusvård
+1 https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/
+patientsakerhetslag- 2010659_sfs-2010-659/
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+5/38
+GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD
+Engagerad ledning och tydlig styrning
+Förutsättningen avser högsta ledningens prioritering av patientsäkerhet
+vid beslutsfattande som rör hälso- och sjukvården. Ledningens tydlighet
+och engagemang för patientsäkerhet är avgörande för att upprätthålla och
+utveckla god och säker vård. Ledare på alla nivåer i Regionen kan bidra genom
+att aktivt efterfråga, utvärdera och följa upp åtgärder och indikatorer. Patientsäkerhetsfrågor är
+en stående punkt i hälso- och sjukvårdens ledningsgrupp. Chefläkarenheten avger regelbundet
+lägesrapport till Regionledningen hälso- och sjukvårdsgrupp och Regionstyrelse.
+Övergripande mål och strategier
+Övergripande mål
+• God och säker vård ska kunna erbjudas överallt och alltid
+• Ledning och styrning av patientsäkerhet ska vara tydlig på alla nivåer i organisationen
+• Antalet vårdskador ska minska
+Organisation och ansvar
+Regional handlingsplan för ökad patientsäkerhet 2022-2025 är fastställd av Regionstyrelsen och
+är hälso- och sjukvårdens gemensamma styrdokument för patientsäkerhetsområdet. Under 2024
+har handlingsplanen utvärderats och uppdaterats.
+Regionfullmäktige är högsta beslutande politiska organ i regionen.
+Regionstyrelsen är styrelse för alla Region Östergötlands verksamheter. Där samordnas alla
+nämnders verksamhet underlag tas fram som fullmäktige beslutar om.
+Hälso- och sjukvårdsnämnden beställer Region Östergötlands hälso- och sjukvård från vård-
+givare, regionägda eller privata, och fördelar de resurser som fullmäktige har beslutat om i bud-
+geten.
+Under den politiska ledningen finns en ledning med tjänstepersoner, som styrs av
+regiondirektören.
+Regionledningens Hälso- och sjukvårdsgrupp ansvarar för regionövergripande strategiska
+och principiella patientsäkerhetsfrågor på lång eller kort sikt.
+Hälso- och sjukvårdens ledningsgrupp ansvarar för taktisk och operativ samordning av
+patientsäkerhetsarbetet i hälso- och sjukvården.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+6/38
+Ledningsgrupp Verksamhetsstöd och service ansvarar för samordning av verksamhets-
+stöd inom patientsäkerhetsområdet till hälso- och sjukvårdens verksamheter.
+Chefläkarenheten består av chefläkare, chefsjuksköterskor och administratör. Enheten utgör
+ett team för det lokala och regionövergripande patientsäkerhetsarbetet med uppgift att bevaka
+och stödja patientsäkerheten. Enheten följer upp patientsäkerhet, driver utbildning samt leder
+samverkansgrupp(LSG) och nätverk för patientsäkerhet. Enheten bidrar med stöd i utredning av
+allvarlig vårdskada. Chefläkare ansvarar för lex Maria-anmälningar till Inspektionen för vård och
+omsorg (IVO).
+Lokal samverkansgrupp (LSG) patientsäkerhet samordnar patientsäkerhetsfrågor över-
+gripande och är sammansatt av representanter från chefläkarenhet, hälso- och sjukvårdens
+ledning, data och analysenhet samt utvecklingsenhet. Under 2024 har följande arbetsgrupper
+(LAG) varit aktiva;
+• Högriskläkemedel
+• Utbildning inom patientsäkerhetsområdet
+• Infartsrelaterade infektioner
+• Patientsäkerhetsindikatorer
+• Patientmedverkan
+• Identifiering och skattning av sköra patienter
+Det regionala patientsäkerhetsnätverket samlar funktionsansvariga inom hälso- och sjuk-
+vårdens produktionsenheter samt inom utvecklingsorganisationen. Uppdraget för nätverket är att
+sprida aktuell information, dela kunskap mellan olika enheter samt att förmedla riskområden och
+goda exempel.
+Smittskydd, Vårdhygien och STRAMA planerar, organiserar och leder länets arbete inom
+respektive område. Smittskydd regleras av smittskyddslagen och har som mål att motverka sprid-
+ning av smittsamma sjukdomar bland människor. Vårdhygien är en regional expertfunktion som
+verkar för att förebygga vårdrelaterade infektioner och risker för smittspridning i vården.
+STRAMA Östergötland arbetar tillsammans med hälso- och sjukvårdens verksamheter för att
+bevara antibiotika som effektivt läkemedel och minska risken för resistensutveckling.
+Kliniskt träningscentrum, Clinicum, är regionens enhet för färdighetsträning och simuler-
+ingsövningar. Clinicum bistår i utvecklande av lokala, nationella samt internationella kurser.
+Clinicum övervakar den tekniska utvecklingen av simuleringsutrustningar och studerar de peda-
+gogiska resultaten av simuleringen
+Patientnämndens är en lagstadgad fristående och opartisk instans. Patientnämnden utreder
+inte klagomålen utan fungerar som stöd och hjälp för patienter eller närstående och kan vid be-
+hov agera länk till berörd verksamhet.
+Produktionsenhetschef ansvarar övergripande för verksamheterna inom sitt centrum, dess
+utveckling, medarbetare och ekonomi.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+7/38
+Verksamhetschef ansvarar för det systematiskt patientsäkerhetsarbetets alla delar inom sin
+verksamhet.
+Samverkan mellan kommuner och region
+Ledningsgrupp vård och omsorg (LGVO) utgör den gemensamma tjänstemannaledningen för
+samverkan mellan Regionen och länets 13 kommuner. Uppdraget är att leda och styra läns-
+övergripande utvecklingsarbeten och aktiviteter samt säkerställa gemensam kunskapsstyrning
+och kunskapsutveckling. Samarbetet i LGVO syftar till att ge invånarna i Östergötland samman-
+hållen vård och omsorg med hög tillgänglighet, kvalitet och delaktighet.
+LGVO har under 2024 genomfört en förstudie för att utreda hur en samverkansmodell mellan
+Region Östergötland och kommunerna skulle kunna stärka det gemensamma arbetet kring barn
+och unga. Förstudien kommer att presenteras under inledningen av 2025 och därefter tar LGVO
+ställning till gemensam samverkansmodell.
+Vårdens övergångar är ett riskområde. Under 2024 har fokus varit att utveckla arbetet med
+Samordnad vård och omsorgsplanering (SVOP) och att arbeta för en sammanhållen journalför-
+ing. LGVO har beslutat att Cosmic Messenger till att börja med ska användas som kommunika-
+tionssystem mellan primärvården, närsjukvården och psykiatrin och ett breddinförande har
+startat som beräknas vara klart till halvårsskiftet 2025.
+Överenskommelsen mellan Region Östergötland och kommunerna i Östergötland om samverkan
+för trygg, säker och effektiv utskrivning från sluten hälso- och sjukvård har sagts upp och ett
+arbete har inletts för att förbättra in- och utskrivningsprocessen samt öppenvårdsprocessen för
+att säkerställa patientsäkerheten i vårdens övergångar. Regionens akutsjukhus har etablerade
+kommunikationsforum för löpande avstämningar med företrädare för kommunal vård- och om-
+sorg i länets alla kommuner. Syftet är att dela aktuell situation samt att lösa eventuella problem
+som uppstått i gemensamma flöden och att underlätta utskrivningsprocessen.
+LGVO har också beslutat om en Gemensam plan för primärvård. Nästa steg blir att under 2025
+ta fram lokala handlingsplaner mellan Region Östergötland och länets tretton kommuner utifrån
+denna plan.
+Samverkan inom Regionens verksamheter
+Behovet av samverkan för att förebygga vårdskador är stort och behöver ständigt utvecklas, inte
+minst med tanke på regionens brist på vårdplatser. Övergripande samverkansarbete finns et-
+ablerade för att utöka av antalet vårdplatser, öka operationskapacitet samt att utveckla en säk-
+rare utskrivningsprocess. Flertalet centrum beskriver behov av fortsatt utvecklad samverkan på
+alla nivåer.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+8/38
+Informationssäkerhet
+Region Östergötlands säkerhetspolicy har beslutats av regiondirektören och ligger till grund för
+det ledningssystem som styr informationssäkerhetsarbetet. IT-direktören har beslutat om flera
+riktlinjer för Region Östergötlands ledningssystem för informationssäkerhet (LIS). Region
+Östergötlands informationssäkerhetsarbete har sin utgångspunkt i den internationellt etablerade
+standarden ISO/IEC 27001. Region Östergötland genomför löpande informationsklassningar
+med hjälp av sitt egenutvecklade systemstöd samt bistår som metodstöd gällande riskanalyser åt
+regionens verksamheter.
+Detta är några större insatser som har genomförts under 2024:
+• Riskanalys och konsekvensbedömning har genomförts för första delen av Microsoft 365
+införandet
+• Information och kortare utbildningsinsatser till regionens ITR (IT-resurser som finns
+representerade i regionens alla verksamheter)
+• Ett informationsmaterial har utformats gällande informations- och cybersäkerhet för att
+underlätta för medarbetare att arbeta säkert i sin vardag.
+• Med anledning av kommande cybersäkerhetslag har Region Östergötland under året gen-
+omfört en GAP-analys mot kommande krav. Resultatet kommer att sammanfattas i en
+rapport i början av 2025.
+• Riktlinjer för användning av AI-tjänster har tagits fram.
+• Riktlinje och process för godkännande av molntjänster har tagits fram.
+Strålsäkerhet
+Region Östergötland bedriver ett systematiskt arbete för att trygga strålsäkerheten för patienter
+som genomgår diagnostik eller terapi med joniserande strålning samt för personal i sådant
+arbete. Nyttan med strålning ska alltid överstiga risken.
+Strålsäkerhetsinformation för ledning, medarbetare och externa vårdgivare nås via webben2.
+Antalet anmälda avvikelser 2024 ökade jämfört med föregående år. Troligtvis beror ökningen på
+informationsinsatser gällande nyttan med att rapportera avvikelser. Det är framför allt inom
+röntgenverksamhet som ökningen har skett.
+2 https://vardgivare.regionostergotland.se/vgw/kunskapsstod/medicinsk-diagnostik/bild--och-
+funktionsmedicin/stralsakerhet
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+9/38
+Två ärenden har anmälts till myndighet (Strålsäkerhetsmyndigheten och Läkemedelsverket).
+Uppföljning av strålsäkerhetsarbetet görs genom RH-check och strålsäkerhetsrond som är kli-
+nikens internrevision och följer en särskild checklista. Riktade stödinsatser ges av enheten vid
+behov.
+Strålsäkerhetsmyndigheten har genomfört två inspektioner. Den ena har haft fokus på strålsäk-
+erhet och resulterade i sju förelägganden. Efter genomförd orsaksanalys och åtgärdsförslag av-
+slutades ärendet i slutet av året. Den andra inspektionen avsåg strålbehandlingsverksamhet, vil-
+ken resulterade i fyra förelägganden. Framtagande av åtgärdsförslag pågår och beräknas vara
+färdigställda under första kvartalet 2025. Vårdgivaren Region Östergötland ska enligt lagkrav
+tillhandahålla riktlinjer och beslutsstöd till remittenter inför beslut om undersökningar med joni-
+serande strålning. Dispens under 2025 har beviljats. Arbete med att ta fram digital programvara
+pågår inom sjukvårdsregionen.
+För att öka stödet till verksamheterna genomförs utbildningen ”Att leda i strålsäkerhet” på led-
+ningsnivå. Medicinsk strålningsfysik är tillgänglig för specifika utbildningar inom alla verksam-
+heter, optimeringsarbete och riktade strålsäkerhetmätningar för personal (finger- och ögon
+dosimetri). Region Östergötlands strålsäkerhetsida på vårdgivarwebben uppdateras löpande.
+En god säkerhetskultur
+Denna förutsättning avser organisationskulturens betydelse för att främja
+patientsäkerhet. Chefer och ledare har en avgörande roll för att skapa för-
+utsättningar för en god säkerhetskultur. Varje medarbetare har dock ett eget
+ansvar att bidra till en god patientsäkerhet. De värderingar, antaganden och
+beteenden som delas av människor i organisationen påverkar hur vi ser på frågeställningar som
+är av vikt för att utveckla och upprätthålla patientsäkerheten.
+Under 2024 har ingen mätning av hållbart-säkerhets-engagemang (HSE) genomförts. Det är
+dock angeläget att denna form av analys kring patientsäkerhetsarbetet inom regionen och på en-
+skild klinik fortsätter framöver.
+Enskilda kliniker arbetar aktivt för att förbättra säkerhetskulturen genom exempelvis avstäm-
+ningsmöten med verktyget Gröna korset, Morbidity & Mortality möten med fokus på lärande och
+psykologisk trygghet.
+Vid självskattning inom centrum gällande säkerhetskultur rapporterar de flesta C eller D-nivå.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+10/38
+Figur 1 Säkerhetskulturtrappan från A-E3
+Chefläkarenheten anordnar en årlig regionövergripande patientsäkerhetsdag även detta år med
+målet att lära av varandra och belysa goda exempel.
+Arbetsmiljö och patientsäkerhet
+En god patientsäkerhet utvecklas bäst i organisationer med en bra arbetsmiljö, psykologisk trygg-
+het och en god säkerhetskultur. 2024 präglades av den regionövergripande omställningen med en
+minskning av antalet medarbetare och en förändrad arbetsorganisation. Osäkerheten i anslutning
+till denna organisationsförändring har påverkat stressnivåer, arbetsbelastning och den övergrip-
+ande arbetsmiljön. Bristande tillgänglighet i form av vårdplatstillgång, mottagningsresurs och
+operationsresurs har även under 2024 påverkat möjligheten att utföra arbetet på ett säkert sätt,
+som återkommande rapporteras i avvikelsesystemet.
+Ett arbete på regionövergripande nivå är påbörjat för att stärka kopplingen mellan en bra arbets-
+miljö och en god patientsäkerhetskultur.
+3 https://slideplayer.se/slide/14697575/
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+11/38
+Adekvat kunskap och kompetens
+Patientsäkerhetskunskap
+Tillräckligt med personal som har adekvat kompetens och goda förutsättning-
+ar för att utföra sitt arbete är en grundläggande förutsättning för säker vård.
+En lokal arbetsgrupp (LAG) för utbildning har tagit fram en modell för patient-
+säkerhetsutbildning anpassad till olika målgrupper. Denna kommer att kompletteras
+och anpassas utifrån Socialstyrelsens kunskapsmål4.
+Inom centrum beskrivs avvikelsesamordnare ha en viktig roll som bärare av kunskap inom
+patientsäkerhetområdet. Grundläggande introduktion ges vid nyanställning. Under 2024 har
+vissa utbildningsinsatser fått stå tillbaka med hänsyn till rådande omställning. Behoven av att
+arbeta mer proaktivt med säkerhetsarbete är stora men bedöms svåra att uppnå i en redan
+pressad vardag.
+Patientsäkerhetsäker bemanning och schemaläggning
+Betydande resurser avsätts för att hantera schemaläggning och bemanning och lösningar av
+korttidsfrånvaro så att patientsäker bemanning kan upprätthållas. Utmaningar finns gällande
+kunskap och kompetens för att vårda utlokaliserade patienter. Bemanningsnycklar finns
+framtagna och vårdlagsstorlek har definierats inom somatisk slutenvård. Flertalet centrum
+rapporterar utmaningar inom området.
+Systemförståelse och kunskap om förbättrings- och implementeringsarbete
+En kompetensmodell har antagits med syftet att anpassa rätt mängd kunskap till rätt roll och
+funktion. Det ger organisationen möjlighet att dimensionera vilka utbildningsinsatser som gen-
+omförs. Modellen innehåller fyra nivåer och finns beskriven utifrån flera kunskapsområden;
+förbättringskunskap, projektkunskap, innovationskunskap och patientsäkerhet. Under 2024 har
+modellen kompletterats och flertalet utbildningar har tagits fram. På grundnivå finns e-utbild-
+ning och i ledarprogram ges ingår området. Fortsatt planeras längre lärarledd utbildning för
+medarbetare som driver och leder utveckling.
+4 https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2024-6-
+9131.pdf
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+12/38
+Yrkeskunskap
+Kompetenshöjande aktiviteter som introduktionsår och introduktionsutbildning för nya medar-
+betare har införts i vissa verksamheter.
+Uppdraget för Clinicum är att öka handlingsberedskap för såväl den enskilde medarbetaren som
+för team i det dagliga sjukvårdsarbetet.
+Grunden är träning i simulerad miljö med pedagogiskt koncept, där praktiska och teoretiska
+moment varvas för bästa möjliga kliniska utfall. Målet är att stärka kopplingen mellan kunskap,
+arbetsmiljö och patientsäkerhet.
+Rörlighet inom vissa kompetensområden är stor vilket ställer krav på kompetensstyrd schema-
+läggning, mentorskap mm. Omställningsarbetet har inneburit kompetens- och erfarenhetstapp i
+många verksamheter då en del medarbetare har behövt byta arbetsplats.
+Under året har antalet sjuksköterskor ökat med drygt 100. Inom vissa specialistområden råder
+fortsatt stor brist inom legitimationsyrken.
+Patienten som medskapare
+Vården i Region Östergötland ska så långt som möjligt utformas och genom-
+föras i samråd med patienten. Att patienten bemöts med respekt och kan lita
+på att vård ges på lika villkor skapar tillit och förtroende. Aspekter som tillgäng-
+lighet, samordning och kontinuitet är centrala. Vården blir säkrare om patienten är välinformer-
+ad, deltar aktivt i sin vård och kan påverka den utifrån sina önskemål och förutsättningar. Även
+närstående har en central roll i de fall patienten vill det.
+Ökad patientdelaktighet är nära förknippat med begreppet personcentrerad vård som innebär att
+vårdaren sätter patienten som vårdas i centrum och att patienten bemöts som en person med
+unika behov där personens vilja och förmågor ska vara en del av vården5. Under året har en pati-
+entrepresentant utsetts för deltagande i LSG patientsäkerhet för att tydliggöra och konkretisera
+patientens perspektiv i regionens övergripande patientsäkerhetsarbete. Regionen erbjuder utbild-
+ning för patientrepresentanter med koppling till deltagande i forskningsverksamhet. Detta sker i
+samverkan med LiU och Funktionsrätt Östergötland. Under året har ett 20-tal deltagare genom-
+fört utbildningen och merparten är nu aktiva i olika forskningsprojekt.
+5 https://www.vardhandboken.se/arbetssatt-och-ansvar/bemotande-i-vard-och-omsorg/bemotande-i-
+vard-och-omsorg-vardegrund/personcentrerad-vard/
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+13/38
+Informationsmaterialet ”Din säkerhet på sjukhus” är, i samverkan med patientrepresentanter och
+verksamhet, under pågående uppdatering. Material kommer att tas fram som stöd vid dialog och
+för att öka säkerheten för patienten som slutenvårdas.
+Levande bibliotek
+Regionen har som målsättning att involvera patienter, närstående och invånare i allt utvecklings-
+arbete. Som stöd för detta finns Levande bibliotek som förmedlar personer med egen erfarenhet
+av hälso- och sjukvård till verksamheter. Flera regionövergripande processer har involverat
+personer med egen erfarenhet.
+Dokumenterad överenskommelse
+Syftet med dokumenterad överenskommelse (tidigare kallat patientkontrakt) är att patienten och
+vårdgivaren tillsammans planerar och tar beslut om personens hälsa och vård. Det främjar per-
+soncentrerat arbete, samordning och kontinuitet i vården. Innehållet i överenskommelsen ska
+spegla patientens syn på sina egna behov och erfarenheter. Patientens kunskap om sin hälsa och
+vård ska mötas och tas tillvara i vården. En tydlig plan för vården ska finnas där det framgår vad
+som ska ske och när samt vem patienten kan vända sig till. En folder med innehåll riktad till in-
+vånare, patient, brukare och närstående finns framtagen6. Syftet är att säkerställa att både hälso-
+och sjukvården och invånaren har samma bild av vad dokumenterad överenskommelse innebär.
+Arbetet fortsätter med spridning av materialet.
+Inom centrum beskrivs exempel på områden för att stärka personcentrering. En utmaning är
+dock att hitta balans mellan personcentrerad vård och effektiva flöden.
+• Ungt råd på barnkliniken
+• Bedsiderond
+• Personliga vårdplaner
+• Patientrepresentant i ledningsgrupp
+Behovet av utbildning och utveckling inom detta område är stort. Löpande sammanställning och
+analys av patienters och närståendes synpunkter och klagomål behöver genomföras för ökat lär-
+ande och som underlag för förbättring.
+6
+https://vardgivare.regionostergotland.se/download/18.6884666618ee4faa3ad693c/1715087834575/Folde
+r%20D%C3%96K%20240410.pdf
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+14/38
+AGERA FÖR SÄKER VÅRD
+Patientsäkerhetslagen7(2010:659), PSL, syftar till att främja en hög patientsäkerhet inom hälso-
+och sjukvården. Vårdgivaren ska vidta de åtgärder som krävs för att förhindra att liknande hän-
+delser uppstår. Regionen har som mål att öka identifiering, analys så att adekvata åtgärder kan
+vidtas.
+Nedan följer en beskrivning av områden som följs upp och analyseras månadsvis så att adekvata
+åtgärder kan vidtas.
+Fallskador
+Figur 2 Rapporterade fallskador
+Identifiering: Antal rapporterade fallhändelser (Synergi)
+Analys: Under året har cirka 700 patienter fallit under tiden de var inneliggande på vårdav-
+delning, det är i stort sett oförändrat jämfört med tidigare år.
+Av de som faller skadades drygt 200 patienter allvarligt. Samtliga får dock behov av en längre
+vårdtid eftersom de behöver undersökas, röntgas, plåstras om med mera. Detta ökar belastningen
+ytterligare på vårdavdelningen. Orsaker som påtalas i utredningar är brister i kontroll/över-
+vakning, avsaknad av tekniska hjälpmedel och bristande riskbedömningar.
+7 https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-
+forfattningssamling/patientsakerhetslag-2010659_sfs-2010-659/
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+15/38
+Åtgärder: Riktlinjer och rutiner har tagits fram (bedömningsinstrument, dokumentation, upp-
+handlade produkter). Utbildnings- och APT material finns tillgängligt på intranätet. Verksam-
+heterna tillämpar olika metoder för att förhindra fallskador. Exempel på åtgärder är visuell märk-
+ning med gröna armband, larmmattor och bedömningsinstrument för att identifiera riskutsatta
+patienter och sätta in lämpliga åtgärder.
+Uppföljning av åtgärder: Mätning av rapporterade fallhändelser (Synergi) samt andel genom-
+förda fallriskbedömningar i månadsuppföljning.
+Trycksår
+Figur 3 Rapporterade trycksår
+Identifiering: Antal rapporterade avvikelser(Synergi) som avser trycksår
+Analys: Andelen rapporterade trycksår ligger på samma nivå som tidigare år. Trycksår orsakar
+ett stort fysiskt, känslomässigt och socialt lidande för den som drabbas. Trycksår som uppstår
+under vårdtiden är undvikbart i de flesta fall och leder till förlängd vårdtid vilket direkt påverkar
+vårdplatsläget. Riskbedömningar vid inskrivning på vårdavdelning är en förutsättning för att
+vidta förebyggande insatser. En försiktig ökning ses av antalet riskbedömningar vilket är positivt.
+Åtgärder: Riktlinjer och rutiner har tagits fram (bedömningsinstrument, dokumentation, upp-
+handlade produkter). Utbildnings- och APT material finns tillgängligt på intranätet. Regelbunden
+utbildning och mätningar genomförs inom de flesta verksamheter. Riskbedömningar vid inlägg-
+ningar utförs, även om dessa inte alltid dokumenteras, vilket är en känd utmaning som klinikerna
+aktivt arbetar med att förbättra.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+16/38
+Arbetet med att förebygga trycksår inkluderar användning av förebyggande hjälpmedel och
+regelbundna lägesändringar vilket pågår kontinuerligt som en del av det systematiska
+kvalitetsarbetet
+Uppföljning av åtgärder: Mätning av rapporterade trycksår (Synergi) samt andel genomförda
+fallriskbedömningar i månadsuppföljning
+Undernäring
+Figur 4 Rapporterad undernäring
+Identifiering: Antal rapporterade avvikelser som avser undernäring/nutrition
+Analys: Patienterna med rapporterad undernäring var knappt 3 procent per 1000 slutenvårds-
+tillfällen. Målet är att det ska minska. Ingen tydlig trend har kunnat visas under året.
+Åtgärder: Mat- och näringsbehandling ska ingå som en del av den medicinska behandlingen och
+bör uppmärksammas både före, under och efter sjukhusvistelsen. Ett gott näringstillstånd är nöd-
+vändigt för att förebygga sjukdom och för att medicinsk behandling ska få bästa möjliga effekt.
+Regional kommitté för nutrition behöver stödja vårdens verksamheter gällande följsamhet till
+kunskapsstöd inom området. På kliniker med inneliggande patienter ingår bedömning av nutri-
+tionsstatus och relaterade frågor som en del av rondmallen.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+17/38
+Riskbedömningar genomförs för varje patient, och vid behov vidtas adekvata åtgärder. Dagliga
+avstämningar sker dessutom inom ramen för arbetet med Gröna Korset. Samverkan kring
+dietister beskrivs som ett uttalat förbättringsarbete och som behöver bevakas i varselprocessen.
+Uppföljning av åtgärder: Mätning av rapporterad undernäring (Synergi)
+Vårdrelaterade infektioner inom slutenvård
+Figur 5 Förekomst av vårdrelaterade infektioner i slutenvård
+Identifiering: Rapporterad VRI i infektionsverktyget
+Analys: Totalt sett var andelen slutenvårdstillfällen med VRI under året i stort sett oförändrat
+jämfört med 2023. För följande vårdrelaterade infektioner minskade andelen:
+lunginflammationer, djupa postoperativa infektioner, vårdrelaterad sepsis okänt fokus, clostri-
+dium difficile, ytlig postoperativ infektion och kärlkateterinfektioner
+För följande vårdrelaterade infektioner ökade andelen: urinvägsinfektioner med feber, urinvägs-
+infektioner utan feber, neutropen feber och annan vårdrelaterad infektion (när inte rätt typ av
+VRI finns att välja på).
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+18/38
+Åtgärder: Analys och åtgärd är viktigast att göra inom varje verksamhet och att det finns stöd-
+funktioner och processer att förebygga VRI i varje vårdkontakt som tas. På de flesta kliniker finns
+ett aktivt STRAMA-team som arbetar kontinuerligt med att främja en rationell antibiotika-
+användning och förebygga vårdrelaterade infektioner. Följsamhet till hygienregler, dagliga in-
+spektioner av infarter, KAD och sonder är viktiga i det VRI förebyggande arbetet.
+Uppföljning av åtgärder: Fortsatt följa utfall i VRI databas
+Riskområden med särskilt fokus 2024
+Tre fokusområden med särskilda behov av insatser har pågått under året
+Minska infartsrelaterade infektioner
+Arbetet med att minska infartsrelaterade infektioner påbörjades redan 2023 och har fortsatt
+under 2024. Regionens verksamheter har arbetat med att uppdatera prehospital rutin. Detta är
+ett arbete som Vårdhygien genomfört tillsammans leverantörerna av ambulansvården.
+Tidigt i arbetet identifierades svårigheter att följa satta infarter i journalen och ett parallellt arbete
+pågår med att införa en ny dokumentationsöversikt. Lokala rutiner kommer sedan att ersättas av
+Vårdhanboken. För att underlätta färdighetsträning kring perifera infarter finns sedan tidigare
+utbildning på Clinicum, denna utbildning kommer nu också inom kort att finnas som en e-utbild-
+ning.
+Utbildning Diagnostisk säkerhet
+Ett stort antal vårdcentraler har tagit del av lärarledd utbildning inom området diagnostisk säker-
+het. Arbetet kommer att fortlöpa även under 2025. Vårdverksamheter har kommit olika långt och
+centrala stödfunktioner har haft utmaningar i att ta fram verktyg, metoder, rutiner och utbild-
+ningsmaterial.
+Införa skörhetsskattning enligt CFS
+Skörhet (frailty) är ett kliniskt syndrom med sviktande fysiologiska reserver och ökad sårbarhet
+för påfrestningar. Clinical Frailty Scale (CFS) är ett av de vanligaste skattningsinstrumenten för
+skörhet och en markör för biologisk ålder. Skalan bygger på klinisk bedömning av samsjuklighet,
+ADL och kognitiv förmåga. Skalan kan användas som stöd för individuell plan, exempelvis för att
+undvika utlokalisering vid vårdplatsbrist. CFS kan även bidra till att individer med hög kronolo-
+gisk ålder inte slentrianmässigt ges låg prioritet beträffande olika interventioner. Metoden finns
+sedan länge implementerad inom vissa verksamheter men behöver breddinföras i syfte att skydda
+de allra sköraste patienterna. En arbetsgrupp har tagit fram en regional riktlinje, e-utbildning och
+informationsmaterial för att stödja implementeringen i verksamheterna.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+19/38
+Indikatorbaserad månadsuppföljning
+Månadsöversikt med indikatorer inom respektive fokusområde i handlingsplanen har införts
+under årets senare del. Indikatorer kan följas upp på olika nivåer i organisationen. I månads-
+uppföljningen tas data ut från patientjournalen gällande genomförda riskbedömningar för
+fallrisk, trycksår, munhälsa och nutrition. Efter införandet har andelen riskbedömningar ökat
+inom alla områden. Detta är början på ett arbetssätt där vårdens säkerhet enkelt kan visualiseras
+och bidra till insatser för förbättring. I tabellen nedan syns indikatorerna med utfall för december
+2024 jämfört med samma månad föregående år.
+Indikator Mått Källa Mål Resultat
+(jmf med 2023)
+Återinläggningar Patienter 65+ där återinläggning Cosmic Minska 14,1 %
+skett inom 30 dagar av alla
+oplanerade avslutade vårdtillfällen
+Ökat med 0,2%
+VRI Vårdtillfällen med vårdrelaterade Infektionsverktyget Minska 5,3 %
+infektioner somatisk slutenvård
+Samma utfall som
+från registrering i
+2023
+infektionsverktyget
+Riskbedömning Patienter 65+ med vårdtillfällen Bedömningsmall Öka Positiv trend,
+och fallriskbedömning Cosmic ökning ses
+Patienter 65+ med vårdtillfällen Bedömningsmall Öka Positiv trend,
+och trycksårsbedömning Cosmic ökning ses
+Patienter 65+ med vårdtillfällen Bedömningsmall Öka Positiv trend,
+munhälsobedömning Cosmic ökning ses
+Patienter 65+ med vårdtillfällen Bedömningsmall Öka Positiv trend,
+nutritionsbedömning Cosmic ökning ses
+Bedömning CFS CFS bedömning akutmottagning Cosmic Öka Positiv trend, men
+innan inläggning slutenvård stora lokala
+variationer
+NEWS2 Vårdtillfällen där NEWS2 har Cosmic Öka Ligger stabilt på
+utförts samt om det utförts 24 tim samma nivåer över
+innan utskrivning året
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+20/38
+Indikator Mått Källa Mål Resultat
+(jmf med 2023)
+Lex Maria Utredningstid antal dagar i genom- Chefläkarenheten Minska 83 dagar
+snitt från inkommet ärende till
+anmälan
+Antal ärenden med Chefläkarenheten Minska 21 %
+kompletteringsbegäran
+Antal ärenden med minst en Chefläkarenheten Öka 73 %
+effektiv åtgärd i handlingsplan
+Primärvårdskvalitet Andel äldre i befolkningen med PrimärvårdsKvalitet, Minska Positiv trend, men
+äldre minst ett läkemedel som bör SKR stora lokala
+undvikas variationer
+Andel patienter 75+ som har PrimärvårdsKvalitet, Öka Ligger stabilt på
+uppmätt njurfunktion av dem som SKR samma nivåer över
+behandlas med läkemedel som året
+påverkar njurfunktion
+Andel patienter som behandlas PrimärvårdsKvalitet, Minska Ligger stabilt på
+med oxazepam av alla personer SKR samma nivåer över
+75+ som har lugnande läkemedel året
+Observationsstudier Översikt över korrekta Observation- eller 95 % Hygien 84 %
+BHK hygienrutiner och klädregler självskattning
+Kläd 93,7%
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+21/38
+Öka kunskap om inträffade vårdskador
+För att få en bred bild, bevaka och skapa lärande krävs olika metoder för att
+identifiera risker och skador som uppstår i vården. Att kontinuerligt rapport-
+era och hantera uppkomna avvikelser är en grundläggande funktion i verk-
+samheternas systematiska patientsäkerhetsarbete.
+Avvikelsearbetet på klinik/enhetsnivå är teambaserat. Vid allvarliga händelser eller risker in-
+volveras chefläkare. Genom att identifiera, utreda och mäta skador och vårdskador ökar kun-
+skapen om vad som drabbar patienterna när resultatet av vården inte blivit det som avsetts.
+Kunskapen om orsaker och konsekvenser skapar underlag för åtgärder och prioritering av
+insatser. Att lära av inträffade vårdskador är centralt i det systematiska patientsäkerhetsarbetet.
+Hälso- och sjukvården behöver ha kännedom om var vårdskadorna inträffar och var de stora
+riskerna finns för att stärka det förebyggande arbetet. Avvikelser som inträffar ska rapporteras i
+avvikelsesystemet Synergi. Synpunkter och klagomål från patienter och närstående kommer till
+verksamheterna via 1177 till Synergi, via IVO, eller via Patientnämnden. Benägenhet att rapport-
+era oönskade händelser är nära förknippat till verksamhetens säkerhetskultur.
+De områden där vårdskador riskerar att uppstå, och som centrum rapporterar, är relaterade till
+utlokaliserade patienter, brister i tillgänglighet och vårdplatser samt brister i kompetens inom
+vissa områden. Även samverkan i vårdens övergångar beskrivs som ett stort riskområde. Exempel
+på förebyggande åtgärder är arbete med produktionsstyrning, medicinska prioriteringar samt
+insatser kring utskrivningsprocessen (SVOP).
+Avvikelser
+Nedanstående tabeller visar det totala antalet rapporterade avvikelser inom kategorin patient-
+säkerhet och bedömd allvarlighetsgrad.
+Allvarlighetsgrad 2023 2024
+Mycket allvarlig 2188 2222
+Allvarlig 8186 8077
+Mindre allvarlig 9023 7865
+Summa 19397 18164
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+22/38
+Det totala antalet rapporterade avvikelser minskade jämfört med förra året. Minskningen ses
+framför allt i antalet som bedömdes som mindre allvarliga.
+I tabellen nedan visas exempel på avvikelser per arbetsprocess där patient varit involverad
+jämfört med föregående år. Möjligheterna till ett exakt datauttag ur systemet är begränsade.
+Urvalet är relaterat till kända risk- och vårdskadeområden.
+Arbetsprocess 2023 2024
+Läkemedelsrelaterade 606 590
+avvikelser
+Omvårdnadsrelaterade 206 192
+avvikelser
+Vårdplatssituation 84 87
+Summa 896 869
+Läkemedelsrelaterade avvikelser
+Läkemedel och alla moment som rör läkemedelshantering i vården är förenade med risker.
+Rapporterade avvikelser där patienter varit involverade ligger på samma nivå som föregående år.
+Delområden med flest rapporterade händelser är ordination följt av administration och
+iordningställande av läkemedel.
+Ett fåtal av dessa avvikelser anmäldes enligt lex Maria.
+Omvårdnadsrelaterade avvikelser
+Här återfinns alla de undvikbara händelser som inträffat närmast patienten, oftast under pågå-
+ende slutenvård. Framförallt gäller det fallskador, trycksår och brister i personlig omvårdnad.
+Punktprevalensmätning av omvårdnadskvalitet genomförs inom slutenvård två gånger per.
+Områden som ingår i mätningen är trycksår, fall, undernäring, ohälsa i munnen, förekomst av
+venösa infarter och urinkateter samt risk för urinretention och bedömning av adekvat smärt-
+lindring. Syftet med mätningen är att påvisa förbättringsområden inom omvårdnad. Mätningarna
+visar på förbättringspotential när det gäller borttagande av venösa infarter och KAD som inte är
+nödvändiga samt inom fallprevention. Samordnade insatser inom omvårdnadsområdet är ange-
+lägna och behöver förstärkas.
+Enheten för Hälsa och Vårdutveckling bidrar med stöd i kvalitets-och förbättringsarbete genom
+framtagande av kunskapsstöd, stöd gällande omvårdnadsrutiner samt med utbildningsinsatser.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+23/38
+Vårdplatssituation, utlokaliseringar och överbeläggning
+Inspektionen för vård och omsorg (IVO) fortsatte under året sin tillsyn med särskilt fokus på
+vårdplatser och bemanning i Region Östergötland. Regionen delar IVO:s bedömning att det finns
+en fortsatt kapacitetsbrist inom somatisk slutenvård och att de insatser som vidtagits inte har gett
+fullt avsedd effekt. Allvarliga händelser relaterade till överbeläggningar, utlokalisering och ute-
+bliven slutenvård rapporterades i hög omfattning även under 2024. Beläggningsgraden har även
+under året legat övergripande på en nivå över 100 procent.
+Ett antal insatser har initierats för att utöka antalet disponibla vårdplatser, såsom införande av
+bemanningsnycklar samt robusta enheter. Regionen har fattat beslut om att under första halvåret
+2025 utöka det totala antalet vårdplatser med 70.
+Regionen vill på så sätt nå Socialstyrelsens rekommendation för Östergötland i myndighetens
+utredning Plats för vård och nå en beläggningsgrad på cirka 90 procent.
+Ur ett patientsäkerhetsperspektiv är detta ytterst angeläget för att reducera risken för allvarliga
+undvikbara skador i samband med vård på fel plats (utlokalisering), överbeläggningar och vid
+utebliven slutenvård.
+Utöver tillskapande av nya vårdplatser har ett antal insatser genomförts för att öka patientsäker-
+heten i nuvarande situation. Exempel på insatser är rutiner för utlokaliserad vård och beslut om
+införande av skörhetskattning via Clinical Frailty Scale för identifiering av de sköraste patienterna
+som bör skyddas mot utlokalisering.
+Chefläkarenheten tar veckovis del av rapporterade avvikelser relaterade till aktuell vårdplats-
+situation. Vanligt förekommande vårdskador som direkt påverkar (och påverkas av) vårdplats-
+läget är fallskador, trycksår, läkemedelsrelaterade skador och vårdrelaterade infektioner.
+Vårdplatssituationen är ett högt prioriterat förbättringsområde som även framöver kommer att
+kräva bevakning, analys och flera insatser.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+24/38
+25
+22,6
+20
+15
+13,1
+10
+9,3
+7,4 7
+5 6 5 ,3 5,3 5,8 5,1 5,9 5,8 5,5 4,9 5,2 4,9 4,7
+1,8 2,8 1,4 2,8 2,2 1,6
+0 0,7
+2024 Östergötland 2024 Riket
+Figur 6 Antal överbeläggningar per 100 disponibla vårdplatser jämfört med riksgenomsnittet
+Antalet utlokaliserade patienter har minskat jämfört med föregående år. Ett flertal insatser har
+genomförts för att reducera andelen utlokalisering.
+På Universitetssjukhuset i Linköping är separerade medicinska och kirurgiska patientflöden in-
+förda. Det är dock tydligt att man i belastade perioder tvingas frångå denna rutin. Vidare har in-
+förandet av Clinical Frailty Scale påbörjats, med målet att skydda de sköraste patienterna från att
+vårdas på annan plats än den avdelning som har det medicinska ansvaret.
+9
+8,5
+8
+7 6,9
+6
+5
+4
+3,5 3,5
+3 3,2
+2,6 2,6 2,7
+2 1 1,9 1 1 , , 6 3 2 1, , 4 1 1,5 1,8 2 2 1, , 7 2 1,4 2 1, , 3 3 1,6 1,7
+0,5
+0
+2024 Östergötland 2024 Riket
+Figur 7 Antal utlokaliserade patienter per 100 disponibla vårdplatser jämfört med riksgenomsnittet
+Andelen oplanerade återinläggningar ligger på en relativt stabil nivå sett över tid. Varje oplanerad
+återinläggning ökar risken för vårdskada, och därför behövs åtgärder vidtas för att minska dessa.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+25/38
+Figur 8 Oplanerade återinläggningar inom 30 dagar för patienter 65+
+Journalgranskning
+Journalgranskning av vårdtillfällen inom specifika verksamheter och under avgränsade perioder
+där det kan finnas ökade patientsäkerhetsrisker har genomförts. Ett sådant område är dödsfall
+inom och efter slutenvård under sommarmånaderna när sjukvårdssystemets sårbarhet ökar
+relaterat till semesterperioder. Resultatet överensstämde i stort sett med tidigare års granskning.
+Det framkom ingen ökning av vårdskador eller utebliven slutenvård som kunde kopplas till
+sommarmånadernas kapacitetsbegränsningar.
+En skillnad sågs dock kvalitativt mellan sjukhusen gällande tillgång till palliativa insatser där
+patienter i östra länsdelen i väsentligt lägre grad kunde erbjudas sådan vård. Resultaten har åter-
+förts till ledningen. Fortsatt uppföljning av tillgänglighet till palliativ vård är av stor vikt.
+660 slumpmässigt utvalda vårdtillfällen per år granskas enligt nationell metod för Markörbaserad
+journalgranskning (MJG). Resultaten för somatisk slutenvård är väsentligt oförändrat jämfört
+med föregående år men trenden för andelen vårdskador är negativ även om förändringarna är
+små. Vårdtillfällen slumpas månadsvis med 30 vårdtillfällen på Universitetssjukhuset i Linköp-
+ing, 15 på Vrinnevisjukhuset i Norrköping och 10 på Lasarettet i Motala.
+Tabellen visar andel skador/vårdskador för granskade vårdtillfällen. En trend mot ett ökat antal
+vårdskador ses.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+26/38
+Andel 2023 2024
+Skador 20,8 % 19,3 %
+Vårdskador 8,8 % 9,8 %
+Nedan ses fördelning i skadegrupper av samtliga identifierade skador. Skadepanoramat liknar
+tidigare år och överensstämmer med den samlade bilden från olika källor. Vårdrelaterade
+infektioner är det största området. Skadegruppen Annat omfattar olika mindre grupper av
+skador(se förklaring nedan).
+Skada/vårdskada 2023 2024
+Trycksår 7 % 5 %
+Blåsöverfyllnad 9 % 2 %
+Fallskada 8 % 8 %
+Läkemedelsrelaterad skada 6 % 5 %
+VRI 36 % 31 %
+Kirurgisk skada 12 % 20 %
+Svikt i vitala parametrar 2 % 9 %
+Annat* 21 % 20 %
+* allergisk reaktion, blödning (ej i samband med operation), hudskada eller ytlig kärlskada,
+postpartum/obstetrisk skada, trombos/emboli samt övriga skador.
+Lex Maria
+Under 2024 anmäldes 80 fall enligt lex Maria. 75 ärenden rörde Regiondriven verksamhet och
+resterande 5 rörde privat verksamhet med uppdrag för Regionen. Antalet är i nivå med de senaste
+åren. Drygt hälften av ärendena berörde fördröjd diagnos och behandling.
+Orsaker som framkommit i utredningar är bristande tillgänglighet, brister inom samordning av
+vården och bristande administration.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+27/38
+Anmälan enligt lex Maria ska ske skyndsamt. Under 2024 har utredningstiden följts upp och den
+minskar något. Andelen lex Maria där IVO begärt komplettering av utredningen har också
+minskat.
+Andelen ärenden som i handlingsplan noterat minst en effektiv åtgärd ökar och sammantaget
+indikerar dessa mått ett effektivare utredningsförfarande.
+Lex Maria som verktyg åskådliggör den yttersta konsekvensen av brister i vården och talen är i
+förhållande till den samlade vårdverksamheten små. Detta är ett trubbigt verktyg för att ensamt
+analysera vårdens tillkortakommanden, dock bidrar anmälningarna till att belysa problem-
+områden och fokusera på dessa.
+Vid allvarliga händelser tas kontakt med chefläkare. I komplexa fall där exempelvis flera verk-
+samheter är involverade kan chefsjuksköterska bidra med utredningsstöd.
+Åtgärder vidtagna i lex Maria ärenden följs upp efter 6 månader i möte mellan verksamhets-
+ledning, chefläkare och chefsjuksköterska.
+Patientförsäkringen LöF
+Varje år inkommer drygt 850 anmälningar till Patientförsäkringen LÖF om skador som upp-
+kommit inom regionen. Skador kan anmälas inom 10 år från skadetillfället vilket gör jämförelser
+med anmälningar enligt Lex Maria och inrapporterade avvikelser i Synergi svår. Uppgifterna från
+LÖF kompletterar bilden av patientsäkerheten utan att enbart beröra vårdskador.
+Skador inom sjukhusvård är mest förekommande i anmälningar till LÖF.
+Anmälda skador 2022-2024
+Sjukhusvård 73 %
+Primärvård 14 %
+Övrigt 13 %
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+28/38
+Klagomål och synpunkter
+Klagomål från patient och närstående
+Nedanstående tabeller visar hanterade klagomål via 1177 per år och inom dominerande
+kategorier.
+Område 2023 2024
+Information och 125 121
+kommunikation
+Vård och behandling 115 112
+Bemötande 116 159
+Tillgänglighet 104 50
+Summa 460 442
+Antalet klagomål som avser bemötande har ökat medan de flesta övriga har minskat jämfört med
+föregående år.
+Klagomål via IVO
+Nedanstående tabeller visar inkomna klagomål via IVO per år.
+Typ 2023 2024
+Verksamheten
+utreder 73 55
+IVO utreder 58 54
+Summa 131 109
+I första hand ska klagomål besvaras av verksamheten. Patientsäkerhetslagen styr vad som IVO
+ska utreda, bland annat händelser som inneburit att patienten har fått en bestående skada, ett
+väsentligt ökat behov av vård eller avlidit. IVO utreder också klagomål som gäller tvångsvård och
+händelser som allvarligt och på ett negativt sätt påverkat integritet, självbestämmande eller
+rättslig ställning.
+Det totala antalet klagomål via IVO har minskat något, antalet som IVO utreder är dock i stort
+sett detsamma.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+29/38
+Patientnämndens rapport 2024
+Patientnämndens roll är att hantera synpunkter och klagomål av olika slag och det finns viktiga
+erfarenheter och lärdomar att hämta i patienternas och de närståendes berättelser. Många av de
+som kontaktar Patientnämnden uttrycker att de vill bidra till förbättring av vården för att ingen
+annan ska behöva uppleva det de själva varit med om. Dessa erfarenheter och lärdomar är
+värdefulla i vårdens kvalitets- och patientsäkerhetsarbete.
+Lag om stöd vid klagomål mot hälso-och sjukvården (2017:372) anger att Patientnämnden ska
+stödja och hjälpa enskilda patienter att få den information de behöver för att kunna tillvarata sina
+intressen inom hälso- och sjukvården, främja kontakter mellan patienter, hälso- och sjukvårds-
+personal samt tandvården. Patientnämnden ska utifrån synpunkter och klagomål bidra till kvali-
+tetsutveckling och en ökad patientsäkerhet8.
+Under 2024 registrerades 1790synpunkter och klagomålsärenden hos Patientnämnden vilket är
+en ökning med 217 ärenden i jmf med förra året. Liksom tidigare år så är det kvinnor som i större
+utsträckning än män inkommer med synpunkter och klagomål på vården. Denna fördelning
+speglas även i förhållande till vårdkontakter, där kvinnor har större andel vårdkontakter än män.
+Figur 9 Orsak till ärenden per huvudproblem för åren 2023 och 2024, (antal)
+Vård och behandling som orsak utgjorde 46 procent av ärendena som registrerade 2024 och är
+fortsatt det huvudproblem som de flesta av inkommande ärenden berör. Därefter ses i fallande
+skala kommunikation som står för 17 procent och tillgänglighet som står för 10 procent.
+8 Årsrapport 2024 Patientnämnden Östergötland
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+4 . D o k
+8
+u
+1 . V å rd o c h b e h a n d lin g
+3 . K o m m u n ik a tio n
+6 . T illg ä n g lig h e t
+2 R e s u lta t
+7 . V å rd a n s v a r
+. A d m in is tra tiv h a n te rin g
+m e n ta tio n o c h s e k re te s s
+5 . E k o n o m i
+9 . Ö v rig t
+0
+4
+92
+2
+1 1
+1 0
+9 7
+7 9
+2 8
+1
+9
+8 1
+7 7
+7 5
+1
+1
+1
+8
+7
+6
+2
+1
+0
+8
+0
+3
+2
+3 3
+5 1
+0
+4 0 0
+A n ta l ä re n d e n
+6 0 0
+8 2 7
+7 5 9
+8 0 0
+2
+2
+1 0
+0
+0
+0
+2
+2
+0
+4
+3
+30/38
+Tabell 10 Rankning av de tio vanligaste orsakerna till ärende per delproblem för åren 2023 och 2024, (antal)
+Vissa förändringar har skett vad gäller orsaker till att patienter/närstående kontaktar Patient-
+nämnden med synpunkter och klagomål. Enligt tabellens kolumn som visar förändringen mellan
+åren har de tre första positionerna inte ändrats (-), alltså att behandling, undersökning/
+bedömning och bemötande har samma placering 2024 som föregående år. Väntetider i vården
+och resultat har bytt plats i ranking mellan åren 2023-2024 och så även patientjournalen och
+tillgänglighet i vården.
+De största ökningarna mellan åren 2023 och 2024 ses under delproblemen bemötande och del-
+aktighet. Generellt ses en ökning i antalet ärenden i en jämförelse mellan åren 2023 och 2024
+under samtliga delproblem förutom något färre under tillgänglighet i vården, resultat och läke-
+medel.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+1
+1
+3
+6
+1
+2
+1
+4
+6
+3
+.3
+.1
+.4
+.2
+.2
+.1
+.4
+.1
+.1
+.2
+B
+U
+B
+V
+D
+R
+L
+P
+T
+D
+e h a n d lin g
+n d e rs ö k n in g / b e d ö m
+e m ö ta n d e
+ä n te tid e r i v å rd e n
+ia g n o s
+e s u lta t
+ä k e m e d e l
+a tie n tjo u rn a le n
+illg ä n g lig h e t i v å rd e
+e la k tig h e t
+n
+n
+in g
+2 0 2
+2
+2
+1
+1
+1
+1
+1
+3
+9
+3
+6
+0
+1
+1
+0
+6
+7
+3
+3
+3
+4
+8
+4
+7
+6
+1
+5
+2
+2 0 2
+3
+2
+2
+1
+1
+1
+1
+4
+1
+6
+0
+2
+2
+1
+0
+6
+6
+6
+8
+7
+3
+2
+0
+1
+2
+4
+4
+3
+F ö rä nm d rin g i ra n k
+e lla n å re n
+-
+-
+-
+↑
+-
+↓
+-
+↑
+↓
+-
+n in g
+Andel ärenden av personer som
+haft kontakt med verksamheten
+Primärvårdscentrum 451 0,17%
+Externa vårdcentraler 204 0,61%
+Psykiatricentrum 203 0,56%
+CKOC 175 0,34%
+Sinnescentrum 160 0,23%
+Barn- och kvinnocentrum 106 0,17%
+Närsjukvården i östra Östergötland 93 0,19%
+Externa vårdenheter 74 0,19%
+Folktandvården 68 ​
+Närsjukvården i centrala Östergötland 66 0,14%
+Regionledning 46 ​
+Medicincentrum 39 0,12%
+Hjärtcentrum 36 0,26%
+Närsjukvården i västra Östergötland 32 0,11%
+Diagnostikcentrum 27 0,14%
+Externa stödenheter 9 ​
+Centrum för inköp service och logistik 1 ​
+Hälso- och sjukvården stab 0 ​
+0 100 200 300 400 500
+Antal ärenden
+31/38
+Figur 11 Registrerade ärenden i relation till vårdkontakter per verksamhetsområde (Region Östergötland inkl.
+privata vårdgivare och entreprenörer med avtal) för år 2024, (antal/andel)
+I figuren ovan representerar staplarna antalet ärenden hos Patientnämnden som varje verk-
+samhetsområde har haft under 2024. Till höger visas andelen patienter som har haft kontakt
+med respektive verksamhetsområde och ett ärende hos Patientnämnden.
+Det centrum som har flest antal ärenden är Primärvårdscentrum men det är också det centrum
+som flest patienter haft kontakt med. I relation till antalet vårdkontakter så är andelen ärenden
+bland de längsta (0,17 %).
+Högst andel ärenden har de externa vårdcentralerna med 0,61 procent, därefter Psykiatricentrum
+med drygt en halv procent (0,56 %). Fördjupade analyser finns sammanställda i rapportform.9
+Tillförlitliga och säkra system och processer
+Genom att det systematiska patientsäkerhetsarbetet inkluderar både det
+som har hänt och det som skulle kunna hända, minskar oönskade varia-
+tioner och patientsäkerheten stärks.
+Kunskapsstöd
+Inom kunskapsstyrningen har lokalt programansvariga (LPA) för systemets 26 områden utsetts.
+Dessa ansvarar för att nya rekommendationer och överenskommelser görs kända i vårdverk-
+samheterna. För områden som involverar kommunsamverkan kommer programområden att
+bildas inom LGVO. Äldres hälsa och palliativ vård har bildats där äldrevårdsöverläkare har till-
+satts. Ett viktigt utvecklingsområde är att i samverkan mellan region och kommun tydliggöra
+riskförebyggande arbetssätt.
+Linköping Comprehensive Cancer Center är en plattform för samordning av cancervård,
+utbildning och forskning. Enheten arbetar med utveckling av patientsäkerhet och kvalitet med
+fokus på personcentrerad vård.
+9 Bristande kommunikation länk samt primärvård tillgänglighet och vårdansvar Publicerad IVO
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+32/38
+Processtöd omvårdnad
+Under året har en lokal samverkansgrupp (LSG) omvårdnad bildats i syfte att samordna om-
+vårdnadsfrågor med målet att höja kvalitet och säkerställa god omvårdnad. Samverkansgruppen
+ansvarar för att tillgodose att vid behov upprätta regionövergripande riktlinjer och tydliggöra
+vilka riskbedömningar som ska användas samt att tillgodose samordning med dokumentation i
+patientjournalen.
+Vårddokumentation
+Säker läkemedelshantering: Bristande integration mellan läkemedelsmodulen i Cosmic och
+ordinationsverktyget Pascal utgör en betydande patientsäkerhetsrisk. Detta har påtalats av chef-
+läkare och chefsjuksköterskor inom sydöstra sjukvårdsregionen (SÖSR). Utvecklingsarbete av
+adekvat IT-stöd för dosdispenserade läkemedel integrerat i Cosmic, är underordnat ett pågående
+arbete med Nationell läkemedelslista. Under tiden krävs övergripande insatser för av att undvika
+patientsäkerhetsrisker gällande dubbeldokumentation. Insatser kopplade till riktlinjer, överens-
+kommelser och arbets- och ansvarsfördelning planeras.
+Säker remisshantering: Inom SÖSR saknas tekniska förutsättningar för att på ett effektivt och
+patientsäkert sätt nyttja varandras etablerade interna digitala flöden. Därmed omöjliggörs sam-
+verkan mellan regionerna. Brister i remisshantering har i flera utredningar identifierats som en
+bakomliggande orsak till vårdavvikelser och vårdgivaren har fått återkommande kritik från IVO.
+Chefläkare och Chief Medical Informatics Officer (CMIO) har i sitt uppdrag rekommenderat ut-
+veckling av de verksamhetsmässiga, juridiska och tekniska förutsättningarna för datadelning
+inom bilddiagnostik för att säkerställa en patientsäker remisshantering.
+Regional sjukvårdslednings uppdrag till Regional samverkansgrupp (RSG) digital utveckling
+behöver prioriteras så att resurskrävande manuell hantering av remisser (radiologi och patologi)
+undviks inom sjukvårdsregionen.
+Uppmärksamhetsinformation (UMI) och Uppmärksamhetssignal (UMS)10:
+Uppmärksamhetsinformation är information i en patientjournal som behöver uppmärksammas
+särskilt och gäller förhållanden som påverkar handläggningen, exempelvis medicinska tillstånd
+eller överkänslighet. Från och med den större uppgradering av patientjournalen(Cosmic) som
+genomfördes under 2023 följer Regionen Socialstyrelsens specifikation gällande UMS.
+Socialstyrelsen reviderar årligen specifikationen utifrån behov som lyfts i referensgrupp. Denna
+årliga översyn med uppdateringar behöver implementeras och förvaltas i hälso- och sjukvården.
+Detta kommer att ingå i uppdraget för LSG vårdinformationshantering.
+10 https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2024-12-
+9390.pdf
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+33/38
+Kunskapsspridning
+Kanaler för intern kunskapsspridning inom patientsäkerhetsområdet finns på intranätet och
+vårdgivarwebben. När händelser har inträffat där systembrister har upptäckts och behöver
+spridas, sammanfattas detta av chefläkare och chefsjuksköterskor och återförs i chefsforum.
+Basala kläd- och hygienregler
+Följsamhet av både hygienrutiner och klädregler minskar. För 2024 uppnår 6 av 11 centrum
+95 procent (grön nivå) på alla delmoment på följsamhet till klädregler. På hygienmomenten
+uppfyller inga centrum 95 procent på samtliga ingående delar. Av två externa enheter som
+registrerar följsamhet uppfyller en av två alla delmoment på klädregler samt en av två alla
+delmoment på hygienmomenten. Antalet utförda observationer har också tydligt minskat år
+efter år sedan pandemin då vi såg en ökning.
+Basala kläd- och hygienregler, andel 2023 2024
+korrekta
+Hygienrutiner 84,5 % 84,2 %
+Klädregler 94,4 % 93,7 %
+Antal observationer 25 618 22 865
+Det viktiga vad gäller följsamhet till hygien är att det finns en god organisation med ledarskap
+som främjar en god arbetskultur med öppenhet och att kunna påminna varandra. Observationer
+kan vara en viktig del för att starta samtal kring hygienfrågor, rutiner och beteenden. Därav finns
+ett värde i att observera så att medarbetare kan få feedback och uppföljning och ett lärande.
+Uppföljningens fokus bör vara inom den egna enheten/kliniken.
+Medicinskteknisk säkerhet
+Tekniska produkter är ofta en förutsättning i hälso- och sjukvården. Användning av dessa pro-
+dukter kräver kunskap om funktion, risker och säker hantering. Till medicinsktekniska produkter
+räknas allt från plåster, katetrar och infusionspumpar till medicinska informationssystem.
+Under året har en portal för medicinteknisk säkerhet tagits fram. Syftet är att erbjuda en enhetlig
+och kvalitetssäkrad hantering för verksamheter inom Region Östergötland och att avlasta det
+administrativa arbetet för vårdverksamheterna. Innehållet i portalen är framtaget med utgångs-
+punkt från aktuella lagar och processerna följer regionens förutsättningar.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+34/38
+Exempel på processer som tagits fram är egentillverkning av medicintekniska produkter, han-
+tering av säkerhetsmeddelanden och avvikelser samt anmälan till myndighet gällande negativ
+händelse med medicinteknisk produkt.
+Utöver detta har även åtgärder genomförts för att anpassa avvikelsesystemet så att uppföljning
+av avvikelser kopplat till medicintekniska produkter underlättas, både ur ett patientsäkerhetsper-
+spektiv och för att olika aktörer som hanterar medicintekniska produkter inom regionen ska
+kunna få ett ändamålsenligt underlag för att följa upp sina leveranser. De stora utvecklingsom-
+rådena som finns inom området ligger främst inom kartläggning av spårbarhet av medicin-
+tekniska produkter och att harmonisera arbetet inom regionen kopplat till specialanpassning av
+medicintekniska produkter.
+Säker vård här och nu
+Hälso- och sjukvården präglas av ständiga interaktioner mellan människor,
+teknik och organisation. Förutsättningarna för säkerhet förändras snabbt och
+det är viktigt att agera på störningar i närtid.
+Flera insatser som syftar till att stärka patientsäkerheten i den dagliga verksamheten finns
+redovisade under området Agera för säker vård. Operativ daglig styrning finns på respektive
+sjukhus. Vårdverksamheterna har etablerade arbetssätt för planering och prioritering på daglig
+basis.
+Leveransproblem och restsituationer läkemedel
+Restsituationer för läkemedel är fortsatt en stor utmaning. Betydande resurser läggs på att tidigt
+identifiera ersättningsläkemedel eller behandlingsalternativ och att kommunicera detta till
+verksamheterna11. Aktuell rådande restsituation för flera viktiga och vanliga astmaläkemedel för
+barn är bekymmersam eftersom behandlingsalternativen till de yngsta barnen är få. Sortiments-
+rådet för läkemedel vidtar flera åtgärder för att underlätta för både vården, apotek och patienter.
+Information kring restsituationer för utvalda läkemedel läggs in i ordinationsmallar i patient-
+journalen med hänvisning till ersättningsläkemedel. I många fall används, efter godkännande
+från Läkemedelsverket, förpackningar från andra europeiska länder, så kallade licensläkemedel.
+Utländska läkemedelsförpackningar är förenade med risker på grund av bristande information till
+11 https://vardgivare.regionostergotland.se/vgw/kunskapsstod/lakemedel
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+35/38
+både patienter och vårdpersonal. Läkemedelsinformationscentralen jämför därför produkt-
+resuméer för att fånga upp viktiga skillnader i exempelvis hantering och förvaring av läkemedel.
+Leveranserna av infusionsvätskor är osäkra och oförutsägbara, men Region Östergötland har
+hittills inte hamnat i allvarlig bristsituation tack vare ett bra utgångsläge med robusthet kring
+lagernivåer. Regionen följer också de nationella rekommendationerna för att minska använd-
+ningen av infusionsvätskor när så är möjligt. Lagernivåerna för övriga läkemedel är lägre än för
+vätskor, men ett inriktningsbeslut har tagits kring ökade lagernivåer av läkemedel i hälso- och
+sjukvårdens alla läkemedelsförråd, vilket ska implementeras innan halvårsskiftet.
+Bemanning och kompetens
+Kompetensförsörjningen är avgörande för att klara Regionens uppdrag. Region Östergötland har
+under flera år haft en hög kostnadsutveckling som behövde åtgärdas. Under 2024 genomfördes
+ett omfattande omställningsarbete med målet att reducera antalet anställda med 900 medarbet-
+are, främst inom administration, paramedicin och icke legitimerad vårdpersonal. En ny arbets-
+organisation arbetades fram under våren 2024. Alla ledningsnivåer, fackliga förtroendevalda och
+många medarbetare var involverade. Arbetsorganisationen beskriver hur verksamheten ska an-
+passas för att nå en ekonomi i balans. Prioriterade områden under detta arbete var:
+• Att kapaciteten för vårdplatser ska bibehållas eller öka på regionnivå
+• Att kapaciteten för operationer och diagnostik ska bibehållas eller öka samt
+• Att förmåga att ge en första medicinsk bedömning ska bibehållas
+Fortsatt genomförande av ny arbetsorganisation kommer att fortgå under 2025.
+Stärka analys, lärande och utveckling
+Analys och lärande av erfarenheter är en del av det fortlöpande arbetet
+inom hälso- och sjukvården. När resultaten används för att förstå vad som
+bidrar till säkerhet, hållbarhet, önskvärd flexibilitet och goda resultat, kan
+verksamheten utvecklas så att kvaliteten och säkerheten ökar och risken för
+vårdskador minskar.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+36/38
+Riskhantering
+Vårdgivare ska fortlöpande bedöma om det finns risk för att händelser skulle kunna inträffa som
+kan medföra brister i verksamhetens kvalitet. För varje sådan händelse ska vårdgivare uppskatta
+sannolikheten för att händelsen inträffar, och bedöma vilka negativa konsekvenser som skulle
+kunna bli följden av händelsen. Regionens egenkontroll sker genom verksamheternas RH-check
+där brister ska åtgärdas. Gröna korset är en enkel visuell metod för medarbetare i vården. Metod-
+en används för att identifiera risker och vårdskador i realtid. Gröna korset skapar ett underlag för
+riktat systematiskt förbättringsarbete som ökar patientsäkerheten och stärker säkerhetskulturen.
+Under 2024 har implementeringsarbete i form av utbildning och fortsatt stöd till vårdens verk-
+samheter genomförts. En kartläggning av vilka verksamheter som använder Gröna Korset har
+också genomförts. Webbaserat stöd och informationstillfällen har genomförts. Avvikelsesystemet
+har anpassats så att risker som uppmärksammas kan registreras och följas upp.
+Riskanalyser
+Ett flertal övergripande riskanalyser relaterade till den stora omställning som pågår i Regionen
+har genomförts. Risker som identifierats inom patientsäkerhetsområdet avser framför allt
+försämrad tillgänglighet med risk för fördröjd vård samt risk för att sköra patienter inte får till-
+räckliga insatser av vården. Åtgärder för att undvika detta behöver vidtas inom verksamheterna.
+Kärnverksamheten måste prioriteras och utvecklingsinitiativ kan behöva pausas.
+Öka riskmedvetenhet och beredskap
+Beredskapsorganisationen aktiveras vid allvarliga händelser. Pandemi,
+extrem vårdplatsbrist, IT-störningar och större olyckor är exempel på bered-
+skapssituationer som uppstått och där särskild sjukvårdsledning har etablerats.
+Följande beredskapslägen används både på lokal nivå och på regional nivå:
+• Stabsläge: en särskild sjukvårdsledning håller sig underrättad om läget, vidtar nödvändiga
+åtgärder och följer händelseutvecklingen.
+• Förstärkningsläge: en särskild sjukvårdsledning vidtar åtgärder för förstärkning av vissa
+viktiga funktioner.
+• Katastrofläge: en särskild sjukvårdsledning vidtar åtgärder för förstärkning av alla viktiga
+funktioner.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+37/38
+Det är varje verksamhetschef som har ansvar för att verksamheten har kontinuitetsplaner och
+reservrutiner, att de revideras vid behov och att de övas regelbundet. Stöd- och service-enheter
+genomför sin egen kontinuitetshantering för att säkerställa robusthet i driften. Varje verksamhet
+som är beroende av exempelvis IT-stöd eller fastighetstekniska system ska säkerställa att de egna
+kritiska aktiviteterna kan fungera vid en störning eller avbrott. Egenkontroll av kontinuitetshan-
+tering genomförs i all verksamhet.
+Riskfylld läkemedelshantering
+Ett proaktivt arbete kring högriskläkemedel och fokus på antikoagulantia har lett till att en
+regiongemensam riktlinje för perioperativ hantering av behandling med blodförtunnande har
+tagits fram. Ett IT-stöd för identifiering av patienter med högrisk för negativ hemokoagulations-
+händelse kommer också att utvecklas. Vidare genomförs initiativ för ett samordnat arbetssätt
+mellan regionens antikoagulationsmottagningar. Implementeringsarbetet kommer att fortsätta
+under 2025.
+Färdighetsträning och simulering
+Grunduppdraget för Clincum inför 2024 definierades efter dialog med ledningen och chefläkar-
+enheten. Grunden är träning i simulerad miljö med pedagogiskt koncept, där praktiska och teo-
+retiska moment ingår.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping
+38/38
+MÅL, STRATEGIER OCH UTMANINGAR FÖR KOMMANDE ÅR
+Säker vård i alla dess delar är grunden i kvalitetsarbetet inom hälso- och sjukvården. Att före-
+bygga och förhindra uppkomsten av vårdskador är därför oerhört viktigt att ha som fokus framåt.
+Det uthålliga och långsiktiga patientsäkerhetsarbetet grundar sig på aktiva risk- och skadeföre-
+byggande aktiviteter.
+Hälso- och sjukvårdens medarbetare behöver ges förutsättningar att kunna utföra ett gott arbete
+med hög arbetsmotivation och patientfokus.
+En tydlig målbild med fokus på kvalitet och patientsäkerhet har arbetats fram.
+Huvudbudskapet i hälso- och sjukvårdens målbild är "Tillsammans för bästa vård och hälsa" där
+utgångspunkten är begreppet god vård; en vårds som är kunskapsbaserad och ändamålsenlig,
+säker, patientfokuserad, effektiv, jämlik och ges inom rimlig tid.
+Följande systemåtgärder behöver utvecklas under 2025:
+• Förbättra tillgängligheten genom ett ökat antal vårdplatser, ökad operationskapacitet och
+diagnostik.
+• Stärka den nära vården.
+• Säkerställa adekvat bemanning, kunskap och kompetens i den patientnära vården.
+• Stärka säkerhetskulturen, vilket utgör grunden för en fortsatt positiv utveckling mot en
+säkrare vård.
+• Tydliggöra kopplingen mellan arbetsmiljö och patientsäkerhet.
+• Utveckla samverkan med kommunal hälso- och sjukvård för att förhindra undvikbar
+sjukhusvård.
+Postadress Telefon Fax E-post
+Region Östergötland 010-103 00 00 (växel) 010-103 71 00 region@regionostergotland.se
+581 91 Linköping

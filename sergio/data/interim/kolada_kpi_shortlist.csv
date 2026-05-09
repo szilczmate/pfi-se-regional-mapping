@@ -1,0 +1,321 @@
+category,kpi_id,title,operating_area,perspective
+vaccine_coverage,N01481,"MPR-vaccinerade 2-åringar, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+vaccine_coverage,N01482,"MPR-vaccinerade 9-åringar, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+vaccine_coverage,N01483,"HPV-vaccinerade flickor, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+vaccine_coverage,N01484,"HPV-vaccinerade pojkar, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N00024,"Kostnadsutjämningsnetto äldreomsorg, kr/inv 1 nov fg år","Kommunen, övergripande",Resurser
+elderly_care,N00533,"Medborgarundersökningen - Äldreomsorgen fungerar bra i kommunen, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N00592,"Medborgarundersökningen - Bra utbud av ställen (t.ex. träffpunkter) för äldre att träffas på i kommunen, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N00980,"Äldre äldre av invånare 65+, andel (%)",Befolkning,Volymer
+elderly_care,N01719,"Invånare, 1 år eller äldre som flyttat in eller bytt distrikt i kommunen, andel (%)",Befolkning,Volymer
+elderly_care,N02850,"Ensamstående äldrehushåll utan barn, andel (%)",Befolkning,Volymer
+elderly_care,N04133,"Kommunens köp av äldreomsorg från offentliga utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04135,"Kommunens köp av hemtjänst i ordinärt boende äldreomsorg från offentliga utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04136,"Kommunens köp av hemtjänst i ordinärt boende äldreomsorg från privata utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04137,"Kommunens köp av särskilt boende äldreomsorg från offentliga utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04138,"Kommunens köp av särskilt boende äldreomsorg från privata utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04139,"Kommunens köp av korttidsboende äldreomsorg totalt, andel (%)",Hälso- och sjukvård,Resurser
+elderly_care,N04140,"Kommunens köp av korttidsboende äldreomsorg från offentliga utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04141,"Kommunens köp av korttidsboende äldreomsorg från privata utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N04158,"Kommunens köp av äldreomsorg från privata utförare, andel (%) (-2024)",Hälso- och sjukvård,Resurser
+elderly_care,N20001,"Kostnad äldre och funktionsnedsättning (SoL, LSS, SFB), kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N20005,"Statliga driftbidrag, vård och omsorg om äldre, kr/invånare 80+",Hälso- och sjukvård,Resurser
+elderly_care,N20007,"Kostnad äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20010,"Intäkter äldre och funktionsnedsättning (SoL, LSS, SFB), kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N20011,"Nettokostnad äldre och funktionsnedsättning (SoL, LSS, SFB), kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N20014,"Nettokostnad äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20016,"Referenskostnad äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20029,"Nettokostnadsavvikelse äldreomsorg, miljoner kronor",Hälso- och sjukvård,Resurser
+elderly_care,N20035,"Månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, kommun, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20041,"Årsarbetare inom vård och omsorg om äldre och personer med funktionsnedsättning, kommun, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20042,"Kostnad för äldreomsorgen, andel av total driftskostnad (%)",Hälso- och sjukvård,Resurser
+elderly_care,N20043,"Kostnad äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20044,"Nettokostnad omsorg om äldre och personer med funktionsnedsättning enl SoL totalt, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N20046,"Nettokostnad öppen verksamhet äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N20047,"Kostnad öppen verksamhet äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N20048,"Kostnad äldreomsorg, kr/inv 80+",Hälso- och sjukvård,Resurser
+elderly_care,N20049,"Kostnad öppen verksamhet äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N20050,"Personalkostnad äldreomsorg, egen regi, andel (%)",Hälso- och sjukvård,Resurser
+elderly_care,N20055,"Kommunens köp av vård och omsorg om äldre från privatägda företag, andel (%)",Hälso- och sjukvård,Resurser
+elderly_care,N20056,"Kommunens köp av vård och omsorg om äldre från föreningar och stiftelser, andel (%)",Hälso- och sjukvård,Resurser
+elderly_care,N20057,"Avgiftsintäkter äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20058,"Bruttokostnad lokaler äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20059,"Externa lokalintäkter äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20060,"Kostnad lokaler exkl. externa lokalintäkter äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20063,"Övriga externa intäkter från andra än kommuner och regioner äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20064,"Externa intäkter från andra än kommuner och regioner äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20065,"Externa intäkter från andra än kommuner och regioner äldreomsorg, kr/inv 65+",Hälso- och sjukvård,Resurser
+elderly_care,N20066,"Åldersersättning äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20067,"Behovsnivå äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20068,"Produktionsförutsättningar äldreomsorg, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N20071,"Gemensamma kostnader fördelade till vård och omsorg om äldre, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20200,"Tillsvidareanställda månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20201,"Visstidsanställda månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20202,"Visstidsanställda timavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20203,"Arbetad tid utförd av tillsvidareanställda månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20204,"Arbetad tid utförd av visstidsanställda månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20205,"Arbetad tid utförd av visstidsanställda timavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20206,"Heltidsanställda månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20207,"Deltidsanställda (75-99 %) månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20208,"Deltidsanställda (1-74 %) månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20209,"Heltidsarbetande månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20210,"Deltidsarbetande (75-99 %) månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20211,"Deltidsarbetande (1-74 %) månadsavlönade inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20212,"Anställda -34 år inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20213,"Anställda 35-54 år inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20214,"Anställda 55+ inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20217,"Utrikes födda, anställda inom omsorg om äldre och personer med funktionsnedsättning, balanstal",Äldre och funktionshinder,Resurser
+elderly_care,N20222,"Anställda 55+ år inom omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20230,"Heltidsanställd månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20231,"Heltidsanställd månadsavlönad personal som arbetar heltid, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20232,"Heltidsanställd månadsavlönad personal som arbetar deltid, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20233,"Heltidsanställd månadsavlönad personal ledig från sitt arbete, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20234,"Deltidsanställd månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20235,"Deltidsanställd månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20236,"Deltidsanställd månadsavlönad personal ledig från sitt arbete, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20237,"Timavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20238,"Kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning enligt HÖK, kommun, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20239,"Helt lediga från sitt arbete inom vård och omsorg om äldre och personer med funktionsnedsättning, kommunalt anställda, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20240,"Tillsvidaresanställd månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20241,"Visstidsanställd månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20242,"Deltidsanställda (75-99 %) månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, kommun, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20243,"Deltidsanställda (1-74 %) månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20244,"Heltidsarbetande månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, kommun, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20245,"Deltidsarbetande (75-99 %) månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20246,"Deltidsarbetande (1-74 %) månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20248,"Genomsnittlig sysselsättningsgrad för anställda månadsavlönade inom vård och omsorg om äldre och personer med funktionsnedsättning i kommunen, (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20250,"Deltidsanställd månadsavlönad arbetande deltid, inom vård och omsorg om äldre och personer med funktionsnedsättning i kommunen, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20255,"Anställda 55-64 inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20256,"Anställda 65+ inom omsorg om äldre och personer med funktionsnedsättning, andel (%)",Äldre och funktionshinder,Resurser
+elderly_care,N20257,"Anställda 55-64 år inom omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20258,"Anställda 65+ år inom omsorg om äldre och personer med funktionsnedsättning, antal",Äldre och funktionshinder,Resurser
+elderly_care,N20502,"Anhöriga som upplever att samarbetet med äldreboendet fungerar mycket bra, andel (%) (-2023)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20505,"Äldrehushåll i kommunen, andel (%) (-2023)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20506,"Oplanerade återinskrivningar bland äldre, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20507,"Handläggare inom äldreomsorg med socionomexamen, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N20580,"Äldre med trycksår inom alla enhetstyper, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20581,"Äldre med trycksår inom demensenhet, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20582,"Äldre med trycksår inom vård och omsorgsenhet, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20583,"Äldre med BMI lägre än 22 inom alla enhetstyper, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20584,"Äldre med BMI lägre än 22 inom demensenhet, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20585,"Äldre med BMI lägre än 22 inom vård och omsorgsenhet, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,N20805,"Kommunens köp av äldreomsorg totalt, andel (%)",Hälso- och sjukvård,Resurser
+elderly_care,N20806,"Köp av öppen verksamhet äldreomsorg, andel (%)",Äldre och funktionshinder,Volymer
+elderly_care,N20900,"Nettokostnadsavvikelse äldreomsorg, (%)",Hälso- och sjukvård,Resurser
+elderly_care,N21003,"Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21006,"Kostnad hemtjänst äldreomsorg, kr/hemtjänsttagare",Äldre och funktionshinder,Resurser
+elderly_care,N21008,"Kostnad övriga insatser ordinärt boende äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21009,"Kostnad hemtjänst äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21013,"Standardkostnad vård och omsorg om äldre, kr/inv",Hälso- och sjukvård,Resurser
+elderly_care,N21014,"Kostnad dagverksamhet ordinärt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21015,"Nettokostnad ordinärt boende äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21016,"Nettokostnad korttidsvård äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21017,"Nettokostnad hemtjänst äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21018,"Nettokostnad dagverksamhet äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21019,"Nettokostnad ordinärt boende äldreomsorg övrigt, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N21020,"Kostnad ordinärt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21021,"Kostnad korttidsvård äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21022,"Kostnad ordinärt boende äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N21023,"Kostnad korttidsvård äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N21024,"Kostnad hemtjänst äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N21025,"Kostnad dagverksamhet äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N21026,"Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N21030,"Avgiftsintäkter ordinärt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21031,"Externa lokalintäkter ordinärt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N21450,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - svåra besvär av ängslan, oro eller ångest, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21451,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - alltid bra bemötande, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21452,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - trygghet (mycket trygga), andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21453,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - rörlighet inomhus, andel (%) (-2023)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21454,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - bor med annan vuxen, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21455,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - behov anpassas, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21456,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - välja utförare, andel (%) (-2023)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21457,"Osäkerhetstal - Brukarbedömning hemtjänst äldreomsorg - svåra besvär av ensamhet, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21458,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - svåra besvär av ängslan, oro eller ångest, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21459,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - alltid bra bemötande, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21460,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - trygghet (mycket trygga), andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21461,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - trivsamma gemensamma utrymmen, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21462,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - trivsamt utomhus, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21463,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - rörlighet inomhus, andel (%) (-2023)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21464,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - plats på äldreboende, andel (%) (-2023)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21465,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - trivs med rum/lägenhet, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21466,"Osäkerhetstal - Brukarbedömning särskilt boende äldreomsorg - besväras ofta av ensamhet, andel (%)","Kommunen, övergripande",Kvalitet och resultat
+elderly_care,N21492,"Brukarbedömning hemtjänst äldreomsorg - samarbete med anhöriga, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21495,"Brukarbedömning hemtjänst äldreomsorg - personalen pratar och förstår svenska, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21496,"Brukarbedömning hemtjänst äldreomsorg - personalen har kunskap och kompetens, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21497,"Brukarbedömning hemtjänst äldreomsorg - träffa fast omsorgskontakt, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21600,"Enhetsundersökningen, äldreomsorg - Andel hemtjänsttagare som erbjudits en fast omsorgskontakt, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21601,"Enhetsundersökningen, äldreomsorg - Andel hemtjänsttagare som tackat ja till en fast omsorgskontakt, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21602,"Enhetsundersökningen, äldreomsorg - Andel hemtjänsttagare som bytt fast omsorgskontakt under det senaste året, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21603,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns inom hemtjänsten för arbetet med fasta omsorgskontakter, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21604,"Enhetsundersökningen, äldreomsorg - Antal hemtjänsttagare som en fast omsorgskontakt ansvarar för, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21605,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns inom hemtjänsten för hur läkemedelsgenomgångar ska genomföras i samverkan med regionen, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21606,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns inom hemtjänsten för hur läkemedelsgenomgångar ska genomföras i samverkan med olika aktörer, där den enskildes delaktighet är dokumenterad i journalen, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21608,"Enhetsundersökningen, äldreomsorg - Andel omsorgspersonal inom hemtjänsten som är undersköterskor, vardagar, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21609,"Enhetsundersökningen, äldreomsorg - Andel omsorgspersonal inom hemtjänsten som är undersköterskor, helger, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21610,"Enhetsundersökningen, äldreomsorg - Antal hemtjänsttagare per en omsorgspersonal vid enheten, vardagar, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21611,"Enhetsundersökningen, äldreomsorg - Antal hemtjänsttagare per en omsorgspersonal vid enheten, helger, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N21806,"Kommunens köp av hemtjänst i ordinärt boende äldreomsorg totalt, andel (%)",Äldre och funktionshinder,Volymer
+elderly_care,N21814,"Medelålder för äldre i ordinärt boende med hemtjänst, år",Äldre och funktionshinder,Volymer
+elderly_care,N21898,"Medarbetarengagemang (HME) hemtjänst äldreomsorg - svarsfrekvens, andel (%)",Hälso- och sjukvård,Övrigt
+elderly_care,N23001,"Kostnad särskilt boende äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N23002,"Kostnad annat boende äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N23004,"Nettokostnad särskilt/annat boende äldreomsorg, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N23005,"Kostnad särskilt/annat boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23006,"Kostnad särskilt/annat boende äldreomsorg, kr/inv 80+",Äldre och funktionshinder,Resurser
+elderly_care,N23007,"Kostnad särskilt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23008,"Kostnad annat boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23009,"Kostnad särskilt boende äldreomsorg, kr/brukare",Äldre och funktionshinder,Resurser
+elderly_care,N23010,"Avgiftsintäkter särskilt- och annat boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23011,"Externa lokalintäkter särskilt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23012,"Avgiftsintäkter särskilt boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23013,"Avgiftsintäkter annat boende äldreomsorg, kr/inv 65+",Äldre och funktionshinder,Resurser
+elderly_care,N23390,"Brukarbedömning särskilt boende äldreomsorg - personalen pratar och förstår svenska, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23391,"Brukarbedömning särskilt boende äldreomsorg - personalen har kunskap och kompetens, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23491,"Brukarbedömning särskilt boende äldreomsorg - samarbete med anhöriga, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23580,"Enhetsundersökningen, äldreomsorg - Belagda bostäder vid enheten per en omsorgspersonal i särskilt boende, äldreomsorg, vardagar, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23581,"Enhetsundersökningen, äldreomsorg - Belagda bostäder vid enheten per en omsorgspersonal i särskilt boende, äldreomsorg, helgdagar, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23582,"Enhetsundersökningen, äldreomsorg - Förutsättningar för att utemiljön ska vara tillgänglig på särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23583,"Enhetsundersökningen, äldreomsorg - Förutsättningar för förflyttning till och i utemiljön i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23584,"Enhetsundersökningen, äldreomsorg - Förutsättningar för utevistelse i utemiljön i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23585,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns för hur enheten ska använda utemiljö i genomförandet av insatser i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23586,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns för hur läkemedelsgenomgångar ska genomföras i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23587,"Enhetsundersökningen, äldreomsorg - Aktuell rutin finns för hur läkemedelsgenomgångar ska genomföras samt hur samverkan ska ske tillsammans med den enskilde, läkaren, sjuksköterskan som ansvarar i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23588,"Enhetsundersökningen, äldreomsorg - Omsorgspersonal som är undersköterska, vardagar i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23589,"Enhetsundersökningen, äldreomsorg - Omsorgspersonal som är undersköterska, helgdagar i särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23590,"Brukarbedömning hemtjänst äldreomsorg, färre än 30 svarande ( Ja=1, Nej=0)",Äldre och funktionshinder,Övrigt
+elderly_care,N23591,"Brukarbedömning särskilt boende äldreomsorg, färre än 30 svarande ( Ja=1, Nej=0)",Äldre och funktionshinder,Övrigt
+elderly_care,N23592,"Enhetsundersökningen, äldreomsorg - Platser i särskilt boende/sjuksköterska, äldreomsorg, vardagar, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23593,"Enhetsundersökningen, äldreomsorg - Platser i särskilt boende/sjuksköterska, äldreomsorg, helgdagar, antal",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23706,"Medelvårdtid i särskilt boende äldreomsorg, antal dagar",Äldre och funktionshinder,Kvalitet och resultat
+elderly_care,N23804,"Kommunens köp av särskilt/annat boende äldreomsorg totalt, andel (%)",Äldre och funktionshinder,Volymer
+elderly_care,N23805,"Brukare 65+ i särskilt boende äldre, antal",Äldre och funktionshinder,Volymer
+elderly_care,N23806,"Brukare 80+ i särskilt boende äldre, antal",Äldre och funktionshinder,Volymer
+elderly_care,N23807,"Brukare 65-79 år i särskilt boende äldre, antal",Äldre och funktionshinder,Volymer
+elderly_care,N23809,"Medelålder för äldre i särskilt boende, år",Äldre och funktionshinder,Volymer
+elderly_care,N23898,"Medarbetarengagemang (HME) särskilt boende äldreomsorg - svarsfrekvens, andel (%)",Äldre och funktionshinder,Övrigt
+elderly_care,N24001,"Nettokostnad öppen verksamhet äldre och personer med funktionsnedsättning, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N24002,"Kostnad öppen verksamhet äldre och personer med funktionsnedsättning, kr/inv",Äldre och funktionshinder,Resurser
+elderly_care,N31862,"Vuxna biståndsmottagare med försörjningshinder, pension el- äldreförsörjningsstöd, andel (%)",Individ- och familjeomsorg,Volymer
+elderly_care,N60028,"Sjukfrånvaro, 50 år eller äldre, region, andel (%)","Regionen, övergripande",Resurser
+elderly_care,N79175,"Tio eller fler läkemedel samtidigt hos äldre, andel (%)",Hälso- och sjukvård,Volymer
+elderly_care,U01421,"Brukarbedömning hemtjänst äldreomsorg - besväras av ensamhet kommun, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+elderly_care,U01533,"Osäkerhetstal - Äldreomsorgen fungerar bra i kommunen, andel (%)","Kommunen, övergripande",Övrigt
+elderly_care,U01592,"Osäkerhetstal - Bra utbud av ställen (t.ex. träffpunkter) för äldre att träffas på i kommunen, andel (%)","Kommunen, övergripande",Övrigt
+primary_care_access,N00303,Tillgänglighet till tjänster - Kommunindex,"Kommunen, övergripande",Kvalitet och resultat
+primary_care_access,N00314,Tillgänglighet till tjänster – Kommunindex Kvinnor,"Kommunen, övergripande",Kvalitet och resultat
+primary_care_access,N00325,Tillgänglighet till tjänster – Kommunindex Män,"Kommunen, övergripande",Kvalitet och resultat
+primary_care_access,N00336,Tillgänglighet till tjänster - Regionindex,"Regionen, övergripande",Kvalitet och resultat
+primary_care_access,N00347,Tillgänglighet till tjänster – Regionindex Kvinnor,"Regionen, övergripande",Kvalitet och resultat
+primary_care_access,N00358,Tillgänglighet till tjänster – Regionindex Män,"Regionen, övergripande",Kvalitet och resultat
+primary_care_access,N23582,"Enhetsundersökningen, äldreomsorg - Förutsättningar för att utemiljön ska vara tillgänglig på särskilt boende, äldreomsorg, andel (%)",Äldre och funktionshinder,Kvalitet och resultat
+primary_care_access,N78110,"Patientupplevd kvalitet avseende vård och behandling, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N78111,"Patientupplevd kvalitet avseende delaktighet, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,
+primary_care_access,N78112,"Patientupplevd kvalitet avseende bemötande, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,
+primary_care_access,N78113,"Patientupplevd kvalitet avseende kontinuitet, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,
+primary_care_access,N78114,"Patientupplevd kvalitet avseende information, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,
+primary_care_access,N78115,"Patientupplevd kvalitet avseende tillgänglighet, hälso- och vårdcentral, medelvärde",Hälso- och sjukvård,
+primary_care_access,N78116,"Patientupplevd kvalitet på hälso- och vårdcentral, svarsfrekvens, andel (%)",Hälso- och sjukvård,
+primary_care_access,N78118,"Patientupplevd kvalitet på hälso- och vårdcentral, index",Hälso- och sjukvård,
+primary_care_access,N79505,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som utreds inom standardiserat vårdförlopp i cancervårdenn, index",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N79512,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som besökt en öppenvårdsmottagning på sjukhus, index (-2023)",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N79519,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som besökt en akutmottagning, index",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N79527,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som har besökt en slutenvårdsmottagning på sjukhus, index",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N79535,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som har besökt sluten vuxenpsykiatri, index",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,N79543,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som har besökt en öppenvårdsmottagning inom vuxenpsykiatri, index",Hälso- och sjukvård,Kvalitet och resultat
+primary_care_access,U07342,"GPS-larm (positioneringslarm) finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07343,"Passivt larm/sensor finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07344,"Digital signering av hälso- och sjukvårdsåtgärder finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07345,"Läkemedelsfördelare som tillhandahålls av kommunen finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07346,"Digitala medicinskåp finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07347,"Digitalt planeringsverktyg finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07349,"Inkontinenssensorer finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07350,"Digitalt stöd för fysisk träning eller aktivering finns tillgängligt inom den kommunala hälso- och sjukvården, (Breddinfört=2, testverksamhet=1, Nej=0)",Hälso- och sjukvård,Resurser
+primary_care_access,U07486,"Största återvinningscentralens tillgänglighet kväll/helg, timmar/vecka","Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+primary_care_access,U07487,"Total tillgänglighet alla återvinningscentraler, minuter/person","Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+primary_care_access,U07492,"Nöjdhet tillgänglighet till återvinningscentral, andel (%)","Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+primary_care_access,U07508,Företagsklimat Insikt - Tillgänglighet - Index,"Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+wait_times,N70619,"Väntetid till prostatacancerbesked, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N70620,"Väntetid till första besök vid misstänkt prostatacancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79221,"Väntande högst 90 dagar till första kontakt i specialiserad vård, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79223,"Väntande högst 90 dagar på operation/åtgärd i specialiserad vård, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79240,"Väntetid för väntande till första kontakt i specialiserad vård, antal dagar (median)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79241,"Väntetid för första kontakt i specialiserad vård,  av genomförda besök, antal dagar (median)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79242,"Väntetid för väntande på operation/åtgärd i specialiserad vård, antal dagar (median)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,N79243,"Väntetid för operation/åtgärd i specialiserad vård, av genomförda besök, antal dagar (median)",Hälso- och sjukvård,Kvalitet och resultat
+wait_times,U07421,"Samverkan - utför kommunen IVPA (i väntan på ambulans)? (1=Ja, 0=Nej)","Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+wait_times,U07461,"IVPA-insatser (i väntan på ambulans), antal/1000 inv","Infrastruktur, miljö- och hälsoskydd mm",Kvalitet och resultat
+oncology,N02013,"Lungcancer, dödlighet, 25+ år, antal/100 000 inv",Hälso- och sjukvård,Volymer
+oncology,N60910,"Incidens av cancer, åldersstandardiserat, antal/100 000 inv",Hälso- och sjukvård,Volymer
+oncology,N60911,"Incidens, livmoderhalscancer, antal/100 000 inv",Hälso- och sjukvård,Övrigt
+oncology,N60912,"Incidens, lungcancer, antal/100 000 inv",Hälso- och sjukvård,Övrigt
+oncology,N70342,"Förekomst av lungcancer, kvinnor, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70343,"Förekomst av lungcancer, män, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70344,"Förekomst av prostatacancer, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70345,"Förekomst av bröstcancer, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70349,"Förekomst av ändtarmscancer, kvinnor, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70350,"Förekomst av ändtarmscancer, män, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+oncology,N70351,"Förekomst av cancer – kvinnor, antal/100 000 inv",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70352,"Förekomst av cancer – män, antal/100 000 inv",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70536,"Kvalitetsindikatorer - Bröstcancer, index (max = 100)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70540,"Kvalitetsindikatorer - Lungcancer, index (max = 100)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70543,"Kvalitetsindikatorer - Prostatacancer, index (max = 100)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70545,"Kvalitetsindikatorer - Tarmcancer, index (max = 100)","Regionen, övergripande",Kvalitet och resultat
+oncology,N70601,"Operation inom 28 dagar vid välgrundad misstanke om bröstcancer, andel (%) - Målnivå ≥ 80",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70602,"Individuell vårdplan vid bröstcancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70603,"Bröstbevarande operation vid små invasiva tumörer vid bröstcancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70604,"Bröstcancerpatienter som genomgått enbart en operation i bröst, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70615,"EGFR-test inför behandling av lungcancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70616,"Planerad kemoradioterapi vid icke-småcellig lungcancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70617,"Kurativt syftande behandling vid lokaliserad lungcancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70618,"Skelettundersökning vid prostatacancer med hög risk, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70619,"Väntetid till prostatacancerbesked, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70620,"Väntetid till första besök vid misstänkt prostatacancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70621,"Patienter med tjocktarmscancer utan metastaser som blivit radikalt opererade, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70622,"Tid från diagnos till behandlingsstart vid tjocktarmscancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70623,"Patienter med ändtarmscancer utan metastaser som blivit radikalt opererade, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70624,"Tid från diagnos till behandlingsstart vid ändtarmscancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N70643,"Standardiserat vårdförlopp för patienter med cancer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79178,"Positivt helhetsintryck hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Volymer
+oncology,N79196,"Överlevnad vid cancersjukdom – flera cancerformer, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79198,"Patienter som genomgått standardiserade vårdförlopp inom den angivna ledtiden (cancervård), andel (%)",Hälso- och sjukvård,Volymer
+oncology,N79500,"Patientupplevd kvalitet avseende emotionellt stöd hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79501,"Patientupplevd kvalitet avseende delaktighet och involvering hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79502,"Patientupplevd kvalitet avseende respekt och bemötande hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79503,"Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79504,"Patientupplevd kvalitet avseende information och kunskapsom hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79505,"Patientupplevd kvalitet avseende tillgänglighet hos patienter som utreds inom standardiserat vårdförlopp i cancervårdenn, index",Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79506,Patientupplevd kvalitet hos patienter som utreds inom standardiserat vårdförlopp i cancervården - svarsfrekvens (%),Hälso- och sjukvård,Kvalitet och resultat
+oncology,N79509,"Patientupplevd kvalitet avseende respekt och bemötande hos patienter som utreds inom standardiserat vårdförlopp i cancervården, index (-2023)",Hälso- och sjukvård,Kvalitet och resultat
+respiratory,N70535,"Kvalitetsindikatorer - Astma och KOL, index (max = 100)",Hälso- och sjukvård,Kvalitet och resultat
+respiratory,N70626,"Patienter med KOL som genomgått mätning av FEV1/FVC efter bronkdilation, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+respiratory,N70627,"Patienter med KOL med hög symtombörda (CAT>20), andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+respiratory,N70630,"Patienter med KOL som utfört spirometriundersökning, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N01439,"Incidens av hjärtinfarkter 25+ år, antal/100 000 inv",Hälso- och sjukvård,Volymer
+cardiovascular,N60920,"Incidens av hjärtinfarkter, åldersstandardiserat 20+ år, fyraårsmedelvärde, antal/100 000 inv",Hälso- och sjukvård,Volymer
+cardiovascular,N70341,"Förekomst av akut hjärtinfarkt, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+cardiovascular,N70539,"Kvalitetsindikatorer - Hjärtsjukvård, index (max = 100)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70556,"Invånare som använt internet eller digital tjänst för att göra ett självtest (t ex. om alkoholkonsumtion, hjärtsvikt, diabetes, psykisk hälsa) andel (%) (-2023)",Hälso- och sjukvård,Volymer
+cardiovascular,N70576,"Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra ett självtest (t ex. om alkoholkonsumtion, hjärtsvikt, diabetes, psykisk hälsa) andel (%) (-2023)",Hälso- och sjukvård,Övrigt
+cardiovascular,N70632,"Kranskärlsröntgen inom 72 timmar vid mindre hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70633,"Patienter som fått extra blodförtunnande läkemedelsbehandling vid hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70634,"Patienter med RAAS-hämmande läkemedelsbehandling vid hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70635,"Måluppfyllelse för blodtryck efter hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70636,"Patienter med akut hjärtinfarkt som registrerats i Swedeheart, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70637,"Deltagande i uppföljning efter hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70638,"Patienter som slutat röka 11-13 månader efter hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N70639,"Patienter som börjat fysiskt träningsprogram 11–13 månader efter hjärtinfarkt, andel (%)",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N72455,"Avlidna inom 28 dagar efter hjärtinfarkt, antal",Hälso- och sjukvård,Kvalitet och resultat
+cardiovascular,N72839,"Vårdtillfällen vid hjärtsvikt, ålderstandardiserade värden, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+cardiovascular,N72840,"Vårddagar vid hjärtsvikt, antal/patient",Hälso- och sjukvård,Volymer
+cardiovascular,N72841,"Medelvårdtid vid hjärtsvikt, antal dagar",Hälso- och sjukvård,Volymer
+cardiovascular,N72842,"Vårdtillfällen vid hjärtarytmi och överledningsstörningar, ålderstandardiserade värden, antal/100 000 invånare",Hälso- och sjukvård,Volymer
+cardiovascular,N72843,"Vårddagar vid hjärtarytmi och överledningsstörningar, antal/patient",Hälso- och sjukvård,Volymer
+cardiovascular,N72844,"Medelvårdtid vid hjärtarytmi och överledningsstörningar, antal dagar",Hälso- och sjukvård,Volymer
+cardiovascular,U01415,"Incidens av hjärtinfarkter 20-79 år, antal/100 000 inv",Hälso- och sjukvård,Kvalitet och resultat
+rx_prescribing_patterns,N70880,"Antibiotikaförsäljning inkl. viss förskrivning till husdjur, recept/1000 inv",Hälso- och sjukvård,Volymer
+infectious_disease,N00404,"Antibiotikaförsäljning, recept/1000 inv","Kommunen, övergripande",Kvalitet och resultat
+infectious_disease,N00487,"Antibiotikaförsäljning åldersstandardiserat, recept/1000 (medelbefolkning) inv","Kommunen, övergripande",Övrigt
+infectious_disease,N70880,"Antibiotikaförsäljning inkl. viss förskrivning till husdjur, recept/1000 inv",Hälso- och sjukvård,Volymer

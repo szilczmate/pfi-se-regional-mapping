@@ -1,0 +1,22 @@
+region_code,region,year,"BRP per invånare, löpande priser, tkr","BRP per sysselsatt, löpande priser, tkr","BRP, löpande priser, mnkr","BRP, volymutveckling i procent","Egentlig lön, löpande priser, mnkr","Medelantal sysselsatta, personer i 1000-tal"
+01,Stockholms län,2024,833,1463,2065135,2.4,763894,1411.1
+03,Uppsala län,2024,574,1203,234869,3.4,86451,195.2
+04,Södermanlands län,2024,438,1026,132920,-6.1,53344,129.6
+05,Östergötlands län,2024,553,1056,262803,4.2,104484,248.9
+06,Jönköpings län,2024,508,965,188915,-2.1,80608,195.8
+07,Kronobergs län,2024,571,1092,116910,-4,45428,107.1
+08,Kalmar län,2024,448,965,111044,1.3,47028,115.1
+09,Gotlands län,2024,453,837,27784,-2.4,11412,33.2
+10,Blekinge län,2024,521,1113,82584,10.3,31891,74.2
+12,Skåne län,2024,515,1080,739165,1.9,304316,684.1
+13,Hallands län,2024,457,991,158305,1.8,63412,159.7
+14,Västra Götalands län,2024,603,1148,1073702,-2.4,432572,935
+17,Värmlands län,2024,475,1028,135508,4.5,55337,131.8
+18,Örebro län,2024,522,1059,161930,-0.3,64792,152.9
+19,Västmanlands län,2024,457,965,129181,-0.3,58843,133.9
+20,Dalarnas län,2024,456,945,131684,-5,58174,139.4
+21,Gävleborgs län,2024,434,938,124524,1.1,56555,132.7
+22,Västernorrlands län,2024,567,1137,137875,9,51320,121.3
+23,Jämtlands län,2024,471,977,62903,-1.4,25884,64.4
+24,Västerbottens län,2024,548,1034,154466,4.7,64773,149.4
+25,Norrbottens län,2024,615,1206,153743,-3.3,58097,127.5

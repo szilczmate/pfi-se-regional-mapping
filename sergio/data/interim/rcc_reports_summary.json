@@ -1,0 +1,97 @@
+{
+  "RCC_Syd_Årsredovisning_2025": {
+    "pages": 10,
+    "chars": 11927,
+    "themes": {
+      "bröstcancer": 0,
+      "lungcancer": 0,
+      "HER2": 0,
+      "ALK": 0,
+      "BRCA": 0,
+      "myelom": 0,
+      "amyloid": 0,
+      "hereditär": 0,
+      "palbociklib": 0,
+      "ventetid": 2,
+      "molekylär": 0,
+      "prevention": 0,
+      "screening": 0
+    }
+  },
+  "RCC_Syd_Årsredovisning_2024": {
+    "pages": 19,
+    "chars": 41104,
+    "themes": {
+      "bröstcancer": 3,
+      "lungcancer": 6,
+      "HER2": 0,
+      "ALK": 0,
+      "BRCA": 0,
+      "myelom": 0,
+      "amyloid": 0,
+      "hereditär": 0,
+      "palbociklib": 0,
+      "ventetid": 4,
+      "molekylär": 0,
+      "prevention": 8,
+      "screening": 17
+    }
+  },
+  "RCC_Samverkan_Årsrapport_2024": {
+    "pages": 41,
+    "chars": 81615,
+    "themes": {
+      "bröstcancer": 4,
+      "lungcancer": 3,
+      "HER2": 0,
+      "ALK": 0,
+      "BRCA": 0,
+      "myelom": 1,
+      "amyloid": 0,
+      "hereditär": 0,
+      "palbociklib": 0,
+      "ventetid": 2,
+      "molekylär": 0,
+      "prevention": 27,
+      "screening": 10
+    }
+  },
+  "RCC_Norr_Cancerplan_Uppföljning_2025": {
+    "pages": 67,
+    "chars": 58959,
+    "themes": {
+      "bröstcancer": 0,
+      "lungcancer": 6,
+      "HER2": 0,
+      "ALK": 0,
+      "BRCA": 0,
+      "myelom": 0,
+      "amyloid": 0,
+      "hereditär": 0,
+      "palbociklib": 0,
+      "ventetid": 0,
+      "molekylär": 0,
+      "prevention": 0,
+      "screening": 0
+    }
+  },
+  "RCC_Samverkan_Cancerrapport_Delrapport_2025": {
+    "pages": 65,
+    "chars": 117832,
+    "themes": {
+      "bröstcancer": 8,
+      "lungcancer": 5,
+      "HER2": 1,
+      "ALK": 0,
+      "BRCA": 0,
+      "myelom": 0,
+      "amyloid": 0,
+      "hereditär": 0,
+      "palbociklib": 0,
+      "ventetid": 27,
+      "molekylär": 4,
+      "prevention": 44,
+      "screening": 39
+    }
+  }
+}

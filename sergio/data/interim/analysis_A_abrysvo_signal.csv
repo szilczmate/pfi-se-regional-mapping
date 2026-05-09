@@ -1,0 +1,22 @@
+region,rsv_total,abrysvo,rsv_share,population,abrysvo_spend_per_capita,abrysvo_active,signal_tier,healthcare_region
+Stockholm,43317704,25944750,59.9,2473307,10.489902790070136,TRUE,Moderate override (50–75%),Stockholm-Gotland
+Gotland,408988,187200,45.8,60971,3.070312115595939,TRUE,Cautious adoption (20–50%),Stockholm-Gotland
+Uppsala,6796536,4360200,64.2,407912,10.689070191609956,TRUE,Moderate override (50–75%),Mellansverige
+Sörmland,1980182,1671150,84.4,301542,5.542014047794337,TRUE,Strong override (≥75% Pfizer share),Mellansverige
+Västmanland,1885493,1435200,76.1,281158,5.104603105727029,TRUE,Strong override (≥75% Pfizer share),Mellansverige
+Örebro,1811322,1402050,77.4,308375,4.54657478719092,TRUE,Strong override (≥75% Pfizer share),Mellansverige
+Dalarna,1792686,1275300,71.1,286546,4.4505943199346705,TRUE,Moderate override (50–75%),Mellansverige
+Gävleborg,1420517,742950,52.3,284558,2.610891276998011,TRUE,Moderate override (50–75%),Mellansverige
+Värmland,1743282,1156350,66.3,283384,4.080505603703808,TRUE,Moderate override (50–75%),Mellansverige
+Östergötland,3374186,2094300,62.1,472446,4.4328875681030215,TRUE,Moderate override (50–75%),Sydöstra
+Jönköping,1738228,1181700,68,370009,3.1937060990408344,TRUE,Moderate override (50–75%),Sydöstra
+Kalmar,1386364,836550,60.3,246352,3.3957507956095343,TRUE,Moderate override (50–75%),Sydöstra
+Skåne,10568321,6721650,63.6,1428626,4.704975269944688,TRUE,Moderate override (50–75%),Södra
+Blekinge,726619,462150,63.6,157223,2.9394554231887193,TRUE,Moderate override (50–75%),Södra
+Halland,2104825,1351350,64.2,345074,3.916116543118288,TRUE,Moderate override (50–75%),Västra
+Kronoberg,1069097,688350,64.4,203351,3.3850337593618915,TRUE,Moderate override (50–75%),Södra
+Västra Götaland,15700493,11532300,73.5,1772821,6.505056066010049,TRUE,Moderate override (50–75%),Västra
+Västernorrland,1598550,957450,59.9,241458,3.9652858882290087,TRUE,Moderate override (50–75%),Norra
+Jämtland Härjedalen,668989,468000,70,132839,3.5230617514434766,TRUE,Moderate override (50–75%),Norra
+Västerbotten,1446817,996450,68.9,281138,3.5443447701840376,TRUE,Moderate override (50–75%),Norra
+Norrbotten,1092861,778050,71.2,248620,3.1294747003459094,TRUE,Moderate override (50–75%),Norra

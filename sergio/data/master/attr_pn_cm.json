@@ -1,0 +1,38 @@
+{
+  "Norrland": {
+    "PN_per100k": 13.31,
+    "CM_per100k": 1.55,
+    "PN_idx": 758,
+    "CM_idx": 89
+  },
+  "Stockholm Sörmland": {
+    "PN_per100k": 0.77,
+    "CM_per100k": 1.65,
+    "PN_idx": 45,
+    "CM_idx": 97
+  },
+  "Mellansverige": {
+    "PN_per100k": 0.32,
+    "CM_per100k": 1.35,
+    "PN_idx": 19,
+    "CM_idx": 79
+  },
+  "Sydöstra": {
+    "PN_per100k": 0.55,
+    "CM_per100k": 1.47,
+    "PN_idx": 32,
+    "CM_idx": 86
+  },
+  "Södra": {
+    "PN_per100k": 0.65,
+    "CM_per100k": 2.76,
+    "PN_idx": 38,
+    "CM_idx": 156
+  },
+  "VGR": {
+    "PN_per100k": 0.67,
+    "CM_per100k": 1.07,
+    "PN_idx": 39,
+    "CM_idx": 63
+  }
+}

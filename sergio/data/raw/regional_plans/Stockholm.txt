@@ -1,0 +1,1623 @@
+MÅLBILD OCH STRATEGI FÖR Diarienummer
+HÄLSO- OCH SJUKVÅRDEN 2040 RS 2024-0509
+Strategi
+Målbild och strategi för hälso- och
+sjukvården 2040
+Beslutad av regionfullmäktige, den 9 december 2025
+Gäller för Region Stockholm
+Gäller till 2040
+Innehållsförteckning
+Sammanfattning .........................................................................................4
+Bakgrund ....................................................................................................5
+Inledning ...........................................................................................................................................5
+Framtidsspaningar ............................................................................................................................6
+Utgångspunkter .................................................................................................................................7
+Styrkor och möjligheter att bygga vidare på ...................................................................................10
+Målbild 2040 .............................................................................................12
+Strategi .....................................................................................................14
+Fokusområde 1: Personcentrerad vård med stärkta möjligheter till egenvård ...........16
+Patient och närstående ska ges möjlighet att vara medskapare i vården ......................................16
+Stärkta möjligheter att ta ansvar för och vara delaktig i sin hälsa och vård ..................................17
+Det ska vara enkelt att komma i kontakt och att interagera med vården ......................................18
+Fokusområde 2: Sammanhållen vård efter behov med vårdcentralen som nav .........19
+Rikta insatser till patienter med omfattande och komplexa vårdbehov och särskilt utsatta
+grupper ............................................................................................................................................19
+Ett effektivt hälso- och sjukvårdsystem med primärvården som utgångspunkt ...........................21
+Vårdcentralen ska ha ett tydligt uppdrag som nav i hälso- och sjukvården ..................................23
+En större andel vård ska bedrivas i hemmet ..................................................................................24
+Samarbetet och koordineringen mellan vård- och omsorgsgivare ska stärkas .............................25
+Region Stockholm ska ha en samlad vårdinformationsmiljö ........................................................26
+Systematisera arbetet med att förebygga ohälsa för minskat vårdbehov ......................................27
+Fokusområde 3: En attraktiv och hållbar arbetsplats där kompetensen ständigt
+utvecklas ...........................................................................................................................28
+Alla arbetsgivare ska arbeta aktivt med att behålla och attrahera kompetenta medarbetare ......29
+Rätt kompetens i rätt tid där patienter med störst behov prioriteras ...........................................30
+Kompetens och arbetssätt ska utvecklas kontinuerligt ..................................................................32
+Ett starkt ledarskap på alla nivåer ..................................................................................................33
+Fokusområde 4: Forskning, utveckling, utbildning och innovation som stärker
+förmågan att möta framtidens vårdbehov .......................................................................34
+Utveckling som möjliggör en sammanhållen och effektiv hälso- och sjukvård ............................34
+En stark forsknings-, utvecklings-, utbildnings- och innovationsförmåga i alla delar av hälso-
+och sjukvården ................................................................................................................................35
+Systematiskt arbete för att utveckla, sprida och använda bästa möjliga kunskap ........................37
+Fokusområde 5: Ett hållbart, anpassningsbart och robust hälso- och sjukvårdssystem
+..........................................................................................................................................40
+Långsiktig hållbarhet ska säkerställas genom prioriterad och balanserad resursanvändning ....40
+Skapa förmåga till omställning vid förändrade förutsättningar och behov ..................................43
+Arbetet framåt med målbild och strategi 2040 .........................................46
+Sida 2
+Rekommendationer ..................................................................................47
+Sida 3
+Sammanfattning
+Målbild och strategi för hälso- och sjukvården 2040 fastställer den långsiktiga
+inriktningen för hälso- och sjukvården, inklusive tandvården, i Region
+Stockholm. Strategin bygger på aktuell kunskap och innehåller fokusområden
+som lyfter fram de viktigaste inriktningarna för vårdsystemets framtida
+utveckling.
+Den demografiska utvecklingen pekar på att andelen äldre i befolkningen
+kommer att öka kraftigt, vilket leder till att vårdbehoven växer i en snabbare
+takt än den totala befolkningsökningen. Detta skapar utmaningar att
+kompetensförsörja vården samtidigt som minskade skatteintäkter påverkar
+finansieringen. Parallellt skapar den snabba utvecklingen inom läkemedel och
+medicinteknik nya möjligheter, men ställer också krav på förändrade arbetssätt
+och ett mer anpassningsbart hälso- och sjukvårdssystem. För att möta
+framtidens behov är det därför avgörande att säkerställa en samlad förmåga till
+omställning vid förändrade förutsättningar och behov.
+Målsättningen är att invånarna i Region Stockholm ska ha ett högt förtroende
+för hälso- och sjukvården, som ska vara jämlik, tillgänglig och av hög kvalitet.
+Vården ska präglas av ett personcentrerat förhållningssätt, där invånarna ges
+möjlighet att ta ansvar och vara delaktiga i sin hälsa och vård. Särskilda insatser
+ska riktas till patienter med omfattande och komplexa vårdbehov samt till
+särskilt utsatta grupper.
+Det ska vara enkelt att komma i kontakt och interagera med vården. En digital
+samlingsplats för invånarens interaktion med vården ska säkerställas och
+digitala lösningar ska ofta vara vägen in. Samtidigt ska goda alternativ erbjudas
+så som telefonkontakt, fysiska besök och funktionella ombudsmöjligheter.
+Region Stockholm ska ha ett sammanhållet och effektivt hälso- och
+sjukvårdssystem med vårdcentralen som nav. Alla ska ha tillgång till en fast
+läkarkontakt som bidrar till god kontinuitet och samordnade
+insatser. Sammanhållna vårdkedjor och att vård bedrivs på rätt nivå, med en
+ökad andel insatser i hemmet, ska säkerställas genom nära samarbete mellan
+primärvård, specialiserad vård och kommuner. En grundläggande förutsättning
+är att säkra en samlad vårdinformationsmiljö som möjliggör att hälsodata och
+information delas säkert och effektivt mellan vårdens aktörer, patienter och
+närstående.
+En attraktiv och hållbar arbetsplats, där både kompetens och arbetssätt
+kontinuerligt utvecklas, kommer att vara avgörande för att säkerställa tillgången
+till kompetenta medarbetare. I alla delar av vården ska starka forsknings-,
+utbildnings-, utvecklings-, och innovationsmiljöer finnas. Evidensbaserade och
+kostnadseffektiva metoder ska löpande implementeras, medan ineffektiva
+insatser med svag risk-nyttobalans ska fasas ut.
+Sida 4
+Bakgrund
+Inledning
+I Region Stockholms budget för 2024 (RS 2023-0160) uppdrogs hälso- och
+sjukvårdsnämnden att, i samråd med primärvårdsnämnden, ta fram en målbild
+och strategi för hälso- och sjukvården.
+Målbild och strategi för hälso- och sjukvården 2040 fastställer den långsiktiga
+inriktningen för hälso- och sjukvården, inklusive tandvården, i Region
+Stockholm. Den ska vara vägledande för regionen inom ramen för ordinarie
+planering och beslutsprocesser samt utgöra grunden för alla nya och reviderade
+styrande dokument. Syftet är att möta framtidens vårdbehov och uppnå de
+övergripande målen om en behovsanpassad och jämlik hälso- och sjukvård som
+förebygger ohälsa. Samtidigt ska långsiktig kompetensförsörjning, hållbarhet
+och kostnadseffektivitet säkerställas.
+Att förutse och planera för framtidens hälso- och sjukvård över ett
+tidsperspektiv på 15 år är en komplex uppgift och det finns flera faktorer som är
+svåra att förutse. Hälso- och sjukvården och tandvården är en integrerad del av
+samhället och påverkas av en rad omvärldsfaktorer, såsom ekonomisk
+utveckling, arbetsmarknadens situation, befolkningens attityder och
+hälsotillstånd, teknologiska framsteg, politiska förändringar, globala konflikter
+samt klimatförändringar.
+De senaste 15 åren har kännetecknats av teknologiska genombrott, med
+framväxten av smarta mobiler, sociala medier och AI, vilket har omformat både
+samhället och vården. Inom hälso- och sjukvården har exempelvis e-
+hälsotjänster förändrat arbetssätt och nya mediciner som mRNA-vacciner har
+snabbt tagits i bruk. Samtidigt har klimatförändringarnas effekter blivit alltmer
+påtagliga, med ökade temperaturer, extremväder och ett växande fokus på
+hållbarhet. Globaliseringen har också förändrats med ekonomiska kriser och
+förändrat säkerhetsläge i världen. Covid-19-pandemin visade på vårdens
+sårbarhet och behovet av krisberedskap, men visade också dess förmåga att
+hantera oförutsedda händelser och påskyndade innovationer inom vård och
+vaccinframställning.
+Fram till 2040 förväntas en fortsatt snabb förändringstakt med betydande
+teknologiska och medicinska framsteg. Vården kommer behöva ha en ökad
+kapacitet att hantera en åldrande befolkning och växande vårdbehov på samma
+gång som den anpassar sig till en föränderlig omgivning med nya
+förutsättningar och krav.
+Strategin bygger på aktuell kunskap och innehåller fokusområden som lyfter
+fram de viktigaste inriktningarna för vårdsystemets framtida utveckling, där
+kända osäkerheter också har vägts in. Även vikten av att bygga ett flexibelt och
+Sida 5
+anpassningsbart system som kan möta framtidens möjligheter och utmaningar
+lyfts.
+För att säkerställa att så många perspektiv som möjligt belyses har arbetet skett
+dialogbaserat med vårdens intressenter. Tillsammans med invånarna kommer
+Region Stockholms aktörer att under de kommande 15 åren ha en central roll i
+att driva regionens utveckling och möta kommande utmaningar.
+Framtidsspaningar
+Den demografiska utvecklingen pekar på att andelen äldre i befolkningen
+kommer att öka kraftigt. Antalet personer som är 80 år och äldre förväntas till
+år 2032 ha ökat med 51 procent jämfört med år 2022 i Region Stockholm. Trots
+att personer som är 85 år och äldre endast utgjorde 2 procent av länets totala
+befolkning år 2022, stod de för cirka 14 procent av alla öppenvårdsbesök och 16
+procent av alla slutenvårdsdygn. Det betyder att vårdbehovet kommer öka i en
+högre takt än befolkningsutvecklingen, till följd av en allt äldre befolkning. Den
+demografiska utvecklingen med allt fler äldre medför även särskilda utmaningar
+kopplade till tandhälsan. Samtidigt bidrar nya, mer effektiva
+behandlingsmetoder och ökad kunskap till tidigare identifiering av sjukdomar
+eller risker för sjukdom. Sammantaget innebär detta att befolkningen kan
+förväntas leva längre med olika kroniska och mer komplexa sjukdomar och
+tillstånd.
+Under samma tid kommer en minskning av andelen i befolkningen som är i
+arbetsför ålder ske, vilket förväntas medföra svårigheter att säkerställa en
+tillräcklig kompetensförsörjning inom vårdrelaterade yrkesgrupper, där behovet
+av kvalificerad personal redan är stort. För att möta dessa utmaningar behöver
+nya mer kompetenseffektiva arbetssätt utvecklas och konsekvent prioriteras
+samt kontinuerlig kompetensutveckling säkerställas.
+Den nationella inriktningen är att vårdstrukturen ska utvecklas mot en nära
+vård som ska genomsyra hela vårdkedjan från primärvården till den
+högspecialiserade vården. Målet är en mer personcentrerad vård anpassad efter
+patientens individuella förutsättningar och behov.
+Teknik, innovation och digitalisering förväntas fortsätta förändra samhället inte
+minst hälso- och sjukvården. Artificiell intelligens (AI) kan exempelvis komma
+att få omvälvande inverkan på hur sjukvård tillhandahålls och konsumeras samt
+hur ny kunskap tas fram. Teknisk utveckling förväntas bland annat utöka
+möjligheterna till egenmonitorering, övervakning av patienter på distans och
+mer sjukvård i hemmet. Därtill antas nya läkemedel och andra medicinska
+innovationer kunna bidra till både förlängd livslängd och förbättrad livskvalitet
+för patienter med idag svårbehandlade eller obotliga sjukdomar. Exakt hur
+denna utveckling kommer att se ut är dock omöjligt att förutse. Hur väl hälso-
+och sjukvården kan dra nytta av kommande framsteg kommer i hög grad att
+bero på dess förmåga att anpassa sig.
+Sida 6
+Digitaliseringen ökar effektiviseringspotentialen men medför också konkurrens
+om kompetens samt krav på säkra, digitala lösningar i vården. Med den ökande
+komplexiteten i världen, de pågående geopolitiska hoten och Sveriges
+medlemskap i Nato ökar behovet av att förstärka det civila försvaret och
+säkerheten, inklusive hanteringen av cyberhot.
+Kostnaderna för hälso- och sjukvården och tandvården förväntas öka till följd av
+befolkningstillväxt, en åldrande befolkning och ökade krav på tillgänglighet
+samtidigt som personer i yrkesverksam ålder behöver försörja allt fler.
+Teknologiska framsteg och medicinska innovationer medför ofta ökade
+kostnader och ökad konsumtion, åtminstone initialt. Region Stockholm behöver
+därför understödja teknologiska och medicinska landvinningar som även leder
+till kostnadseffektiviseringar. Med budgetbegränsningar och krav på
+effektiviseringar blir förmågan att prioritera resurser på ett hållbart sätt
+avgörande.
+Trender och framtidsspaningar beskrivs närmare i Bilaga 3
+Kunskapssammanställning.
+Utgångspunkter
+Målbilden och strategin tar sin utgångspunkt i Hälso- och sjukvårdslagen
+(2017:30) med målet om en god hälsa och en vård på lika villkor för hela
+befolkningen. Samma målsättning har formulerats i lagstiftningen för
+tandvården (1985:125). I hälso- och sjukvårdslagen tydliggörs att hälso- och
+sjukvården ska arbeta för att förebygga ohälsa, att den med störst behov ska ges
+företräde och ska vara organiserad så att den främjar kostnadseffektivitet.
+Strategin utgår även från Patientlagen (2014:821) med syftet att stärka och
+tydliggöra patientens ställning samt att främja patientens integritet,
+självbestämmande och delaktighet1.
+Regionerna har det övergripande ansvaret för hälso- och sjukvården och ska
+verka för en god hälsa hos befolkningen. Målbilden och strategin hanterar
+primärt det regionala ansvaret för hälso- och sjukvård. Det gemensamma
+arbetet mellan regionen och kommunerna hanteras i huvudsak genom
+huvudöverenskommelsen (HÖK), länsövergripande handlingsplanen för god
+och nära vård och omsorg i Stockholms län (2024–2030) och
+överenskommelser.
+Regionen ansvarar även för tandvård som omfattar barn och ungdomar samt
+tandvård för vuxna inom ramen för Region Stockholms särskilda tandvårdsstöd.
+Region Stockholm har också ett övergripande ansvar för planeringen av
+invånarnas tillgång till tandvård. Den resterande delen av tandvård, för
+personer 20 år och äldre, är ett statligt uppdrag som administreras av
+Försäkringskassan.
+1 Tandvården omfattas inte av Patientlagen (2014:821)
+Sida 7
+Den statliga utredningen Samordnad utveckling för god och nära vård (S
+2017:01) utgör tillsammans med En god och jämlik hälsa – en utvecklad
+folkhälsopolitik (Prop. 2017/18:249) en grund för målbilden och strategins
+riktning. Region Stockholms arbete med omställningen till nära vård beskrivs
+mer i avsnittet Region Stockholm arbete med omställningen till nära vård.
+Rekommendationer för att justera gällande styrande dokument eller
+komplettera med nya för att uppnå målbilden presenteras i kapitlet
+Rekommendationer. En sammanfattning av kunskapsunderlaget återfinns i
+bilaga 3 och en översikt över de använda kunskapsunderlag samt strategiska
+riktningar återfinns i bilaga 2.
+Regionfullmäktige har, genom policydokumentet God ekonomisk hushållning,
+fastställt riktlinjer som syftar till att säkerställa en ändamålsenlig verksamhet
+och en effektiv användning av regionens skattemedel. Målet är att inte enbart
+bibehålla värdet på regionens tillgångar och eget kapital, utan också undvika att
+kommande generationer belastas av dagens beslut. Med en växande andel äldre
+och kroniskt sjuka i befolkningen, samtidigt som andelen arbetsföra minskar,
+blir förändringar och effektiviseringar i vården avgörande för att upprätthålla
+kvaliteten. Det är avgörande att varje reform, satsning och initiativ tar hänsyn
+till dessa utmaningar.
+Region Stockholms vårdutbud består av många verksamma vårdgivare både
+inom offentlig och privat regi. Denna mångfald skapar möjligheter till valfrihet
+samt förutsättningar för innovation och nya arbetssätt. Samtidigt skapar det
+utmaningar att ge en sammanhållen vård och ökar krav på koordinering.
+Samordning och samarbete mellan olika aktörer och huvudmän behöver öka,
+inte minst mellan regionsjukvården och kommunal vård och omsorg. Digital
+och teknisk utveckling ska utgå från invånarens perspektiv vilket betyder att den
+ska främja samarbete, koordinering och egenvård, snarare än att fokusera på
+enskilda vårdgivares kontakter med patienten. De digitala och tekniska
+verktygen behöver även vara användarvänliga för att underlätta medarbetarnas
+arbete och frigöra mer tid för patienterna.
+Region Stockholms arbete med omställningen till nära vård
+I regionens budget 2019 fattade regionfullmäktige beslut om att det skulle
+presenteras en övergripande primärvårdsstrategi, med en strategisk inriktning
+och mål för en stärkt primärvård; Primärvårdsstrategi 2019-2025. Den
+beslutades i HSN i juni 2019 (HSN 2019-0945) och följdes av en plan för
+genomförande som beslutades 2022 (Genomförandeplan för nära vård, HSN
+2021-1966). Utöver det har Region Stockholm en tydlig långsiktig målsättning
+att primärvårdens andel av hälso- och sjukvårdskostnaden ska uppgå till 25
+procent till år 2030. Det fortsatta arbetet med omställningen till nära vård efter
+2025 införlivas i Målbild och strategi för hälso- och sjukvården 2040.
+Omställningen till nära vård berör hela hälso- och sjukvårdsystemet, såväl
+primärvård som specialiserad vård. I omställningen är det viktigt hur hälso- och
+sjukvården bedrivs snarare än att forma en ny vårdnivå. Syftet är att patienterna
+ska få ett mer personcentrerat och sammanhållet omhändertagande i hälso- och
+Sida 8
+sjukvården med utgångspunkt i individens behov och förutsättningar. Nära vård
+innehåller flera aspekter såsom både digitala och fysiska arbetssätt, hög
+tillgänglighet, geografisk närhet, möjlighet till egenvård, personlig kontakt och
+kontinuitet samt patientupplevd tillgänglighet. För att möjliggöra dessa
+arbetssätt behöver även tekniska förutsättningar finnas på plats.
+I Region Stockholm är inriktningen att primärvården ska vara utgångspunkten i
+hälso- och sjukvårdssystemet och att det är vårdcentralen som utgör navet. En
+väl utbyggd primärvård med fokus på dem med störst behov ger bra
+förutsättningar för att nå en mer jämlik vård och hälsa. Omställningen syftar
+också till att utforma primärvården så att hög medicinsk kvalitet bibehålls och
+utvecklas för alla patientgrupper.
+Genom att underlätta enkla kontaktvägar och utforma arbetssätt för ökad
+samverkan mellan primärvård och specialiserad vård, ökar möjligheterna för att
+den specialiserade vården kan komplettera primärvården på det sätt som är
+mest lämpligt utifrån patientens behov och primärvårdens förutsättningar.
+I samverkan mellan regionen och kommunerna har en gemensam
+handlingsplan tagits fram för god och nära vård och omsorg i Stockholms län.
+Den utgör också en viktig del i omställningen, och samverkan behöver fortsätta
+stärkas för att nå målet om en mer samordnad vård och omsorg. Här spelar de
+samordnande vårdcentralerna i varje kommun i länet, respektive stadsdel i
+Stockholms stad en viktig roll.2
+Primärvården ska stärkas för att vara utgångspunkt
+Strukturella förändringar i Region Stockholms utbud och verksamhet är
+avgörande för att möjliggöra omfattande satsningar på nära vård och
+primärvård. Målet är att skapa en hälso- och sjukvård som är både tillgänglig
+och kostnadseffektiv, med en primärvård som kan hantera en större andel av
+befolkningens vårdbehov. För att nå detta mål ska primärvårdens olika
+verksamheter stärkas, och den långsiktiga politiska ambitionen är att
+primärvårdens andel av sjukvårdsbudgeten successivt ska öka till 25 procent
+senast 2030. 2025 budgeterades primärvården stå för 21,7% av hälso- och
+sjukvårdens samlade kostnader.
+Vårdcentralernas resurser och kapacitet ska stärkas för att ge vårdcentralerna
+bättre förutsättningar att ta hand om sina patienter, särskilt multisjuka med
+komplexa vårdbehov. Med utökade resurser och fler fasta läkare3 kan
+vårdcentralerna ta ett större ansvar för sina patienter, vilket bidrar till trygghet
+2 Storsthlm och Region Stockholm, 2023. Handlingsplan för god och nära vård och omsorg i
+Stockholms län 2024–2030. Hämtad från:
+https://www.storsthlm.se/media/u3nnnftd/handlingsplan-f%c3%b6r-god-och-n%c3%a4ra-
+v%c3%a5rd-och-omsorg-i-stockholms-l%c3%a4n-2024-2030.pdf
+3 Lakartidningen.se 2019-12-17 (uppdaterad 2020-04-10). Hög personlig läkarkontinuitet i
+primärvård förenad med färre besök på akutmottagning [internet]. Tillgänglig från: Hög
+personlig läkarkontinuitet i primärvård förenad med färre besök på akutmottagning
+Sida 9
+och kontinuitet för patienten och kan på sikt avlasta den specialiserade
+vården4.
+För att frigöra resurser till denna utveckling behöver även den relativa andel av
+regionens budget som idag går till den specialiserade vården successivt minskas.
+Det innebär att den specialiserade vården ska fortsätta utvecklas så att den
+fokuserar på vård som behöver den specialiserade vårdens kompetens och
+resurser samt på att stötta primärvården.
+Denna förflyttning innebär dock en utmaning, givet att det finns
+verksamhetsmässiga utmaningar att utöka primärvårdens verksamhet i den takt
+som krävs för att minska behovet av specialiserad vård och därmed bromsa
+kostnadsutvecklingen. Ytterligare åtgärder för att stödja denna förflyttning
+behöver utredas vidare.
+Primärvårdens utveckling beskrivs närmare i fokusområde 2 samt i bilaga 5
+Plan för att nå målet 25 procent av sjukvårdsbudgeten till primärvården.
+Styrkor och möjligheter att bygga vidare på
+För att kunna möta framtidens utmaningar och nå uppsatta mål behöver
+regionens aktörer bygga vidare på, och stärka, de styrkor som finns, bland
+annat:
+• God folkhälsa: Folkhälsan i Stockholmsregionen är god, både i
+förhållande till riket och internationellt sett. Befolkningens hälsa har
+fortlöpande förbättrats i takt med högre utbildningsnivå, bättre ekonomi,
+högre sysselsättningsgrad och förbättrade levnadsvanor.
+• Infrastruktur och resurser: Regionen har en välutvecklad infrastruktur
+inom hälso- och sjukvården med flera stora sjukhus och en bredd av
+vårdgivare inom den specialiserade vården och primärvården. Regionen har
+ett brett vårdutbud samt tillstånd att bedriva högspecialiserad vård inom ett
+stort antal områden.
+• Kompetent vårdpersonal: Inom regionen finns en bredd av välutbildad,
+kompetent och erfaren vårdpersonal. Deras expertis och engagemang är
+avgörande för att säkerställa att patienterna får den vård de behöver.
+Region Stockholm är en av Sveriges största arbetsgivare med nästan 45 000
+medarbetare i den regionägda vården. Utöver detta finns ett stort antal
+medarbetare som arbetar inom den privata regin, vilka står för en tredjedel
+av den offentligt finansierade vården i regionen.
+• Teknologisk innovation: Stockholm är känt för sin innovation inom
+teknik och vetenskap, och detta inkluderar också hälso- och
+sjukvårdssektorn. Genom att använda avancerad teknik och digitala
+4 Lakartidningen.se, 2019-12-17 (uppdaterad 2020-04-10). Hög personlig läkarkontinuitet i
+primärvård förenad med färre besök på akutmottagning [internet]. Tillgänglig från: Hög
+personlig läkarkontinuitet i primärvård förenad med färre besök på akutmottagning
+Sida 10
+lösningar kan regionen effektivisera vårdprocesser, förbättra
+patientupplevelsen och patientsäkerheten samt optimera
+resursanvändningen.
+• Forsknings- och utvecklingsmiljö: Regionen har en stark forsknings-
+och utvecklingsmiljö inom hälso- och sjukvården, med flera framstående
+medicinska institutioner och forskningscentra samt ett konkurrenskraftigt
+näringsliv och ett dynamiskt innovationsklimat. Life Science är den tredje
+största branschen i Stockholmsregionens näringsliv, vilket gör den till en
+motor för både huvudstadens och hela landets tillväxt och internationella
+attraktionskraft. Detta gör det möjligt för regionen att ligga i framkant när
+det gäller medicinsk forskning och innovativa behandlingsmetoder.
+• Samverkan och nätverk: Region Stockholm har goda möjlighet att
+samarbeta med andra aktörer inom hälso- och sjukvården, både med
+kommuner som med aktörer nationellt och internationellt. Genom att dela
+kunskap och erfarenheter kan regionen dra nytta av bästa praxis och utbyta
+idéer för att förbättra vården ytterligare.
+Sida 11
+Målbild 2040
+Region Stockholm har i över 15 år arbetat med att genomföra satsningen
+Framtidens hälso- och sjukvård (FHS), med en målbild för 2025. Den nya
+målbilden för hälso- och sjukvården tar nu vid där FHS slutade. Målbild 2040
+och den tillhörande strategin ska skapa förutsättningar för styrning och en
+gemensam riktning för länets hälso- och sjukvård med sikte på 2040.
+Målbilden ska fungera som en vägvisare för olika aktörer inom hälso- och
+sjukvårdssystemet. Ambitionen är att ge stöd och vägledning till beslutsfattare,
+vårdgivare och andra berörda aktörer, så att de tillsammans kan bidra till att
+förverkliga målbilden för 2040.
+Målbilden är framtagen tillsammans med både förtroendevalda och vårdens
+intressenter och ses i sin helhet nedan.
+Tillsammans för din hälsa och vård.
+Vi erbjuder dig en sammanhållen hälso- och sjukvård som utgår från
+dina behov och förutsättningar.
+➢ Du får stöd för att kunna ta ansvar och vara delaktig i din hälsa och vård. Det
+är lätt att nå oss när du behöver vård och du kan enkelt ta del av vad vi
+kommit överens om.
+➢ Inom hälso- och sjukvården arbetar vi tillsammans för att erbjuda en jämlik
+och tillgänglig vård av hög kvalitet där du känner dig trygg i livets alla
+skeden.
+➢ Medarbetarna är hälso- och sjukvårdens största tillgång. Vi utvecklar vården
+kontinuerligt så att den baseras på bästa möjliga kunskap och kan möta
+förändrade behov.
+Definitioner
+Sammanhållen vård
+Sammanhållen vård bygger på helhetssyn och nära samarbete över professions-
+och organisationsgränser. Vård ska ges på rätt nivå och planering, samverkan
+och insatser ska ske med patientdelaktighet och utifrån behov.
+Jämlik vård
+En jämlik hälso- och sjukvård innebär att bemötande, vård och behandling ska
+erbjudas på lika villkor till alla oavsett bland annat personliga egenskaper,
+bostadsort, ålder, kön, funktionsnedsättning, utbildning, socioekonomisk
+status, födelseland, sexuell läggning, könsidentitet, könsuttryck och etnisk eller
+religiös tillhörighet.
+Sida 12
+Tillgänglig vård
+Tillgänglighet handlar om balansen mellan invånarnas behov av vård och
+vårdens kapacitet och resurser att möta dessa. En tillgänglig vård innebär att
+vården är lätt att komma i kontakt med och att insatser ges inom rimlig tid.
+Tillgänglighet handlar också om geografisk närhet, behovsanpassade öppettider,
+gott bemötande och möjligheter till digitala kontaktlösningar med vården.
+Vidare innebär tillgänglighet att hälso- och sjukvården ska utformas så att den
+inte utestänger personer med särskilda behov, som exempelvis personer med
+funktionsnedsättningar eller personer som har ett annat modersmål än svenska.
+Sida 13
+Strategi
+Utifrån den övergripande målbilden har fem fokusområden identifierats. För
+varje fokusområde finns strategiska inriktningar som tydliggör den nödvändiga
+utvecklingen för att skapa en sammanhållen, jämlik och tillgänglig hälso- och
+sjukvård av hög kvalitet – en vård som invånarna i Region Stockholm har stort
+förtroende för. De strategiska inriktningarna beskrivs under respektive
+fokusområde.
+Fokusområde 1: Personcentrerad vård med stärkta möjligheter till
+egenvård
+Strategiska inriktningar
+▪ Patient och närstående ska ges möjlighet att vara medskapare i vården
+▪ Stärkta möjligheter att ta ansvar och vara delaktig i sin hälsa och vård
+▪ Det ska vara enkelt att komma i kontakt och att interagera med vården
+Fokusområde 2: Sammanhållen vård efter behov med vårdcentralen
+som nav
+Strategiska inriktningar
+▪ Rikta insatser till patienter med omfattande och komplexa vårdbehov och
+särskilt utsatta grupper
+▪ Ett effektivt hälso- och sjukvårdsystem med primärvården som
+utgångspunkt
+▪ Vårdcentralen ska ha ett tydligt uppdrag som nav i hälso- och sjukvården
+▪ En större andel vård ska bedrivas i hemmet
+▪ Samarbetet och koordineringen mellan vård- och omsorgsgivare ska
+stärkas
+▪ Region Stockholm ska ha en samlad vårdinformationsmiljö
+▪ Arbetet med att förebygga ohälsa för minskat vårdbehov ska
+systematiseras
+Fokusområde 3: En attraktiv och hållbar arbetsplats där
+kompetensen ständigt utvecklas
+Strategiska inriktningar
+▪ Alla arbetsgivare ska arbeta aktivt med att behålla och attrahera
+kompetenta medarbetare
+▪ Rätt kompetens i rätt tid där patienter med störst behov prioriteras
+▪ Kompetens och arbetssätt ska utvecklas kontinuerligt
+▪ Ett starkt ledarskap på alla nivåer
+Sida 14
+Fokusområde 4: Forskning, utveckling, utbildning och innovation
+som stärker förmågan att möta framtidens vårdbehov
+Strategiska inriktningar
+▪ Utveckling som möjliggör en sammanhållen och effektiv hälso- och
+sjukvård ska prioriteras
+▪ En stark forsknings-, utvecklings-, utbildnings- och innovationsförmåga
+ska möjliggöras i alla delar av hälso- och sjukvården
+▪ Systematiskt arbete för att utveckla, sprida och använda bästa möjliga
+kunskap
+Fokusområde 5: Ett hållbart, anpassningsbart och robust hälso- och
+sjukvårdssystem
+Strategiska inriktningar
+▪ Långsiktig hållbarhet ska säkerställas genom prioriterad och balanserad
+resursanvändning
+▪ Skapa förmåga till omställning vid förändrade förutsättningar och behov
+Sida 15
+Fokusområde 1:
+Personcentrerad vård med
+stärkta möjligheter till
+egenvård
+Fokusområde 1 och dess strategiska inriktningar syftar till att uppnå
+följande mål:
+• Ett personcentrerat förhållningssätt och arbetssätt präglar hela hälso- och
+sjukvårdssystemet. Vården sker i samverkan med patienten och utgår från dennes
+behov och förutsättningar.
+• Invånarna i Region Stockholm har möjlighet att ta ansvar för sin hälsa och vård,
+från enklare egenvård till avancerade insatser, med stöd av information, digitala
+och tekniska lösningar samt med stöd av vårdpersonal. De som har förutsättningar
+och önskar kan självständigt sköta en betydande del av sin vård, med stöd av
+tekniska lösningar och i dialog med hälso- och sjukvården. När patienten önskar
+och när förutsättningar finns kan närstående vara delaktiga i vården.
+• Kontaktvägarna till hälso- och sjukvården är enkla och tydliga samt utformade efter
+invånarnas olika förutsättningar och behov.
+• Det finns en digital samlingsplats för invånarens interaktion med vården och
+digitala lösningar är ofta vägen in. Det finns goda alternativ så som telefon eller
+fysiska besök samt funktionella ombudsmöjligheter.
+Patient och närstående ska ges möjlighet att
+vara medskapare i vården
+Patienten och närstående som medskapare i vården innebär att patienten och
+närstående är delaktiga på varje nivå i vårdsystemet, i mötet mellan patienten
+och personalen samt på regional och nationell nivå. Patienten och närstående
+behöver också göras delaktiga vid planering av nya vårduppdrag/vårdtjänster
+eller utveckling av hälso- och sjukvård, i utbildningen av vårdpersonal, i
+forskningen och i utformning av policys och reglering av hälso- och sjukvård.
+Personcentrerad vårdplanering innebär att patienten, ofta tillsammans med
+närstående, ges möjlighet att vara fullt insatt i och delaktig i planeringen av sin
+Sida 16
+vård utifrån sina förutsättningar och önskemål.5 Detta gäller både före, under,
+mellan och efter vårdmöten och vårdkontakter. Patienterna ska enkelt kunna
+förstå hur olika insatser hänger ihop och vad nästa steg i vården är.
+Även närståendes delaktighet är central i vården, både för att ge stöd till
+patienten och för att bidra med viktig information om patientens livssituation,
+när patienten så önskar. Närståendes roll förväntas bli viktigare i takt med att
+mer vård i hemmet och på distans utvecklas. Samtidigt är det viktigt att ge stöd
+till närstående som utför omfattande insatser men även ta hänsyn till det stora
+antalet ensamhushåll inom länet, där möjligheten till närståendes stöd är
+begränsad.
+Stärkta möjligheter att ta ansvar för och vara
+delaktig i sin hälsa och vård
+Stärkt hälsokommunikation och vägledning för ökad egenvård
+Individers förmåga att få tag på, förstå, kommunicera, värdera och använda sig
+av information kring hälsa anses stärka invånarens förmåga till egenvård6. Den
+förmågan kan variera över livet och beroende på den situation invånaren
+befinner sig i.
+För att möta det ökade vårdbehovet krävs även en bättre förmåga att informera,
+bedöma och vägleda patienter till rätt vårdnivå. Med rätt stöd kan invånare i
+större utsträckning hantera besvär och åkommor på egen hand, vilket gör att
+vårdens resurser kan riktas dit de behövs som mest. Därför ska samtliga
+vårdaktörer använda det gemensamma hänvisningsstödet, främja möjligheter
+för egenmonitorering och tillämpa triageringsverktyg som underlättar ett
+effektivt sökbeteende. Region Stockholm ska även säkerställa att egenvårdsråd
+fortsätter att vara lättillgängliga via 1177.se.
+Hälso- och sjukvården ska aktivt arbeta med att göra information och
+kommunikation lättillgänglig och förståeligt. Det gäller såväl kallelser och
+information på webb eller broschyr som i mötet med patienten och vid mer
+avancerade egenvårdsinsatser.
+Främja egenvård på alla vårdnivåer
+Alla patienter ska, utifrån sina förutsättningar och behov, ges möjlighet att ta ett
+självständigt ansvar för sin hälsa och vård, oavsett vårdnivå. Det kan handla om
+att ta ordinerade läkemedel, rapportera värden digitalt, genomgå
+internetbaserade behandlingar, självmonitorera symtom, ta hand om sin
+munhälsa eller förändra levnadsvanor. För vissa innebär det även mer
+avancerad egenvård, såsom hemdialys eller respiratorvård i hemmet.
+5 Göteborgs universitet. Om personcentrerad vård [internet]. Tillgänglig från: Om
+personcentrerad vård | Centrum för personcentrerad vård – GPCC, Göteborgs universitet
+Sida 17
+Personcentrerad vård innebär att individen tillskrivs både rättigheter och
+ansvar när det gäller den egna vården. För att möjliggöra detta ska vårdgivare
+främja vårdpersonalens möjligheter att aktivt stödja sina patienter till egenvård
+när så är lämpligt och förutsättningar finns. Vårdgivare på alla nivåer ska aktivt
+arbeta för att implementera och främja digitala verktyg och tekniska lösningar
+som stärker patienternas delaktighet och möjligheten till egenvård.
+Utvecklingen ska inriktas på områden där patient- och effektnyttan är som
+störst, vilket i sin tur kan frigöra resurser för dem med störst behov.
+Det ska vara enkelt att komma i kontakt och
+att interagera med vården
+För många ska digitala lösningar vara vägen in, men det ska finnas bra
+alternativ såsom telefon, digitala ombud, brev eller fysiska besök, där så behövs.
+En digital samlingsplats för invånaren
+För att invånaren ska uppleva vården som tillgänglig, jämlik och sammanhållen
+behövs en digital samlingsplats som garanterar invånaren tillgång till det den
+behöver, även om andra digitala tjänster finns parallellt. Invånarna enkelt hitta
+rätt utan förkunskaper. På samlingsplatsen ska invånaren ha tillgång till digitala
+tjänster och information som rör den egna hälsan och vården, oavsett vilken
+vård- eller omsorgsgivare som är eller har varit involverad.
+Det sammantagna utbudet av digitala invånartjänster i Region Stockholm ska
+vara utformat så att alla som kan hantera enklare digitala tjänster också ska
+kunna interagera digitalt med hälso- och sjukvården.
+Invånarens interaktion med hälso- och sjukvården ska utgå från tre
+grundläggande principer:
+1. Det ska finnas en digital samlingsplats för invånarens interaktion med
+hälso- och sjukvården.
+2. Invånarens digitala information ska följa med invånaren och vara
+tillgänglig i de tjänster där den behövs.
+3. Det ska finnas goda alternativ och funktionella ombudsmöjligheter för
+dem som saknar digitala eller kognitiva förutsättningar.
+Målet är att i så stor utsträckning som möjligt tillgängliggöra information till
+invånaren genom en samlingsplats som är nationell, som förses med regional
+information från regionala lösningar. Inriktningen är fortsatt att Region
+Stockholm står bakom målbild för 1177 och behöver följa utvecklingen som sker
+nationellt sam t sträva mot att nyttja nationella ramverk, standarder och
+infrastruktur.
+Sida 18
+Fokusområde 2:
+Sammanhållen vård efter
+behov med vårdcentralen
+som nav
+Fokusområde 2 och dess strategiska inriktningar syftar till att uppnå
+följande mål:
+• Insatser riktas till patienter med omfattande och komplexa vårdbehov samt särskilt
+utsatta grupper.
+• Primärvården är utgångspunkten för hälso- och sjukvården med vårdcentralen som
+nav. Alla har en fast läkarkontakt som bidrar till god kontinuitet och samordnade
+insatser.
+• Region Stockholm har ett sammanhållet och resurseffektivt hälso- och
+sjukvårdssystem. Genom nära samarbete mellan primärvård, specialiserad vård och
+kommuner säkerställs sammanhållna vårdförlopp, säkra vårdövergångar och att
+vård bedrivs på rätt nivå, med en ökad andel insatser i hemmet.
+• En större andel av vården utförs i hemmet med stöd av hälso-och sjukvårdspersonal
+och med hjälp av digitala verktyg, mobila vårdteam och avancerad medicinsk
+teknik.
+• Regionen har en samlad vårdinformationsmiljö som möjliggör att hälsodata och
+information kan delas mellan vårdens aktörer, patienter och närstående.
+• Hälso- och sjukvården arbetar systematiskt med evidensbaserade samt
+hälsoekonomiskt effektiva hälsofrämjande och förebyggande insatser. Dessa bidrar
+till att förbättra individens hälsa och livskvalitet samt till att minska de ökade
+vårdbehoven på befolkningsnivå.
+Rikta insatser till patienter med omfattande
+och komplexa vårdbehov och särskilt utsatta
+grupper
+Att fokusera på invånare med störst vårdbehov och särskilt utsatta grupper
+innebär att aktivt prioritera resurser och insatser till de grupper av patienter
+som behöver mest vård samt till invånare som vården har svårt att nå.
+Sida 19
+Trygg, sammanhållen, nära vård för patientgrupper med
+omfattande och komplexa vårdbehov
+För patienter med omfattande och komplexa vårdbehov, såsom multisjuka äldre
+eller personer med kroniska sjukdomar, är kontinuitet avgörande. Därför ska
+dessa patienter prioriteras i det långsiktiga arbetet med att uppnå målet om att
+alla patienter ska få en fast läkarkontakt och vårdkontakt med ansvar för att
+samordna och koordinera deras vårdinsatser. För patienter med flera
+vårdkontakter ska även en dokumenterad överenskommelse mellan patient och
+vårdgivare fungera som stöd för samordning och planering. Syftet är att
+säkerställa kvalitet på vården, öka tydlighet i ansvarsfördelning samt minska
+risk för dubbelarbete genom en sammanhållen, gemensam planering med
+effektiva informationsflöden, såväl mellan olika vård- och omsorgsgivare som
+mellan vårdgivare och patient och närstående.
+Som beskrivs i avsnittet Samarbetet och koordineringen mellan vård- och
+omsorgsgivare ska stärkas ska samarbetsstrukturerna mellan primärvård,
+specialiserad vård, kommunala vårdtjänster och andra relevanta aktörer
+utformas. I detta arbete ska vårdkedjor för patienter med omfattande vårdbehov
+och kroniska sjukdomar särskilt prioriteras. Samarbetsstrukturerna ska utgå
+från patientens vårdbehov och inkludera alla vårdgivare som är involverade i
+patientens vård. Exempelvis kan det handla om samordning mellan
+vårdcentraler, psykiatri, äldreomsorg och rehabilitering.
+De vårdområden som möter dessa patientgrupper behöver även ges särskild
+prioritet, både vad gäller resurser, utveckling och möjligheter till
+kompetensförsörjning.
+Förbättrad tillgång till vård för särskilt utsatta grupper
+Hälsan är ojämlikt fördelad i länet och skiljer sig mellan grupper i befolkningen.
+Det finns grupper som är särskilt socialt och ekonomiskt utsatta, exempelvis
+personer med vissa funktionsnedsättningar, med migrationsbakgrund eller
+personer som lever i hemlöshet, där hälsoproblem är särskilt vanligt
+förekommande.
+Den geografiska närheten, tillgängligheten, till vårdgivaren har i studier visat sig
+ha större påverkan på benägenheten att söka vård för personer med lägre
+socioekonomi. För att främja jämlik vård och hälsa behöver tillgången till
+primärvård, särskilt vårdcentraler, säkerställas i områden med stora behov.
+För de personer som vården har svårt att nå ut till behövs riktade och anpassade
+insatser. Det kan handla om uppsökande verksamhet, lågtröskelverksamheter,
+riktade kallelser och insatser som görs i samverkan med kommun och
+civilsamhälle.
+Sida 20
+Ett effektivt hälso- och sjukvårdsystem med
+primärvården som utgångspunkt
+Grundläggande principer
+Ett effektivt vårdsystem bygger på gemensamma mål, enkelt och flexibelt
+samarbete samt att rätt resurser finns på rätt plats i rätt tid.
+Vårdbehovsanalyser och de geografiska principerna ska ligga till grund för
+planering av vårdutbudet i syfte att ge vård efter behov.
+Hälso- och sjukvårdsstrukturen ska vara flexibel och nyttjas på bästa sätt utifrån
+såväl ett patient- och medarbetarperspektiv som ett effektivitetsperspektiv.
+Vårdåtgärder ska styras mot den vårdnivå och vårdpersonal som kan utföra
+vårdåtgärden till lägst sammantagen resursåtgång med bibehållen eller ökad
+kvalitet. Möjligheterna till kontinuitet och en sammanhållen vård ska alltid
+prioriteras och vårdcentralerna ska ha ett särskilt ansvar att samordna och
+koordinera patientens vård.
+Primärvården ska vara utgångspunkten i hälso- och sjukvårdssystemet och
+vårdcentralen navet. Förskjutningen från slutenvård till öppenvård ska fortsätta
+och medicinsk samt teknisk utveckling ska utnyttjas för att möjliggöra mer vård
+i hemmet, både inom primärvården och den specialiserade vården. Vilken
+vårdform som är mest effektiv beror dock på patientens individuella behov och
+förutsättningar. Kostnadseffektiva och kompetenseffektiva arbetssätt ska
+konsekvent prioriteras på alla nivåer. För att säkerställa att patienterna får rätt
+vård på rätt nivå, och att den specialiserade vårdens resurser används för de
+mest komplexa fallen, behöver samordningen stärkas. Detta innebär att
+konsultation och rådgivning mellan vårdnivåerna förbättras, så att patienter
+smidigt kan få adekvat hjälp och vägledning.
+I takt med den medicinska och tekniska utvecklingen blir det successivt möjligt
+att vårda och bota allt svårare sjuka patienter, där behandlingsmöjligheterna
+tidigare varit begränsade. Detta ökar den totala arbetsbördan för vården, såväl i
+primärvården som i den specialiserade vården. När nya diagnosmetoder och
+behandlingsalternativ introduceras, möjliggörs viss överföring av vård till
+primärvården men samtidigt väntas även ett ökat tillflöde av patienter från
+primärvården till den specialiserade vården. Överföring av vård och horisontella
+prioriteringar behöver därför ske gemensamt och på ett systematiskt sätt för att
+säkra att patienten tas om hand på bästa sätt. Insatserna på respektive vårdnivå
+behöver kontinuerligt effektiviseras, samspelet mellan vårdnivåerna stärkas och
+vårdavtal/vårduppdrag anpassas i enlighet med utvecklade behov och
+förutsättningar.
+Nuvarande vårdstruktur samt en analys av vårdplatsbehovet fram till 2032 finns
+beskrivet i Bilaga 4 Plan för långsiktig slutenvårdskapacitet.
+Sida 21
+Primärvården är utgångspunkten i hälso- och sjukvården med
+vårdcentralen som nav
+Primärvården består av bland annat vårdcentraler, barn- och
+mödravårdscentraler, ungdomsmottagningar, logopedi samt rehabiliterings-
+och habiliteringsverksamheter. För att uppfylla sitt syfte behöver dessa
+verksamheter vara lättillgängliga, både geografiskt och sett till väntetider, så att
+patienter kan få rätt vård i rätt tid.
+För att primärvården ska kunna vara utgångspunkten i vården och tillgodose en
+bredare variation av vårdbehov krävs en sammanhållen och effektiv användning
+av dess samlade resurser. Detta förutsätter en nära samverkan mellan
+vårdcentralerna, övriga verksamheter i primärvården och primärvårdens olika
+yrkesgrupper samt en kontinuerlig kompetensutveckling.
+Förutsättningar för kompetensförsörjning, utbildning och
+forskning ska säkerställas
+I utvärderingen av Framtidsplanen (HSN 2023-0495) framgår att
+förutsättningarna för kompetensförsörjning, utbildning och forskning inom
+Region Stockholms decentraliserade vård inte varit optimala och har i stor
+utsträckning behövt utvecklas efter hand. Detta innebär att vård kan behöva
+utföras på en högre vårdnivå (så som akutsjukhus) med hänvisning till andra
+värden än kostnadseffektivitet. Det kan till exempel handla om att säkra
+långsiktigt hållbara förutsättningar för utbildning, kompetensförsörjning och
+forskning. För en långsiktigt hållbar utveckling bör dessa aspekter ges större
+prioritet i utvecklingen av den specialiserade vården framåt.
+Den prehospitala vården som stöd för hela vårdsystemet
+Den prehospitala vården utgör en central del av vårdkedjan för både patienterna
+och hälso- och sjukvården i Region Stockholm. Den prehospitala vården ska ges
+utifrån patientens medicinska behov och vara jämlik, sammanhållen och
+tillgänglig. För att uppnå detta behöver de prehospitala resurserna användas
+effektivt. De prehospitala resurserna behöver i högre grad samordnas och
+samverkan med alla vårdnivåer behöver stärkas. Centralt är också
+sammanhållna digitala system.
+När vården i allt större utsträckning flyttas till andra vårdformer, såsom
+patientens hem, kan detta leda till ett ökat behov av transportresurser. Detta är
+en viktig faktor att beakta vid utvecklingen av vård i hemmet och planeringen av
+den prehospitala vården, både för att säkerställa kostnadseffektivitet på
+systemnivå och för att garantera tillräcklig prehospital kapacitet.
+Den prehospitala verksamheten ska medverka till att hitta olika lösningar såsom
+att styra patienter till rätt vårdnivå i rätt tid eller samordnade insatser där
+mobila lösningar nyttjas med stöd av digital teknik. Samverkan mellan
+ambulans, jourläkarbilar, vårdcentraler, hemsjukvård och ASIH behöver stärkas
+för att en större andel patienter ska kunna få oplanerade medicinska
+bedömningar där de befinner sig samt att vårdplaner följs.
+Sida 22
+Vårdcentralen ska ha ett tydligt uppdrag som
+nav i hälso- och sjukvården
+Invånarna ska känna till att vårdcentralen är navet i hälso- och sjukvården och
+ska vara den självklara första kontakten vid behov av vård – oavsett om det
+gäller akuta besvär, kroniska tillstånd eller förebyggande insatser.
+Vårdcentralen ska erbjuda en lättillgänglig och samordnad vård inklusive både
+planerad och oplanerad vård. Detta omfattar rådgivning, förebyggande insatser,
+utredning, diagnostik, behandling och uppföljning. Vårdcentralerna ska ha ett
+helhetsansvar att prioritera och omhänderta de patientgrupper som har störst
+behov.
+Medarbetarna på vårdcentralen ska ha en helhetssyn på patientens medicinska
+situation, livsvillkor och aktuella vårdbehov. Alla ska ha tillgång till en fast
+läkarkontakt och vårdkontakt med hög kontinuitet som ansvarar för
+samordning och koordinering av patientens samlade vårdbehov.
+En god tillgång till fast läkarkontakt med hög kontinuitet
+Vårdcentralens roll som nav förutsätter en god tillgång till fast läkarkontakt
+med hög kontinuitet. Regionen har beslutat om handlingsplan för fast
+läkarkontakt som beskriver ett antal insatsområden för att successivt uppnå
+målet om Socialstyrelsens riktvärde för fast läkarkontakt inom primärvården på
+1100 invånare i snitt per färdig specialistläkare och 550 invånare i snitt per ST-
+läkare. Det handlar bland annat om en utökad ekonomisk ram för att möjliggöra
+anställning av fler specialister och ST-läkare i allmänmedicin, insatser för
+förbättrad arbetsmiljö, insatser för förbättrad uppföljning av utvecklingen mot
+riktvärdet, utvecklad kravställning i avtal som bidrar till successivt färre antal
+listade per läkare och insatser som skapar förutsättningar för vårdcentralerna
+att vara navet i sjukvårdssystemet7.
+Vårdcentraler med hög tillgänglighet
+Det ska vara enkelt att komma i kontakt och få hjälp av sin vårdcentral.
+Vårdcentralen ska erbjuda olika kontaktvägar, anpassade efter invånarens
+behov och förutsättningar. Det kan exempelvis ske via fysiska besök, telefon,
+video eller genom chatt och meddelandefunktioner.
+Vårdutbudets placering och tillgänglighet är viktigt för att främja jämlik vård
+och för att vårdbehov ska tillgodoses. Därför ska tillgången till vårdcentraler
+fortsätta säkerställas i områden med stora behov. Vårdcentralen ska vara väl
+förankrad i sitt geografiska närområde. Detta innebär att känna till hälsoläget
+bland sina patienter och att samarbeta med aktörer i närområdet.
+Förbättrade konsultationsmöjligheter mellan primärvård och
+specialiserad vård
+För att vårdcentralen ska kunna fungera som nav i vården krävs ett stärkt
+samarbete mellan primärvården och den specialiserade vården. Genom att
+förenkla kontaktvägar och utveckla effektiva arbetssätt för konsultation och
+7 Region Stockholm, 2024. Handlingsplan för fast läkarkontakt (PVN 2024-0144).
+Sida 23
+samarbete kan vårdcentralerna tillgodose en större andel av befolkningens
+behov. Stöd från den specialiserade vården ska kunna ges direkt i samband med
+eller i nära anslutning till patientmöten inom primärvården.
+Vårdcentralernas förutsättningar för framtidens vårduppdrag
+ska stärkas
+Vårdcentralernas resurser och kapacitet ska stärkas för att ge vårdcentralerna
+bättre förutsättningar att ta hand om sina patienter, särskilt multisjuka och
+äldre med komplexa vårdbehov. Med utökade resurser kan vårdcentralerna ta
+ett större ansvar för sina patienter, vilket bidrar till trygghet och kontinuitet för
+patienten och kan på sikt avlasta den specialiserade vården8.
+För att möjliggöra detta krävs ett kontinuerligt fokus på att utveckla
+primärvårdens uppdrag, säkra kompetensförsörjningen och tillgodose
+tillräckliga resurser. I takt med att antalet medarbetare på vårdcentralerna ökar
+kan även behovet av större och mer ändamålsenliga lokaler uppstå. Dessutom
+behöver kompetensen inom primärvården löpande stärkas för att möta behoven
+hos sina patienter. För äldre blir det blir särskilt viktigt att satsa på insatser för
+äldre som främjar livskvalitet och självständighet samt förebygger ohälsa, vilket
+kräver ett nära samarbete mellan flera yrkesgrupper inom primärvården, såväl
+på vårdcentralerna som i andra primärvårdsverksamheter.
+En större andel vård ska bedrivas i hemmet
+Vård i hemmet innebär bland annat att ge vård på distans, underlätta egenvård
+och förebygga försämring vid kroniska och svåra sjukdomar.
+Att vårdas i hemmet medför många fördelar för både patienter och vårdgivare.
+Patienter upplever ofta större trygghet och bekvämlighet i sin hemmiljö, vilket
+bidrar till en bättre patientupplevelse och snabbare återhämtning. Dessutom
+minskar risken för vårdrelaterade infektioner. Digital monitorering underlättar
+kontakten med vårdgivare, ökar tryggheten och kan minska antal resor för
+kontroller och onödiga akutbesök. För vården frigörs resurser och vårdplatser
+för patienter med större behov, vilket bidrar till en mer kostnadseffektiv och
+hållbar vård över tid.
+I Region Stockholm finns redan idag en väl utbyggd vård som bedrivs i
+patientens hemmiljö, både inom primärvården och den specialiserade vården.
+Utvecklingen av vård i hemmet behöver fortsätta och omfatta samtliga
+vårdnivåer och vårdformer, med särskilt fokus på att säkerställa en
+sammanhållen och jämlik vård. Flera utvecklings- och samarbetsprojekt pågår
+redan i regionen. Utöver projektet Sjukhusvård i Hemmet @Region
+Stockholm drivs bland annat ett egenmonitoreringsprojekt inom basal
+hemsjukvård, i samverkan med avancerad sjukvård i hemmet (ASIH). För att
+8 Lakartidningen.se, 2019-12-17 (uppdaterad 2020-04-10). Hög personlig läkarkontinuitet i
+primärvård förenad med färre besök på akutmottagning [internet]. Tillgänglig från: Hög
+personlig läkarkontinuitet i primärvård förenad med färre besök på akutmottagning
+Sida 24
+möjliggöra utvecklingen måste spridning av pågående och framgångsrika
+utvecklingsprojekt säkerställas.
+ASIH är en vårdform som ökat kraftigt de senaste åren. Ökningen är i linje med
+omställningen till nära vård där ASIH är en central aktör i patientflödet från
+akutsjukhusen till vården utanför sjukhus. För att kunna fortsätta utveckla
+vårdformen så att den kan gå i linje med behovet av att kunna erbjuda en
+patientsäker och god vård med större volymer ska vårdformen utvecklas och
+byggas ut ytterligare. Det kan till exempel handla om att tydliggöra vilka
+patientgrupper som omfattas och skapa nya samverkansformer.
+Utvecklingen mot ökad vård i hemmet måste ske kontrollerat för att undvika
+överlappande vårduppdrag och säkerställa en tydlig ansvarsfördelning mellan
+vård- och omsorgsgivare, samt för att garantera en sammanhållen vård och
+omsorg. Kortare medelvårdtider på sjukhus ställer ökade krav på att andra
+processer behöver fungera snabbare och smidigare. För att säkerställa en trygg
+och säker hemkomst behövs en nära samverkan med berörda aktörer,
+exempelvis akutsjukhus, primärvård, hemsjukvård, rehabilitering,
+biståndshandläggning och hemtjänst. Detta innebär bland annat att
+stödstrukturer och nya samverkansformer behöver utvecklas.
+En utgångspunkt är att den vård som ges i hemmet måste vara mer resurs-
+och/eller kostnadseffektiv jämfört med vård på till exempel sjukhus, annan
+klinik eller vårdcentral. Kommunernas verksamhet och kapacitet bör också
+beaktas vid utveckling och överföring av vård till hemmet. Den behöver även
+utgå från patientens möjlighet att med stöd från den kommunala omsorgen eller
+närstående tillgodogöra sig vården.
+Samarbetet och koordineringen mellan vård-
+och omsorgsgivare ska stärkas
+Region Stockholms vårdutbud består av många verksamma vårdgivare både
+inom offentlig respektive privat regi. Denna mångfald skapar möjligheter till
+valfrihet samt förutsättningar för innovation och nya arbetssätt. Samtidigt
+skapar det utmaningar att ge en sammanhållen vård och ökar krav på
+koordinering.
+Stärkt samarbete för att säkerställa att patienter omhändertas
+på rätt vårdnivå
+Förutsättningen för en sammanhållen och patientsäker vård är ett
+välfungerande samarbete mellan vård- och omsorgsgivare. Det handlar både om
+samarbete vid vårdövergångar, möjlighet till konsultationer och vårdplanering
+samt att vårdgivare har kännedom om vårdstrukturen och möjlighet att enkelt
+få kontakt med andra vård- och omsorgsgivare. För att kunna utveckla ett gott
+samarbete behövs möjlighet att bygga förtroendefulla relationer med vård- och
+omsorgsgrannar och därigenom kunna utveckla gemensamma arbetssätt.
+Sida 25
+Vårdavtal och vårduppdrag ska utformas så att de stödjer patientens väg genom
+vårdsystemet. På samma gång ska vårdgivarna som arbetar på uppdrag av
+Region Stockholm prioritera en sammanhållen vård före den egna
+organisatoriska effektiviteten och verka för lokala samarbeten.
+Det måste också vara enkelt för medarbetare inom vården att kontakta och
+konsultera andra medarbetare hos vårdgivare samt veta vilken vårdgivare de
+ska kontakta. Detta kräver så väl teknisk utveckling och anpassning som en vilja
+att prioritera samlade och koordinerade vårdtjänster.
+Förändringar i ansvarsfördelningen mellan regionen och kommunerna kan
+komma att ske. Oavsett ansvarsfördelning måste samarbetet och samverkan
+mellan regionen och kommunerna prioriteras och stärkas för att uppnå en
+sammanhållen vård och omsorg. Genom huvudöverenskommelsen (HÖK)
+mellan kommunerna och regionen samt den länsövergripande handlingsplanen
+för god och nära vård och omsorg i Stockholms län (2024–2030) finns en
+gemensam målbild och flera planerade aktiviteter för att stärka samarbetet.
+Vidareutveckla vården utifrån geografiska principer
+Tillämpning av de beslutade geografiska principerna, i kombination med
+geografiskt samordnande vårdcentraler (GSA) ökar förutsättningar för
+samverkan mellan vårdens och omsorgens olika aktörer inom geografiska
+områden. Tillämpningen kan därmed bidra till en mer sammanhållen vård och
+omsorg samt bidra till en mer patientsäker vård. När ansvarsområden stämmer
+överens geografiskt, och med kommun- och stadsdelsgränser, ökar möjligheten
+att utveckla relationer mellan aktörerna och de kan långsiktigt utveckla
+gemensamma arbetssätt. GSA har en central roll för att utveckla samverkan
+med vård- och omsorgsgivare lokalt där de är belägna. Inom kommunerna finns
+utsedda funktioner som har ett kommunalt samordningsansvar (KSA). GSA:s
+roll ska utvecklas för att fortlöpande kunna förbättra den lokala samverkan
+samt identifiera hur uppdrag och ersättning, regler, rutiner, kunskap och
+digitalt stöd/IT kan utvecklas för att skapa förbättrade samverkansformer med
+kommunerna.
+Region Stockholm ska ha en samlad
+vårdinformationsmiljö
+En förutsättning för att uppnå den önskade utvecklingen mot en sammanhållen
+vård är en samlad vårdinformationsmiljö där hälsodata och information kan
+delas mellan vårdens aktörer samt patienter och närstående. Den information
+som en gång lämnats ska finnas tillgänglig för både patient och efterföljande
+vårdaktörer, efter patientens medgivande.
+När det gäller hälsodata pågår även större reformer på såväl EU-nivå som
+nationell nivå. Lagstiftningen utvecklas vad gäller skyldigheter att samla in och
+dela information för vårdgivare, samtidigt som individens integritet fortsatt ska
+skyddas. I Sverige har utredningen "Ett nytt regelverk för hälsodataregister"
+nyligen avslutats, där förslag om förbättrad datainsamling och regler för att
+Sida 26
+stärka vård och forskning samtidigt som integritet skyddas presenterades. Inom
+EU utvecklas det europeiska hälsodatadataområdet European Health Data
+Space (EHDS), som syftar till att underlätta datadelning mellan medlemsländer
+för forskning och vård, med fokus på rörlighet och integritet. Regeringen har
+även gett Socialstyrelsen i uppdrag att korta handläggningstider för tillgång till
+hälsodata för forskning. Region Stockholm behöver säkerställa att den
+utveckling som sker utvecklas i takt med nationella initiativ för att säkerställa
+stordriftsfördelar.
+För att underlätta informationsdelning krävs gemensamma standarder för
+hälsodata. Alla vårdgivare som har avtal med Region Stockholm ska samarbeta
+för att utveckla och implementera sådana standarder och följa arbetet som görs
+nationellt.
+Region Stockholm driver ett flertal projekt som ska bidra till en bättre IT-miljö
+inom vårdens olika verksamhetsområden. Bland annat ska information om en
+patient kunna flöda mellan olika system, så att den är tillgänglig där den behövs
+i vårdkedjan. Data från systemen ska också enklare kunna användas för
+forskning och kvalitetsuppföljning. För att möjliggöra detta måste vårdens olika
+system vara interoperabla, vilket innebär att de kan kommunicera och utbyta
+data på ett standardiserat sätt.
+Alla regionägda vårdverksamheter ska använda det nya huvudjournalsystemet
+från och med 2030. Inriktningen är att samtliga vårdgivare, både regionägda
+och de som har avtal med Region Stockholm, ska ansluta sig till
+huvudjournalsystemet samt andra gemensamma vårdinformationssystem. Dock
+behöver förutsättningar och konsekvenser utredas vidare.
+Systematisera arbetet med att förebygga
+ohälsa för minskat vårdbehov
+Förebyggande insatser, även kallat prevention, är en viktig del i den nära vården
+och syftar till att bibehålla och förbättra hälsa och livskvalitet. Skillnaderna i
+hälsa och vårdbehov är en utmaning som inte enbart kan lösas av hälso- och
+sjukvården, men vården ska ha kapacitet att möta invånarnas varierande behov
+och förutsättningar och bidra till att minska skillnaderna i hälsa.
+Det förebyggande arbetet ska bedrivas på både befolknings- och individnivå.
+Utgångspunkten är invånarnas livsvillkor, hälsotillstånd och risk för ohälsa. På
+befolkningsnivå handlar det om att kartlägga hälsoläget i befolkningen,
+analysera behov i olika grupper och geografiska områden, anpassa insatserna
+efter invånarnas behov och förutsättningar samt säkerställa att omotiverade
+skillnader i hälsa inte uppstår. Primärvården har en nyckelroll och ska arbeta
+befolkningsinriktat i lokalområdet, särskilt i områden med högre förekomst av
+ohälsa och riskfaktorer.
+För att det förebyggande arbetet ska bli effektivt och långsiktigt hållbart är det
+även avgörande med en strategisk samverkan med kommun och civilsamhälle.
+Sida 27
+På individnivå ska det förebyggande arbetet präglas av ett personcentrerat
+arbetssätt. Genom att patienten och deras närstående är delaktiga och aktiva
+medskapare i vården skapas förutsättningar för att erbjuda insatser utifrån
+patientens behov.
+Universella insatser för hela målgruppen behöver kombineras med riktade
+insatser för specifika grupper och individer. Detta arbetssätt används
+framgångsrikt inom områden som mödra- och barnhälsovården samt
+tandvården, men det finns potential att vidareutveckla och bredda arbetssättet
+till fler områden. Särskilda resurser ska avsättas för att öka primärvårdens
+möjlighet att arbeta med förebyggande insatser i områden med högre förekomst
+av ohälsa och riskfaktorer.
+För att effektiva preventiva insatser och arbetssätt ska kunna bidra till
+systemeffekter, såsom kostnadsbesparande effektiviseringar, ska det ingå som
+en självklar del i vårdkedjan och bedrivas med långsiktighet och jämlikhet i
+fokus. Det innebär att evidensbaserad och hälsoekonomiskt effektiv prevention
+ska vara integrerad i hälso- och sjukvårdens strukturer, processer och rutiner.
+Sida 28
+Fokusområde 3:
+En attraktiv och hållbar
+arbetsplats där kompetensen
+ständigt utvecklas
+Fokusområdet 3 och dess strategiska inriktningar syftar till att
+uppnå följande mål:
+• Attraktiva arbetsplatser med hållbar arbetsmiljö och utvecklingsmöjligheter.
+• Nya kompetenser införs så att potentialen i nya verktyg och metoder nyttjas fullt ut
+och allas kompetens kan användas på bästa sätt.
+• Kompetenseffektiva arbetssätt premieras och skapar förutsättningar för en hållbar
+arbetsmiljö för de som arbetar i vården.
+• Medarbetarna utvecklas under hela yrkeslivet och är med och utvecklar
+verksamheten.
+• Digitala verktyg och AI-baserade lösningar i vården skapar nytta och en hållbar
+arbetsmiljö.
+Alla arbetsgivare ska arbeta aktivt med att
+behålla och attrahera kompetenta
+medarbetare
+Tillgång till kompetenta medarbetare som trivs på arbetet är en förutsättning
+för att kunna möta invånarnas behov av patientsäker och högkvalitativ vård på
+lika villkor och för att främja en god hälsa. Hälso- och sjukvårdssystemet
+behöver utformas så att arbetsgivarna i sjukvården ska kunna arbeta aktivt med
+kompetensförsörjning och att utveckla kompetensen utifrån verksamheternas
+behov.
+Hållbara förutsättningar för kompetensförsörjning
+Vid utvecklingen av stöd och styrning inom regionen bör hänsyn tas till hur
+olika förändringar kan påverka arbetsmiljön. Åtgärder som förbättrar
+förutsättningarna för vårdgivarna att skapa en hållbar och god arbetsmiljö för
+sina medarbetare bör prioriteras. Detta ger vårdgivarna bättre möjligheter att ta
+sitt arbetsgivaransvar och utveckla organisationen, säkerställa
+kompetensförsörjning samt planera för kompetensutveckling och utbildning.
+Sida 29
+Genom att arbeta med arbetsmiljö, utveckling och moderna arbetssätt och
+verktyg, kan medarbetarnas trivsel och engagemang stärkas.
+Hållbart och hälsosamt arbetsliv
+Ett hållbart och hälsosamt arbetsliv förutsätter att medarbetare ges tillräckligt
+med utrymme för återhämtning. Styrningen av hälso- och sjukvården ska
+utformas för att möjliggöra hållbar schemaläggning och främja hälsosamma
+arbetsplatser. Samtidigt måste verksamhetens bemanningsbehov balanseras
+med medarbetarnas behov av återhämtning för att säkerställa en god
+arbetsmiljö och möjlighet att ge vård av hög kvalitet.
+En säker fysisk miljö är en grundläggande förutsättning för trygghet på
+arbetsplatsen. Verksamhetens utformning och den fysiska miljön måste
+planeras med fokus på att förebygga och hantera hot och våld inom hälso- och
+sjukvården. Detta kräver att kompetens och kunskap om förebyggande åtgärder
+och hantering av hotfulla situationer finns på alla nivåer inom hälso- och
+sjukvården.
+Framöver kan allt friskare äldre samt höjda åldersgränser i pensionssystemet
+leda till att en växande grupp ”yngre äldre” blir en viktig tillgång på
+arbetsmarknaden och bidra att kompetens inom hälso- och sjukvården
+bibehålls. Det bör säkerställas att förutsättningar finns för att tillvarata denna
+potential.
+Utvecklings- och karriärmöjligheter
+För att säkerställa långsiktig kompetens som kan driva utvecklingen och möta
+framtidens vårdbehov behöver regionen skapa goda förutsättningar för
+utveckling och karriärmöjligheter. Detta omfattar inte bara specialisering inom
+det egna yrkesområdet utan även möjligheter att ta sig an andra roller,
+exempelvis inom ledarskap, forskning eller andra stödjande funktioner.
+Rätt kompetens i rätt tid där patienter med
+störst behov prioriteras
+Hälso- och sjukvården behöver ha kapacitet till att både ta hand om dagens
+patienter och förbereda sig på att möta de patienter som kommer att behöva
+vård i framtiden. Genom att använda kompetensen rätt kan hälso- och
+sjukvården ännu bättre möta förändrade vårdbehov.
+Uppgifts- och kompetensväxla där det är möjligt och lämpligt
+Nya arbetsuppgifter kan påverka både befintliga och nya yrkesgrupper på flera
+sätt. Det kan innebära att behovet av vissa yrkeskategorier minskar, att vissa
+arbetsuppgifter överförs från en yrkesgrupp till en annan eller att helt nya
+personalkategorier introduceras i verksamheten9. Genom uppgiftsväxling
+renodlas arbetsuppgifter så att yrkesgrupper kan fokusera på sina kärnuppgifter
+9 Sveriges Kommuner och Regioner (SKR), 2018. Använd kompetensen rätt – en guide för
+sjukvården. Tillgänglig från: anvand-kompetensen-ratt-svj.pdf
+Sida 30
+och fördjupa sin kompetens. Kompetensväxling innebär kunskapsöverföring
+mellan generationer, omskolning till nya roller eller omfördelning av
+arbetsuppgifter mellan befintliga och nya yrkesgrupper. Målet med dessa
+förändringar är att säkerställa att rätt kompetens används på rätt plats, vilket i
+sin tur frigör tid för medarbetarna att fokusera mer på patienterna.
+Utveckla nya kompetenser
+Vårdsektorn kommer behöva nya kompetenser, inom exempelvis samordning
+och koordinering av vård, AI och medicinteknisk utrustning. Behovet av
+kompetens för att exempelvis bedriva sjukvård i patientens hem, inom
+primärvård, hälsofrämjande och rehabiliterande vård samt inom logistik och
+teknik kommer att öka.
+Kompetensförsörjningen och kompetensutvecklingen måste organiseras så att
+möjligheter för forskning och utbildning säkras. För att skapa en balans mellan
+behov och utbud av utbildad arbetskraft behövs nära samverkan mellan hälso-
+och sjukvården och alla utbildningsanordnare som till exempel universitet,
+högskolor samt yrkeshögskolor. Avvägningar måste dock göras mellan
+satsningar på framtidens vård och underhåll av den befintliga vården.
+Gemensamma strategier och satsningar i samarbete med olika aktörer ska
+fortsätta utvecklas.
+Rikta fokus på kompetensutveckling inom områden med störst
+behov
+För att hälso- och sjukvården ska kunna möta framtidens vårdbehov är det
+avgörande att rikta fokus på utbildning och kompetensutveckling inom de
+områden där behovet är som störst.
+Med en allt äldre befolkning kommer efterfrågan på vård att öka. Detta kräver
+att vårdpersonal har kompetens inom områden som åldrande, kroniska
+sjukdomar, onkologi och palliativ vård. För att uppnå målet om vårdcentralen
+som nav krävs att antalet allmänläkare ökar, i enlighet med handlingsplanen för
+en fast läkarkontakt och plan för dimensionering av ST-läkare inom
+allmänmedicin10.
+För att avlasta vårdpersonal från administrativa uppgifter och ge dem mer tid
+för patientvård är det viktigt att dra nytta av automatisering och AI. Effektiva
+arbetsprocesser som minskar den administrativa belastningen är en
+förutsättning för att vården ska kunna möta framtidens behov. Därför bör
+digital kompetens för att både använda och tillämpa moderna teknologier vara
+en grundläggande del av vårdutbildning och kontinuerlig kompetensutveckling.
+Förutsättningar för en långsiktig kompetensförsörjning
+Utformningen av hälso- och sjukvårdens struktur påverkar
+kompetensförsörjningen över tid samt vilka kompetenser som behövs. Nämnder
+och bolag som beställer hälso- och sjukvård har ett särskilt ansvar att beakta
+effekter på kompetensförsörjning för hälso- och sjukvården som helhet i länet.
+Inför köp av tjänster från privata vårdgivare, upphandlingar och vårdval, ska
+10 Region Stockholm, 2023. Plan för dimensionering av ST-tjänster i allmänmedicin 2024 till
+2034 (HSN 2023-0517).
+Sida 31
+alltid en analys göras avseende effekter på kompetensförsörjningen i hela hälso-
+och sjukvårdssystemet över tid. Beställningar av hälso- och sjukvård från
+privata utförare ska vara utformade på ett sådant sätt att kompetensen hos
+medarbetarna som utför uppdraget upprätthålls och används effektivt, att
+utbildningsuppdraget säkerställs och att kompetensförsörjningen för den
+samlade hälso- och sjukvården beaktas11.
+Kompetens och arbetssätt ska utvecklas
+kontinuerligt
+Kompetensförsörjning och kontinuerligt lärande
+Kompetensförsörjning och kontinuerligt lärande är centralt för en hållbar och
+framåtriktad vårdorganisation. Alla medarbetare bör ha tillgång till
+kompetensutvecklingsmöjligheter som är relevanta för deras specifika yrkesroll
+och kompetensområde med utgångspunkt i verksamhetens behov, genom hela
+yrkeslivet.
+Medarbetare ska bidra i utbildningen av studerande och nya medarbetare. Att
+vara delaktig i utbildning av studenter och nya kollegor är en viktig del av
+kompetensöverföringen och bidrar till att föra vidare kunskap till framtidens
+vårdpersonal.
+Anpassa arbetssätt och ta tillvara teknikens möjligheter
+Framtidens vård ska bli alltmer personcentrerad vilket kräver nya arbetssätt och
+ett ökat samarbete mellan olika yrkesgrupper. Nya former för teamarbete
+behöver utvecklas, där flera yrkesgrupper arbetar tillsammans för att skapa
+effektivare vårdkedjor med hög kvalitet.
+Alla verksamheter bör arbeta systematiskt för att hitta nya arbetssätt och teknik
+som stödjer en effektiv resursanvändning och utveckling av verksamheten12.
+Region Stockholm ska arbeta aktivt med att ta bort detaljstyrning som hindrar
+utveckling och nya arbetssätt och kompetenseffektiva arbetssätt ska prioriteras
+på alla nivåer. Teknik samt användning av data för verksamhetsutveckling och
+kvalitetsförbättring är en förutsättning för en hållbar utveckling och ska
+underlätta arbetet och beslutsfattande.13
+För att vårdpersonal ska kunna hålla sig uppdaterade med den snabba
+utvecklingen inom medicin och teknik krävs möjligheter till fortbildning. För att
+fullt ut dra nytta av de tekniska framstegen behövs innovationsmiljöer där
+vårdpersonal kan testa och utvärdera ny teknik och digitala arbetsmetoder samt
+möjlighet att testa ny teknik i liten skala i den dagliga verksamheten. Det är
+även avgörande att ha en blandning av kompetenser som sträcker sig över
+yrkesgränser inom både vård och teknik.
+11 Region Stockholm, 2024. Kompetensförsörjningsstrategi (RS 2023–0226).
+12 Region Stockholm, 2022. Hälsa och vård 2040 – Slutrapport från Långtidsutredningen
+(HSN 2021–2001).
+13 Region Stockholm, 2024. Kompetensförsörjningsstrategi (RS 2023–0226).
+Sida 32
+Ett starkt ledarskap på alla nivåer
+För att säkerställa att hälso- och sjukvården kan möta framtidens vårdbehov
+och samtidigt skapa en trygg arbetsmiljö krävs kompetenta chefer och ledare.
+För att bygga ett starkt ledarskap behöver chefer och ledare på alla nivåer i
+organisationen ges rätt stöd och förutsättningar för att leda mot uppsatta mål.
+En trygg och inkluderande arbetsmiljö med trygga chefer och medarbetare är en
+förutsättning för att kunna göra kloka prioriteringar och ta svåra beslut.
+Sida 33
+Fokusområde 4:
+Forskning, utveckling,
+utbildning och innovation som
+stärker förmågan att möta
+framtidens vårdbehov
+Fokusområde 4 och dess strategiska inriktningar syftar till att uppnå
+följande mål:
+• Den digitala, tekniska och biomedicinska utvecklingen möjliggör en mer
+sammanhållen och effektiv hälso- och sjukvård.
+• Invånarens vårdbehov, perspektiv och upplevelse prioriteras i all digital utveckling.
+• Digitala och teknologiska framsteg har förenklat och effektiviserat medarbetarnas
+dagliga arbete.
+• Klinisk forskning omfattar såväl de mest komplexa och svåra tillstånden som de
+stora folksjukdomarna och områden av betydelse för individers hälsa.
+• Karolinska Institutet och högskolornas utbildningar inom medicin och vård i
+samverkan med Region Stockholm säkerställer en hög kompetensnivå och bidrar
+till att rätt kompetens finns på rätt plats i rätt tid.
+• Hälso- och sjukvården ges med hög kvalitet utifrån bästa möjliga kunskap.
+• Vårdinsatser som är ineffektiva, har en svag risk-nyttobalans eller inte har
+tillräcklig evidens fasas ut löpande.
+Utveckling som möjliggör en sammanhållen
+och effektiv hälso- och sjukvård
+Region Stockholm måste aktivt delta i utvecklingen inom digitalisering,
+teknologi och medicin för att säkerställa att hälso- och sjukvården kan dra nytta
+av de framsteg som görs inom dessa områden.
+Goda förutsättningar för utveckling
+Utvecklingen av hälso- och sjukvården förutsätter att vårdens aktörer har goda
+digitala förmågor samt kapacitet att kunna dra nytta av biomedicinska framsteg.
+För att hälso- och sjukvården i Stockholmsregionen fortsatt ska ligga i framkant
+behöver innovation främjas på alla nivåer. Digital och teknologisk utveckling
+Sida 34
+som bidrar till en mer sammanhållen, tillgänglig och resurseffektiv vård ska
+särskilt prioriteras. Detta innefattar exempelvis effektiviseringar med hjälp av
+AI och automation, konsultationer på distans, samt utökade möjligheter till
+egen- och distansmonitorering. Medicinska framsteg, såsom utveckling av
+effektiva behandlingar, precisionsmedicin och vacciner behöver tas till vara.
+Kostnaderna för detta förväntas dock, framför allt initialt, bli höga vilket ställer
+krav på prioriteringar i kombination med andra insatser, se fokusområde 5.
+Vid beslut om att utveckla eller upphandla regionövergripande tjänster eller
+ansluta till nationella tjänster, ska samtliga vårdgivare anpassa sina system eller
+ansluta sig i enlighet med regionens beslut. För att skapa goda
+planeringsförutsättningar för vårdgivarna behöver Region Stockholm bedriva
+ett långsiktigt och strategiskt arbete inom detta område. Hänsyn behöver även
+tas till mindre, privata vårdgivare som till exempel inte upplever sig ha
+kompetens och resurser för att själva hantera den typen av inköp.
+Förenkla och effektivisera medarbetarnas arbete
+För att förenkla och effektivisera medarbetarnas arbete är det av stor vikt att
+integrera teknologiska lösningar såsom AI och automation. Genom att
+automatisera repetitiva och tidskrävande processer inom områden som
+diagnostik, beslutsstöd och administration, kan medarbetarnas resurser
+omfördelas till mer värdeskapande och patientnära arbetsuppgifter. AI kan
+förbättra noggrannheten i diagnostiska bedömningar, erbjuda beslutsstöd samt
+optimera prioriteringen av arbetsuppgifter. Genom att systematiskt identifiera
+och implementera nya arbetsmetoder och teknologiska lösningar kan
+verksamheter säkerställa en effektiv resursanvändning och främja långsiktig
+organisatorisk utveckling. En förutsättning för att teknologi ska kunna ge
+önskad effektiviseringspotential är att nya tekniska system är intuitiva,
+användarvänliga och enkla att förstå.
+En stark forsknings-, utvecklings-,
+utbildnings- och innovationsförmåga i alla
+delar av hälso- och sjukvården
+Cirka 45 procent av den akademiska medicinska forskningen i Sverige bedrivs
+inom Stockholmsregionen. Karolinska Institutet är den största
+utbildningssamordnaren inom vård och hälsa och har ett nära samarbete med
+Region Stockholm som regleras i ALF-avtalet.
+Universitetssjukvårdsenheter är vårdgivare som bedriver forskning, utveckling,
+utbildning och innovation (FoUUI), som en del av kärnverksamheten och väl
+integrerat i vården. I Region Stockholm finns universitetssjukvårdsenheter
+(USV-enheter) vid Karolinska sjukhuset, Danderyds sjukhus, Södersjukhuset,
+Södertälje sjukhus, S:t Eriks ögonsjukhus, S:t Görans sjukhus, Ersta sjukhus
+samt Stockholms sjukhem. USV-enheter finns också inom centrumbildningarna
+vid Stockholms läns sjukvårdsområde (SLSO). Akademiskt primärvårdscentrum
+Sida 35
+är en av universitetssjukvårdsenheterna och de har en tät koppling till de så
+kallade universitetsvårdcentralerna.
+Dessa USV-enheter har som uppdrag att bedriva forskning, utbildning och att
+utveckla sjukvården. Life Science är den tredje största branschen i
+Stockholmsregionens näringsliv, vilket gör den till en motor för både
+huvudstadens och hela landets tillväxt och internationella attraktionskraft.
+Detta gör det möjligt för regionen att ligga i framkant när det gäller medicinsk
+forskning och innovativa behandlingsmetoder.
+En stark FoUUI i alla delar av hälso- och sjukvården
+FoUUI behöver aktivt prioriteras i en hälso- och sjukvård där den vardagliga
+verksamheten kräver stora resurser och ska i så stor utsträckning som möjligt
+integreras i den kliniska vardagsverksamheten. Universitetens och högskolornas
+forskning och utbildning inom hälso- och sjukvård är centrala för att utveckla
+ny diagnostik, nya behandlingsmetoder och för vårdens kompetensförsörjning.
+Genom att vårdgivare på alla vårdnivåer medverkar vid planering, finansiering
+och genomförande av forskning kan fler patienter inkluderas i kliniska studier
+och utvecklingsprojekt. En avgörande faktor är att patienter från alla nivåer
+inom vården kan medverka i forskning och utbildning. Detta innebär att det på
+varje vårdnivå ska finnas funktioner som har ett tydligt fokus på forskning,
+utbildning, utveckling och innovation.
+För vårdgivares medverkan i universitetens forskning och utbildning krävs
+tydliga uppdrag, resurser och ett ledarskap som aktivt stöttar FoUUI-arbetet
+inom hela vårdsystemet. Det behövs även ett strukturerat arbete som möjliggör
+för verksamheterna att sprida och tillgängliggöra forskningsresultat till andra
+aktörer, så att de kan användas fullt ut i vården.
+Klinisk forskning måste omfatta allt från de stora folksjukdomarna till de mest
+komplexa och svåra tillstånden och de områden av betydelse för individers hälsa
+som forskning och innovation inte når idag. Satsningar på klinisk forskning och
+klinisk utbildning bör inte begränsas till en specifik vårdnivå, utan utformas
+utifrån forskningens och utbildningens behov samt med syfte att stimulera
+samverkan inom och mellan alla delar av vårdsystemet, inklusive kommunal
+sektor.
+Universitetens och högskolornas forskning och utbildning inom hälso- och
+sjukvård är centrala för att utveckla ny diagnostik och nya behandlingsmetoder.
+De är även viktiga aktörer vad gäller bemanningen av hälso- och sjukvården
+med rätt kompetens på rätt plats i rätt tid med utgångspunkt i invånarnas och
+patienternas behov.
+Region Stockholm – en av världens främsta forsknings- och
+life science-regioner
+Life science utgör en av de största branscherna inom Stockholmsregionens
+näringsliv och är därmed en central för både regional och nationell tillväxt samt
+för regionens internationella attraktionskraft.
+Inom hälso- och sjukvårdssystemet finns redan omfattande samverkan med
+externa aktörer såsom Karolinska Institutet (KI), Kungliga Tekniska högskolan
+Sida 36
+(KTH), Stockholms universitet (SU) och Handelshögskolan i Stockholm (HHS),
+liksom med nationella och internationella organisationer. Därtill ingår ett stort
+antal företag och forskningsfinansiärer i nätverket. En stark samverkan mellan
+vård, akademi och näringsliv är en avgörande faktor för att stärka FoUUI-
+kapaciteten under de kommande decennierna.
+Utvecklingen av läkemedel och medicintekniska produkter är omfattande, och
+den snabba teknologiska utvecklingen öppnar för betydande förbättringar inom
+både diagnostik och behandling. Även inom vaccinationsområdet sker en snabb
+utveckling, där nya vaccin och rekommendationer möjliggör förebyggande av
+allt fler sjukdomar. Precisionsmedicin har potential att förändra vårdens
+arbetssätt genom att läkemedel och medicinsk diagnostik i allt högre grad
+integreras i samma behandlingskedja.
+En utmaning är dock att utarbeta effektiva tekniska verktyg och nya regelverk
+för datadelning för forskning, innovation och utveckling av hälso- och
+sjukvården samt omsorgen. För att möta dessa utmaningar krävs ett gemensamt
+arbete mellan vård, akademi och näringsliv, både på regional och nationell nivå.
+Stöd kontinuerligt utvecklings- och förbättringsarbete
+För att möta framtidens ökande och föränderliga vårdbehov krävs ett
+kontinuerligt och systematiskt arbete med utveckling och förbättring i hela
+hälso- och sjukvårdssystemet. Detta innebär att alla aktörer inom vården – från
+ledning till medarbetare – aktivt engagerar sig i att identifiera, analysera och
+genomföra förändringar som stärker vårdens kvalitet, effektivitet och
+tillgänglighet. Genom att arbeta proaktivt med förbättringsarbete kan vården
+både hantera dagens utmaningar och rustas för att möta framtidens behov.
+För att möjliggöra detta behöver vården främja lärande och innovation, basera
+beslut på data, involvera patienter, stärka medarbetare och samverka över
+vårdnivåer för en effektiv och sammanhållen vårdkedja.
+Systematiskt arbete för att utveckla, sprida
+och använda bästa möjliga kunskap
+All hälso- och sjukvård ska baseras på bästa möjliga kunskap.
+Kunskapsmängden ökar hela tiden som en följd av den höga utvecklingstakten
+globalt. System för kunskapsstyrning på nationell och regional nivå har en
+nyckelroll för att säkra kvalitet, prioriteringar och utveckling inom hela
+sjukvården. Kunskapsstyrning syftar till att tillgängliggöra aktuell kunskap i
+varje patientmöte vilket bidrar till en kunskapsbaserad, resurseffektiv och
+jämlik vård av hög kvalitet. En utvecklad och välfungerande kunskapsstyrning
+är också en förutsättning för att stärka kompetensen hos medarbetarna i
+vården.
+Sida 37
+Säkerställ kunskapsbaserad vård och fasa ut insatser som är
+ineffektiva, har en svag risk-nyttobalans eller inte har
+tillräcklig evidens
+I det nationella systemet för kunskapsstyrning tar regionerna gemensamt fram
+kunskapsunderlag och respektive region arbetar sedan för att kunskapen införs
+och används. De regionala programområdena (RPO), som speglar de nationella
+programområdena (NPO), tillgängliggör kunskapsstöd i mötet mellan vårdens
+medarbetare och patienten, följer upp och analyserar behandlingsprogram och
+verkar för förbättringar i vårdens verksamheter.
+En viktig del av de regionala och nationella programområdenas arbete är att
+identifiera och stödja implementeringen av evidensbaserade, kostnadseffektiva
+metoder i vården. Det innebär även att identifiera och minska vårdinsatser som
+är ineffektiva, har en svag risk-nyttobalans eller inte har tillräcklig evidens.
+Syftet med att fasa ut denna typ av vård är att säkerställa att hälso- och
+sjukvårdens resurser används effektivt och att vården förblir jämlik och av hög
+kvalitet. Arbetet sker i linje med modellen Kloka kliniska val och
+Socialstyrelsens riktlinjer för att minska vårdinsatser som inte bidrar till
+patientens hälsa. Utfasningen kräver ett aktivt och strukturerat arbetssätt samt
+ledarskap och kollegialt stöd i vården.
+Kvalitetsdata som källa till förbättringar
+Under de senaste 20 åren har ett stort antal (150) kvalitetsregister byggts upp.
+Dessa kvalitetsregister utgör idag en central del av kunskapsstyrningen inom
+hälso- och sjukvården. Registren samlar individbaserade data som används för
+att kontinuerligt utveckla kvaliteten i vården samt för forskning och innovation.
+Genom registren kan vårdgivare följa sina resultat i realtid, och de möjliggör
+även uppföljning av hur vården bedrivs på olika nivåer.
+Prioriterade utvecklingsområden på cirka fem års sikt innebär fortsatt
+utveckling av kvalitetsregistren, exempelvis harmonisering av
+registerstrukturen, automatisering av dataregistrering, integration av register
+med huvudjournalsystemet samt förbättrad datatillgänglighet för forskning och
+verksamhetsutveckling. På längre sikt är utvecklingen av registerstrukturen mer
+osäker men hälsodata förväntas få en allt större betydelse för kvalitetsarbete,
+forskning och innovation. Det förutspås att data kommer att kunna hämtas
+direkt från primärsystem och delas mellan olika verksamheter och länder,
+exempelvis inom ramen för EHDS. Dock kommer juridiska, tekniska och etiska
+förutsättningar sannolikt att påverka och begränsa utvecklingstakten.
+Systematiskt patientsäkerhetsarbete
+Den snabba medicinska utvecklingen bidrar till att nya och tidigare okända
+risker för patientsäkerheten kan uppstå varför kunskap om patientsäkerhet är
+en nödvändighet både i den patientnära verksamheten och i vårdens ledning
+och styrning.
+Vårdskador orsakar inte bara onödigt lidande och i värsta fall dödsfall, utan
+leder också till höga kostnader och minskat förtroende för vården. Vårdgivare
+ska fortsatt arbeta systematiskt för att öka patientsäkerheten och minska
+undvikbara vårdskador. En avgörande del i detta arbete är att systematiskt
+Sida 38
+utreda alla avvikelser som uppstår, analysera orsakerna och omsätta resultaten i
+konkreta förbättringsförslag för att stärka patientsäkerheten ytterligare.
+Sida 39
+Fokusområde 5:
+Ett hållbart, anpassningsbart
+och robust hälso- och
+sjukvårdssystem
+Fokusområde 5 och dess strategiska inriktningar syftar till att uppnå
+följande mål:
+• Hälso- och sjukvården är resurseffektiv, klimatneutral och anpassningsbar till
+förändringar i demografi, teknik och samhällsbehov, vilket innebär att systemet
+effektivt nyttjar tillgängliga resurser. Samtidigt kan vården anpassa sig efter nya
+behov, som en äldre befolkning eller nya sjukdomar, och ta till sig nya teknologier
+och behandlingsmetoder.
+• Hälso- och sjukvården erbjuder en jämlik, trygg och tillgänglig vård som utgår ifrån
+invånarnas vårdbehov och främjar delaktighet och inkludering. Detta bidrar till att
+invånarna har högt förtroende för vården.
+• Hälso- och sjukvården har förmågan att upprätthålla vård och motstå påfrestningar
+även vid avbrott i normal verksamhet, oavsett om orsaken är smittspridning,
+störningar i vatten- eller elförsörjning, extremväder, sabotage,
+bemanningsutmaningar eller arbetsmiljöproblem.
+• Medarbetarna är förberedda och har den nödvändiga kompetensen och
+beredskapen för att hantera situationer vid höjd beredskap, terrorangrepp, kris
+eller krig.
+Långsiktig hållbarhet ska säkerställas genom
+prioriterad och balanserad resursanvändning
+Social, miljömässig och ekonomisk hållbarhet är inbördes beroende av varandra
+och ingen del kan nås på bekostnad av en annan.
+Ekonomisk hållbarhet – effektiv resursanvändning och
+strategiska prioriteringar
+Ekonomisk hållbarhet syftar till att upprätthålla och främja en stabil och
+långsiktig ekonomisk utveckling så att även framtida generationer har möjlighet
+att tillgodose sina behov. För att uppnå detta identifieras och prioriteras de
+åtgärder som ger störst samhällsnytta och måluppfyllelse inom ramen för
+tillgängliga skattemedel.
+Sida 40
+Med en växande andel äldre och kroniskt sjuka i befolkningen och en
+minskande andel arbetsföra, blir förändringar och effektiviseringar i vården
+avgörande för att bibehålla kvaliteten. Det krävs nya, mindre personalintensiva
+lösningar, fortsatt utveckling av tekniska verktyg, ökade möjligheter för
+invånarna att ta ansvar för sin egen hälsa och vård samt ökat fokus på
+förebyggande vård som minskar vårdbehovet.
+För att bromsa kostnadsutvecklingen behöver Region Stockholm, tillsammans
+med samverkansparters, säkra att välfärdens samlade resurser används klokt
+oberoende av huvudman och vårdgivargränser. Personalens kompetens och
+engagemang måste fortsatt tas till vara i nödvändiga förändringsprocesser för
+en förbättrad och än effektivare vård.
+Allt beslutsfattande ska genomsyras av långsiktigt god ekonomisk hushållning.
+Alla aktörer inom Region Stockholm ska sträva efter en ekonomi i balans och
+följsamhet till den budget som är beslutad av fullmäktige. Detta innebär bland
+annat att fortlöpande arbeta med att minska kostnadsutvecklingstakten och
+effektivisera hälso- och sjukvårdsystemet. Utifrån en samlad analys av hela
+regionens vård ska tydliga prioriteringar göras för att vårdens resurser används
+så att de ger bäst möjliga hälsa och livskvalitet utifrån befolkningens behov och
+skapa en jämlik och tillgänglig vård efter behov.
+Miljömässig hållbarhet – minskad miljö- och klimatpåverkan
+Miljömässig hållbarhet innefattar klimatpåverkan, naturresursanvändning,
+biologisk mångfald, ekosystemtjänster, miljö- och hälsoskadliga utsläpp, giftfri
+miljö och buller.14 Region Stockholms miljö- och klimatpåverkan behöver
+fortsatt minska för att nå klimatneutralitet och verksamheterna behöver vara
+robusta och klimatanpassade.
+Region Stockholm har länge arbetat för en ökad resurseffektivitet, förlängd
+livslängd för produkter, minskade utsläpp från förbrukningsmaterial,
+utrustning, textilier och livsmedel samt för ökad cirkularitet, men arbetet
+behöver kontinuerligt utvecklas och intensifieras för att nå klimatneutralitet.
+Optimerade vårdprocesser med resurseffektiva produkt- och materialflöden,
+fortsatt arbete för att reducera de direkta utsläppen exempelvis för medicinska
+gaser samt att arbeta personcentrerat och sjukdomsförebyggande och därmed
+minska vissa typer av vårdbehov, är några av de aspekter som kan bidra till att
+minska hälso- och sjukvårdens negativa påverkan på miljö och klimat.
+Konsumtion av vård, inklusive läkemedel och förbrukningsartiklar, har en
+miljö- och klimatpåverkan. Med en åldrande befolkning och växande vårdbehov
+finns en risk för att utsläppen från hälso- och sjukvårdssektorn i stället ökar,
+vilket ytterligare understryker behovet av att reducera utsläpp.
+Som samhällsviktig verksamhet finns högt ställda krav på att hälso- och
+sjukvården ska vara robust och anpassningsbar för att möta olika utmaningar
+och kriser som exempelvis stora olyckor, pandemier och naturkatastrofer, vilket
+bland annat kräver en stärkt försörjningsberedskap. Detta ger ytterligare
+14 Region Stockholm, 2021. Hållbarhetspolicy (RS 2019–0857)
+Sida 41
+komplexitet i arbetet med att minska den negativa påverkan på miljö och
+klimat.
+Social hållbarhet – en jämlik vård som är tillgänglig för alla
+Ett socialt hållbart samhälle innebär ett jämlikt och jämställt samhälle utan
+orättfärdiga skillnader, där människor lever ett liv med god hälsa och har hög
+tolerans och förtroende för varandra och samhället i stort. För hälso- och
+sjukvården innebär det att erbjuda en jämlik, trygg och tillgänglig vård som
+utgår ifrån invånarnas vårdbehov och främjar delaktighet och inkludering.
+Jämlik vård innebär att alla, vid behov och på lika villkor, ska ha tillgång till
+hälso- och sjukvård. Detta betyder inte att vården ska erbjudas på samma sätt
+och i samma utsträckning till alla, utan den behöver anpassas efter individuella
+behov och förutsättningar. Genom att arbeta med universell utformning, där
+lösningar utformas så att de från början fungerar för så många som möjligt,
+minskar behovet av särlösningar. Samtidigt behövs individuella och anpassade
+lösningar som komplement för att möta de ojämlika förutsättningarna för hälsa.
+Tjänsterna behöver utvecklas i samarbete med invånare och patienter för att på
+bästa sätt möta deras varierande behov och förutsättningar.
+Tillgänglighet är avgörande för en jämlik vård. Möjligheterna att nå hälso- och
+sjukvården ska vara likvärdiga oavsett personliga förutsättningar. Tillgänglighet
+omfattar mer än väntetider och köer. Det inkluderar även geografisk närhet,
+digital tillgänglighet, anpassade öppettider och fysisk tillgänglighet. I begreppet
+ingår också ett gott bemötande, trygghet i kontakt med vården, samt att hälso-
+och sjukvården är utformad så att den inte begränsar eller utestänger någon.
+Invånarnas förtroende för hälso- och sjukvården har starka samband med
+upplevelsen av att ha tillgång till den vård man behöver, men det finns stora
+skillnader i förtroendet mellan olika grupper i samhället. Satsningar på ökad
+tillgänglighet, god kontinuitet och personcentrering som stärker patientens
+delaktighet krävs för att nå en mer jämlik vård som är tillgänglig för alla. Det är
+särskilt viktigt för sårbara grupper och personer med långvarig ohälsa.
+Arbetet med social hållbarhet inkluderar också att motverka diskriminering
+utifrån diskrimineringsgrunderna samt att ge särskild uppmärksamhet till
+grupper med förstärkta rättigheter. Dessa är barn, personer med
+funktionsnedsättningar samt nationella minoriteter.
+Ett strukturerat prioriteringsarbete för att säkerställa
+kostnadskontroll och jämlik vård
+Principen om vård efter behov ska genomsyra beslutsfattande på alla nivåer i
+hälso- och sjukvården – från politiska beslut till de beslut som
+vårdprofessionerna fattar. Kunskapsbaserad prioritering av tillgängliga resurser
+samt evidensbaserad och datadriven styrning är centralt för att uppnå en
+hållbar och effektiv hälso- och sjukvård.
+Genom horisontella prioriteringar mellan vårdområden och patientgrupper
+enligt den etiska plattformen kan resurser fördelas mer effektivt inom hälso-
+och sjukvården. Det innebär att insatser anpassas efter befolkningens behov och
+ges på bästa effektiva omhändertagandenivå. Effektivare resursanvändning kan
+Sida 42
+även uppnås genom att ersätta behandlingar och andra vårdåtgärder med
+billigare alternativ, som ger likvärdig eller större patientnytta.
+Jämlik vård innebär att den som har det största behovet av hälso- och sjukvård
+ska ges företräde. För att säkerställa att vården fördelar sina resurser där de gör
+störst nytta, krävs en hög grad av prioriteringsförmåga. Prioritering kan
+innebära allt från övergripande politisk resursprioritering till de beslut som
+fortlöpande tas i den kliniska vardagen. När det gäller prioriteringar av enskilda
+patienter är varje fall unikt och måste bedömas utifrån den enskilde patientens
+behov och de unika förutsättningarna i just den situationen, med vägledning av
+de etiska principerna.15
+De prioriteringar som görs för att fördela resurser inom en sjukdomsgrupp
+kallas vertikala prioriteringar. Här är personcentrerade och sammanhållna
+vårdförlopp för olika diagnoser och hälsoekonomiska analyser viktiga verktyg
+som gör att vården kan säkerställa att insatserna fokuserar på det som ger störst
+nytta för patienterna. Exempelvis kan vården använda prediktiv analys för att
+identifiera patienter som löper risk att utveckla kroniska sjukdomar och sätta in
+förebyggande åtgärder i ett tidigt skede.
+Många strategier kan leda till kostnadsbesparande effektiviseringar men dessa
+kan också bidra till ambitionshöjningar.16 Till exempel kan ny teknik och nya
+behandlingsmetoder bidra med effektiviseringar och hälsovinster men kan
+också skapa en ökad efterfrågan på hälso- och sjukvård. Införande av ny teknik
+riskerar även att gynna individer med goda socioekonomiska förhållanden17.
+Införandet av nya tekniska lösningar och metoder inom hälso- och sjukvården
+ska därför utgå från olika gruppers och individers behov och förutsättningar.
+Detta innebär dock inte att vården ska erbjudas på samma sätt eller i samma
+omfattning för alla. För vissa kan tekniska lösningar vara mer ändamålsenliga,
+medan ett fysiskt besök kan vara mer lämpligt för andra. Genom att utnyttja de
+möjligheter som tekniken erbjuder kan resurser frigöras och omfördelas till dem
+som behöver dem mest.
+Skapa förmåga till omställning vid förändrade
+förutsättningar och behov
+Som beskrivs i fokusområde 3 förväntas stora framsteg inom områden som
+digitalisering, teknologi och medicin. Exakt hur denna utveckling kommer att se
+ut är dock omöjligt att förutse. Hur väl hälso- och sjukvården kan dra nytta av
+dessa framsteg kommer i hög grad att bero på dess förmåga att anpassa sig till
+förändrade förutsättningar.
+15 De etiska principerna för prioriteringar i hälso- och sjukvården: människovärdesprincipen,
+behovs- och solidaritetsprincipen, kostnadseffektivitetsprincipen.
+16 Vård- och omsorgsanalys, 2024. Redo för framtiden? Rapport 2024:1. Tillgänglig från:
+https://www.vardanalys.se/digital-publikation/redo-for-framtiden/
+17 Poli, Ariana, 2021. A Divided Old Age through Research on Digital Technologies. Tillgänglig
+från: A Divided Old Age through Research on Digital Technologies
+Sida 43
+Hälso- och sjukvården påverkas i hög grad av samhälleliga händelser och måste
+därför vara rustad att hantera invånarnas vårdbehov i både förutsägbara och
+oförutsedda kriser. Genom att vara flexibel och proaktiv kan vården inte bara
+möta utmaningarna utan också anpassa sig till en alltmer osäker omvärld.
+En anpassningsbar och resilient hälso- och sjukvård
+I stället för att försöka eliminera de osäkerheter som präglar framtiden bör
+fokus ligga på att utveckla effektiva mekanismer för att hantera dem, såsom
+strategisk framsyn och anpassningsförmåga. Genom att acceptera osäkerhet
+som en naturlig del av verksamheten och satsa på att bygga anpassningsbarhet
+och resiliens kan både individer och organisationer bättre navigera i en
+föränderlig och komplex värld.
+Resiliens kan beskrivas som förmågan att hantera förändringar men också att
+återhämta sig och utvecklas vidare trots motgångar och påfrestningar. För att
+stärka denna förmåga bör Region Stockholm dra nytta av trender och
+erfarenheter från tidigare kriser och förändringar. Genom att systematiskt
+arbeta med lärande och förändring kan verksamheterna bygga en robust
+förmåga att hantera förändringar, stå emot kriser och möta förutsedda och
+oförutsedda utmaningar.
+Säkerställ de viktigaste samhällsfunktionerna och nödvändig
+försörjning
+Beredskap kan beskrivas som förmågan att förebygga, motstå och hantera olika
+situationer och är en central del av det dagliga arbetet. Arbetet syftar till att
+minimera risker och göra organisationen mindre sårbar för störningar.
+Störningar som exempelvis it-, el- eller vattenbortfall kan få allvarliga
+konsekvenser för både organisationen och samhället. Genom
+kontinuitetsplanering skapas förutsättningar att upprätthålla samhällsviktig
+verksamhet även när störningar inträffar.
+Region Stockholms verksamheter ska fungera både i vardagen och vid kriser,
+med särskilt fokus på de samhällsviktiga delarna. Beredskapsarbetet omfattar
+därför planering och förberedelser för både fredstida krissituationer och höjd
+beredskap. För att kärnverksamheterna ska kunna fullgöra sina uppdrag
+behöver Region Stockholm säkerställa en god lednings- och beslutsförmåga
+samt att nödvändiga stödfunktioner fungerar i största möjliga utsträckning.
+I det senaste försvarsbeslutet18 betonas vikten av att hälso- och sjukvården har
+en robust kapacitet för att hantera skadade och döda i krigssituationer. Det är
+avgörande för att skydda civilbefolkningen, upprätthålla förtroendet för
+myndigheterna, och bevara stridsviljan hos både militär personal och
+allmänheten. Vården behöver särskilt förbereda sig för att kunna omhänderta
+allvarliga, svåra eller kritiska traumaskador inklusive epidemier och användning
+av massförstörelsevapen. Prioriteringsförmågan i vården kommer att skärpas
+ytterligare och kapaciteten för akutkirurgi och intensivvård behöver kunna
+utökas betydligt vilket ställer stora krav på tillgång till personal, lokaler,
+18 Försvarsutskottets betänkande, 2024/25:FöU2. Totalförsvaret 2025-2030. Hämtad från
+C9BDDDB4-4C05-402B-904D-8DD381BF1733
+Sida 44
+läkemedel, sjukvårdsmaterial och medicinteknisk utrustning men också på
+förmåga till ledning, koordinering och beslut. Beslutet understryker också
+vikten av att säkerställa försörjningsberedskapen för exempelvis läkemedel och
+sjukvårdsmaterial under minst tre månader vid kris.
+Förbered vårdens organisation och medarbetare
+Ett effektivt beredskapsarbete inom hälso- och sjukvården förutsätter
+välfungerande samverkan och samordning mellan ansvariga organisationer,
+ledningsfunktioner och beslutsfattare.
+För att säkerställa en trygg och fungerande region samt minska risken för
+störningar inom hälso- och sjukvården behöver grundläggande
+kontinuitetsplanering, kris- och katastrofberedskap samt it- och
+informationssäkerhet vara en integrerad del av det dagliga arbetet. Det är av
+central betydelse att medarbetare har tydlig och uppdaterad kunskap om vad
+som förväntas i både vardag och vid händelse av kris eller krig.
+Samhällsbärande aktörer, såsom hälso- och sjukvården, behöver kontinuerligt
+genomföra övningar för att stärka förmågan att hantera olika typer av
+krisscenarier.
+Bygg kapacitet genom långsiktig investering i infrastruktur
+Regionens vårdfastigheter är till delar äldre och i behov av omfattande
+upprustning och modernisering, och de krav som ställs på arbetet med att
+stärka Region Stockholms verksamhetsskydd och beredskap kräver
+robusthetshöjande investeringar och åtgärder.
+Region Stockholms fastigheter ska vara robusta och utformade så att de ger
+förutsättningar att upprätthålla verksamheten i samband med störningar, kriser
+och krig. Det ska finnas redundans i kritiska fastighetstekniska system, liksom
+förutsättningar till snabbt återställande.
+När nya fastigheter byggs och då fastigheter och lokaler byggs om är det viktigt
+att säkerställa att det byggs in en flexibilitet i fastigheten/lokalen för eventuellt
+förändrade behov av nyttjande. Investeringarna ska även synkroniseras mer
+med befolkningens vårdbehov samt med planeringen och beställningen av
+sjukvård. Vägledande principer och en övergripande bedömning av behovet för
+upprustning och byggnation av vårdlokaler beskrivs i Bilaga 4 Plan för
+långsiktig slutenvårdskapacitet.
+Sida 45
+Arbetet framåt med målbild
+och strategi 2040
+Målbild och strategi för hälso- och sjukvården 2040 fastställer den långsiktiga
+inriktningen för hälso- och sjukvården, inklusive tandvården, i Region
+Stockholm. Den ska vara vägledande för regionen inom ramen för ordinarie
+planering och beslutsprocesser samt utgöra grunden för alla nya och reviderade
+styrande dokument. Den är riktad till framför allt hälso- och sjukvårdens
+beslutsfattare och ledare inom regionen och syftar till att ska skapa
+förutsättningar för styrning och gemensam riktning för att kunna möta
+framtidens vårdbehov.
+För att lyckas nå målbilden till 2040 måste arbetet påbörjas nu och ske såväl
+strategiskt och taktiskt som operativt och förändringar i kultur och arbetssätt
+behöver genomföras. En förutsättning för att lyckas med en förändring är att
+förtroendevalda, ledare och chefer bär ansvaret och stödjer förändringen på den
+nivå de verkar.
+Målbilden och strategin för 2040 kommer att kommuniceras i många olika
+forum. Målet är att alla som verkar i Region Stockholms vårdsystem ska känna
+till målbilden och riktningen framåt. Det är viktigt för att kunna ta medvetna
+beslut, kunna prioritera och därmed välja bort delar som inte leder oss mot
+målbilden.
+Uppföljning av målbilden ska i huvudsak ske i ordinarie uppföljning. Dock
+behöver de nuvarande indikatorerna ses över, och vid behov ska nya indikatorer
+utvecklas.
+Målbilden och strategin för hälso- och sjukvården gäller till och med år 2040.
+Vid behov ska regionfullmäktige fatta beslut om revidering.
+Sida 46
+Rekommendationer
+Som tidigare nämnts baseras målbilden och strategin i huvudsak på befintliga
+kunskapsunderlag och styrande dokument. En genomlysning av styrande
+dokument har gjorts och styrande dokument som behöver justeras, avskaffas
+eller kompletteras redovisas nedan. Kunskapsunderlag och styrande dokument
+som använts som underlag redovisas i bilaga 2.
+Den sammantagna bedömningen är att den majoriteten av befintliga styrande
+dokument går i linje med den nya målbilden och strategiska planen. Nedan
+redovisas föreslagna förändringar samt prioriterade utredningar för att nå
+målbilden.
+Styrande dokument som föreslås avskaffas
+Målbild och strategi för hälso- och sjukvården 2040 föreslås ersätta den tidigare
+Framtidsplanen för hälso- och sjukvården. Mot bakgrund av detta föreslås
+Framtidsplanen och tillhörande genomförandeplaner avskaffas.
+• Framtidsplan för hälso- och sjukvården (LS 1104-0624)
+• Framtidsplan för hälso- och sjukvården - första steget i genomförandet
+(LS 1109-1229)
+• Framtidsplanen andra steget – konkretisering av det fortsatta arbetet (LS
+1304-0527)
+• Framtidsplanen – Tredje steget i genomförandet (LS 1409-1068)
+I regionens budget 2019 fattade regionfullmäktige beslut om att det skulle
+presenteras en övergripande primärvårdsstrategi, med en strategisk inriktning
+och mål för en stärkt primärvård; Primärvårdsstrategi 2019-2025. Den
+beslutades i HSN i juni 2019 och följdes av en plan för genomförande som
+beslutades 2022. Både primärvårdsstratregin och genomförandeplanen sträcker
+sig till 2025 och de viktigaste strategierna för en omställning till nära vård
+bedöms täckas av den strategiska planen. Därför föreslås det fortsatta arbetet
+med omställningen till nära vård efter 2025 införlivas i Målbild och strategi för
+hälso- och sjukvården 2040 och att primärvårdsstrategin och tillhörande
+genomförandeplan avskaffas:
+• Primärvårdsstrategi 2019-2025 (HSN 2019-0945)
+• Genomförandeplan för nära vård (HSN 2021-1966).
+Sida 47

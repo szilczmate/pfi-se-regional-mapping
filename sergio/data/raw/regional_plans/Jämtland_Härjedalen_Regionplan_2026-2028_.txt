@@ -1,0 +1,2158 @@
+2020-2022
+Regionplan och budget
+2026–2028
+Innehållsförteckning
+Att ta ansvar för vården, ekonomin och framtiden ........................................................................ 4
+Styrmodell ..................................................................................................................................... 5
+Övergripande mål ......................................................................................................................... 7
+Långsiktig plan för ekonomi i balans ........................................................................................... 21
+Budget 2026–2028 ...................................................................................................................... 26
+Budgetramar för regionstyrelse och nämnder ............................................................................. 33
+Bilagor ........................................................................................................................................ 38
+Bilaga 1: Styrdokument ............................................................................................................... 39
+Bilaga 2: Ekonomiska planeringsförutsättningar .......................................................................... 43
+2
+Figurförteckning
+Figur 1. Styrkedja. ......................................................................................................................... 5
+Figur 2. Politisk organisation. ........................................................................................................ 6
+Figur 3. Likviditetsprognos 2024–2030. ....................................................................................... 22
+Tabellförteckning
+Tabell 1. Finansiella mål. .............................................................................................................. 9
+Tabell 2. Långsiktig Resultatbudget till år 2030. .......................................................................... 22
+Tabell 3. Plan för återställande av underskott. ............................................................................ 25
+Tabell 4. Resultatbudget. ............................................................................................................ 28
+Tabell 5. Balansbudget. .............................................................................................................. 29
+Tabell 6. Finansieringsbudget. .................................................................................................... 30
+Tabell 7. Maximalt beslutad lånevolym. ....................................................................................... 30
+Tabell 8. Investeringsram ............................................................................................................ 31
+Tabell 9. Varav fleråriga fastighetsprojekt. .................................................................................. 31
+Tabell 10. Riktade statsbidrag i budget. ...................................................................................... 32
+Tabell 11. Budgetramar i netto per regionstyrelse, nämnd samt finansiering. .............................. 34
+Tabell 12. Driftbudget i brutto per regionstyrelse, nämnd samt finansiering. ................................ 35
+Tabell 13 Styrdokument målområden för ledningsprocesser och stödverksamhet ...................... 39
+Tabell 14. Styrdokument målområde för hälso- och sjukvård och tandvård. ................................ 41
+Tabell 15. Styrdokument målområde för regionalt utvecklingsansvar. ......................................... 41
+Tabell 16. Styrdokument målområde för kollektivtrafik. ............................................................... 42
+Tabell 17. Styrdokument målområde för kultur. ........................................................................... 42
+Tabell 18. Styrdokument för målområde folkhögskolor. ............................................................... 42
+Tabell 19. Prognosticerad befolkningsutveckling för åren 2024–2027 – enligt
+skatteunderlagsprognos SKR, förmedlad 2024-02-26. ................................................................ 43
+Tabell 20. Egna antaganden för befolkningsutveckling i Region Jämtland Härjedalen. ............... 43
+Tabell 21. SKR:s prognos för utvecklingen av skatteunderlaget. ................................................. 44
+Tabell 22. SKR:s prognos för Landstingprisindex LPIK. .............................................................. 44
+Tabell 23. SKR:s prognos för Landstingprisindex LPIK, exklusive PO-effekt. .............................. 45
+Tabell 24. Sociala avgifter 2022-2027. ........................................................................................ 46
+Regionplan och budget 2026–2028
+Dnr: RS/114/2025
+2025-05-26
+Fastställd av regionfullmäktige 2025-06-18, § 94
+3
+Att ta ansvar för vården, ekonomin och
+framtiden
+Socialdemokraterna, Kristdemokraterna och Vänsterpartiet presenterar härmed Regionplan och budget
+för åren 2026–2028. Det är en plan som speglar både den verklighet vi står i och den framtid vi vill
+forma. Ekonomin är fortsatt ansträngd, i vår region liksom i stora delar av landet. Samtidigt ser vi att
+hur det förändringsarbete som påbörjats börjar ge effekt. Tillgängligheten till vården har förbättrats, kö-
+erna har minskat och fler patienter får vård i tid. Det är resultatet av hårt arbete från verksamheterna
+och tydliga prioriteringar från politiken.
+Vi fortsätter att driva arbetet för långsiktig ekonomisk stabilitet – med samlad kraft och tydlig riktning
+framåt. Det kräver att vi tar nästa steg i det arbete som redan är i gång. Vi fokuserar på att minska
+kostnaderna på ett sätt som samtidigt värnar kärnuppdragen. Arbetet med att nå en hållbar ekonomi
+sker steg för steg, och bygger på tydlig styrning, förankring i verksamheten och en politisk viljeinriktning
+som sätter invånarnas behov i centrum.
+Omställningen till en god och nära vård är en nödvändig väg framåt för att vården ska bli mer tillgäng-
+lig, trygg och sammanhållen i hela Jämtland Härjedalen. Vården ska utgå från den enskilda människan
+och ges i rätt tid och på rätt plats. Samtidigt fortsätter vi utveckla produktions- och kapacitetsstyrningen
+för att planera vårdutbudet mer effektivt och följa upp hur resurserna används. Digitala arbetssätt införs
+i bredare skala för att förenkla kontakten med vården och frigöra tid till patientmötet. I ett förändrat sä-
+kerhetsläge behöver regionen ta ett tydligare ansvar inom totalförsvaret, där robusta hälsocentraler
+spelar en central roll
+Regionens utvecklingsansvar är avgörande för att människor ska kunna bo, leva och arbeta i hela
+Jämtland Härjedalen. Vi ska vara ett län dit människor vill flytta och stanna kvar. Det kräver ett aktivt
+arbete med kompetensförsörjning, näringsliv, infrastruktur och hållbarhet. Genom samarbeten med
+kommuner, föreningsliv och företag mobiliserar vi länets kraft för att skapa fler jobb, stärka lokalsam-
+hällena och främja innovation. Kulturen bidrar till att hålla ihop samhället och gör länet rikare både soci-
+alt och mänskligt. När kulturlivet har goda förutsättningar växer delaktighet, kreativitet och framtidstro.
+Kollektivtrafiken är en grundläggande del av infrastrukturen. Den gör det möjligt för människor att resa
+till arbete, studier och vård, och bidrar samtidigt till att binda ihop länet och minska klimatpåverkan. Ge-
+nom förändringar i linjer, zoner och prismodell vill vi skapa en mer jämlik och tillgänglig kollektivtrafik,
+där fler får möjlighet att resa på ett sätt som är både hållbart och prisvärt.
+Med denna plan fortsätter vi arbetet med att skapa en starkare, tryggare och mer sammanhållen reg-
+ion. Vi gör det med tydliga prioriteringar, gemensamt ansvar och fortsatt tillit till att förändring är möjlig.
+Det är vårt sätt att ta ansvar – för vården, för ekonomin och för framtiden.
+Bengt Bergqvist Lars-Erik Olofsson Elin Hoffner
+Socialdemokraterna Kristdemokraterna Vänsterpartiet
+4
+Styrmodell
+I Region Jämtland Härjedalen finns en gemensam styrmodell för förtroendevalda och medarbetare.
+Styrmodellen beskriver villkoren för hur organisationen ska ledas, planeras och följas upp.
+Strukturen för Region Jämtland Härjedalens styrmodell tar sin utgångspunkt i strategi för länets ut-
+veckling med dess målbild 2050. Strategin tillsammans med andra långsiktiga strategiska styrdoku-
+ment bryts sedan ner för respektive verksamhet. Styrmodellens olika delar ska bidra till en förståelse
+för hur både den egna verksamheten och övriga delar av organisationen bidrar till den. Målet är att
+uppfylla behov och förväntningar med god kvalitet och god ekonomisk hushållning.
+Regionernas obligatoriska uppgifter är hälso- och sjukvård, tandvård för barn och unga upp till 19 års
+ålder och regionalt utvecklingsansvar. Regioner ansvarar även tillsammans med kommunerna för reg-
+ional och lokal kollektivtrafik. Region Jämtland Härjedalen har valt att utföra uppgifter inom kultur samt
+utbildning. Dessa uppgifter utgör organisationens kärnverksamhet. För att kärnverksamhet och led-
+ningsprocesser ska kunna utföras och utvecklas med god kvalitet behövs stöd inom olika sakområden
+och av olika kompetenser, exempelvis från IT, HR, kommunikation eller ekonomi.
+Region Jämtland Härjedalen är också en del av det samiska förvaltningsområdet vilket medför ett sär-
+skilt ansvar för att främja samisk kultur och samiska språk. Organisationen ska också ge samerna möj-
+lighet till inflytande i frågor som berör dem och genomföra konsultation i enlighet med konsultationsord-
+ningen.
+Varje kärnverksamhet samt stödverksamhet och ledningsprocesser utgör egna målområden. Dessa
+målområden utgör grunden för verksamhetens planering och uppföljning, både på kort och lång sikt.
+Styrmodellen innebär också att Region Jämtland Härjedalen har en tydlig styrkedja där samtliga verk-
+samheter tillsammans utvecklas mot den gemensamma målbilden.
+Figur 1. Styrkedja.
+Regionplan och budget är det styrdokument som utgör grunden för verksamheternas årliga planering
+och budgetarbete. Regionplanen tydliggör planperiodens politiska viljeinriktning för respektive målom-
+råde. De politiska prioriteringarna och budget på övergripande nivå för respektive målområde ska ha
+en tydlig förankring i verksamhetens förutsättningar och förmåga. Regionfullmäktige kan i regionplanen
+för respektive målområde lägga till långsiktiga nyckeltal samt vid behov ge uppdrag för kommande år
+till styrelsen och nämnderna.
+Styrelsen och nämnderna fastställer årliga planer med budget för nästkommande verksamhetsår, vilka
+sedan anmäls till regionfullmäktige. Dessa planer tydliggör vad respektive nämnd eller styrelse ska pri-
+oritera inom tilldelade målområden.
+Verksamheten arbetar med aktiviteter som visar vad som ska genomföras för att uppnå politiska mål-
+sättningar.
+God kvalitet och en god ekonomisk hushållning på längre sikt
+Region Jämtland Härjedalens verksamhet ska bedrivas med god kvalitet. Det innebär att tillfredsställa
+behov och helst överträffa förväntningar hos de som verksamheten finns till för. För att bedriva en verk-
+samhet med god kvalitet ska Region Jämtland Härjedalen utgå från de krav och förväntningar som
+finns på verksamheten. Men också skapa möjlighet för alla medarbetare att vara engagerade och del-
+aktiga i organisationens utveckling. I en tid av ekonomiska svårigheter behöver de krav som ställs på
+utbudet avvägas mot vad som måste upprätthållas och vilken ambitionsnivå som är realistisk.
+5
+Samtidigt kräver de utmaningar organisationen står inför att påbörjat omställningsarbete fortsätter. Ef-
+fektiviseringar och utveckling av nya arbetssätt, till exempel genom digitalisering, är i det nödvändigt.
+God ekonomisk hushållning innebär att finansiella mål uppnås samt de mål och riktlinjer för verksam-
+heten som är av betydelse för en god ekonomisk hushållning.
+Varje ny verksamhet, anställning, aktivitet eller dylikt ska noga övervägas. De alternativ som finns för
+att finansiera nytillkomna behov är att öka externa intäkter eller genomföra omprioriteringar inom befint-
+lig verksamhet. För att stärka Region Jämtland Härjedalens ekonomiska ställning krävs fokus på att
+hålla kostnaderna nere och att förbättra soliditeten.
+Det ekonomiska läget för Region Jämtland Härjedalen är fortsatt mycket ansträngt. Det finns flera fak-
+torer som har drivit på kostnadsutvecklingen, bland annat den höga inflationstakten med högre pens-
+ionskostnader under perioden 2022 - 2024. Ränteläget ligger fortfarande på en relativt hög nivå även
+om styrräntan förväntas gå ned framöver. Pensionskostnaderna ligger kvar på en något högre nivå,
+men är på väg ner och stabiliseras på en ny nivå. En medvetenhet om att hushålla med befintliga re-
+surser ska råda i hela organisationen och verksamheterna ska bedrivas ändamålsenligt. God ekono-
+misk hushållning är en central del i styrningen, där en långsiktig plan för ekonomi i balans ska vara en
+del av ordinarie arbete med planering, budget och uppföljning.
+Politisk organisation
+Nedan visas en bild på den politiska organisationen i Region Jämtland Härjedalen enligt beslut i
+Regionfullmäktige.
+Figur 2. Politisk organisation.
+6
+Övergripande mål
+Region Jämtland Härjedalen kärnverksamhet, stödverksamhet och ledningsprocesser utgör målområden. För varje
+målområde finns ett övergripande mål.
+• Ledning, styrning och uppföljning av beslut och verksamhet (Målområde för ledningsprocesser)
+• God och nära vård i hela Jämtland Härjedalen (Målområde för hälso- och sjukvård)
+• God och tillgänglig tandvård i hela Jämtland Härjedalen (Målområde för tandvård)
+• Utvecklingskraft i hela Jämtland Härjedalen (Målområde för Regionalt utvecklingsansvar)
+• Tillgängligt kulturutbud i hela Jämtland Härjedalen (Målområde för kultur)
+• Goda kommunikationer inom samt till och från Jämtland Härjedalen (Målområde för kollektivtrafik)
+• Folkhögskolor med hög kvalitet (Målområde för folkhögskolor)
+• Ändamålsenlig kompetens för effektivt stöd till verksamhet och utveckling (Målområde för stödverksamhet)
+Region Jämtland Härjedalens alla verksamheter behöver samverka såväl internt som externt för att gemensamt
+uppnå den politiska viljeinriktningen inom respektive målområde.
+För respektive målområde finns långsiktiga nyckeltal och uppdrag för kommande år till styrelsen och nämnderna. Ge-
+nom att följa de långsiktiga nyckeltalen över tid får regionfullmäktige en indikation om verksamhetens riktning i förhål-
+lande till den politiska viljeinriktningen. Uppdrag och nyckeltal är formulerade utifrån att respektive kärnverksamhet,
+stödverksamhet och ledningsprocesser har olika förutsättningar och är också olika stora.
+För att uppnå god kvalitet och god ekonomisk hushållning inkluderas ekonomisk, social och miljömässig hållbarhet i
+respektive målområde, vilket även gäller för horisontella sakområden som exempelvis arbetsmiljö, folkhälsa och digi-
+talisering. 7
+Målområde för Ledningsprocesser
+Ledning, styrning och uppföljning av beslut och verk-
+samhet
+En tydlig ledning, koordinering och uppföljning av kärnverksamhet samt stödverksamhet behövs för att
+bryta den negativ kostnadsutvecklingen och verkställa planperiodens prioriteringar. Lagkrav, nationella
+riktlinjer och den politiska viljeinriktningen ska styra regionstyrelsen och nämndernas prioriteringsar-
+bete.
+För att nå en ekonomi i balans måste Region Jämtland Härjedalen arbeta utifrån en långsiktig plan
+med större strukturella åtgärder, utöver kortsiktiga insatser. Skarpare aktiviteter och ytterligare verk-
+samhetsförändringar behövs för att hålla budget. Aktiviteter som bidrar till en effektivare verksamhet
+med tillräckliga ambitioner ska prioriteras. Detta för att klara god ekonomisk hushållning på längre sikt.
+Arbetet med att analysera och verkställa de aktiviteter som identifierats under 2025 för att skapa en ef-
+fektiv och verksamhetsanpassad administration är en viktig del i den långsiktiga strategin och ska fort-
+sätta.
+I nuläget görs en treårig investeringsplanering. Det är önskvärt att utöka planeringshorisonten och ha
+en mer långsiktig plan för framför allt fastighetsbeståndet. På grund av det ekonomiska läget som orga-
+nisationen har, krävs idag lånade medel för att finansiera investeringar.
+Alla interna beslut som tas i organisationen ska alltid beskriva och innehålla finansieringsförutsätt-
+ningar. Där finansiering för att fasa in något nytt inte finns inom egen budgetram ska något annat fasas
+ut. Där finansiering ska flyttas ska något annat fasas ut från den verksamhet medel flyttas ifrån.
+Region Jämtland Härjedalen är en viktig samhällsaktör och en del i organisationens uppdrag är att
+samverka såväl internt som med länets kommuner, myndigheter, näringsliv och andra aktörer.
+Ett utvecklande ledarskap och medarbetardriven utveckling är viktigt i regionens arbete framåt mot så-
+väl stärkt arbetsmiljö och kompetensförsörjning som ekonomi i balans. Genom att skapa tillit och inre
+motivation kan en effektivare organisation där medarbetarna strävar mot samma mål som ledningen
+uppnås. En utvecklande ledare utmärks av inspiration och motivation i syfte att stimulera delaktighet
+och kreativitet, samt av personlig omtanke. Utvecklande ledarskap kännetecknas även av att ledningen
+uppträder som föredömen och agerar utifrån en väl synlig värdegrund. Region Jämtland Härjedalens
+chefer ska ha tydliga uppdrag, befogenheter och ansvarsområden där beslut fattas så nära verksam-
+heten som möjligt. Samspel och samarbete mellan arbetsgivare och medarbetare, liksom med de fack-
+liga organisationerna är centralt.
+Region Jämtland Härjedalen ska visa ett tydligt ledarskap när det gäller att vara en fossilbränslefri reg-
+ion år 2030. Omställningen av organisationens fordonsflotta ska fortsätta för att bidra i det arbetet. Or-
+ganisationen ska arbeta för en effektiv resursanvändning. Produkter och material ska väljas på ett mil-
+jömässigt och socialt ansvarsfullt sätt. Miljö- och klimatsmarta livsmedel ska prioriteras. Åtgärder för
+giftfri miljö ska fortsätta, bland annat ska organisationen fortsatt arbeta för en säker användning av lä-
+kemedel.
+8
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Andel av total personalkostnad som utgörs av kostnader för inhyrd bemanning
+• Hälsofrämjande index (arbetsmiljöenkät)
+• Total sjukfrånvaro - Andel sjukfrånvaro i % av ordinarie arbetstid
+• Energianvändningen i ägda lokaler
+• Positivt ekonomiskt resultat i förhållande till skatter och kommunalekonomisk utjämning.
+• Soliditeten inklusive pensionsförpliktelser ska förbättras jämfört med föregående år.
+• Kassalikviditet exklusive pensionsplaceringar >100% på längre sikt.
+• Konsolideringsgrad pensionsplaceringar, marknadsvärdet av tillgångarna i pensionsmedels-
+förvaltningen ska senast år 2040 täcka
+minst hela pensionsskuldens bokförda värde (d v s minst 100 procents konsolidering).
+Finansiella mål
+Tabell 1. Finansiella mål.
+Definition för Nivå för
+Finansiella mål 2026 2027 2028
+uppföljning uppföljning
+Soliditet (ökning) -33,2% -24,2% -16,3% Eget kapital dividerat Region Jämtland
+Exklusive ansvarsför- med totalt kapital Härjedalen totalt
+bindelsen (Värden enligt bud-
+get)
+Nettokostnadsutveckling -1,3% -1,6% 2,9% Årets nettokostnad/ Region Jämtland
+föregående års netto- Härjedalen totalt
+kostnad
+Bruttokostnadsutveckl- -0,6% -1,3% 2,4% Årets bruttokostnad/ Regionstyrelsen och
+ing föregående års brut- övriga nämnder
+tokostnad
+Summa inköp från
+Regionstyrelsen och
+upphandlad leveran-
+Leverantörstrohet 95% 95% 95% Hälso- och sjuk-
+tör/ total inköps-
+vårdsnämnden
+summa
+Total räntebärande lå-
+neskuld (exkl. pens-
+Region Jämtland
+Skuldsättningstak <16% <16% <15% ionsskulden) / Skatter
+Härjedalen totalt
+och generella statsbi-
+drag
+Uppdrag till regionstyrelsen och nämnderna 2026:
+• Regionstyrelsen och samtliga nämnder ska prioritera och genomföra effektiva verksamhets-
+förändringar, inklusive en effektiv och ändamålsenlig administration, för att hålla budget. En
+plan för hur det ska ske ska komplettera nuvarande åtgärdsplaner på lång sikt för att nå en
+budget i balans och återredovisas till Regionfullmäktige i november.
+• Regionstyrelsen och samtliga nämnder ska minska sin miljö- och klimatpåverkan.
+9
+Målområde för hälso- och sjukvård
+God och nära vård i hela Jämtland Härjedalen
+Hälso- och sjukvården ska bidra till en god hälsa och erbjuda vård på lika villkor för alla i länet. Vården
+ska ges med respekt för varje människas lika värde och värdighet. Den som har störst behov av vård
+ska få gå först. Skillnader i vård och behandling som inte är medicinskt motiverade ska uppmärksam-
+mas och motverkas. Vården ska också arbeta förebyggande och vara organiserad så att resurserna
+används på ett effektivt sätt.
+Oavsett var i regionen vården ges ska den vara säker och hålla hög kvalitet. För att det ska fungera
+behövs både stabil kompetensförsörjning och en säker försörjning av läkemedel, medicinteknik och
+sjukvårdsmaterial. Region Jämtland Härjedalens förmåga att hantera kriser måste bygga på ett robust
+grundutbud, nära invånarna.
+I det pågående omställningsarbetet mot en mer nära vård samspelar kunskapsstyrning och personcen-
+trering. Tillsammans bidrar de till en vård som är säker, jämlik, tillgänglig och effektiv – med engage-
+rade medarbetare och ett starkt samarbete med länets kommuner som avgörande faktorer. Region
+Jämtland Härjedalens ambition är fortsatt att primärvården ska vara navet i vården. För att alla invå-
+nare ska få den vård de behöver i rimlig tid och så nära som möjligt, behöver regionen ständigt arbeta
+för att öka tillgängligheten och förbättra kontinuiteten. På sikt är målet en sjukvård utan köer.
+För att lyckas behöver Region Jämtland Härjedalen vidareutveckla produktions- och kapacitetstyrning,
+och samtidigt öka möjligheterna för invånarna att möta vården digitalt – till exempel vid tidsbokning och
+kontakt med vårdpersonal.
+En nära och personcentrerad vård bygger på ett starkt partnerskap mellan patient och vårdpersonal.
+Det är grunden för ett gott bemötande och en positiv upplevelse av vården. Samtidigt behöver hela vår-
+den fortsätta hitta arbetssätt som stärker invånarnas möjlighet att ta ansvar för den egna hälsan – till
+exempel genom att uppmuntra goda levnadsvanor.
+Verksamhetsutveckling behöver vara en naturlig och förankrad del av vardagen i hela hälso- och sjuk-
+vården, där både medarbetare och chefer är delaktiga i att driva förbättringar, tillsammans med patien-
+ter och invånare. För att hålla en hög kvalitet och få en hållbar ekonomi krävs också att Region Jämt-
+land Härjedalen kraftigt minskar beroendet av hyrpersonal och köpt vård.
+I det här arbetet är utvecklingen av digitala lösningar helt avgörande – inte minst för att effektivisera
+administrativa processer och frigöra mer tid för vård. Region Jämtland Härjedalen ska fortsatt vara dri-
+vande i den utvecklingen. I det arbetet behöver kompetenser och erfarenheter inom samtliga målområ-
+den tas tillvara. Målet är att stärka kvaliteten, förbättra produktiviteten och skapa en hållbar arbetsmiljö
+för framtiden.
+Många samer upplever idag diskriminering, utsatthet och psykisk ohälsa på grund av sin etniska tillhö-
+righet. För att förbättra samisk hälsa behöver Region Jämtland Härjedalen öka kunskapen om samiska
+förhållanden och stärka tillgången till hälso- och sjukvård som är anpassad till både språk och kultur.
+Det är en viktig del i att kunna erbjuda en vård på lika villkor – också för den samiska befolkningen i vår
+region.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Andel av länsinvånarnas läkarbesök som konsumeras i primärvården.
+• Andel patienter som får medicinsk bedömning inom 3 dagar i primärvården.
+• Andel patienter vars elektiva (planerade) operation genomförs inom tre månader efter beslut
+om operation.
+• Andel väntande inom 30 dagar till förstabesök inom Barn- och ungdomspsykiatrin.
+• Antal vårdtillfällen per 100 000 invånare.
+10
+• Påverkbara slutenvårdstillfällen per 100 000 invånare 65 år och äldre.
+• Oplanerad återinskrivning i slutenvård inom 30 dagar invånare 65 år och äldre.
+• Andel patienter registrerade i Palliativa registret som haft samtal om vårdens innehåll och rikt-
+ning (brytpunktssamtal) innan sin död.
+• Andel av länsinvånarna 65 år och äldre som vaccinerats mot säsongsinfluensa.
+• Antal förskrivna antibiotikarecept per 1 000 invånare.
+Uppdrag till regionstyrelsen och nämnderna 2026:
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska tillhandahålla en säker vård, där
+vårdskador förebyggs.
+• Regionstyrelsen och hälso- och sjukvårdsnämnd ska upprätthålla en robust och säker
+läkemedelshantering samt tillse att antibiotika förskrivs restriktivt.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska tillse att vård ges i rimlig tid ge-
+nom att öka andelen distansoberoende vårdkontakter och genom att identifiera vårdinsat-
+ser som är lämpliga att utföra inom primärvården stärka dess roll som vårdens nav.
+• Hälso- och sjukvårdsnämnden ska vidareutveckla arbetet med produktions- och kapaci-
+tetsstyrning genom resursoptimering, i syfte att skapa varaktiga förutsättningar för vård
+inom vårdgarantins gränser.
+• Hälso- och sjukvårdsnämnden ska öka graden av personcentrering i vården.
+• Hälso- och sjukvårdsnämnden ska skapa mer tid för vård genom medarbetardriven verk-
+samhetsutveckling som stödjer vårdens omställning och skapar förutsättningar för digital
+interaktion, samt i högre grad inkluderar patientmedverkan och utgår från kvalitetsresul-
+tat.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska samverka med berörda aktörer
+för att gemensamt fortsätta arbetet med vårdens omställning, utveckla vårdnivån primär-
+vård i länet och möjliggöra smidig förflyttning av lämpliga vårdinsatser från sjukhus till pri-
+märvård.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska stödja förändring av levnadsva-
+nor och andra riskfaktorer för ohälsa, samt främja psykisk hälsa och uppmärksamma
+våldsutsatthet.
+• Hälso- och sjukvårdsnämnden ska verka för ökad samisk kulturkompetens och att sa-
+mers rättigheter är kända och implementeras.
+11
+Målområde för Tandvård
+God och tillgänglig tandvård i hela
+Jämtland Härjedalen
+Tandvården ska bidra till en god tandhälsa genom att tillhandahålla en tandvård på lika villkor för hela
+befolkningen. Tandvården ska vara av god kvalitet och lägga särskild vikt vid förebyggande åtgärder.
+Tandvården ska leverera säker tandvård oavsett de variationer som förekommer i verksamhet och för-
+utsättningar. En stabil kompetensförsörjning, tillsammans med en stabil försörjning och hantering av
+läkemedel, tandtekniska produkter och tandvårdsmaterial är delar i detta. Tandvårdens beredskap för
+kris ska bygga på ett robust grundutbud. Tandvården utgör en viktig del i det sammanhållna hälso- och
+sjukvårdssystemet och har en särskilt stor möjlighet att tillhandahålla hälsofrämjande insatser tillsam-
+mans med övriga hälso- och sjukvården. Både barns och vuxnas munhälsa behöver prioriteras och
+särskilda insatser för äldre fortsätta.
+Kompetensförsörjningen inom Folktandvården behöver stärkas så att möjligheterna att uppfylla sista-
+handsansvaret förbättras. Barntandvården behöver fördelas jämnare mellan länets tandvårdsutförare.
+Folktandvården ges därmed större möjlighet att möta fler vuxna tandvårdspatienter och kan upprätt-
+hålla en bred kompetens. I händelse av att förslagen i utredningen Tiotandvård – ett förstärkt högkost-
+nadsskydd för tandvård införs ändras allmäntandvårdens förutsättningar. Utvecklingen behöver följas
+noga.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Andelen kariesfria 6-åringar.
+• Kvarvarande tänder i åldersgruppen 70–79 år.
+• Personer som fått en undersökning inom den regiondrivna vuxentandvården utförd senaste
+tvåårsperioden.
+Uppdrag till regionstyrelsen och nämnderna 2025:
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska tillhandahålla en säker tandvård, där
+vårdskador förebyggs.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska verka för att såväl akut som förebyg-
+gande tandvård ges till både barn och vuxna, och att tandvårdens roll som hälsofrämjande
+instans stärks.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska tillhandahålla tandvård med hög kvali-
+tet, där förbättringsarbete utifrån kvalitetsresultat ständigt pågår.
+• Regionstyrelsen och hälso- och sjukvårdsnämnden ska utvärdera konsekvenser och undan-
+trängningseffekter med anledning av förändringar i högkostnadsskyddet för tandvård.
+• Regionstyrelsen ska verka för att barntandvården i större utsträckning fördelas jämnt mellan
+de utförare som finns i länet.
+12
+Målområde för Regionalt utvecklingsansvar
+Utvecklingskraft i hela Jämtland Härjedalen
+Ett bra innovations-, företags- och entreprenörsklimat har en avgörande betydelse för näringslivets
+konkurrenskraft, liksom för länets attraktionskraft. En utveckling måste ske utifrån ett ekonomiskt, soci-
+alt och miljömässigt hållbart perspektiv, vilket exempelvis inkluderar det samiska. Näringslivets utveckl-
+ing är central för viljan att leva och verka i länet. Det är därmed även avgörande för länets framtida
+kompetensförsörjning och folkhälsa. Företagande och välfärd är ömsesidigt beroende av varandra. Fö-
+retagens framgång och lönsamhet bidrar till finansieringen av välfärdssystemet. Detta samtidigt som en
+stark och välfungerande välfärd skapar de nödvändiga förutsättningarna för företagens verksamhet.
+När befolkningen i länet ökar förbättras möjligheterna att bedriva en välfärd av högsta möjliga kvalitet.
+Den regionala utvecklingen och konkurrenskraften blir i allt högre grad beroende av tillgången på ar-
+betskraft och kompetens. Region Jämtland Härjedalen har en viktig roll i att fortsätta samverka med
+andra aktörer i Jämtland Härjedalen för att kartlägga behov och utveckla utbildningsmöjligheter. Orga-
+nisationen ska vara en pålitlig och attraktiv samarbetspartner. Goda relationer, samverkan och sam-
+handling inom länet, med andra regioner, nationellt och inom EU är av yttersta vikt för den samord-
+nande rollen som regionalt utvecklingsansvarig.
+För regionala utvecklingsinsatser finns utvecklingskapital inom exempelvis EU-fonder och genom de
+statliga medel från anslag 1:1 regionala utvecklingsåtgärder, som Region Jämtland Härjedalen beslutar
+om. Genom att vara proaktiva i kommunikationen om vilka möjligheter och medel som finns tillgängliga
+synliggörs det regionala utvecklingskapitalets möjligheter. Goda exempel på genomförda insatser i lä-
+net bör spridas. En förbättrad kommunikation tillsammans med fördjupad analys och uppföljning av ut-
+vecklingskapitalens användning ökar spridningen av utvecklingskapital i länet. För att skapa utveckl-
+ingskraft i hela Jämtland Härjedalen är det viktigt att utvecklingsmedel når länets alla kommuner. Ut-
+vecklingsmedel ska nå företag som drivs av kvinnor i samma utsträckning som företag drivna av män.
+Länet är geografiskt stort och förutsättningarna för hållbar utveckling skiljer sig åt på olika platser. Det
+är avgörande att synliggöra länets behov och de speciella förutsättningar som råder utifrån vår geo-
+grafi. Tillsammans med kommuner och andra aktörer i länet behöver arbetet med påverkan gentemot
+nationell nivå fortgå, framför allt när det gäller länets behov av ökade anslag vid fördelning av statliga
+medel till exempel inom transportinfrastruktur och bredband. I och med Sveriges medlemskap i Nato
+kommer Sveriges militärstrategiska planering att påverka Jämtlands län. Läget ger länet möjlighet att
+vara knutpunkt och logistikområde med förbindelser i alla väderstreck med väg, järnväg samt goda
+flygförbindelser och möjligheter till flygbasering. För att skapa långsiktig hållbarhet i denna uppgift be-
+höver behoven mellan civilsamhället, näringslivet och Försvarsmakten koordineras.
+De samiska näringarna är en viktig drivkraft i regionen och bidrar till samhällets utveckling. Samisk
+traditionell kunskap är en central del av den samiska kulturen och dess perspektiv och kompetens bör
+tas tillvara i högre utsträckning framöver.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Geografisk spridning av antal stöd finansierade av statliga medel från Anslag 1:1 Regionala
+utvecklingsåtgärder.
+• Geografisk spridning i kronor av stöd finansierade av statliga medel från Anslag 1:1 Regionala
+utvecklingsåtgärder
+• Andel hushåll och företag i länet med tillgång till bredband om minst 1 Gbit/s.
+• Arbetsgivares upplevda kompetensbrist.
+13
+Uppdrag till regionstyrelsen och nämnderna 2026:
+• Regionala utvecklingsnämnden ska utveckla arbetssättet för strategisk mobilisering för an-
+vändningen av medel från Anslag 1:1 Regionala utvecklingsåtgärder för hållbar regional ut-
+veckling enligt mål och långsiktiga prioriteringar för den regionala utvecklingspolitiken.
+• Regionala utvecklingsnämnden ska arbeta proaktivt för länets utveckling genom att bevaka
+frågor och påverka beslutsfattare på nationell- och EU-nivå för att bevara och utöka det reg-
+ionala utvecklingskapitalet till länet.
+• Regionstyrelsen och regionala utvecklingsnämnden ska, i samverkan med relevanta aktörer
+arbeta för ökade satsningar på transportinfrastruktur i Jämtlands län samt identifiera behov
+utifrån kraven på värdlandsstöd och NATO:s grundläggande krav för civilt försvar.
+14
+Målområde för Kollektivtrafik
+Goda kommunikationer inom samt till och från Jämt-
+land Härjedalen
+Kollektivtrafikens tillgänglighet är grundläggande för många människors sociala inkludering och tillgång
+till deltagande i samhället och bidrar därmed till förbättrad folkhälsa. Kollektivtrafik i form av bussar och
+tåg inom länet och över länsgränser är ett verktyg för att möjliggöra arbetspendling, studier och fritids-
+aktiviteter, men även att fler kommer till länet och besöker oss. Kollektivtrafik spelar en viktig roll i att
+bidra till att uppfylla länets miljö- och klimatmål. Tillsammans med kommunernas samhällsplanering
+och andra intressenter skapas förutsättningar för att utveckla kollektivtrafiken utifrån de olika behov
+samt utmaningar som finns i olika delar av länet. Människors beteenden förändras i takt med den
+snabba teknikutvecklingen. Det ställer krav på kollektivtrafiken att finna anpassningar som passar både
+dagens och framtidens resenärer. Det gäller att hitta rätt balans mellan ett utökat utbud och därmed
+kostnaderna och samtidigt ett ökat antal resor samt intäkter. Marknadsföring, omvärldsbevakning och
+framtagandet av prognoser är viktigt i detta arbete. Samtidigt är det svårt att förutse vilka effekter det
+säkerhetspolitiska världsläget får på exempelvis drivmedelskostnader och inflation vilka kan få stor på-
+verkan på kollektivtrafikens ekonomi.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Antal resor med regionbuss och tåg
+• Antal resor med stadstrafiken i Östersund
+• Självfinansieringsgrad
+• Andel av busstrafiken (fordonskm) som drivs med förnybart drivmedel
+Uppdrag till regionstyrelsen och nämnderna 2025:
+• Kollektivtrafiknämnden ska arbeta för att öka kollektivtrafikens intäkter
+15
+Målområde för Kultur
+Tillgängligt kulturutbud i hela Jämtland Härjedalen
+Ett levande kulturliv är viktigt för länets utveckling, attraktionskraft och platsvarumärke. Kultur bygger
+broar och utgör kittet mellan människor, mellan stad och landsbygd och kan även bidra till attraktiva
+livsmiljöer, utveckling av demokrati, integration, lärande och förbättrad folkhälsa. Kultur enar, skapar
+delaktighet och tillhörighet vilket bidrar till samhällets motståndskraft i oroliga tider. Den kulturella infra-
+strukturen med civilsamhället, folkbildningen och professionella kulturverksamheter behöver värnas.
+Vårt kulturarv speglar hur vi har utvecklats och levt på den plats på jorden som är Jämtland Härjedalen.
+Detta arv ska vårdas professionellt och även granskas kritiskt. I länet finns många aktörer som gör hi-
+storisk kultur och konst närvarande och levande, inte minst Jamtli. Att främja och stärka kunskapen om
+nationella minoriteters och urfolket samernas språk och kultur är en viktig del i det arbetet.
+Alla invånare i länet ska ha tillgång till upplevelser av kultur och själva kunna skapa och uttrycka sig.
+Deltagande i konst- och kulturaktiviteter bidrar till att förebygga ohälsa. Det kan även vara ett stöd i att
+förbättra hälsa och mående och bidrar till en förbättrad folkhälsa. Vidare kan kultur utgöra ett komple-
+ment till ordinarie behandling, för att bryta utanförskap och en känsla av ensamhet. På det sättet kan
+kultur också bidra till kortare sjukskrivningar. Utveckling av insatser gällande kultur och hälsa är viktigt.
+Mot den bakgrunden är geografisk spridning, att nå hela länet genom egen verksamhet eller bidrag till
+externa verksamheter, viktigt. Barn och unga är en prioriterad målgrupp. Att ge förutsättningar för ett
+rikt kulturliv ger en bra grogrund för innovativa och kreativa miljöer där alla invånare i länet ska ha till-
+gång till mötesplatser för kultur. Mötesplatser som även kan utgöra nav för kulturella och kreativa
+branscher. En fortsatt utveckling av kulturella och kreativa branscher är en viktig faktor för ett starkare
+kultur- och näringsliv i länet.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Geografisk spridning av antal föreställningar per kommun.
+• Geografisk spridning av antal främjande kulturaktiviteter per kommun.
+• Antalet aktiviteter genomförda för barn och unga per kommun.
+Uppdrag till regionstyrelsen och nämnderna 2026:
+• Regionala utvecklingsnämnden ska tillsammans med regionstyrelsen fortsätta utveckla arbe-
+tet med kultur och hälsa.
+16
+Målområde för Folkhögskolor
+Folkhögskolor med hög kvalitet
+Regionens två folkhögskolor, Birka och Bäckedal, ger unga vuxna nya chanser till utbildning, bidrar till
+förbättrad integration, främjar jämlikhet och jämställdhet samt utvecklar förståelse för demokratins och
+kulturens betydelse. Regionens folkhögskolor är två av flera utbildningsanordnare i länet som bidrar till
+deltagarnas utveckling och länets kompetensförsörjning och kompetensutveckling. Folkhögskolorna
+ska fortsätta vara attraktiva och locka deltagare i länet och till länet med sina profilutbildningar. De har
+även ett viktigt uppdrag i att bidra till utveckling av regionens kulturliv genom olika event som konserter,
+föreläsningar och andra arrangemang. Folkhögskolorna bidrar på detta sätt till både individens och
+samhällets utveckling, men kanske framför allt till en förbättrad folkhälsa.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Antal tilldelade deltagarveckor, per folkhögskola
+• Andel extern finansiering utöver statsbidrag kopplat till deltagarveckor, per folkhögskola
+• Antal utfärdade studieomdömen per folkhögskola
+17
+Målområde för Stödverksamhet
+Ändamålsenlig kompetens för effektivt stöd till verk-
+samhet och utveckling
+Region Jämtland Härjedalens stödverksamhet ska på olika sätt stödja kärnverksamhet, övrigt verksam-
+hetsstöd och ledningsprocesser i att möjliggöra lagefterlevnad och de prioriteringar som beslutats inom
+respektive målområde. Men stödverksamhetens arbetssätt och organisation behöver också utvecklas
+och förändras för att vara kostnadseffektiv och anpassas utifrån kärnverksamhetens faktiska utma-
+ningar. Fortsatt utbyggnad av digitala arbetsinslag och processer är i det en viktig prioritering. Liksom
+att arbeta mer samordnat, behovsstyrt och effektivt med verksamhetsutveckling. En stärkt samverkan
+mellan teknik och verksamhet är i det viktigt.
+En utmaning nu och framåt är kompetensförsörjningen där kärnverksamheterna behöver stöd i att dels
+hitta och behålla kompetens, dels genomföra åtgärder för att minska sårbarheten då konkurrensen om
+kompetens ökar. Omställning till andra arbetssätt och nya tekniska lösningar är nödvändiga åtgärder
+för att möta utvecklingen. Kompetensförsörjningsfrågor på stödnivå innefattar att styra samt stödja
+verksamheterna i såväl bemanningsfrågor som arbetsmiljö-, löne- och villkorsfrågor, ledarskapsfrågor
+och forskning- och utbildningsfrågor, med mera. Ändamålsenlig kompetens vid respektive funktion
+inom organisationen och rätt använd kompetensen (begreppet RAK) är i sin tur bidragande till effektivi-
+tet och upprätthållande inom målområdet stödverksamhet. Exempel på det är patientsäkerhet, robust-
+het, IT-drift och -säkerhet, krisberedskap samt ärendehanteringsprocessen. En väl fungerande kompe-
+tensförsörjning har även positiva ekonomiska effekter.
+Att vara en attraktiv arbetsgivare genom att erbjuda en hälsofrämjande arbetsmiljö, tillvarata medarbe-
+tarnas kompetens och samtidigt förbättra förutsättningarna för att medarbetarna stannar i organisat-
+ionen, är och förblir några av Region Jämtland Härjedalens viktigaste strategiska uppgifter. I det ingår
+också att erbjuda utvecklingsmöjligheter och ett ledarskap som understödjer detta, liksom kultur- och
+värdegrundsarbete.
+Folkhälsoarbetet ska fortsätta utvecklas och i högre grad integreras i ordinarie verksamhet. Det ska
+vara prioriterat att i tid kunna initiera insatser för att främja hälsosamma levnadsvanor, psykisk hälsa
+och goda relationer. Detta i synnerhet tidigt i livet. Arbetet krävs såväl inom organisationen som tillsam-
+mans med andra samhällsaktörer, såsom föreningar samt länets kommuner, för att utveckla hälsofräm-
+jande och sjukdomsförebyggande insatser där invånares olika förutsättningar särskilt beaktas,
+Inom målområdet behöver stödverksamheten också möta kärn- och stödverksamheternas förmåga att
+arbeta med miljö- och hållbarhetsfrågor, ekonomi-, inköp- och upphandlingsfrågor, kommunikation- och
+informationsförvaltning, lokal- och fastighetsfrågor, varu- och materialförsörjning, hälsopolitiska frågor,
+övrig effektivisering liksom i att rent praktiskt utföra arbetsuppgifter i kärnverksamheten där tex formell
+vårdkompetens inte är nödvändig.
+Långsiktiga nyckeltal att följa över tid för att visa målområdets utveckling:
+• Antal vetenskapliga publikationer som är knutna till Region Jämtland Härjedalen.
+• Allmänt gott hälsotillstånd (16+)
+• Andel elever i åk 7 och åk 1 på gymnasiet som upplever att de mår bra
+• Psykiskt välbefinnande (fördelat på kön 16–29 år)
+18
+Uppdrag till regionstyrelsen och nämnderna 2026:
+• Regionstyrelsen ska stödja verksamheten i arbetet med förvaltning och utveckling av kompe-
+tensförsörjningsarbete och särskilt prioritera insatser för att stärka omställning.
+• Regionstyrelsen ska bistå med stöd till verksamhet för att möjliggöra en hälsofrämjande ar-
+betsmiljö som bibehåller och stärker medarbetares hälsa.
+• Regionstyrelsen ska i samverkan med nämnderna prioritera insatser för att främja det psy-
+kiska välbefinnandet hos unga och unga vuxna.
+• Regionstyrelsen ska stödja nämnder med insatser som främjar jämlikhet i verksamheterna
+och ta fram ett underlag för ett långsiktigt arbete med utgångspunkt i rättighetsbaserade frå-
+gor.
+• Regionstyrelsen ska verka för fortsatt ändamålsenligt stöd till hälso- och sjukvården och tand-
+vården i det hälsofrämjande och sjukdomsförebyggande arbetet för att i ökad grad stödja för-
+ändring av levnadsvanor och andra riskfaktorer för ohälsa.
+• Regionstyrelsen ska realisera arbetssätt som bidrar till att utveckla och anpassa tekniska lös-
+ningar utifrån verksamhetens utvecklingsbehov.
+• Regionstyrelsen ska vidta åtgärder för att öka Region Jämtland Härjedalens robusthet i hän-
+delse av olyckor, effekter av klimatförändringar, samhällsstörningar samt krig. Uppdraget om-
+fattar försörjningsberedskap, cybersäkerhet, informationspåverkan och ett fortsatt arbete inom
+kontinuitetshantering.
+• Regionstyrelsen ska verka för ökad samisk kulturkompetens och att samers rättigheter är
+kända och implementeras.
+19
+20
+Långsiktig plan för ekonomi i balans
+I det här kapitlet beskrivs Region Jämtland Härjedalens långsiktiga plan för en ekonomi i balans fram till år 2030.
+Reglering av balanskravsresultat, synnerliga skäl och plan för återställande av underskott beskrivs.
+21
+Region Jämtland Härjedalens långsiktiga åtgärdsplan för en
+ekonomi i balans
+Alla kan på ett eller annat sätt bidra till att stärka Region Jämtland Härjedalens ekonomi. När vi idag
+nyttjar mer resurser än vad vi har råd med inom framför allt hälso- och sjukvården blir detta lånade me-
+del från kommande generationer. Det är inte en sund eller hållbar ekonomi att skjuta ekonomiska pro-
+blem längre fram utan problemen behöver åtgärdas inom snar framtid. Vi behöver återställa lånade
+medel och bygga upp en ekonomisk buffert för perioder av svårare ekonomiska tider. På kort sikt behö-
+ver vi minska kostnaderna för att bromsa upp kostnadsutvecklingen. På längre sikt fortsätta hålla nere
+kostnaderna för att återställa balanskravsresultatet innan år 2030. Detta kräver enligt nedanstående
+Långsiktiga resultatbudget positiva resultat om cirka 260 miljoner kronor årligen 2027–2030.
+Tabell 2. Långsiktig Resultatbudget till år 2030.
+Likvida medel krävs om cirka 200 miljoner kronor varje månad för att hålla en god betalningsbered-
+skap. Lånade medel bedöms enligt likviditetsprognos nedan nå en topp under år 2026 för att Region
+Jämtland Härjedalen senare ska kunna börja amortera av sina skulder. En viss belåning kommer att
+återstå vid den långsiktiga planens slut, främst kopplat till investeringar.
+Figur 3. Likviditetsprognos 2025–2030.
+22
+M
+V
+R
+V
+A
+V
+S
+G
+S
+V
+F
+F
+Å
+iljo n e r k ro n o r
+e rk s a m h e te n s in tä k te r
+ik ta d e s ta ts b id ra g
+e rk s a m h e te n s k o s tn a d e r
+v s k riv n in g a r
+e rk s a m h e te n s n e tto k o s
+k a tte in tä k te r
+e n e re lla s ta ts b id ra g *
+ta ts b id ra g lä k e m e d e l
+e rk s a m h e te n s re s u lta t
+in a n s ie lla in tä k te r
+in a n s ie lla k o s tn a d e r
+re ts re s u lta t
+tn a d e r
+U tfa ll
+2 0 2 4
+1 0 3 6 ,7
+2 2 9
+-7 2 6 7 ,6
+-1 6 4 ,9
+-6 1 6 6 ,8
+3 7 1 4 ,3
+1 4 6 2 ,6
+5 1 4 ,5
+-4 7 5 ,4
+2 7 3 ,2
+-2 9 1 ,5
+-4 9 3 ,7
+B u d g e t
+2 0 2 5
+9 3 0 ,0
+1 6 0
+-6 7 7 6 ,6
+-1 6 3 ,1
+-5 8 4 9 ,7
+3 8 8 1 ,9
+1 3 1 3 ,5
+5 3 0 ,5
+-1 2 3 ,7
+2 9 ,5
+-1 3 5 ,7
+-2 2 9 ,9
+P ro g n o s
+2 0 2 5
+9 7 8 ,1
+2 5 8
+-7 1 2 1 ,9
+-1 6 5 ,3
+-6 0 5 1 ,2
+3 8 9 6 ,7
+1 3 9 5 ,2
+5 3 0 ,5
+-2 2 8 ,8
+2 9 ,0
+-1 3 0 ,1
+-3 2 9 ,9
+B u d g e t
+2 0 2 6
+1 0 5 0
+2 2 0
+-7 0 7 5
+-1 7 0
+-5 9 7 5
+4 0 5 4
+1 3 9 3
+5 5 0
+2 3
+3 5
+-5 9
+0
+,0
+,0
+,2
+,0
+,2
+,6
+,9
+,5
+,7
+,5
+,3
+,0
+P la n
+2 0 2 7
+1 0 5 0
+2 2 0
+-6 9 7 8
+-1 7 0
+-5 8 7 8
+4 2 3 1
+1 4 0 0
+5 7 0
+3 2 4
+3 7
+-1 0 1
+2 6 0
+,0
+,0
+,5
+,0
+,5
+,4
+,8
+,5
+,2
+,5
+,6
+,1
+P la n
+2 0 2 8
+1 0 5 0
+2 2 0
+-7 1 5 1
+-1 7 0
+-6 0 5 1
+4 3 9 3
+1 4 2 3
+5 9 0
+3 5 6
+3 9
+-1 3 3
+2 6 2
+,0
+,0
+,8
+,0
+,8
+,9
+,8
+,5
+,4
+,5
+,0
+,9
+P la n
+2 0 2 9
+1 0 5 0
+1 2 0
+-7 2 6 8
+-1 7 0
+-6 2 6 8
+4 5 5 2
+1 4 4 7
+6 2 0
+3 5 1
+3 3
+-1 1 6
+2 6 8
+,0
+,0
+,5
+,0
+,5
+,5
+,6
+,0
+,6
+,0
+,6
+,0
+P la n
+2 0 3 0
+1 0 5 0
+1 2 0
+-7 4 8 6
+-1 7 0
+-6 4 8 6
+4 7 1 6
+1 4 7 1
+6 5 1
+3 5 2
+3 3
+-1 1 6
+2 6 9
+,0
+,0
+,5
+,0
+,5
+,8
+,6
+,0
+,9
+,0
+,6
+,3
+Krav på åtgärder per nämnd
+Finansieringen av verksamheten är fortsatt begränsad under planperioden till följd av skatteunderla-
+gets låga utvecklingstakt. År 2025 är ett år som mestadels består av konjunkturåterhämtning och en
+mer normal kostnadsutvecklingstakt väntas från 2026 och framåt. Verksamhetens kostnader har sen-
+aste åren ökat i en högre takt än vad finansieringen av verksamheten gör, vilket skapar en ohållbar
+ekonomisk situation på sikt om inte kostnadsmassan minskas för att möta intäkterna.
+Regionstyrelsen och nämnderna har ett gemensamt ansvar för att komma till rätta med Region Jämt-
+land Härjedalens ekonomiska underskott. Den budgetram som fördelas till regionstyrelse och nämnder
+räckte inte till att täcka 2024 års budget vilket innebär att ytterligare åtgärder måste vidtas för att klara
+budget 2025 för att kunna ge bra förutsättningar för 2026. Regionstyrelsen och samtliga nämnder
+måste vidta skarpa åtgärder för att minska sina kostnader och samtidigt bidra till regionens samman-
+tagna utveckling och ekonomiska resultat. Åtgärdsplaner ska upprättas i respektive regionstyrelse och
+nämnds plan med budget i enlighet med det som beskrivits om långsiktig ekonomi i balans. Regionsty-
+relse och nämnd ska utifrån sitt sammantagna uppdrag avväga prioriteringar inom den budgetram som
+är tilldelad genom att minska utbud eller ambitionsnivå.
+Detta innebär att verksamheten behöva minska sina kostnadsnivåer för att hålla sina kostnader inom
+tilldelad budgetram som steg ett i en långsiktig plan för ekonomi i balans. Steg två är att årligen under
+fem års tid (2026–2030) möta kostnadsökningar för bland annat lönerevision, som historiskt varit 3 pro-
+cent årligen i genomsnitt, med nya årliga besparingsåtgärder.
+Övergripande åtgärder för att nå budget i balans
+Under respektive målområde har planperiodens övergripande inriktning och de uppdrag som regionsty-
+relsen och nämnderna ska genomföra för att den långsiktiga planen om ekonomin ska kunna verkstäl-
+las beskrivits. Att utifrån lagkrav och nationella riktlinjer anpassa utbudet och ambitionsnivån med hän-
+seende till de ekonomiska förutsättningarna är nödvändigt. Åtgärder som ger direkta effekter på en
+bättre ekonomi och samtidigt bidrar till en effektivare verksamhet med tillräckliga ambitioner ska priori-
+teras. Nya arbetssätt, via medarbetardriven verksamhetsutveckling, måste stödjas av modern teknik.
+Digitalisering och AI kommer att vara avgörande för att nå en modern och hållbar Region.
+Sammantaget bedöms nedanstående åtgärder ha avgörande betydelse för verksamhetens möjlighet
+att nå övergripande mål och budget.
+• Genomföra effektiva verksamhetsförändringar för att hålla budget
+• Genom att verkställa uppdragen inom målområde hälso- och sjukvård skapa effektiva och
+ändamålsenliga patientflöden.
+• Accelerera minskning av beroendet av köpt vård och inhyrd bemanning.
+• Implementera en effektiv och ändamålsenlig administration genom:
+o Accelererad digitalisering.
+o Rätt storlek och rätt stöd.
+o Chefsorganisation och utvecklad hållbar styrning.
+o Inköp och användning av produkter och tjänster.
+o Fortsätta arbetet med att etablera samverkan och kreativa mötesplatser med länets
+kommuner och andra organisationer.
+Effekter av åtgärder skall kunna följas tydligt och kontinuerligt. Effekter/hemtagningseffekt ska mätas
+inom respektive nämnds plan och uppföljning.
+23
+Reglering av balanskravsresultat
+Balanskravet innebär att ett negativt resultat för ett räkenskapsår ska regleras under de närmast föl-
+jande tre åren. Regionfullmäktige får besluta att en reglering av ett negativt balanskravsresultat inte
+ska göras om det finns synnerliga skäl. Region Jämtland Härjedalen har ett negativ balanskravsresultat
+från år 2023 att reglera med 464 miljoner kronor efter justeringar och synnerliga skäl att inte återställa
+delar av underskottet.
+Enligt Kommunallagen ska kommuner och regioner ha en god ekonomisk hushållning i sin verksamhet.
+God ekonomisk hushållning handlar om att säkerställa en effektiv och ändamålsenlig verksamhet samt
+en god hushållning av regionens medel på både kort och lång sikt. Region Jämtland Härjedalen bedö-
+mer, med utgångspunkt i god ekonomisk hushållning, att det inte är möjligt att återställa det negativa
+balanskravsresultatet från 2023 inom tre år och samtidigt upprätthålla en ändamålsenlig verksamhet.
+Denna bedömning grundar sig också i att även resultatet för 2024 var negativ och uppgick till minus
+494 miljoner kronor. Efter justeringar och synnerliga skäl att inte återställa delar av underskottet, visade
+balanskravsunderskottet för 2024 på 667,7 miljoner kronor. Även för 2025 har en negativ budget med
+minus 230 miljoner kronor beslutats, vilket innebär att även återställandet av resultatet för 2024 måste
+göras på längre tid än tre år.
+Region Jämtland Härjedalen åberopar med anledning av detta synnerliga skäl för att inte återställa den
+del av det negativa balanskravsresultatet som kan hänföras till inflationens påverkan på pensionskost-
+naderna. Den exceptionellt höga inflationen beräknas ha medfört ökade pensionskostnader 2023 på
+164 miljoner kronor och för 2024 med 456,7 miljoner kronor. Resterande del av det negativa balans-
+kravsresultatet efter justeringar och synnerliga skäl att inte återställa uppgick efter 2024 till 675,1 miljo-
+ner kronor planeras att återställas på längre tid än tre år men innan 2030 då planen visar på positiva
+resultat.
+Region Jämtland Härjedalen har fortsatt stora utmaningar under planperioden framåt då ett stort upp-
+dämt vårdbehov fortsatt påverkar vårdköer, på grund av uppskjuten och inställd vård under pandemin.
+Ekonomin utmanas även av den demografiska utvecklingen, vilket innebär att fler invånare kommer
+vara i behov av välfärdstjänster. En hög inflation har lett till en högre kostnadsnivå. Det är hög tid att
+effektivisera och driva verksamhetsförändringar för att minska kostnaderna och förbättra ekonomin.
+Det är av vikt att ha en god ekonomi för att kunna möta nya kostnader och nödvändiga investeringar.
+Den långsiktiga planeringen pekar på att omfattande investeringar krävs för att utveckla arbetsmiljö,
+vårdkvalitet och länet i stort.
+Synnerliga skäl
+Hösten 2023 åberopade Region Jämtland Härjedalen synnerliga skäl för att lägga en negativ budget
+för år 2024 på minus 300 miljoner kronor. Anledningen då var den snabba förändringen i omvärlden
+som fick inflationen att stiga, vilken resulterade i höga pensionskostnader under år 2023 och 2024.
+Även för 2025 åberopades synnerliga skäl och en negativ budget beslutades. Att lägga fram en budget
+i balans redan år 2025 skulle innebära stora tillfälliga nedskärningar av verksamheten, för att sedan
+växla upp igen efter år 2030. Detta skulle på längre sikt innebära stora negativa konsekvenser för verk-
+samheten, men även för invånarna i Jämtland Härjedalen. Förutom stora minskningar i utbud, som är
+förenat med risker på kort sikt, kan en tillfällig neddragning även leda till mer långtgående konsekven-
+ser, exempelvis inom kompetensförsörjningen där det redan idag finns utmaningar.
+Region Jämtland Härjedalen bedömer, med utgångspunkt i god ekonomisk hushållning, att det inte är
+möjligt att återställa det negativa balanskravsresultaten från 2023 och 2024 inom treårsperioden och
+samtidigt upprätthålla en ändamålsenlig verksamhet. Denna bedömning grundar sig också i att även
+budgeten för åren 2025 är negativ vilket i praktiken innebär att återställandet behöver ske på längre
+sikt, fram till och med år 2030.
+Region Jämtland Härjedalen har med anledning av detta åberopat synnerliga skäl för att lägga en bud-
+get med ett negativt resultat år 2025 samt att inte återställa det negativa balanskravsresultatet inom
+treårsperioden utan på längre sikt. 2023 års underskott innan år 2028, och resterande del fram till och
+med år 2030. De negativa underskotten för åren 2023 och 2024 är inte unika för vår region och heller
+inte dess utmaningar, då totala underskottet för samtliga regioner i Sverige landade på minus 12 miljar-
+der 2023 och preliminärt minus 10 miljarder för 2024 där verksamhetens resultat var negativt i 16 av
+landets 21 regioner.
+24
+Motivering till att återställa på längre tid:
+• Återställa över längre tid för att inte göra ogenomtänkta verksamhetsneddragningar.
+• De ekonomiska förutsättningarna har varit unikt svaga åren 2023 och 2024 kopplat till inflat-
+ionen och dess påverkan på pensionskostnaderna.
+• År 2025 anses som ett återhämtningsår, både konjunktur- och verksamhetsmässigt men det
+ser ljusare ut från 2026 och framåt, vilket skapar förutsättningar att återställa på lite längre tid.
+• Region Jämtland Härjedalens prognos för utvecklingen av skatteunderlaget är försiktigare än
+Sveriges kommuner och regioners prognos.
+• En förväntat negativ real skatteunderlagstillväxt försämrar ytterligare förutsättningarna för att
+återställa senast 2026. Skatter och generella bidrag har inte ökat i motsvarande takt som in-
+flation och löneökningar, vilket gjort det svårt att möta kostnadsökningarna.
+• Fullmäktige har i Riktlinje för god ekonomisk hushållning, tagit beslut om att långsiktigt
+stärka soliditeten i Region Jämtland Härjedalen med målet att uppnå positiv soliditet.
+Region Jämtland Härjedalens beslut att åberopa synnerliga skäl betyder inte att det inte krävs ett fort-
+satt arbete för att vända den ekonomiska utvecklingen. En i övrigt hög nettokostnadsutveckling innebär
+att det, trots att pensionskostnaderna bedöms minska, kommer att krävas omfattande åtgärder för att
+nå en ekonomi i balans till 2030 och över tid stärka den finansiella ställningen. Det innebär även ett
+nollresultat 2026 som följs av relativt stora överskott 2027-2030.
+Att inte återställa det negativa balanskravsresultatet inom respektive treårsperiod, i detta ekonomiskt
+utmanande läge, anses ge bäst förutsättningar att uppnå god ekonomisk hushållning på sikt. De nega-
+tiva konsekvenserna av tillfälligt stora neddragningar i verksamheten bedöms alltså bli större än de
+kortsiktiga ekonomiska vinsterna. Region Jämtland Härjedalen strategi är att ha ett långsiktigt förhåll-
+ningssätt till god ekonomisk hushållning, där ett kontinuerligt arbete mot uppsatta mål ska ge långsiktigt
+hållbara effekter för både verksamhet och ekonomi. Det krävs en långsiktigt stabil ekonomisk planering
+och kontroll över kostnadsutvecklingen för att genomföra strategiska satsningar, klara framtida investe-
+ringar och pensionsåtaganden. Det är av största vikt att fullfölja de pågående, långsiktiga effektivise-
+ringarna men också att prioritera och omfördela resurser. Nedan visas en plan för hur balanskravsre-
+sultatet (underskottet) ska regleras på längre sikt, till år 2030.
+Tabell 3. Plan för återställande av underskott.
+Återställande balanskrav, Prognos Plan Plan Plan Plan Plan
+mkr 2025 2026 2027 2028 2029 2030
+IB ackumulerade ej återställda ne-
+-675 -1 005 -1 005 -745 -482 -214
+gativa resultat*
+Årets resultat
+-230 0 260 263 268 269
+(Plan för återställande exklusive balanskravsjuste-
+ringar)
+UB ackumulerade ej återställda
+-1 005 -1 005 -745 -482 -214 55
+negativa resultat*
+*Exklusive balanskravsjusteringar (realisations-/orealiserade vinster och förluster)
+25
+Budget 2026–2028
+I det här kapitlet fördjupas de ekonomiska förutsättningarna för planperioden. I detta kapitel redovisas resultat-, ba-
+lans- och finansieringsbudget. Det finns också en redovisning om vilka förutsättningar Region Jämtland Härjedalen
+har att finansiera sin verksamhet med skatteintäkter, generella statsbidrag (kommunala utjämningsbidrag) samt öv-
+riga intäkter. I detta kapitel beskrivs även ekonomiskt utrymme för investeringar och fastigheter. Slutligen beskrivs
+likviditeten.
+26
+Budget 2026–2028
+Det krävs ett intensifierat arbete med effektiviseringar under planperioden för att nå en ekonomi i ba-
+lans till år 2030. Skatteberäkningen år 2026–2028 bygger på en utdebitering på 11,70 kronor. Skattein-
+täkterna är beroende av skatteunderlagets storlek, som i sin tur beror på samhällsekonomi, arbets-
+marknadsstruktur och demografi.
+Region Jämtland Härjedalen organiseras ur ett budgetperspektiv i 3 nivåer.
+Nivå 1 Regionfullmäktige
+Regionfullmäktige fastställer övergripande mål och ekonomiska ramar. Den övergripande ekonomiska
+styrningen sker genom att fullmäktige beslutar om resultatbudget, balansbudget och finansieringsbud-
+get.
+Nivå 2 Nämnd/Styrelse
+Resurser tilldelas regionstyrelsen och nämndernas verksamhet och dess investeringar. Regionstyrel-
+sen och nämndernas verksamhet ska bedrivas inom tilldelad driftsram. Inom driftramen har respektive
+organ rätt att prioritera för att nå uppsatta resultatmål. Den budgeterade driftsbudgeten ska hållas.
+Nivå 3 Närmaste nivå under nämnd/styrelse
+I regionstyrelsen och nämndernas verksamhetsplaner fördelas tilldelad driftram ytterligare – till närm-
+aste nivå under regionstyrelse eller nämnd.
+Driftbudgetramar ska specificeras och redovisas i regionstyrelsens och nämndernas verksamhetspla-
+ner. Budgetramarna för nivå 3 ska vara bruttobudgetramar. Bruttobudgeten består av externa intäkter,
+interna intäkter, personalkostnader, övriga externa kostnader, avskrivningar och interna kostnader, och
+fastställs av respektive nämnd. Prognos läggs på samma nivå som budget, dvs nivå 3, och skall göras
+på samma detaljeringsgrad som budget.
+27
+Resultatbudget
+Tabell 4. Resultatbudget.
+28
+M
+V
+R
+V
+A
+V
+S
+G
+S
+V
+F
+F
+Å
+iljo n e r k ro n o r
+e rk s a m h e te n s in tä k te r
+ik ta d e s ta ts b id ra g
+e rk s a m h e te n s k o s tn a d e r
+v s k riv n in g a r
+e rk s a m h e te n s n e tto k o s
+k a tte in tä k te r
+e n e re lla s ta ts b id ra g *
+ta ts b id ra g lä k e m e d e l
+e rk s a m h e te n s re s u lta t
+in a n s ie lla in tä k te r
+in a n s ie lla k o s tn a d e r
+re ts re s u lta t
+tn a d e r
+U tfa ll
+2 0 2 4
+1 0 3 6 ,7
+2 2 9
+-7 2 6 7 ,6
+-1 6 4 ,9
+-6 1 6 6 ,8
+3 7 1 4 ,3
+1 4 6 2 ,6
+5 1 4 ,5
+-4 7 5 ,4
+2 7 3 ,2
+-2 9 1 ,5
+-4 9 3 ,7
+B u d g e t
+2 0 2 5
+9 3 0 ,0
+1 6 0
+-6 7 7 6 ,6
+-1 6 3 ,1
+-5 8 4 9 ,7
+3 8 8 1 ,9
+1 3 1 3 ,5
+5 3 0 ,5
+-1 2 3 ,7
+2 9 ,5
+-1 3 5 ,7
+-2 2 9 ,9
+P ro g n o s
+2 0 2 5
+9 7 8 ,1
+2 5 8
+-7 1 2 1 ,9
+-1 6 5 ,3
+-6 0 5 1 ,2
+3 8 9 6 ,7
+1 3 9 5 ,2
+5 3 0 ,5
+-2 2 8 ,8
+2 9 ,0
+-1 3 0 ,1
+-3 2 9 ,9
+B u d g e t
+2 0 2 6
+1 0 5 0
+2 2 0
+-7 0 7 5
+-1 7 0
+-5 9 7 5
+4 0 5 4
+1 3 9 3
+5 5 0
+2 3
+3 5
+-5 9
+0
+,0
+,0
+,2
+,0
+,2
+,6
+,9
+,5
+,7
+,5
+,3
+,0
+P la n
+2 0 2 7
+1 0 5 0
+2 2 0
+-6 9 7 8
+-1 7 0
+-5 8 7 8
+4 2 3 1
+1 4 0 0
+5 7 0
+3 2 4
+3 7
+-1 0 1
+2 6 0
+,0
+,0
+,5
+,0
+,5
+,4
+,8
+,5
+,2
+,5
+,6
+,1
+P la n
+2 0 2 8
+1 0 5 0
+2 2 0
+-7 1 5 1
+-1 7 0
+-6 0 5 1
+4 3 9 3
+1 4 2 3
+5 9 0
+3 5 6
+3 9
+-1 3 3
+2 6 2
+,0
+,0
+,8
+,0
+,8
+,9
+,8
+,5
+,4
+,5
+,0
+,9
+P la n
+2 0 2 9
+1 0 5 0
+1 2 0
+-7 2 6 8
+-1 7 0
+-6 2 6 8
+4 5 5 2
+1 4 4 7
+6 2 0
+3 5 1
+3 3
+-1 1 6
+2 6 8
+,0
+,0
+,5
+,0
+,5
+,5
+,6
+,0
+,6
+,0
+,6
+,0
+P la n
+2 0 3 0
+1 0 5 0
+1 2 0
+-7 4 8 6
+-1 7 0
+-6 4 8 6
+4 7 1 6
+1 4 7 1
+6 5 1
+3 5 2
+3 3
+-1 1 6
+2 6 9
+,0
+,0
+,5
+,0
+,5
+,8
+,6
+,0
+,9
+,0
+,6
+,3
+Balansbudget
+Tabell 5. Balansbudget.
+29
+M iljo n e r k r o n o r
+T I L L G Å N G A R
+A n lä g g n in g s tillg å n g a r
+Im m a te rie lla tillg å n g a r
+M a rk o c h b y g g n a d e r o c h te k n is k a
+a n lä g g n in g a r
+M a s k in e r o c h in v e n ta rie r
+F in a n s ie lla a n lä g g n in g s tillg å n g a r
+L å n g fris tig a fo rd rin g a r
+S u m m a a n lä g g n in g s tillg å n g a r
+O m s ä ttn in g s tillg å n g a r
+F ö rrå d
+K o rtfris tig a fo rd rin g a r
+K o rtfris tig a p la c e rin g a r
+K a s s a o c h b a n k
+S u m m a o m s ä ttn in g s tillg å n g a r
+S U M M A T I L L G Å N G A R
+E G E T K A P I T A L , A V S Ä T T N I N G A R O C H
+S K U L D E R
+E g e t k a p ita l
+E g e t k a p ita l
+Å re ts re s u lta t
+S u m m a e g e t k a p ita l
+A v s ä ttn in g a r
+A v s ä ttn in g p e n s io n e r
+S ä rs k ild lö n e s k a tt ö v rig a a v s ä ttn in g a r
+Ö v rig a a v s ä ttn in g a r
+S u m m a a v s ä ttn in g a r
+S k u ld e r
+L å n g fris tig a s k u ld e r
+K o rtfris tig a s k u ld e r
+S u m m a s k u ld e r
+S U M M A E G E T K A P I T A L , A V S Ä T T N I N G
+O C H S K U L D E R
+A n s v a rs fö rb in d e ls e p e n s io n e r e x k l lö n e s k
+A n s v a rs fö rb in d e ls e lö n e s k a tt
+A R
+a tt
+U
+2
+tfa
+0 2
+ll
+4
+6
+4
+1 1
+4
+1 5
+2
+2 3
+3 4
+- 4
+- 4
+- 9
+2 3
+5
+2 9
+4
+1 0
+1 4
+3 4
+1 6
+3
+4
+17
+5
+3
+2
+7
+9
+2
+7
+2
+9
+2
+6
+7
+4
+4
+1
+6
+7
+1
+9
+5
+8
+98
+0
+0
+0
+7
+4
+8
+9
+9
+9
+4
+3
+8
+4
+0
+2
+1
+8
+0
+9
+0
+1
+P r o
+2
+g
+0
+-
+n o
+2 5
+6
+5
+1 3
+4
+1 6
+1
+2 2
+3 6
+- 9
+- 3
+1 2
+2 4
+6
+3 0
+7
+1 0
+1 7
+3 6
+1 5
+3
+s
+9
+8
+7
+5
+3
+2
+7
+1
+4
+0
+2
+3
+5
+7
+0
+7
+4
+4
+8
+0
+4
+7
+3
+3
+3
+8
+0
+8
+0
+7
+4
+7
+8
+6
+3
+0
+3
+4
+0
+0
+4
+1
+3
+5
+6
+6
+5
+B u
+2
+d g e
+0 2 6
+7
+6
+1 4
+4
+1 7
+2 2
+3 7
+- 1 2
+- 1 2
+2 4
+6
+3 0
+8
+1 0
+1 9
+3 7
+1 4
+3
+t
+3
+6
+7
+7
+3
+2
+7
+6
+9
+7
+5
+5
+8
+0
+8
+9
+4
+3
+7
+5
+5
+2
+7
+0
+8
+0
+7
+0
+7
+4
+3
+4
+1
+3
+0
+3
+6
+3
+0
+9
+1
+3
+5
+1
+0
+2
+P
+2
+la n
+0 2 7
+8
+6
+1 5
+4
+1 8
+1
+2 4
+4 0
+- 1 2
+2
+- 9
+2 5
+6
+3 1
+8
+1 0
+1 9
+4 0
+1 3
+3
+4
+7
+7
+9
+3
+2
+7
+6
+9
+9
+5
+6
+9
+4
+1
+5
+9
+4
+3
+9
+7
+3
+2
+7
+2
+8
+0
+9
+0
+7
+4
+8
+9
+8
+3
+0
+3
+0
+6
+0
+6
+1
+3
+5
+8
+0
+2
+P
+2
+la n
+0 2 8
+9
+6
+1 7
+4
+1 9
+3
+2 7
+4 4
+- 9
+2
+- 7
+2 6
+6
+3 2
+8
+1 0
+1 9
+4 4
+1 2
+3
+5
+9
+7
+3
+3
+2
+7
+1
+4
+7
+9
+6
+3
+3
+3
+7
+9
+4
+3
+7
+9
+1
+1
+9
+3
+8
+0
+1
+0
+7
+4
+6
+7
+7
+3
+3
+0
+3
+9
+0
+2
+1
+3
+5
+7
+9
+5
+Finansieringsbudget
+Tabell 6. Finansieringsbudget.
+Tabell 7. Maximalt beslutad lånevolym.
+Tak Tak Tak
+Lånetak Mkr
+2026 2027 2028
+Lånetak
+750 850 950
+100% av mark och byggnadstillgångar, avrundat
+30
+M ilj o n e r k r o n o r
+T illf ö r d a m e d e l
+In t e r n t t illfö r d a m e d e l lö p a n d e v e r k s a m
+F ö r ä n d r in g a v k o r t fr is t ig a p la c e r in g a r
+F ö r ä n d r in g a v ö v r ig t r ö r e ls e k a p it a l
+M in s k n in g a v lå n g fr is t ig a fo r d r in g a r
+Ö k n in g a v lå n g fr is t ig a s k u ld e r
+S u m m a t illf ö r d a m e d e l
+A n v ä n d a m e d e l
+N e t t o in v e s t e r in g a r
+K ö p a v v ä r d e p a p p e r t ill p e n s io n s p o r t fö
+U t lå n in g / k a p it a lis e r in g e x t e r n t
+M in s k n in g a v lå n g fr is t ig a s k u ld e r
+S u m m a a n v ä n d a m e d e l
+F ö r ä n d r in g lik v id a m e d e l
+I n t e r n t t illf ö r d a m e d e l m ilj o n e r k r o
+Å r e t s r e s u lt a t
+A v s k r iv n in g a r
+Ö k n in g p e n s io n s s k u ld in k l r ä n t e k o s t n a
+Ö v r ig t
+S u m m a in t e r n t t illf ö r d a m e d e l
+h e t
+lje n
+n o r
+d e r
+.
+U
+2
+2
+t f a ll
+0 2 4
+2 0 1
+- 8 4
+0
+2 0 0
+3 1 6
+1 6 6
+0
+4 0
+2 0 6
+1 0 9
+0 2 4
+- 4 9 3
+1 6 4
+5 5 9
+- 2 8
+2 0 1
+,3
+,7
+,0
+,0
+,6
+,0
+,0
+,8
+,8
+,8
+,7
+,9
+,0
+,9
+,3
+P r o g n o
+2 0 2 5
+- 3 3
+3 0 0
+2 6 7
+3 4 8
+1 0 0
+0
+4 4 8
+- 1 8 1
+2 0 2 5
+- 3 2 9
+1 6 5
+1 3 1
+- 3 3
+s
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,0
+,9
+,3
+,6
+,0
+B u
+2
+2
+d g e t
+0 2 6
+1 8 4 ,9
+1 5 0 ,0
+3 3 4 ,9
+2 8 9 ,0
+1 0 0 ,0
+0 ,0
+3 8 9 ,0
+- 5 4 ,1
+0 2 6
+0 ,0
+1 7 0 ,0
+1 4 ,9
+1 8 4 ,9
+P
+2
+2
+la n
+0 2 7
+4 9 7
+0
+4 9 7
+2 9 1
+1 0 0
+0
+3 9 1
+1 0 5
+0 2 7
+2 6 0
+1 7 0
+6 7
+4 9 7
+,1
+,0
+,1
+,8
+,0
+,0
+,8
+,3
+,1
+,0
+,0
+,1
+P
+2
+2
+la n
+0 2 8
+5 4 9
+0
+5 4 9
+3 0 2
+1 0 0
+0
+4 0 2
+1 4 7
+0 2 8
+2 6 2
+1 7 0
+1 1 6
+5 4 9
+,4
+,0
+,4
+,0
+,0
+,0
+,0
+,4
+,9
+,0
+,5
+,4
+Investeringar och fastigheter
+Regionfullmäktige beslutar om Region Jämtland Härjedalens totala investeringsram för de närmsta tre
+åren. För planperioden 2026–2028 föreslås investeringsramen uppgå till enligt tabell nedan.
+Tabell 8. Investeringsram
+Budget Plan Plan Plan
+Investeringsram (Mkr)
+2025 2026 2027 2028
+Nyinvesteringar 91 56 77 37
+Varav medicinteknisk utrustning 52 15 0 0
+Varav fastigheternas grundkomponenter 35 30 77 37
+Varav övriga investeringar 4 11 0
+Reinvesteringar 229 198 198 230
+Varav medicinteknisk utrustning 84 108 70 70
+Varav fastigheter 109 72 100 150
+Varav övrigt 36 18 10 10
+Mindre lokalanpassningar 0 5 5 5
+Oförutsedda investeringar 13 15 15 15
+Hjälpmedel 15 15 15 15
+Summa total investeringsram 348* 289 292 302
+* Inklusive överflyttade från år 2024
+Tabell 9. Varav fleråriga fastighetsprojekt.
+Fleråriga fastighetsprojekt (mkr) 2025 2026 2027 2028 2029 2030
+Varav hälsocentralen i Funäsdalen
+30,1 30,3 45,3 5
+(NY) inkl. konstnärlig gestaltning
+Varav belysning (RE)
+3 4 8 8 8 8
+Varav brandskyddsåtgärder (RE)
+7 20,3 23,8 24
+Varav ombyggnad Östersundslänken
+16
+(dränering, RE)
+Getingen 11(Jämtkraft)?
+Summa: 56,1 54,6 77,1 32 8 8
+Vid förvärv av fastigheten Getingen 11 (Jämtkraft) under 2025 krävs ytterligare investeringar år 2026
+för renovering på 50 miljoner kronor för både 2026 och 2027. Detta kan utöka den totala investerings-
+ramen till 339 miljoner kronor för 2026 samt till 342 miljoner kronor 2027, om inte omprioriteringar inom
+befintlig ram kan göras. Detta kan innebära behov av ytterligare lån.
+Konstnärlig gestaltning
+Region Jämtland Härjedalen beslutar årligen om ett maxtak för konstnärlig gestaltning kopplat till ny-
+eller ombyggnationer. Denna budgetram beräknas utifrån 1 procent av den årliga fastighetsinveste-
+ringsplanen med vissa beaktanden. Planmässigt maxtak för år 2026 blir 300 000 kronor till följd av in-
+vesteringsbudgeten för Funäsdalen Hälsocentral. Plan för år 2027 blir preliminärt 300 000 kronor i
+maxtak men är nybyggnad endast Funäsdalen hälsocentral, kommer beloppet förändras. På grund av
+en ansträngd ekonomi ska varje byggprojekt bedömas individuellt om konstnärlig gestaltning eller
+konstverk ur samlingen skall användas.
+31
+Riktade statsbidrag i budget
+Tabell 10. Riktade statsbidrag i budget.
+Prognos 2026 Tilldelas nämnd i övergripande kostnadsbudget
+Region Jämt-
+land Härjedalen
+Överenskommelse om en god och 42,5 mkr Varav 26 mkr Regionstyrelsen
+nära vård, en personcentrerad och
+Varav 16,5 mkr Hälso- och sjukvårdsnämnden
+patientsäker hälso- och sjukvård
+med primärvården som nav
+Förordning ökad tillgänglighet i 138,1 mkr Varav 138,1 mkr Hälso- och sjukvårdsnämnden
+hälso- och sjukvården
+Överenskommelse om en jämlik 4,6 mkr Varav 4,6 mkr Hälso- och sjukvårdsnämnden
+och effektiv cancervård med kor-
+tare väntetider
+Överenskommelse om en person- 25 mkr Varav 5 mkr Regionstyrelsen
+centrerad, tillgänglig och jämlik
+Varav 20 mkr Hälso- och sjukvårdsnämnden
+mödrahälsovård och förlossnings-
+vård samt förstärkta insatser för
+kvinnors hälsa
+Överenskommelse om försörj- 1,3 mkr Varav 1,3 mkr Regionstyrelsen
+ningsberedskap för läkemedel
+(tecknad med SKR)
+Psykiska hälsa och suicidprevent- 8,5 mkr Varav 8,5 mkr Hälso- och sjukvårdsnämnden
+ion (Anslag 1:8 Psykiska hälsa
+och suicidprevention) "Regionin-
+terna medel"
+220 mkr Varav 32,3 mkr Regionstyrelsen
+Varav 187,7 mkr Hälso- och sjukvårdsnämnden
+32
+Budgetramar för regionstyrelse och nämnder
+I det här avsnittet redovisas hur Region Jämtland Härjedalens ekonomiska ramar fördelats mellan regionsty-
+relse och nämnder, samt vilka omdisponeringar som skett mellan dessa. Här beskrivs även prioriteringar som
+gjorts.
+33
+Tabell 11. Budgetramar i netto per regionstyrelse, nämnd samt finansiering.
+34
+Tabell 12. Driftbudget i brutto per regionstyrelse, nämnd samt finansiering.
+Skatter och ge- Intäkter i verk- Kostnader Budget 2026
+nerella bidrag samhet
+Total driftbudget år 2026 mkr 0
+5975,2 1 270,0 -7245,2
+Regionfullmäktige -17,9 -17,9
+Varav förtroendemannabudget -17,9
+Regionstyrelsen inkl finansie-
+5975,2 331,3 -2527,6 3778,9
+ring
+Varav tjänstemannabudget 331,3 -2523,3
+Varav förtroendemannabudget -4,3
+Hälso- och sjukvårdsnämn-
+520,0 -3787,1 -3267,1
+den
+Varav tjänstemannabudget 520,0 -3783,6
+Varav förtroendemannabudget -3,5
+Regionala utvecklingsnämn-
+108,3 -261,8 -153,5
+den
+Varav tjänstemannabudget
+108,3 -258,1
+Varav förtroendemannabudget
+-3,7
+Kollektivtrafiknämnden 310,0 -641,1 -331,1
+Varav tjänstemannabudget 310,0 -639,8
+Varav förtroendemannabudget
+-1,3
+Revision 0,0 -5,7 -5,7
+Patientnämnden 0,4 -4,0 -3,6
+35
+Förändring budgetramar
+För att klara målet enligt Långsiktig plan för ekonomi i balans till år 2030 måste regionstyrelsen och
+samtliga nämnder bidra i arbetet med att återställa det ekonomiska underskottet. Intäkterna behöver
+öka och kostnaderna minska för att klara en budget i balans och återställande av balanskravsunder-
+skottet. Som ett första steg i Långsiktig plan för ekonomi i balans behöver regionstyrelsen och samtliga
+nämnder minska ned sina kostnadsnivåer för att hålla sina kostnader inom tilldelad budgetram. Steg
+två är att årligen möta nya kostnadsökningar exempelvis årlig lönerevision och prisökningar med nya
+besparingsåtgärder.
+Regionstyrelsen
+Följande förändringar har gjorts i Regionstyrelsens budgetram:
+Regionstaben
+• Omdisponering 3,3 mkr från RUN till RS, område Ekonomienheten avseende 4 ekonomtjäns-
+ter.
+• Omdisponering 4,5 mkr för Biobank (1,9 mkr FOU samt 2,6 mkr regiongemensamt) från RS,
+till HSN område Laboratoriemedicin.
+Regiongemensamt
+• Ingen LPIK-uppräkning av budgetram år 2026–2028.
+• Budgetram för pensionskostnader är lagd för att klara vissa svängningar i pensionskostnads-
+prognos.
+• Förändring av intäktsbudget till nivå 220 mkr hänförliga till riktade statsbidrag.
+Regiondirektör
+• Medel till utvecklingsportföljen 20 miljoner kronor och fastighetsportföljen med 10 mkr per år
+för planperioden 2026–2028.
+Vårdval:
+• Uppräkning av kostnadsbudget utifrån bedömning av LPIK exklusive priseffekt av pensioner,
+exkl. läkemedel, se ekonomiska planeringsförutsättningar - Löne- och prisförändring för reg-
+ioner. Undantag avseende läkemedelsdelen som räknas upp enligt LPIK exklusive priseffekt
+av pensioner inkl. läkemedel.
+• Uppräkningen för Vårdval får inrymmas inom regionstyrelsens budgetram för planperioden.
+• Omdisponering 0,8 mkr från RS till HSN för tjänst avseende kunskapsstyrning för primärvård
+inom Division Nära vård
+Hälso- och sjukvårdsnämnden
+Följande förändringar har gjorts i Hälso- och sjukvårdsnämndens budgetram:
+• Ingen LPIK-uppräkning av budgetram år 2026–2028.
+• Förändring av kostnadsbudget till nivå 187,7 mkr hänförliga till riktade statsbidrag.
+• Ökad intäktsbudget med 70 mkr och ökad bruttokostnadsbudget med 70 mkr, påverkar inte
+nettobudgetram.
+• Omdisponering 4,5 mkr för Biobank från RS, till HSN område Laboratoriemedicin.
+36
+• Omdisponering 0,8 mkr från RS till HSN för tjänst avseende kunskapsstyrning för primärvård
+inom Division Nära vård
+Regionala utvecklingsnämnden
+Följande förändringar har utifrån det gjorts i regionala utvecklingsnämndens budgetram:
+• Ingen LPIK-uppräkning av budgetram år 2026–2028.
+• Omdisponering 3,5 mkr från RUN till RS avseende 4 ekonomtjänster.
+• Tilläggsanslag 3 mkr för 2026 för lägre riktade statsbidrag kopplat till Bredbandsutveckling
+samt Folkhögskolor och Studieförbundet
+Kollektivtrafiknämnden
+Följande förändringar har utifrån det gjorts i kollektivtrafiknämndens budgetram:
+• Ingen LPIK-uppräkning av budgetram år 2026–2028.
+• Ökad intäktsbudget med 10 mkr och ökad bruttokostnadsbudget med 10 mkr, påverkar inte
+nettobudgetram.
+• Trafikplan T24 2024, 6,5 mkr 2024 därefter 5 mkr från 2025 och framåt (RUN/36/2022 samt
+RS/754/2022, hanterad i Regionfullmäktige 2023-02-14 §9).
+• Kompensation 6 mkr för Norrtåg för lägre bidrag från staten, men avtal löper fortsatt.
+Revision
+• Budgetram 5,7 Mkr år 2026 enligt presidiets förslag.
+Patientnämnd
+• Budgetram 3,45 Mkr år 2026 enligt presidiets förslag.
+Förtroendevalda politiker
+• Budgetram 30,7 Mkr år 2026 enligt presidiets förslag. Ingen uppräkning av budgetram för
+planperioden.
+Budgetramen för förtroendevalda är fördelad enligt regionfullmäktige, regionstyrelse och respektive
+nämnd.
+37
+Bilagor
+Bilaga 1: Styrdokument
+Bilaga 2: Ekonomiska planeringsförutsättningar
+38
+Bilaga 1: Styrdokument
+Bilagan redovisar de styrdokument som fastställs på övergripande nivå och som har koppling till respek-
+tive målområdes viljeinriktning och prioriteringar. Övriga styrdokument som skapas på underliggande ni-
+våer sammanställs av respektive nämnd.
+Målområden för ledningsprocesser och stödverksamhet
+Tabell 13 Styrdokument målområden för ledningsprocesser och stödverksamhet
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Deklaration för en stark Strategi Tills vidare RS/201/2020 Regionfullmäktige
+demokrati - Region Jämtland Här- 2020-06-17, § 42
+jedalens åtaganden
+Demokratistrategi Strategi Tills vidare RS/41/2021 Regionfullmäktige
+2021-12-01, § 150
+Forsknings-, utbildnings- och ut- Policy Tills vidare RS/163/2023 Regionfullmäktige
+vecklingspolicy 2023-06-21, § 70
+Fossilbränslefritt 2030 Strategi 2020–2030 RS/595/2019 Regionfullmäktige
+Jämtlands län - Energi- och 2019-10-16, § 113
+klimatstrategi 2020–2030
+Hjälpmedelspolicy för Region Policy Tills vidare RS/309/2023 Regionfullmäktige och
+Jämtland Härjedalen och länets länets kommuner
+kommuner 2023-11-28, § 136
+Informationssäkerhetspolicy Policy Tills vidare RS/51/2024 Regionfullmäktige
+2024-04-23, § 44
+Kommunikationspolicy Policy Tills vidare RS/369/2016 Regionfullmäktige
+2020-11-25, § 125
+Konstpolicy Policy Tills vidare RS/335/2024 Regionfullmäktige
+2024-10-23, §115
+Kostpolicy Policy Tills vidare RS/291/2023 Regionfullmäktige
+2023-11-28, § 135
+Kvalitetspolicy Policy Tills vidare RS/103/2015 Regionfullmäktige
+2015-04-14—15, § 35
+Logotype Tills vidare RS/619/2023 Regionfullmäktige
+2024-10-23, § 118
+Långsiktig utvecklingsplan för Planer Tillsvidare RS/1437/2018 Regionfullmäktige
+psykisk ohälsa Rev 2022-06-22, § 79
+Miljöplan 2026–2030 Plan Tillsvidare RS/516/2024 Regionfullmäktige
+2025-04-30 § 50
+Miljöpolicy Policy Tills vidare RS/1534/2017 Regionfullmäktige
+2022-04-27, § 46
+Personalpolitisk policy Policy Tills vidare RS/290/2023 Regionfullmäktige
+2023-11-28 § 134
+Policy för fastighets- och lokalför- Policy Tills vidare RS/1538/2017 Regionfullmäktige
+sörjning 2018-06-20, § 107
+Policy för informationsförvaltning Policy Tills vidare RS/147/2023 Regionfullmäktige
+2023-04-26, § 37
+39
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Policy om jämställdhet och jämlik- Policy RS/1535/2017 Regionfullmäktige
+het 2018-02-14, § 9
+Regiongemensamma regler för re- Regel Tills vidare RS/491/2021 Regionfullmäktige
+sor gällande medarbetare och för- 2022-04-27, § 47
+troendevalda
+Region Jämtland Härjedalens Policy Tills vidare RS/342/2022 Regionfullmäktige
+styrmodell 2023-06-21, § 74
+Reglemente för finansverksam- Reglemente Tills vidare RS/783/2016 Regionfullmäktige
+heten 2021-10-20, § 128
+Reglemente för intern kontroll vid Reglemente Tills vidare RS/598/2018 Regionfullmäktige
+Region Jämtland Härjedalen 2018-06-20, § 99
+Regler för flaggning inom Region Regel Tills vidare RS/622/2022 Regionstyrelsen
+Jämtland Härjedalen 2023-01-24, § 8
+Regler för investeringar Regel Tills vidare RS/294/2023 Regionfullmäktige
+2024-04-23, § 45
+Regler för parkeringar Regel Tills vidare RS/123/2024 Regionstyrelsen
+2024-08-27, § 124
+Gällande avgifter för
+parkeringar finns i samma
+ärende
+Regler för Region Jämtland Härje- Regel Tills vidare RS/451/2019 Regionfullmäktige
+dalen som ägare i bolag och med- 2021-06-23, § 73
+lem i föreningar
+Riktlinje för god ekonomisk hus- Riktlinje Tills vidare RS/577/2021 Regionfullmäktige
+hållning 2021-10-20, § 127
+Sponsringspolicy för Region Jämt- Policy Tills vidare RS/248/2015 Regionfullmäktige
+land Härjedalen 2016-04-11, § 54
+Upphandlingspolicy Policy Tills vidare RS/288/2023 Regionfullmäktige
+2023-06-21, § 71
+Varumärkesstrategi Policy Tills vidare RS/619/2023 Regionfullmäktige
+2024-10-23, § 118
+40
+Målområden för hälso- och sjukvård och tandvård
+Tabell 14. Styrdokument målområde för hälso- och sjukvård och tandvård.
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Länsgemensam folkhälsopolicy Policy 2020–2024 RS/560/2019 Regionfullmäktige
+2020-06-18 § 66
+Förlängts till och med
+2025 i RF 2024-10-23 §
+114. Ses över under
+2025.
+Regional handlingsplan för Handlingsplan 2022–2024 RS/92/2022 Regionstyrelsen,
+patientsäkerhet 2022-10-25 § 2016
+Ärende om ny plan för
+2025–2027 hanteras un-
+der hösten 2025.
+Rekommendation till regioner Överenskommelse 2023–2027 RS/595/2022 Regionfullmäktige,
+om fortsatt inriktning av det nat- 2022-11-25, § 217
+ionella systemet för kunskaps-
+styrning inom hälso- och sjuk-
+vårdsområdet 2023–2027.
+Strategi för samisk hälsa Strategi 2020–2030 RS/703/2019 Regionfullmäktige
+2019-11-26 § 137
+Målområde för regionalt utvecklingsansvar
+Tabell 15. Styrdokument målområde för regionalt utvecklingsansvar.
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Jämtlands län 2050 – En nytän- Strategi 2021–2050 RUN/515/2018 Regionfullmäktige
+kande och hållbar region att 2021-02-17, §21
+leva, verka och utvecklas i
+Mål och långsiktiga priorite- Strategi 2024–2050 RUN/316/2024 Regionfullmäktige
+ringar för den regionala tillväxt- 2024-10-23, §113
+politiken i Jämtland Härjeda-
+len
+Regional transportplan för Strategi 2022–2033 RUN/610/2020 Regionfullmäktige
+Jämtlands län 2022–2033 2022-10-12, §116
+Program för smart speciali- Strategi 2020–2027 RUN/430/2018 Regionfullmäktige
+sering i Jämtland Härjedalen 2020-11-25, §128
+2021–2027
+Jämtlands läns skogar för en Strategi 2020–2030 RUN/148/2021 Regionfullmäktige
+växande bioekonomi och håll- 2021-06-23, §77
+bar framtid – Regionalt skogs-
+program för Jämtlands län
+2020–2030
+Regional mat- och livsmedels- Strategi 2018–2030 RUN/294/2017 Regionfullmäktige
+strategi i Jämtland Härjedalen 2018-06-20, § 93
+41
+Målområde för kollektivtrafik
+Tabell 16. Styrdokument målområde för kollektivtrafik.
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Trafikförsörjningsprogram Strategi 2021–2026 RUN/287/2019 Regionfullmäktige
+Jämtlands län 2021–2026 2021-02-17, §23
+Målområde för kultur
+Tabell 17. Styrdokument målområde för kultur.
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Regional kulturplan för Jämt- Strategi 2024–2027 RUN/12/2021 Regionfullmäktige
+land Härjedalen 2024–2027 2023-10-18, §114
+Regional biblioteksplan för Strategi 2024–2027 RUN/11/2021 Regionfullmäktige
+Jämtland Härjedalen 2024– 2023-11-28, §139
+2027
+Regler för Region Jämtland Regel RUN/182/2018 Regionfullmäktige
+Härjedalens stipendier och pris 2018-10-09, §126
+inom kulturområdet
+Region Jämtland Härjedalens Regel RUN/76/2024 Regionfullmäktige
+regler och villkor för regionala 2024-11-26, §146
+kulturstöd
+Regler och villkor för verksam- Regel RS/413/2021 Regionfullmäktige
+hetsbidrag 2021-06-22, §74
+Målområde för folkhögskolor
+Tabell 18. Styrdokument för målområde folkhögskolor.
+Dokument Dokumenttyp Varaktighet Dnr Beslutad av
+Folkhögskoleplan 2021–2025 2021–2025 RUN/35/2020 Regionala utveckl-
+Birka och Bäckedals folkhögs- ingsnämnden 2020-
+kola 12-15, §190
+Reviderad 2023-10-
+24, §172
+42
+Bilaga 2: Ekonomiska planeringsförutsättningar
+Bilagan beskriver organisationens nuvarande ekonomiska läge och utveckling över tid.
+Samhällsekonomisk utveckling
+Befolkningsutveckling
+Befolkningsprognos från Statistiska centralbyrån (SCB) via SKR ligger till grund för beräkning av skat-
+teunderlag och kommunalt utjämningsbidrag för åren 2025–2027. Befolkning år 2024 utgår från antal
+invånare per 31 december året innan. I regel har SCB tidigare överskattat befolkningsutvecklingen när
+det gäller prognoser för Jämtland Härjedalen. SKR belyser att prognosen är på riksnivå och att region-
+ala skillnader och antaganden kan göras.
+Tabell 19. Prognosticerad befolkningsutveckling för åren 2024–2027 – enligt skatteun-
+derlagsprognos SKR, förmedlad 2024-02-26.
+2024 2025 2026 2027
+Prognos Prognos Prognos Prognos
+Rikets befolk-
+ning (1/11 året 10 557 682 10 614 874 10 669 403 10 721 197
+innan)
+Årlig procentuell
+0,54% 0,51% 0,49%
+förändring riket
+Region Jämtland
+132 466 132 732 132 960 133 148
+Härjedalen
+Tabell 20. Egna antaganden för befolkningsutveckling i Region Jämtland Härjedalen.
+2024 2025 2026 2027
+Prognos Prognos Prognos Prognos
+Region Jämtland Härjedalen, 132 466 132 466 132 466
+132 466
+egna siffror
+Årlig procentuell förändring
+Jämtland Härjedalen, +-0 +-0 +-0
+egna siffror
+43
+Skatteunderlagets utveckling
+Tabell 21. SKR:s prognos för utvecklingen av skatteunderlaget.
+Utveckling av skatteunderlaget i pro-
+cent 2024 2025 2026 2027
+Riket enligt SKR 3,30 4,87 4,16 4,01
+Region Jämtland Härjedalens enligt SKR 2,27 4,48 3,78 3,63
+Region Jämtland Härjedalens prognos 2,27 4,27 3,60 3,48
+Löne- och prisförändring för regioner
+Sveriges kommuner och regioners prognos på Landstingprisindex, LPIK, används som en fingervisning för hur stora
+löne- och prisförändringarna kommer att bli för regionerna för kommande planperiod. Detta har historiskt använt som
+ett mått för uppräkning av budgetramar inom Region Jämtland Härjedalen, det vill säga för respektive politiskt organ att
+möta löne- och prisökningar inom tilldelad budgetram. Dock har kostnadsökningstakten till viss mån varit högre än till-
+delad uppräkning vilket inneburit att budgetunderskott har börjat bildas inom respektive verksamhet. Inför planperioden
+2025–2027 bedöms verksamheten inte erhålla någon uppräkning av budgetram till följd av det svåra ekonomiska läget.
+Detta innebär att verksamheten behöver göra kostnadsminskningar för att klara av att möta lönerevision, prisökningar
+och volymökningar inom befintlig budgetram. Vad den exakta kostnadsökningen innebär per nämnd och dess verksam-
+het bedöms i respektive regionstyrelse och nämnds verksamhetsplan.
+Sveriges kommuner och regioner har två olika prognoser för Landstingsprisindex. Ett mått inkluderar pensionskost-
+nadspåverkan och läkemedelskostnad och ett annat exkluderar dessa. LPIK inklusive pensionskostnad och läkemedel
+bedömer vi inte ger ett rättvist mått för hur verksamhetens kostnader kommer att utvecklas då Region Jämtland Härje-
+dalens övervältrande pensionskostnadsdel har lagts centralt under år 2023 och 2024. I läkemedelspriserna ingår inte
+förändrat sortiment, merkostnaderna för nya läkemedel, än heller förbättrad kvalité. Att nya läkemedel ofta kostar mer
+antas spegla en förbättrad kvalitet och betraktas alltså inte som en prisförändring. Socialstyrelsen prognosticerar en
+fortsatt mycket snabb ökning av kostnaderna för läkemedel, därmed bör denna prognos hellre tas i beaktning om 7 pro-
+cent i ökade läkemedelskostnader mellan år 2024 och 2025 (Socialstyrelsens läkemedelsprognos 23-10-27).
+Tabell 22. SKR:s prognos för Landstingprisindex LPIK.
+(Ur Cirkulär nr. 24:16, SKR, 2024-02-26)
+Nytt pensionsavtal 2023 och hög inflation resulterade i stora ökningar av pensionskostnaderna i regionerna 2023, och
+2024. Den höga inflationen pressade upp priserna på förbrukningen. Ökningstakten normaliseras under 2024. Efter
+2023 antas läkemedelspriserna falla enligt SKR:s prognos.
+Tabell 23. SKR:s prognos för Landstingprisindex LPIK
+(Ur Cirkulär nr. 25:21, SKR, 2025-04-29)
+SKR:s prognos för Landstingsprisindex LPIK, exklusive priseffekt av pensioner och exklusive läkemedel för år 2026 är
+3,1 procent, 3,2 procent 2027 och 3,2 procent 2028. Region Jämtland Härjedalen har i nuläget inte tillämpat differentie-
+rad uppräkning för olika kostnadsslag i budgetramtilldelningen. För planperioden 2026–2028 innebär ingen uppräkning
+av budgetramar för verksamheten ett krav på att noggrant följa bruttokostnadsökningar. Vilken kan innebära att det blir
+intressant med en tidig kostnadsprognos för olika kostnadsslag inom regionstyrelse och nämnds verksamhetsplan inför
+kommande år.
+Finansnetto
+Den största delen av de finansiella kostnaderna i planen för 2026–2028 avser räntekostnader på pens-
+ionsskuld och lån. KPA lämnar prognoser om den finansiella kostnaden för intjänandedelen på pensions-
+skulden för respektive år. Den finansiella kostnaden för pensioner består av ränte- och basbeloppsupp-
+räkningar. Vid beräkningarna för ränteprognosen på finansiella kostnader avseende lån används anta-
+gandet att nuvarande skuldportfölj refinansieras med bindningstider inom ramen för reglementet, men
+med hänsyn till planerad nettoförändring av total skuldsättningsnivå.
+45
+Pensionskostnader
+De sociala avgifterna har under senare år uppvisat stora variationer vilket förklaras av stora svängningar i pensions-
+kostnaderna. Det nya pensionsavtalet, AKAP-KR, började gälla från och med den 1 januari 2023. De tillfälligt höga
+pensionskostnaderna under år 2023 och 2024 förklaras till mindre del av det nya pensionsavtalet, men till större del av
+ökad inflation, högt prisbasbelopp och andra förhållanden. Sociala avgifterna antas återgå till en mer normal nivå från
+och med år 2025.
+Tabell 24. Sociala avgifter 2022–2027.
+Regioner (procent av lö-
+nesumman) 2022 2023 2024 2025 2026 2027
+Arbetsgivaravgifter enligt
+lag 31,42 31,42 31,42 31,42 31,42 31,42
+Avtalsförsäkringar 0,13 0,13 0,20 0,20 0,20 0,20
+Kollektivavtalad pension 13,67 20,73 25,59 17,00 14,20 12,80
+Summa PO-pålägg 45,22% 52,28% 57,21% 48,62% 45,82% 44,42%
+Den höga inflationstakten i ekonomin 2023 resulterade i ett högt prisbasbelopp för år 2024 vilket innebar
+höga pensionskostnader. För år 2024 blir inflationen lägre och prisbasbeloppet ökar i långsammare takt,
+vilket leder till minskade pensionskostnader. Dock så blir inflationstakten i juni 2024 underlag för prisbas-
+beloppet och pensionskostnaderna år 2025, så osäkerheten för den årliga utvecklingen för åren som föl-
+jer är stor.
+46

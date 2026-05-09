@@ -1,0 +1,22 @@
+region_code,region,sjukvardsregion,ipd_incidence_2025,pop_65plus,prev_pfi_sek_36mo,prev_pfi_sek_per_65_yr,pneu_market_total_sek,pfizer_share_pct,burden_score,gap_score,opportunity_score
+10,Region Blekinge,Södra,19.8,39165,507633.0,4.32,6135092.0,8.3,95.0,95.0,95.0
+09,Region Gotland,Stockholm-Gotland,16.42,16747,229638.0,4.57,2344188.0,9.8,85.0,80.0,82.5
+23,Region Jämtland Härjedalen,Norra,0,32378,176656.0,1.82,4900261.0,3.6,50.0,100.0,75.0
+07,Region Kronoberg,Södra,20.19,44823,1296879.0,9.64,10171884.0,12.7,100.0,35.0,67.5
+25,Region Norrbotten,Norra,14.06,62919,875612.0,4.64,8714327.0,10.0,65.0,70.0,67.5
+12,Region Skåne,Södra,0,286963,6278249.0,7.29,64904110.0,9.7,35.0,90.0,62.5
+01,Region Stockholm,Stockholm-Gotland,14.36,418087,15817467.0,12.61,127264732.0,12.4,70.0,45.0,57.5
+08,Region Kalmar,Sydöstra,17.52,64879,1849586.0,9.5,10712119.0,17.3,90.0,25.0,57.5
+22,Region Västernorrland,Norra,0,61269,962716.0,5.24,8911635.0,10.8,45.0,60.0,52.5
+20,Region Dalarna,Mellansverige,10.84,74684,1557476.0,6.95,12428051.0,12.5,60.0,40.0,50.0
+18,Region Örebro län,Mellansverige,0,68324,1256828.0,6.13,12812933.0,9.8,10.0,85.0,47.5
+13,Region Halland,Södra,14.45,79594,2976376.0,12.46,16213963.0,18.4,75.0,10.0,42.5
+03,Region Uppsala,Mellansverige,15.1,77883,4656043.0,19.93,20625169.0,22.6,80.0,0.0,40.0
+06,Region Jönköpings län,Sydöstra,0,79863,1997000.0,8.34,16981005.0,11.8,30.0,50.0,40.0
+04,Region Sörmland,Mellansverige,0,71123,1228207.0,5.76,12397058.0,9.9,0.0,75.0,37.5
+24,Region Västerbotten,Norra,0,60934,2535160.0,13.87,14480727.0,17.5,55.0,20.0,37.5
+19,Region Västmanland,Mellansverige,0,62668,1346072.0,7.16,12764076.0,10.5,5.0,65.0,35.0
+21,Region Gävleborg,Mellansverige,0,72154,1377818.0,6.37,11947792.0,11.5,15.0,55.0,35.0
+14,Västra Götalandsregionen,Västra,0,359559,11487960.0,10.65,81908096.0,14.0,40.0,30.0,35.0
+05,Region Östergötland,Sydöstra,0,101237,4016112.0,13.22,22128694.0,18.1,25.0,15.0,20.0
+17,Region Värmland,Mellansverige,0,71235,2471350.0,11.56,12003766.0,20.6,20.0,5.0,12.5

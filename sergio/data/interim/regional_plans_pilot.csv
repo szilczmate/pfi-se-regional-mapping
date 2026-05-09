@@ -1,0 +1,63 @@
+region,document,date_or_status,focus_area_num,focus_area_verbatim,pfizer_alignment_note,coverage_quality
+Stockholm,Målbild och strategi för hälso- och sjukvården 2040,2025-12-09 antagen,1,Personcentrerad vård med stärkta möjligheter till egenvård,Förebyggande vacciner (Abrysvo/Prevenar) stödjer egenvård och förebyggande hälsa,RICH
+Stockholm,Målbild och strategi 2040,2025-12-09,2,Sammanhållen vård efter behov med vårdcentralen som nav,Pfizers oral onkologi reducerar slutenvårdsbelastning,RICH
+Stockholm,Målbild och strategi 2040,2025-12-09,3,En attraktiv och hållbar arbetsplats där kompetensen utvecklas,Indirekt relevans (kompetens kring nya behandlingar),RICH
+Stockholm,Målbild och strategi 2040,2025-12-09,4,"Forskning, utveckling, utbildning och innovation som stärker vården",Pfizers innovativa läkemedel som case för innovation pipeline,RICH
+Stockholm,Målbild och strategi 2040,2025-12-09,5,"Hållbart, anpassningsbart och robust hälso- och sjukvårdssystem",Förebyggande vaccin reducerar systembelastning vid säsongstoppar,RICH
+Skåne,Framtidens hälsosystem + Verksamhetsplan 2025,2020 antagen + 2025,1,Tillgänglighet och organisation (Nära vård + nivåstrukturering),Vaccin för 65+ stödjer Nära vård-konceptet,RICH
+Skåne,Framtidens hälsosystem + Verksamhetsplan 2025,2020 + 2025,2,Sjukhusens utveckling (alla sjukhus värderas och utvecklas),Onkologi-koncentration relevant för Tukysa/Ibrance där centra hanterar svår behandling,RICH
+Skåne,Framtidens hälsosystem + Verksamhetsplan 2025,2020 + 2025,3,Jämlik vård (medicinska prioriteringar styrande),Pfizer kan koppla sjukdomsbörda-data per region till denna prioritet,RICH
+Skåne,Framtidens hälsosystem + Verksamhetsplan 2025,2020 + 2025,4,Förebyggande fokus (från sjukdom till hälsa),Pfizers vaccinportfölj direkt aligned med detta fokus,RICH
+Västra Götaland,Hälso- och sjukvårdsstrategi 2028-2040 (på remiss),Remiss till 2026-09-30,1,Långsiktig riktning för trygg/tillgänglig/nära vård,Pfizer aligned med 'nära vård' via förebyggande vacciner,RICH
+Västra Götaland,Hälso- och sjukvårdsstrategi 2028-2040,Remiss,2,Vårdens utbud och lokalisering tydligare hanterad,Onkologi-centralisering relevant för subtyp-specifika behandlingar (Tukysa/Lorviqua),RICH
+Västra Götaland,Hälso- och sjukvårdsstrategi 2028-2040,Remiss,3,Demografiska förändringar (åldrande befolkning),Direkt relevans för 65+ vacciner och ATTR-CM (Vyndaqel),RICH
+Uppsala,Effektiv och Nära Vård 2030 + Vårdens utvecklingsplan,2025 antagen,1,Utveckling av nära vård (geografi/tillgänglighet/relationer),Vacciner för 65+ kan erbjudas i nära vård,RICH
+Uppsala,Effektiv och Nära Vård 2030,2025,2,Mindre sjukhusintensivt vårdsystem,Förebyggande vacciner reducerar slutenvårdsbelastning (RSV/pneumokock),RICH
+Uppsala,Effektiv och Nära Vård 2030,2025,3,God hälsa och jämlik vård i länet,Sjukdomsbörda-data per region kopplar Pfizers behandlingar till jämlikhet,RICH
+Norrbotten,Strategisk plan 2026-2028,2025 antagen,1,"Vård tillgänglig, hållbar, kvalitativ, patientsäker, nära invånare","Norrbottens tillgänglighetskris (4,6x vs Stockholm) - Pfizer förebyggande vacciner reducerar belastning",RICH
+Norrbotten,Strategisk plan 2026-2028,2025,2,Vårdcentral som nav i system där alla får tillgång till primärvård,"Glesbygd: Pfizer oral onkologi (Ibrance/Talzenna) lättare administrera än infusioner",RICH
+Norrbotten,Strategisk plan 2026-2028,2025,3,"Effektiva processer, effektiva patientflöden",NT-rådets vice chair (Anders Bergström) hemma här - strategisk relation,RICH
+Jönköping,Tillsammans för bästa möjliga hälsa och jämlik vård,pågående,1,Skiftet från slutenvård till öppenvård och från behandling till hälsofrämjande,Pfizers vaccin-portfölj direkt aligned med 'från behandling till hälsofrämjande',RICH
+Jönköping,Tillsammans-strategi,pågående,2,"Jämlik vård genom samverkan, standardiserade arbetssätt, specialisering",NT-rådets chair (Mårten Lindström) hemma här - maximal strategisk vikt,RICH
+Jönköping,Tillsammans-strategi,pågående,3,"Behandling av kroniska sjukdomar, barnhälsovård, rehabilitering, somatisk hälsa vid psykisk ohälsa",Vyndaqel (kronisk hjärtsvikt) relevant; pågende kron sjukvård,RICH
+Östergötland,Folkhälsostrategi + Patientsäkerhetsfokus,pågående,1,Ventilator-relaterade infektioner (VRI) och fallolyckor,Pfizer Prevenar relevant för IPD-prevention i sjukhusmiljö,MEDIUM
+Östergötland,Folkhälsostrategi + Patientsäkerhetsfokus,pågående,2,Långsiktigt systematiskt folkhälsoarbete,Förebyggande vacciner aligned,MEDIUM
+Östergötland,Patientsäkerhetsberättelse 2024,2025,3,Reducera infarkt-relaterade infektioner; ökad diagnostisk säkerhet; sköra patienter-bedömning,Pfizers Vyndaqel relevant för sköra äldre med ATTR-CM,MEDIUM
+Värmland,Budget 2026 + Framtidens hälso- och sjukvård,2025,1,Stärkt vårdval + fler ST-läkare i primärvården och vuxenpsykiatrin,Mer specialistvård i primärvården = lättare access för Pfizer-behandlingar,MEDIUM
+Värmland,Budget 2026,2025,2,Förbättrade vårdplatser + insatser för multisjuka äldre,Vyndaqel (ATTR-CM) relevant för multisjuka äldre,MEDIUM
+Värmland,Budget 2026,2025,3,Verksamhet Första linjen barn och unga,Indirekt — barnvacciner (Prevenar pediatric),MEDIUM
+Halland,Hallands Hälso- och sjukvårdsstrategi 2026-2035,2025 antagen,1,Kontinuitet i primärvården (fast läkarkontakt),Stabil läkarkontakt = bättre uppföljning av kroniska behandlingar (Ibrance/Vyndaqel),MEDIUM
+Halland,Hälso- och sjukvårdsstrategi 2026-2035,2025,2,Långsiktig utveckling av hälso- och sjukvård,Pfizers innovativa portfölj som långsiktig partner-position,MEDIUM
+Västmanland,Hälso- och sjukvården 2029 + Nära Vård,pågående,1,Förbättrad tillgänglighet (711 färre väntande över garanti 2025),Pfizers förebyggande vaccin minskar belastning,MEDIUM
+Västmanland,Hälso- och sjukvården 2029,pågående,2,Egen kompetens + minskad inhyrd personal,Indirekt,MEDIUM
+Västmanland,Hälso- och sjukvården 2029,pågående,3,Nära Vård (vårdcentral som nav),Pfizer 65+ vacciner kan erbjudas via vårdcentral,MEDIUM
+Dalarna,Vägen till ett välvårdat Dalarna + Strukturplan,2024-2025,1,Ekonomisk balans + säker vård genom tillgängliga ambulanstjänster,Indirekt,MEDIUM
+Dalarna,Strukturplan,2024,2,Samordnad vård för sköra äldre,Vyndaqel (ATTR-CM) + Pfizer 65+ vacciner,MEDIUM
+Dalarna,Strukturplan,2024,3,Trygg förlossnings- och mödrahälsovård,Abrysvo (maternal RSV) direkt relevant,MEDIUM
+Gävleborg,God och nära vård (10 kommuner gemensam vision 2030),2024,1,Nära vård (geografisk närhet/tillgänglighet/kontaktvägar/kontinuitet),Pfizers vacciner i nära vård,MEDIUM
+Gävleborg,God och nära vård,2024,2,Tillgänglig primärvård,Pfizers oral onkologi i primärvårdens uppföljning,MEDIUM
+Sörmland,Sveriges friskaste län (vision) + Goda livsvillkor,pågående,1,Jämlika livsvillkor och god hälsa - särskilt fokus barn och unga,Indirekt — barnvacciner (Prevenar pediatric),MEDIUM
+Sörmland,Vision 'Sveriges friskaste län',pågående,2,Sköra grupper från livscykelperspektiv,Pfizers vaccin för utsatta grupper relevant,MEDIUM
+Sörmland,Vision Sveriges friskaste,pågående,3,"Smidig vårdresa, hög kvalitet, säker implementering",Pfizers innovativa behandlingar inom strukturerade vårdprocesser,MEDIUM
+Örebro,Utvecklingsplan 2025,2025 antagen,1,Smartare resursanvändning + minskad administration,Indirekt,MEDIUM
+Örebro,Utvecklingsplan 2025,2025,2,Cosmic-journalsystem-utveckling,Indirekt — bättre datainsamling om Pfizer-läkemedel,MEDIUM
+Örebro,Utvecklingsplan 2025,2025,3,Universitetssjukhus Örebro - högspecialiserad vård,Onkologi-koncentration: Pfizer hospital-administered (Elrexfio) relevant,MEDIUM
+Örebro,Utvecklingsplan 2025,2025,4,Stärkt nära vård,Pfizer 65+ vaccin via nära vård,MEDIUM
+Gotland,Gemensamma mål och prioriteringar 2024+ + Vårt Gotland 2040,2024,1,Hälsofrämjande perspektiv i alla operationer,Pfizer förebyggande vacciner aligned,MEDIUM
+Gotland,Vårt Gotland 2040,pågående,2,Övergång till god och nära vård med stark primärvård,Pfizer vacciner via primärvård,MEDIUM
+Gotland,Vårt Gotland 2040,pågående,3,Liten region — direktkommunikation viktig,Pfizer kan etablera direkt-relation; mindre marknadspotential men hög påverkan,MEDIUM
+Kronoberg,Närmare kronobergaren - Utvecklingsstrategi 2017+ uppdaterad 2021,2021 antagen,1,Personcentrerad vård,Pfizer förebyggande aligned,MEDIUM
+Kronoberg,Närmare kronobergaren,2021,2,Digifysisk vård,Pfizers innovativa behandlingar i digital uppföljning,MEDIUM
+Kronoberg,Närmare kronobergaren,2021,3,Hälsofrämjande och sjukdomsförebyggande åtgärder,Pfizers vaccinportfölj direkt aligned,MEDIUM
+Kalmar,Folkhälsofokus + Tobacco Endgame 2025,2024-2025,1,Tobaksfrihet 2025 (Tobacco Endgame),Direkt: Lorviqua-narrativ (lungcancer) relevant kontextuellt,MEDIUM
+Kalmar,Folkhälsofokus,2024,2,Fysisk aktivitet (förebygger hjärt/kärlsjukdom + cancer),Pfizers Vyndaqel + onkologi indirekt,MEDIUM
+Kalmar,Folkhälsofokus + Budget 2026,2024-2026,3,Prioriterade grupper: gravida + asylsökande + psykiskt sjuka,Abrysvo (gravida); Pfizer för psykiatrisk komorbiditet,MEDIUM
+Blekinge,Lokala programområdens mål 2026-2027 + Folkhälsoprioriteringar,2025-2026,1,Nära/säker/god/jämlik vård genom 26 lokala programområden,Pfizer aligned via förebyggande vacciner och oral onkologi,MEDIUM
+Blekinge,Lokala programområden,2025,2,Jämlik hälsa hos barn och unga,Indirekt — barnvacciner,MEDIUM
+Blekinge,Lokala programområden,2025,3,God fysisk och psykisk hälsa,Pfizer vacciner och onkologi för fysisk hälsa,MEDIUM
+Västerbotten,Regionplan 2025 + 'Barn- och ungdomsvård och precisionsmedicin',2025,1,Precisionsmedicin (Umeå-fokus),"NSG-chair (Pia Näsvall) hemma här - strategisk relation. Pfizers subtyp-specifika onkologi (Lorviqua/Tukysa/Talzenna) precisionsmedicin-aligned",LIMITED
+Västerbotten,Regionplan 2025,2025,2,Barn- och ungdomsvård,Indirekt — barnvacciner,LIMITED
+Västernorrland,Familjecentral i varje kommun (med 7 kommuner) + socioekonomiskt fokus,pågående,1,Familjecentraler med BVC/BUP/öppen förskola/socialsekreterare,Indirekt — Abrysvo (maternal) via BVC,LIMITED
+Västernorrland,Familjecentral,pågående,2,Socioekonomiskt utsatta områden prioriteras,Health-equity narrativ aligned,LIMITED
+Jämtland Härjedalen,Produktions- och kapacitetsstyrning (Socialstyrelsens metodstöd),pågående,1,Produktions- och kapacitetsstyrning,Indirekt — bättre planering möjliggör Pfizer-läkemedelsanvändning,LIMITED
+Jämtland Härjedalen,Glesbygdsregion,pågående,2,Stora geografiska utmaningar (gleshet),Pfizer oral onkologi (Ibrance/Talzenna) lättare hantera än infusioner; vaccin-distribution utmaning,LIMITED

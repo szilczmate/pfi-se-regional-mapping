@@ -1,0 +1,22 @@
+region,total_2021,total_2024,total_all,rate_2024,adoption_tier,healthcare_region
+Västmanland,0,4,8,1.4226875991435421,Slow adopter (0–2/100k),Mellansverige
+Örebro,0,4,11,1.2971220105391164,Slow adopter (0–2/100k),Mellansverige
+Västra Götaland,0,16,32,0.9025163849029316,Slow adopter (0–2/100k),Västra
+Halland,0,3,4,0.8693787419510018,Slow adopter (0–2/100k),Västra
+Västerbotten,0,2,2,0.7113944041716168,Slow adopter (0–2/100k),Norra
+Stockholm,0,15,29,0.606475459779154,Slow adopter (0–2/100k),Stockholm-Gotland
+Jönköping,0,2,4,0.5405273925769374,Slow adopter (0–2/100k),Sydöstra
+Östergötland,0,2,5,0.42332880371513354,Slow adopter (0–2/100k),Sydöstra
+Västernorrland,0,1,3,0.41415070115713704,Slow adopter (0–2/100k),Norra
+Kalmar,0,1,2,0.4059232317984023,Slow adopter (0–2/100k),Sydöstra
+Värmland,0,1,3,0.35287807356802076,Slow adopter (0–2/100k),Mellansverige
+Gävleborg,0,1,1,0.35142220566633164,Slow adopter (0–2/100k),Mellansverige
+Sörmland,0,1,2,0.33162876149922726,Slow adopter (0–2/100k),Mellansverige
+Skåne,0,4,7,0.27998930440857156,Slow adopter (0–2/100k),Södra
+Uppsala,0,1,4,0.24515091490321442,Slow adopter (0–2/100k),Mellansverige
+Blekinge,0,0,1,0,Non-adopter (0 patients),Södra
+Dalarna,0,0,0,0,Non-adopter (0 patients),Mellansverige
+Gotland,0,0,0,0,Non-adopter (0 patients),Stockholm-Gotland
+Jämtland Härjedalen,0,0,0,0,Non-adopter (0 patients),Norra
+Kronoberg,0,0,0,0,Non-adopter (0 patients),Södra
+Norrbotten,0,0,0,0,Non-adopter (0 patients),Norra

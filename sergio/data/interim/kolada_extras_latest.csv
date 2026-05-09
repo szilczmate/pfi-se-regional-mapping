@@ -1,0 +1,415 @@
+category,kpi,title,region_code,region,year,value
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0001,Region Stockholm,2024,261.18031
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0003,Region Uppsala,2024,245.15908
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0004,Region Sörmland,2024,255.9264
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0005,Region Östergötland,2024,264.87387
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0006,Region Jönköpings län,2024,237.38571
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0007,Region Kronoberg,2024,273.99474
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0008,Region Kalmar,2024,267.54749
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0009,Region Gotland,2024,273.65573
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0010,Region Blekinge,2024,286.20921
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0012,Region Skåne,2024,290.35993
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0013,Region Halland,2024,267.30931
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0014,Västra Götalandsregionen,2024,246.08364
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0017,Region Värmland,2024,272.96748
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0018,Region Örebro län,2024,252.95097
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0019,Region Västmanland,2024,264.9247
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0020,Region Dalarna,2024,253.91121
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0021,Region Gävleborg,2024,254.7001
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0022,Region Västernorrland,2024,251.13005
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0023,Region Jämtland Härjedalen,2024,235.34819
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0024,Region Västerbotten,2024,231.31565
+abx,N00404,"Antibiotics, prescriptions per 1000 inv",0025,Region Norrbotten,2024,270.54113
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0001,Region Stockholm,2024,207.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0003,Region Uppsala,2024,218.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0004,Region Sörmland,2024,275.9
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0005,Region Östergötland,2024,256.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0006,Region Jönköpings län,2024,271.6
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0007,Region Kronoberg,2024,285.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0008,Region Kalmar,2024,258.8
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0009,Region Gotland,2024,274.5
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0010,Region Blekinge,2024,323.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0012,Region Skåne,2024,269.7
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0013,Region Halland,2024,250.2
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0014,Västra Götalandsregionen,2024,249.1
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0017,Region Värmland,2024,271.9
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0018,Region Örebro län,2024,270.8
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0019,Region Västmanland,2024,236.4
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0020,Region Dalarna,2024,293.8
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0021,Region Gävleborg,2024,257.7
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0022,Region Västernorrland,2024,315.7
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0023,Region Jämtland Härjedalen,2024,256.8
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0024,Region Västerbotten,2024,264.1
+cardio,N01439,"Acute MI incidence, 25+, per 100k",0025,Region Norrbotten,2024,383.1
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0001,Region Stockholm,2024,193.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0003,Region Uppsala,2024,216.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0004,Region Sörmland,2024,275.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0005,Region Östergötland,2024,234.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0006,Region Jönköpings län,2024,260.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0007,Region Kronoberg,2024,312.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0008,Region Kalmar,2024,243.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0009,Region Gotland,2024,254.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0010,Region Blekinge,2024,320.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0012,Region Skåne,2024,267.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0013,Region Halland,2024,230.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0014,Västra Götalandsregionen,2024,237.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0017,Region Värmland,2024,250.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0018,Region Örebro län,2024,243.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0019,Region Västmanland,2024,232.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0020,Region Dalarna,2024,289.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0021,Region Gävleborg,2024,267.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0022,Region Västernorrland,2024,308.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0023,Region Jämtland Härjedalen,2024,269.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0024,Region Västerbotten,2024,254.0
+cardio,N70341,"Acute myocardial infarction prevalence, per 100k",0025,Region Norrbotten,2024,388.0
+cardio_quality,N70539,Heart care quality index (max 100),0001,Region Stockholm,2024,92.55595814
+cardio_quality,N70539,Heart care quality index (max 100),0003,Region Uppsala,2024,78.4396892
+cardio_quality,N70539,Heart care quality index (max 100),0004,Region Sörmland,2024,79.75553233
+cardio_quality,N70539,Heart care quality index (max 100),0005,Region Östergötland,2024,49.39824844
+cardio_quality,N70539,Heart care quality index (max 100),0006,Region Jönköpings län,2024,74.92742613
+cardio_quality,N70539,Heart care quality index (max 100),0007,Region Kronoberg,2024,0.0
+cardio_quality,N70539,Heart care quality index (max 100),0008,Region Kalmar,2024,32.24876429
+cardio_quality,N70539,Heart care quality index (max 100),0009,Region Gotland,2023,0.0
+cardio_quality,N70539,Heart care quality index (max 100),0010,Region Blekinge,2024,100.0
+cardio_quality,N70539,Heart care quality index (max 100),0012,Region Skåne,2024,48.31684385
+cardio_quality,N70539,Heart care quality index (max 100),0013,Region Halland,2024,70.55256534
+cardio_quality,N70539,Heart care quality index (max 100),0014,Västra Götalandsregionen,2024,66.95111117
+cardio_quality,N70539,Heart care quality index (max 100),0017,Region Värmland,2024,83.3974413
+cardio_quality,N70539,Heart care quality index (max 100),0018,Region Örebro län,2024,39.63305974
+cardio_quality,N70539,Heart care quality index (max 100),0019,Region Västmanland,2024,86.55302034
+cardio_quality,N70539,Heart care quality index (max 100),0020,Region Dalarna,2024,61.80129433
+cardio_quality,N70539,Heart care quality index (max 100),0021,Region Gävleborg,2024,51.24389187
+cardio_quality,N70539,Heart care quality index (max 100),0022,Region Västernorrland,2024,65.49450021
+cardio_quality,N70539,Heart care quality index (max 100),0023,Region Jämtland Härjedalen,2024,83.56996207
+cardio_quality,N70539,Heart care quality index (max 100),0024,Region Västerbotten,2024,45.4812476
+cardio_quality,N70539,Heart care quality index (max 100),0025,Region Norrbotten,2024,31.21162225
+oncology,N60910,"Cancer incidence, age-std, per 100k",0001,Region Stockholm,2023,665.23999777
+oncology,N60910,"Cancer incidence, age-std, per 100k",0003,Region Uppsala,2023,643.46609492
+oncology,N60910,"Cancer incidence, age-std, per 100k",0004,Region Sörmland,2023,659.45472502
+oncology,N60910,"Cancer incidence, age-std, per 100k",0005,Region Östergötland,2023,694.91548489
+oncology,N60910,"Cancer incidence, age-std, per 100k",0006,Region Jönköpings län,2023,681.09031458
+oncology,N60910,"Cancer incidence, age-std, per 100k",0007,Region Kronoberg,2023,687.81725113
+oncology,N60910,"Cancer incidence, age-std, per 100k",0008,Region Kalmar,2023,697.05878572
+oncology,N60910,"Cancer incidence, age-std, per 100k",0009,Region Gotland,2023,681.96275112
+oncology,N60910,"Cancer incidence, age-std, per 100k",0010,Region Blekinge,2023,686.33135255
+oncology,N60910,"Cancer incidence, age-std, per 100k",0012,Region Skåne,2023,716.56464325
+oncology,N60910,"Cancer incidence, age-std, per 100k",0013,Region Halland,2023,699.13083048
+oncology,N60910,"Cancer incidence, age-std, per 100k",0014,Västra Götalandsregionen,2023,707.43665208
+oncology,N60910,"Cancer incidence, age-std, per 100k",0017,Region Värmland,2023,625.72498913
+oncology,N60910,"Cancer incidence, age-std, per 100k",0018,Region Örebro län,2023,701.62601257
+oncology,N60910,"Cancer incidence, age-std, per 100k",0019,Region Västmanland,2023,613.68052823
+oncology,N60910,"Cancer incidence, age-std, per 100k",0020,Region Dalarna,2023,614.18747921
+oncology,N60910,"Cancer incidence, age-std, per 100k",0021,Region Gävleborg,2023,637.05195572
+oncology,N60910,"Cancer incidence, age-std, per 100k",0022,Region Västernorrland,2023,554.76314384
+oncology,N60910,"Cancer incidence, age-std, per 100k",0023,Region Jämtland Härjedalen,2023,698.41418277
+oncology,N60910,"Cancer incidence, age-std, per 100k",0024,Region Västerbotten,2023,661.64890276
+oncology,N60910,"Cancer incidence, age-std, per 100k",0025,Region Norrbotten,2023,487.96170412
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0001,Region Stockholm,2024,207.87
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0003,Region Uppsala,2024,191.08
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0004,Region Sörmland,2024,130.8
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0005,Region Östergötland,2024,206.9
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0006,Region Jönköpings län,2024,220.6
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0007,Region Kronoberg,2024,222.99
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0008,Region Kalmar,2024,161.77
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0009,Region Gotland,2024,185.7
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0010,Region Blekinge,2024,200.38
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0012,Region Skåne,2024,253.28
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0013,Region Halland,2024,203.54
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0014,Västra Götalandsregionen,2024,181.7
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0017,Region Värmland,2024,179.74
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0018,Region Örebro län,2024,175.93
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0019,Region Västmanland,2024,188.85
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0020,Region Dalarna,2024,165.28
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0021,Region Gävleborg,2024,188.8
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0022,Region Västernorrland,2024,155.7
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0023,Region Jämtland Härjedalen,2024,236.41
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0024,Region Västerbotten,2024,165.03
+oncology_breast,N70345,"Breast cancer prevalence, per 100k",0025,Region Norrbotten,2024,148.79
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0001,Region Stockholm,2024,45.9
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0003,Region Uppsala,2024,43.9
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0004,Region Sörmland,2024,50.7
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0005,Region Östergötland,2024,43.6
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0006,Region Jönköpings län,2024,39.0
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0007,Region Kronoberg,2024,41.9
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0008,Region Kalmar,2024,46.7
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0009,Region Gotland,2024,45.4
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0010,Region Blekinge,2024,50.2
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0012,Region Skåne,2024,52.6
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0013,Region Halland,2024,41.8
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0014,Västra Götalandsregionen,2024,45.7
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0017,Region Värmland,2024,47.4
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0018,Region Örebro län,2024,51.5
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0019,Region Västmanland,2024,47.0
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0020,Region Dalarna,2024,43.3
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0021,Region Gävleborg,2024,50.4
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0022,Region Västernorrland,2024,44.6
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0023,Region Jämtland Härjedalen,2024,34.9
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0024,Region Västerbotten,2024,38.4
+oncology_lung,N02013,"Lung cancer mortality, 25+, per 100k",0025,Region Norrbotten,2024,48.1
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0001,Region Stockholm,2024,38.14835
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0003,Region Uppsala,2024,43.32302
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0004,Region Sörmland,2024,38.44331
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0005,Region Östergötland,2024,39.58744
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0006,Region Jönköpings län,2024,31.94088
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0007,Region Kronoberg,2024,29.48134
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0008,Region Kalmar,2024,44.62302
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0009,Region Gotland,2024,39.34426
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0010,Region Blekinge,2024,52.03111
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0012,Region Skåne,2024,43.15173
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0013,Region Halland,2024,38.90711
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0014,Västra Götalandsregionen,2024,41.35783
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0017,Region Värmland,2024,39.51091
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0018,Region Örebro län,2024,43.79625
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0019,Region Västmanland,2024,29.53889
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0020,Region Dalarna,2024,44.96348
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0021,Region Gävleborg,2024,52.26236
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0022,Region Västernorrland,2024,45.90513
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0023,Region Jämtland Härjedalen,2024,44.45934
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0024,Region Västerbotten,2024,34.29385
+oncology_lung,N60912,"Lung cancer incidence, per 100k",0025,Region Norrbotten,2024,40.63568
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0001,Region Stockholm,2024,44.55
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0003,Region Uppsala,2024,46.63
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0004,Region Sörmland,2024,35.7
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0005,Region Östergötland,2024,36.52
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0006,Region Jönköpings län,2024,33.36
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0007,Region Kronoberg,2024,32.34
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0008,Region Kalmar,2024,35.28
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0009,Region Gotland,2024,26.52
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0010,Region Blekinge,2024,40.15
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0012,Region Skåne,2024,42.19
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0013,Region Halland,2024,34.37
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0014,Västra Götalandsregionen,2024,41.63
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0017,Region Värmland,2024,33.32
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0018,Region Örebro län,2024,43.18
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0019,Region Västmanland,2024,26.34
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0020,Region Dalarna,2024,36.64
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0021,Region Gävleborg,2024,44.34
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0022,Region Västernorrland,2024,33.49
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0023,Region Jämtland Härjedalen,2024,42.93
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0024,Region Västerbotten,2024,31.69
+oncology_lung,N70342,"Lung cancer prevalence, women, per 100k",0025,Region Norrbotten,2024,32.4
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0001,Region Stockholm,2024,37.11
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0003,Region Uppsala,2024,39.59
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0004,Region Sörmland,2024,24.07
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0005,Region Östergötland,2024,32.49
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0006,Region Jönköpings län,2024,20.05
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0007,Region Kronoberg,2024,18.71
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0008,Region Kalmar,2024,26.33
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0009,Region Gotland,2024,27.29
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0010,Region Blekinge,2024,34.13
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0012,Region Skåne,2024,36.26
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0013,Region Halland,2024,28.33
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0014,Västra Götalandsregionen,2024,32.72
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0017,Region Värmland,2024,23.32
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0018,Region Örebro län,2024,27.83
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0019,Region Västmanland,2024,20.87
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0020,Region Dalarna,2024,26.77
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0021,Region Gävleborg,2024,30.57
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0022,Region Västernorrland,2024,32.9
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0023,Region Jämtland Härjedalen,2024,24.89
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0024,Region Västerbotten,2024,24.6
+oncology_lung,N70343,"Lung cancer prevalence, men, per 100k",0025,Region Norrbotten,2024,27.6
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0001,Region Stockholm,2024,185.11
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0003,Region Uppsala,2024,144.21
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0004,Region Sörmland,2024,203.6
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0005,Region Östergötland,2024,215.58
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0006,Region Jönköpings län,2024,153.07
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0007,Region Kronoberg,2024,199.15
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0008,Region Kalmar,2024,185.61
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0009,Region Gotland,2024,178.19
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0010,Region Blekinge,2024,152.73
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0012,Region Skåne,2024,170.06
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0013,Region Halland,2024,192.64
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0014,Västra Götalandsregionen,2024,190.88
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0017,Region Värmland,2024,201.8
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0018,Region Örebro län,2024,135.89
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0019,Region Västmanland,2024,193.52
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0020,Region Dalarna,2024,171.36
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0021,Region Gävleborg,2024,154.39
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0022,Region Västernorrland,2024,190.07
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0023,Region Jämtland Härjedalen,2024,226.63
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0024,Region Västerbotten,2024,213.74
+oncology_prostate,N70344,"Prostate cancer prevalence, per 100k",0025,Region Norrbotten,2024,162.47
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0001,Region Stockholm,2024,15.30324749
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0003,Region Uppsala,2024,57.57995156
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0004,Region Sörmland,2024,0.0
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0005,Region Östergötland,2024,32.76160348
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0006,Region Jönköpings län,2024,88.0579309
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0007,Region Kronoberg,2024,22.71266868
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0008,Region Kalmar,2024,71.23721022
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0012,Region Skåne,2024,57.92101231
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0013,Region Halland,2024,100.0
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0014,Västra Götalandsregionen,2024,24.59097425
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0017,Region Värmland,2024,31.13044338
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0018,Region Örebro län,2021,66.27203521
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0019,Region Västmanland,2023,57.82216749
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0021,Region Gävleborg,2024,39.16267115
+respiratory_quality,N70535,Asthma + COPD quality index (max 100),0024,Region Västerbotten,2022,45.47212327
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0001,Region Stockholm,2024,91.8
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0003,Region Uppsala,2024,95.4
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0004,Region Sörmland,2024,93.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0005,Region Östergötland,2024,95.1
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0006,Region Jönköpings län,2024,95.6
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0007,Region Kronoberg,2024,94.1
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0008,Region Kalmar,2024,96.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0009,Region Gotland,2024,96.3
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0010,Region Blekinge,2024,97.5
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0012,Region Skåne,2024,94.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0013,Region Halland,2024,94.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0014,Västra Götalandsregionen,2024,92.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0017,Region Värmland,2024,95.8
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0018,Region Örebro län,2024,92.7
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0019,Region Västmanland,2024,95.1
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0020,Region Dalarna,2024,94.8
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0021,Region Gävleborg,2024,94.5
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0022,Region Västernorrland,2024,94.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0023,Region Jämtland Härjedalen,2024,94.9
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0024,Region Västerbotten,2024,92.0
+vaccine_coverage,N01481,"MPR vaccinated 2yo, %",0025,Region Norrbotten,2024,92.8
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0001,Region Stockholm,2024,91.4
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0003,Region Uppsala,2024,93.4
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0004,Region Sörmland,2024,92.5
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0005,Region Östergötland,2024,94.5
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0006,Region Jönköpings län,2024,94.5
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0007,Region Kronoberg,2024,92.5
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0008,Region Kalmar,2024,93.9
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0009,Region Gotland,2024,95.6
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0010,Region Blekinge,2024,94.3
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0012,Region Skåne,2024,93.0
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0013,Region Halland,2024,93.7
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0014,Västra Götalandsregionen,2024,93.6
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0017,Region Värmland,2024,94.1
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0018,Region Örebro län,2024,93.9
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0019,Region Västmanland,2024,93.6
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0020,Region Dalarna,2024,92.5
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0021,Region Gävleborg,2024,94.3
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0022,Region Västernorrland,2024,94.1
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0023,Region Jämtland Härjedalen,2024,93.3
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0024,Region Västerbotten,2024,94.0
+vaccine_coverage,N01482,"MPR vaccinated 9yo, %",0025,Region Norrbotten,2024,94.3
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0001,Region Stockholm,2024,86.1
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0003,Region Uppsala,2024,89.0
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0004,Region Sörmland,2024,87.3
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0005,Region Östergötland,2024,90.0
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0006,Region Jönköpings län,2024,88.8
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0007,Region Kronoberg,2024,86.1
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0008,Region Kalmar,2024,89.8
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0009,Region Gotland,2024,88.7
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0010,Region Blekinge,2024,89.7
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0012,Region Skåne,2024,87.4
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0013,Region Halland,2024,89.8
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0014,Västra Götalandsregionen,2024,88.6
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0017,Region Värmland,2024,90.7
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0018,Region Örebro län,2024,88.3
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0019,Region Västmanland,2024,90.3
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0020,Region Dalarna,2024,87.1
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0021,Region Gävleborg,2024,89.2
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0022,Region Västernorrland,2024,88.6
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0023,Region Jämtland Härjedalen,2024,88.4
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0024,Region Västerbotten,2024,89.6
+vaccine_coverage,N01483,"HPV vaccinated girls, %",0025,Region Norrbotten,2024,85.4
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0001,Region Stockholm,2024,81.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0003,Region Uppsala,2024,85.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0004,Region Sörmland,2024,81.9
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0005,Region Östergötland,2024,86.0
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0006,Region Jönköpings län,2024,85.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0007,Region Kronoberg,2024,81.2
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0008,Region Kalmar,2024,84.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0009,Region Gotland,2024,90.1
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0010,Region Blekinge,2024,84.5
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0012,Region Skåne,2024,81.7
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0013,Region Halland,2024,84.9
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0014,Västra Götalandsregionen,2024,83.8
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0017,Region Värmland,2024,85.8
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0018,Region Örebro län,2024,86.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0019,Region Västmanland,2024,82.7
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0020,Region Dalarna,2024,81.3
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0021,Region Gävleborg,2024,83.1
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0022,Region Västernorrland,2024,86.4
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0023,Region Jämtland Härjedalen,2024,86.2
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0024,Region Västerbotten,2024,86.6
+vaccine_coverage,N01484,"HPV vaccinated boys, %",0025,Region Norrbotten,2024,81.8
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0001,Region Stockholm,2024,86.416563
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0003,Region Uppsala,2024,66.328481
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0004,Region Sörmland,2024,74.829708
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0005,Region Östergötland,2024,56.994201
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0006,Region Jönköpings län,2024,89.920155
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0007,Region Kronoberg,2024,73.211238
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0008,Region Kalmar,2024,76.289948
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0009,Region Gotland,2024,66.013651
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0010,Region Blekinge,2024,71.198192
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0012,Region Skåne,2024,66.455936
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0013,Region Halland,2024,87.093307
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0014,Västra Götalandsregionen,2024,63.451636
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0017,Region Värmland,2024,56.036158
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0018,Region Örebro län,2023,62.103894
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0019,Region Västmanland,2024,77.417274
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0020,Region Dalarna,2024,69.030619
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0021,Region Gävleborg,2024,68.458902
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0022,Region Västernorrland,2024,59.397538
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0023,Region Jämtland Härjedalen,2024,60.38262
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0024,Region Västerbotten,2024,67.124053
+wait_times,N79221,"Specialist visit waiters <=90 days, %",0025,Region Norrbotten,2023,43.805186
+wait_times,N79223,"Operation waiters <=90 days, %",0001,Region Stockholm,2024,74.707964
+wait_times,N79223,"Operation waiters <=90 days, %",0003,Region Uppsala,2024,56.392829
+wait_times,N79223,"Operation waiters <=90 days, %",0004,Region Sörmland,2024,69.377879
+wait_times,N79223,"Operation waiters <=90 days, %",0005,Region Östergötland,2024,48.260565
+wait_times,N79223,"Operation waiters <=90 days, %",0006,Region Jönköpings län,2024,86.790892
+wait_times,N79223,"Operation waiters <=90 days, %",0007,Region Kronoberg,2024,78.094821
+wait_times,N79223,"Operation waiters <=90 days, %",0008,Region Kalmar,2024,73.961992
+wait_times,N79223,"Operation waiters <=90 days, %",0009,Region Gotland,2024,78.910216
+wait_times,N79223,"Operation waiters <=90 days, %",0010,Region Blekinge,2024,73.744378
+wait_times,N79223,"Operation waiters <=90 days, %",0012,Region Skåne,2024,51.059201
+wait_times,N79223,"Operation waiters <=90 days, %",0013,Region Halland,2024,73.419214
+wait_times,N79223,"Operation waiters <=90 days, %",0014,Västra Götalandsregionen,2024,57.755516
+wait_times,N79223,"Operation waiters <=90 days, %",0017,Region Värmland,2024,49.89704
+wait_times,N79223,"Operation waiters <=90 days, %",0018,Region Örebro län,2023,54.423081
+wait_times,N79223,"Operation waiters <=90 days, %",0019,Region Västmanland,2024,68.240483
+wait_times,N79223,"Operation waiters <=90 days, %",0020,Region Dalarna,2024,55.383657
+wait_times,N79223,"Operation waiters <=90 days, %",0021,Region Gävleborg,2024,68.686816
+wait_times,N79223,"Operation waiters <=90 days, %",0022,Region Västernorrland,2024,59.506873
+wait_times,N79223,"Operation waiters <=90 days, %",0023,Region Jämtland Härjedalen,2024,40.700464
+wait_times,N79223,"Operation waiters <=90 days, %",0024,Region Västerbotten,2024,41.98643
+wait_times,N79223,"Operation waiters <=90 days, %",0025,Region Norrbotten,2023,48.95415
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0001,Region Stockholm,2024,24.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0003,Region Uppsala,2024,54.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0004,Region Sörmland,2024,42.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0005,Region Östergötland,2024,69.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0006,Region Jönköpings län,2024,32.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0007,Region Kronoberg,2024,48.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0008,Region Kalmar,2024,41.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0009,Region Gotland,2024,54.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0010,Region Blekinge,2024,50.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0012,Region Skåne,2024,53.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0013,Region Halland,2024,31.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0014,Västra Götalandsregionen,2024,53.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0017,Region Värmland,2024,73.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0018,Region Örebro län,2023,64.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0019,Region Västmanland,2024,41.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0020,Region Dalarna,2024,50.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0021,Region Gävleborg,2024,47.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0022,Region Västernorrland,2024,68.5
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0023,Region Jämtland Härjedalen,2024,65.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0024,Region Västerbotten,2024,52.0
+wait_times,N79240,"Median wait days, specialist visit (waiting)",0025,Region Norrbotten,2023,112.5
+wait_times,N79242,"Median wait days, operation (waiting)",0001,Region Stockholm,2024,41.0
+wait_times,N79242,"Median wait days, operation (waiting)",0003,Region Uppsala,2024,71.0
+wait_times,N79242,"Median wait days, operation (waiting)",0004,Region Sörmland,2024,53.0
+wait_times,N79242,"Median wait days, operation (waiting)",0005,Region Östergötland,2024,91.0
+wait_times,N79242,"Median wait days, operation (waiting)",0006,Region Jönköpings län,2024,31.5
+wait_times,N79242,"Median wait days, operation (waiting)",0007,Region Kronoberg,2024,40.5
+wait_times,N79242,"Median wait days, operation (waiting)",0008,Region Kalmar,2024,46.0
+wait_times,N79242,"Median wait days, operation (waiting)",0009,Region Gotland,2024,40.5
+wait_times,N79242,"Median wait days, operation (waiting)",0010,Region Blekinge,2024,45.5
+wait_times,N79242,"Median wait days, operation (waiting)",0012,Region Skåne,2024,81.5
+wait_times,N79242,"Median wait days, operation (waiting)",0013,Region Halland,2024,43.5
+wait_times,N79242,"Median wait days, operation (waiting)",0014,Västra Götalandsregionen,2024,69.5
+wait_times,N79242,"Median wait days, operation (waiting)",0017,Region Värmland,2024,85.5
+wait_times,N79242,"Median wait days, operation (waiting)",0018,Region Örebro län,2023,76.5
+wait_times,N79242,"Median wait days, operation (waiting)",0019,Region Västmanland,2024,46.5
+wait_times,N79242,"Median wait days, operation (waiting)",0020,Region Dalarna,2024,70.0
+wait_times,N79242,"Median wait days, operation (waiting)",0021,Region Gävleborg,2024,49.0
+wait_times,N79242,"Median wait days, operation (waiting)",0022,Region Västernorrland,2024,63.5
+wait_times,N79242,"Median wait days, operation (waiting)",0023,Region Jämtland Härjedalen,2024,123.0
+wait_times,N79242,"Median wait days, operation (waiting)",0024,Region Västerbotten,2024,107.0
+wait_times,N79242,"Median wait days, operation (waiting)",0025,Region Norrbotten,2023,86.0

@@ -1,0 +1,7442 @@
+{
+  "2019": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27495.284,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28062.569,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27095.772,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28980.977,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27241.968,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26259.698,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28222.704,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28409.507,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32536.943,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30750.723,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26509.133,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26865.519,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 25875.48,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28589.234,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28395.203,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28396.382,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28611.016,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29646.95,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30805.349,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29561.96,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29215.856,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30388.695,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29545.58,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27930.67085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29736.05971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29588.06914285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29220.287,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27808.88585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29793.8,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27963.997,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29480.06214285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27985.77585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29675.695,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27525.54314285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26867.182,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28583.02385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27005.29585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29454.38685714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28047.71714285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29422.58357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27960.96471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28323.137,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27772.76042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27832.51185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27485.14014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29116.20728571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29061.93857142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29532.596,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29285.80485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27854.43085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29957.59357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28119.62928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29354.25771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29689.728,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29152.12257142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27113.91257142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26891.99314285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28198.66057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28000.19014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29328.58242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29347.38971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29011.99457142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28872.03085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28282.34257142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27800.65242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27204.266,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 21,
+            "status": "",
+            "value": 28591.50657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26891.82471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27907.94328571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28531.45142857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27887.05814285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28027.38242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29279.14242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29462.58242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29535.70771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29374.91414285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27113.74414285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27940.83657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27204.266,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29152.291,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28279.23085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28559.49185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29433.79542857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29001.18871428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29120.31928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30108.69585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28691.78085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29179.84128571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2019,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2020": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27218.033,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27278.96,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26738.312,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27565.038,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27744.36,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26865.017,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27750.997,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29076.053,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 34046.304,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31812.694,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27532.576,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26794.516,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 24991.885,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28495.678,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27826.581,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27747.608,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28139.295,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29509.359,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31559.491,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28858.983,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28390.289,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29269.191,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29174.61228571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27929.47057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29797.34985714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29601.62642857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29210.69,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27756.222,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29853.75728571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27809.80585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29457.44014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27793.31185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29795.15614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27047.53085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26916.809,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28655.47271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26994.04442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29540.35085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27670.75885714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29308.75042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27793.796,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28365.96671428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27789.62257142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27580.452,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27214.709,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28740.94942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28483.44557142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29546.15528571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28927.86214285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27518.03014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30287.20114285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27759.63728571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29016.32857142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29679.48171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28866.58657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26880.094,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26916.32485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27896.095,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27777.738,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29099.23928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29087.72928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28661.55171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28213.467,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27858.73171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27382.33814285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27254.33171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 21,
+            "status": "",
+            "value": 28475.86604761,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26927.60671428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27561.91557142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28129.04657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27418.19442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27543.81485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29139.67914285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28989.763,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29495.24342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29217.10742857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 26891.37585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27553.88642857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27254.33171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28855.30471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 27909.64357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28047.494,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29123.58557142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28710.49314285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28634.98614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30432.01271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28147.79371428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28962.17185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2020,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2021": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28631.521,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28740.788,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28413.319,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30646.021,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30531.994,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28676.198,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28818.727,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29181.753,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35245.323,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32717.366,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28462.841,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 27515.628,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 26476.637,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30530.092,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29277.164,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29207.755,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30313.432,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31254.452,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32027.945,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30290.638,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28255.81,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30725.731,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30485.44285714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29460.52614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30961.13957142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30826.70814285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30670.539,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29127.15014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30897.15514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29220.753,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30915.86985714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29647.59071428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30834.999,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28801.44014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28413.62057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29876.20214285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28460.40185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30723.25,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29470.25628571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30716.20914285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29592.01528571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29968.54485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29090.95542857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29025.85242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28594.079,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30141.539,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29792.66942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30613.17885714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30240.112,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29580.84042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31320.991,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29707.43,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30275.16985714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30639.49842857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30136.65385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28508.90271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28469.196,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29214.34842857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29744.98414285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30082.55,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30668.48942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29868.571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29712.60542857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29409.89942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29149.931,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28802.56171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 21,
+            "status": "",
+            "value": 29871.88638095,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28479.11157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29158.65285714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29479.19042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28855.985,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29121.09871428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30187.68771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30536.21185714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30582.22742857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30404.19114285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28518.81828571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29286.89442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 28802.56171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30126.73828571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29440.85085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29471.12771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30374.54342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30023.25828571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30129.613,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31424.471,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30006.80614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30315.64357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2021,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2022": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29995.848,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29645.163,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29489.72,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32356.576,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31421.112,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29803.881,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30122.103,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31556.935,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 39641.671,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33261.937,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29206.179,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 29165.268,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 28448.428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32189.339,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31971.719,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31117.19,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31618.743,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32269.066,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33601.216,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32396.17,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 31032.049,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32486.947,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32227.64714285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31168.897,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32537.37285714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32444.46957142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32365.20928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30511.31857142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33160.98571428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30786.82242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32472.59857142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31197.26328571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33148.01757142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30302.91385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29665.24157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31443.26157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29687.44771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32382.25514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31163.85714285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32254.16242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31055.108,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31377.10485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30561.63385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30708.25342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30173.48142857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31959.177,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31827.21171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32230.66385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32120.25785714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31111.27728571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33265.73542857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31184.60057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31902.78042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32260.98471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32058.04342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29870.10885714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29807.39685714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30996.84514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31229.48071428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31812.437,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32296.97457142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31610.74028571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31557.19542857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31051.82471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30789.01385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30100.43457142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 21,
+            "status": "",
+            "value": 31561.972,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29929.47242857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30981.11357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31337.62485714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30705.20042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30936.23342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32128.23171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32221.99085714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32149.15014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32088.82514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 29992.18442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31027.46385714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 30100.43457142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31935.96785714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31133.33842857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31300.87428571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32213.16114285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31924.57828571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31929.95071428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33277.125,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 31663.53371428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 32089.132,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2022,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2023": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33859.829,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 32753.508,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33120.03,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 0,
+            "status": "Missing",
+            "value": null,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36673.879,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33978.029,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 34425.537,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35505.357,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 44241.262,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 38114.108,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33613.474,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33830.211,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 30835.6,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36392.427,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35931.272,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35479.126,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36344.267,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36759.3,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 38538.414,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 39306.942,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35959.659,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 38900.515,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37457.36057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35483.661,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37645.29471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37586.00428571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36804.3075,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 34729.54885714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37983.12871428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35041.39042857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37340.96142857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35168.669,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38041.18971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 34060.7305,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33782.39428571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35741.81842857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33730.034,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37214.23714285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35995.78628571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37331.84514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 34993.07083333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35696.006,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 34625.30657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35081.076,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 34126.77457142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36607.56033333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36422.53816666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37311.9,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36940.1065,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35254.43383333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38016.80285714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35443.15983333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36760.017,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37160.23142857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36506.37816666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33810.05471428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33932.907,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35468.83771428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35586.15966666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36633.29271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 37073.38,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36326.72314285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36287.53733333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35391.76533333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 34780.48916666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 34271.48614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 20,
+            "status": ",Missing",
+            "value": 36035.14585,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33997.49928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35308.696,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35813.75171428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 34716.38783333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35165.69616666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36587.98933333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 37149.097,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37305.02,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37118.356,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 33874.647,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35190.3325,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 34271.48614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36431.0205,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35399.792,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35549.73433333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 37009.27866666,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36369.875,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36643.5875,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38069.21328571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 35888.65483333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 6,
+            "status": ",Missing",
+            "value": 36583.23733333,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2023,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2024": {
+    "values": [
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36041.126,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0000"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35420.592,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0001"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36093.569,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0003"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37251.858,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0004"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36806.322,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0005"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35904.532,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0006"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36075.554,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0007"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37539.78,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0008"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 47153.564,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0009"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 40681.07,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0010"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 35805.732,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0012"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 36264.685,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0013"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 33760.881,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0014"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37189.82,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0017"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37473.854,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0018"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37231.734,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0019"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37728.671,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0020"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 39566.626,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0021"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 40176.759,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0022"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 41298.112,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0023"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 37899.536,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0024"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 1,
+            "status": "",
+            "value": 41762.529,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "0025"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39374.579,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G166828"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36888.79942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176775"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39744.95657142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176776"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39482.39157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176777"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38291.68742857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176778"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36745.92342857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176779"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39921.52271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176780"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36899.15714285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176781"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39159.27314285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176782"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37015.75014285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176783"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39855.17742857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176784"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36212.08614285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176785"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35815.89642857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176786"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37781.87857142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176787"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35719.75685714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176788"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39209.26742857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176789"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37819.27157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176790"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39395.22971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176791"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36850.58157142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176792"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37355.83571428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176793"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36704.76528571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176794"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36783.58585714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G176795"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36180.06942857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G205662"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38287.00071428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219214"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38389.41671428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219215"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39246.232,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219216"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38506.99328571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219217"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36927.22,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219218"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 40082.72514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219219"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37312.22642857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219220"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38628.49928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219221"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39336.42442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219222"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38233.86914285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219223"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35926.045,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219224"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35981.065,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219225"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37438.51971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219226"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37285.22114285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219227"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38678.49357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219228"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38745.149,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219229"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38251.788,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219230"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38278.25128571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219231"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37406.806,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219232"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36849.84328571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219233"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36252.75514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G219322"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 21,
+            "status": "",
+            "value": 38051.70380952,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G2329"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36015.65357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43557"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36976.07442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43558"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37622.13228571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43559"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36874.25257142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43560"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37003.07971428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43561"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38322.08442857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43562"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38796.54271428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43563"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39323.21071428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43564"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 39087.02571428,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43565"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 35960.63357142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43566"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36951.62928571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43567"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 36252.75514285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43568"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38199.28057142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43569"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37329.82728571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43570"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37388.84757142,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43571"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38769.55828571,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43572"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37859.73685714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43573"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38419.83142857,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43574"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 40422.26885714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43575"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 37502.58814285,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43576"
+      },
+      {
+        "values": [
+          {
+            "gender": "T",
+            "count": 7,
+            "status": "",
+            "value": 38193.29285714,
+            "isdeleted": false
+          }
+        ],
+        "kpi": "N70061",
+        "period": 2024,
+        "municipality": "G43577"
+      }
+    ],
+    "next_url": null,
+    "previous_url": null,
+    "count": 88
+  },
+  "2025": {
+    "values": [],
+    "next_url": null,
+    "previous_url": null,
+    "count": 0
+  }
+}

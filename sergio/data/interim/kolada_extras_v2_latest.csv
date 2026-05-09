@@ -1,0 +1,190 @@
+category,kpi,title,region_code,region,year,value
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0001,Region Stockholm,2024,7003.2
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0003,Region Uppsala,2024,4177.7
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0004,Region Sörmland,2024,5555.1
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0005,Region Östergötland,2024,4711.2
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0006,Region Jönköpings län,2024,5172.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0007,Region Kronoberg,2024,5676.9
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0008,Region Kalmar,2024,5112.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0009,Region Gotland,2024,5829.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0010,Region Blekinge,2024,4595.9
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0012,Region Skåne,2024,5125.2
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0013,Region Halland,2024,5350.9
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0014,Västra Götalandsregionen,2024,5063.1
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0017,Region Värmland,2024,6116.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0018,Region Örebro län,2024,4897.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0019,Region Västmanland,2024,5832.8
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0020,Region Dalarna,2024,5469.9
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0021,Region Gävleborg,2024,4555.2
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0022,Region Västernorrland,2024,5497.3
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0023,Region Jämtland Härjedalen,2024,5896.5
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0024,Region Västerbotten,2024,6429.4
+elderly_falls,N20402,"Fallskador 80+ slutenvård, antal/100k",0025,Region Norrbotten,2024,5154.6
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0001,Region Stockholm,2024,3986.6
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0003,Region Uppsala,2024,3490.0
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0004,Region Sörmland,2024,4136.2
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0005,Region Östergötland,2024,4285.9
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0006,Region Jönköpings län,2024,3655.1
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0007,Region Kronoberg,2024,3643.3
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0008,Region Kalmar,2024,3632.5
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0009,Region Gotland,2024,4315.7
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0010,Region Blekinge,2024,3365.8
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0012,Region Skåne,2024,3917.9
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0013,Region Halland,2024,3533.9
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0014,Västra Götalandsregionen,2024,3691.3
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0017,Region Värmland,2024,4494.1
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0018,Region Örebro län,2024,4425.5
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0019,Region Västmanland,2024,4408.0
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0020,Region Dalarna,2024,4255.1
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0021,Region Gävleborg,2024,3506.8
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0022,Region Västernorrland,2024,4333.5
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0023,Region Jämtland Härjedalen,2024,4210.6
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0024,Region Västerbotten,2024,4354.8
+elderly_falls,N20410,"Fallskador 65-79 vårdtillfällen, antal/100k",0025,Region Norrbotten,2024,3824.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0001,Region Stockholm,2024,4119.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0003,Region Uppsala,2024,1078.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0004,Region Sörmland,2024,525.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0005,Region Östergötland,2024,1249.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0006,Region Jönköpings län,2024,810.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0007,Region Kronoberg,2024,380.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0008,Region Kalmar,2024,531.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0009,Region Gotland,2024,126.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0010,Region Blekinge,2024,323.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0012,Region Skåne,2024,3046.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0013,Region Halland,2024,659.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0014,Västra Götalandsregionen,2024,3763.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0017,Region Värmland,2024,525.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0018,Region Örebro län,2024,681.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0019,Region Västmanland,2024,479.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0020,Region Dalarna,2024,559.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0021,Region Gävleborg,2024,523.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0022,Region Västernorrland,2024,429.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0023,Region Jämtland Härjedalen,2024,331.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0024,Region Västerbotten,2024,805.0
+workforce,N70015,"Regional specialistkompetenta läkare, antal",0025,Region Norrbotten,2024,441.0
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0001,Region Stockholm,2024,3829.72
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0003,Region Uppsala,2024,1001.8
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0004,Region Sörmland,2024,495.76
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0005,Region Östergötland,2024,1147.1
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0006,Region Jönköpings län,2024,740.47
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0007,Region Kronoberg,2024,357.29
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0008,Region Kalmar,2024,493.67
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0009,Region Gotland,2024,166.03
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0010,Region Blekinge,2024,312.74
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0012,Region Skåne,2024,2862.02
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0013,Region Halland,2024,594.85
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0014,Västra Götalandsregionen,2024,3474.67
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0017,Region Värmland,2024,490.55
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0018,Region Örebro län,2024,633.39
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0019,Region Västmanland,2024,447.11
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0020,Region Dalarna,2024,502.25
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0021,Region Gävleborg,2024,487.38
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0022,Region Västernorrland,2024,406.97
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0023,Region Jämtland Härjedalen,2024,300.16
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0024,Region Västerbotten,2024,762.67
+workforce,N70034,"Regional specialistläkare årsarbetare, antal",0025,Region Norrbotten,2024,408.02
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0001,Region Stockholm,2023,38.94668401
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0003,Region Uppsala,2023,48.03149606
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0004,Region Sörmland,2023,80.68181818
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0005,Region Östergötland,2023,53.30882353
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0006,Region Jönköpings län,2023,37.71626298
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0007,Region Kronoberg,2023,22.6993865
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0008,Region Kalmar,2023,89.65517241
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0009,Region Gotland,2023,64.0625
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0010,Region Blekinge,2024,62.60869565
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0012,Region Skåne,2024,40.16933208
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0013,Region Halland,2024,58.45070423
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0014,Västra Götalandsregionen,2024,40.39840637
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0017,Region Värmland,2024,51.37614679
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0018,Region Örebro län,2024,22.22222222
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0019,Region Västmanland,2024,9.72972973
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0020,Region Dalarna,2024,20.0
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0021,Region Gävleborg,2024,77.13004484
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0022,Region Västernorrland,2024,60.23391813
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0023,Region Jämtland Härjedalen,2024,37.5
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0024,Region Västerbotten,2024,55.05617978
+oncology_quality,N70601,"Bröstcanceroperation inom 28 dagar, andel (%)",0025,Region Norrbotten,2024,91.37931034
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0001,Region Stockholm,2023,93.39407745
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0003,Region Uppsala,2023,98.68421053
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0004,Region Sörmland,2023,86.95652174
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0005,Region Östergötland,2023,89.40397351
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0006,Region Jönköpings län,2023,90.32258065
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0007,Region Kronoberg,2023,86.9047619
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0008,Region Kalmar,2023,93.81443299
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0009,Region Gotland,2023,84.61538462
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0010,Region Blekinge,2024,91.83673469
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0012,Region Skåne,2024,87.93650794
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0013,Region Halland,2024,90.74074074
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0014,Västra Götalandsregionen,2024,89.73042362
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0017,Region Värmland,2024,89.84375
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0018,Region Örebro län,2024,90.35087719
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0019,Region Västmanland,2024,83.33333333
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0020,Region Dalarna,2024,81.81818182
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0021,Region Gävleborg,2024,90.4
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0022,Region Västernorrland,2024,91.75257732
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0023,Region Jämtland Härjedalen,2024,85.71428571
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0024,Region Västerbotten,2024,85.98130841
+oncology_quality,N70603,"Bröstbevarande operation vid små tumörer, andel (%)",0025,Region Norrbotten,2024,85.57692308
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0001,Region Stockholm,2023,56.82382134
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0003,Region Uppsala,2023,66.5480427
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0004,Region Sörmland,2023,65.94594595
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0005,Region Östergötland,2023,60.70038911
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0006,Region Jönköpings län,2023,71.78423237
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0007,Region Kronoberg,2023,61.25
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0008,Region Kalmar,2023,66.10169492
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0009,Region Gotland,2023,60.71428571
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0010,Region Blekinge,2024,70.19230769
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0012,Region Skåne,2024,66.87116564
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0013,Region Halland,2024,77.43190661
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0014,Västra Götalandsregionen,2024,68.28193833
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0017,Region Värmland,2024,80.46511628
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0018,Region Örebro län,2024,57.36842105
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0019,Region Västmanland,2024,77.38693467
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0020,Region Dalarna,2024,67.40331492
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0021,Region Gävleborg,2024,61.03286385
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0022,Region Västernorrland,2024,70.96774194
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0023,Region Jämtland Härjedalen,2024,70.10309278
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0024,Region Västerbotten,2024,67.13286713
+oncology_quality,N70605,"Bröstcancer upptäckt via screening, andel (%)",0025,Region Norrbotten,2024,62.85714286
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0001,Region Stockholm,2024,5.5
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0003,Region Uppsala,2024,3.7
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0004,Region Sörmland,2024,8.0
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0005,Region Östergötland,2024,4.5
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0006,Region Jönköpings län,2024,5.6
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0007,Region Kronoberg,2024,5.4
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0008,Region Kalmar,2024,7.7
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0009,Region Gotland,2024,5.6
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0010,Region Blekinge,2024,5.2
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0012,Region Skåne,2024,7.0
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0013,Region Halland,2024,5.2
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0014,Västra Götalandsregionen,2024,4.9
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0017,Region Värmland,2024,5.5
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0018,Region Örebro län,2024,5.5
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0019,Region Västmanland,2024,5.8
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0020,Region Dalarna,2024,5.0
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0021,Region Gävleborg,2024,7.1
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0022,Region Västernorrland,2024,5.6
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0023,Region Jämtland Härjedalen,2024,3.3
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0024,Region Västerbotten,2024,3.4
+lifestyle_smoking,U01402,"Invånare 16-84 som röker dagligen, andel (%)",0025,Region Norrbotten,2024,7.3
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0001,Region Stockholm,2024,46.5
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0003,Region Uppsala,2024,50.0
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0004,Region Sörmland,2024,57.1
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0005,Region Östergötland,2024,54.3
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0006,Region Jönköpings län,2024,52.2
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0007,Region Kronoberg,2024,54.9
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0008,Region Kalmar,2024,57.5
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0009,Region Gotland,2024,55.5
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0010,Region Blekinge,2024,54.5
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0012,Region Skåne,2024,51.8
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0013,Region Halland,2024,51.7
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0014,Västra Götalandsregionen,2024,51.7
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0017,Region Värmland,2024,57.4
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0018,Region Örebro län,2024,55.4
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0019,Region Västmanland,2024,58.2
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0020,Region Dalarna,2024,58.6
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0021,Region Gävleborg,2024,61.0
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0022,Region Västernorrland,2024,61.2
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0023,Region Jämtland Härjedalen,2024,53.5
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0024,Region Västerbotten,2024,52.7
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",0025,Region Norrbotten,2024,59.6

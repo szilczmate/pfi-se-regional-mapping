@@ -1,0 +1,148 @@
+product,region_code,region,sjukvardsregion,burden_metric,burden_value,burden_score,share_metric,share_value,share_score,demo_metric,demo_value,demo_score,composite_opportunity_score
+Prevenar 20 (pneumokock 65+),01,Region Stockholm,Stockholm-Gotland,ipd_2025,14.36,25.0,pneu_share,12.43,45.0,pop_65plus_pct,16.9,0.0,28.0
+Prevenar 20 (pneumokock 65+),09,Region Gotland,Stockholm-Gotland,ipd_2025,16.42,62.5,pneu_share,9.8,85.0,pop_65plus_pct,27.47,100.0,79.0
+Prevenar 20 (pneumokock 65+),03,Region Uppsala,Mellansverige,ipd_2025,15.1,50.0,pneu_share,22.57,0.0,pop_65plus_pct,19.09,5.0,21.0
+Prevenar 20 (pneumokock 65+),04,Region Sörmland,Mellansverige,ipd_2025,0,50,pneu_share,9.91,75.0,pop_65plus_pct,23.59,55.0,61.0
+Prevenar 20 (pneumokock 65+),19,Region Västmanland,Mellansverige,ipd_2025,0,50,pneu_share,10.55,65.0,pop_65plus_pct,22.29,45.0,55.0
+Prevenar 20 (pneumokock 65+),18,Region Örebro län,Mellansverige,ipd_2025,0,50,pneu_share,9.81,80.0,pop_65plus_pct,22.16,40.0,60.0
+Prevenar 20 (pneumokock 65+),20,Region Dalarna,Mellansverige,ipd_2025,10.84,0.0,pneu_share,12.53,40.0,pop_65plus_pct,26.06,90.0,34.0
+Prevenar 20 (pneumokock 65+),21,Region Gävleborg,Mellansverige,ipd_2025,0,50,pneu_share,11.53,55.0,pop_65plus_pct,25.36,80.0,58.0
+Prevenar 20 (pneumokock 65+),17,Region Värmland,Mellansverige,ipd_2025,0,50,pneu_share,20.59,5.0,pop_65plus_pct,25.14,70.0,36.0
+Prevenar 20 (pneumokock 65+),05,Region Östergötland,Sydöstra,ipd_2025,0,50,pneu_share,18.15,15.0,pop_65plus_pct,21.43,20.0,30.0
+Prevenar 20 (pneumokock 65+),06,Region Jönköpings län,Sydöstra,ipd_2025,0,50,pneu_share,11.76,50.0,pop_65plus_pct,21.58,25.0,45.0
+Prevenar 20 (pneumokock 65+),08,Region Kalmar,Sydöstra,ipd_2025,17.52,75.0,pneu_share,17.27,25.0,pop_65plus_pct,26.34,95.0,59.0
+Prevenar 20 (pneumokock 65+),12,Region Skåne,Södra,ipd_2025,0,50,pneu_share,9.67,90.0,pop_65plus_pct,20.09,10.0,58.0
+Prevenar 20 (pneumokock 65+),10,Region Blekinge,Södra,ipd_2025,19.8,87.5,pneu_share,8.27,95.0,pop_65plus_pct,24.91,65.0,86.0
+Prevenar 20 (pneumokock 65+),13,Region Halland,Södra,ipd_2025,14.45,37.5,pneu_share,18.36,10.0,pop_65plus_pct,23.07,50.0,29.0
+Prevenar 20 (pneumokock 65+),07,Region Kronoberg,Södra,ipd_2025,20.19,100.0,pneu_share,12.75,35.0,pop_65plus_pct,22.04,35.0,61.0
+Prevenar 20 (pneumokock 65+),14,Västra Götalandsregionen,Västra,ipd_2025,0,50,pneu_share,14.03,30.0,pop_65plus_pct,20.28,15.0,35.0
+Prevenar 20 (pneumokock 65+),22,Region Västernorrland,Norra,ipd_2025,0,50,pneu_share,10.8,60.0,pop_65plus_pct,25.37,85.0,61.0
+Prevenar 20 (pneumokock 65+),23,Region Jämtland Härjedalen,Norra,ipd_2025,0,50,pneu_share,3.61,100.0,pop_65plus_pct,24.37,60.0,72.0
+Prevenar 20 (pneumokock 65+),24,Region Västerbotten,Norra,ipd_2025,0,50,pneu_share,17.51,20.0,pop_65plus_pct,21.67,30.0,34.0
+Prevenar 20 (pneumokock 65+),25,Region Norrbotten,Norra,ipd_2025,14.06,12.5,pneu_share,10.05,70.0,pop_65plus_pct,25.31,75.0,48.0
+Abrysvo (RSV adult),01,Region Stockholm,Stockholm-Gotland,ipd_2025_proxy,14.36,25.0,rsv_share,59.89,90.0,pop_75plus_pct,8.6,0.0,41.0
+Abrysvo (RSV adult),09,Region Gotland,Stockholm-Gotland,ipd_2025_proxy,16.42,62.5,rsv_share,45.77,100.0,pop_75plus_pct,14.26,100.0,92.5
+Abrysvo (RSV adult),03,Region Uppsala,Mellansverige,ipd_2025_proxy,15.1,50.0,rsv_share,64.15,60.0,pop_75plus_pct,9.9,5.0,36.0
+Abrysvo (RSV adult),04,Region Sörmland,Mellansverige,ipd_2025_proxy,0,50,rsv_share,84.39,0.0,pop_75plus_pct,12.53,55.0,32.0
+Abrysvo (RSV adult),19,Region Västmanland,Mellansverige,ipd_2025_proxy,0,50,rsv_share,76.12,10.0,pop_75plus_pct,12.07,45.0,32.0
+Abrysvo (RSV adult),18,Region Örebro län,Mellansverige,ipd_2025_proxy,0,50,rsv_share,77.4,5.0,pop_75plus_pct,11.81,40.0,28.0
+Abrysvo (RSV adult),20,Region Dalarna,Mellansverige,ipd_2025_proxy,10.84,0.0,rsv_share,71.14,25.0,pop_75plus_pct,13.83,90.0,46.0
+Abrysvo (RSV adult),21,Region Gävleborg,Mellansverige,ipd_2025_proxy,0,50,rsv_share,52.3,95.0,pop_75plus_pct,13.43,80.0,80.0
+Abrysvo (RSV adult),17,Region Värmland,Mellansverige,ipd_2025_proxy,0,50,rsv_share,66.33,45.0,pop_75plus_pct,13.26,70.0,56.0
+Abrysvo (RSV adult),05,Region Östergötland,Sydöstra,ipd_2025_proxy,0,50,rsv_share,62.07,75.0,pop_75plus_pct,11.32,25.0,50.0
+Abrysvo (RSV adult),06,Region Jönköpings län,Sydöstra,ipd_2025_proxy,0,50,rsv_share,67.98,40.0,pop_75plus_pct,11.48,30.0,38.0
+Abrysvo (RSV adult),08,Region Kalmar,Sydöstra,ipd_2025_proxy,17.52,75.0,rsv_share,60.34,80.0,pop_75plus_pct,14.02,95.0,85.0
+Abrysvo (RSV adult),12,Region Skåne,Södra,ipd_2025_proxy,0,50,rsv_share,63.6,70.0,pop_75plus_pct,10.47,15.0,44.0
+Abrysvo (RSV adult),10,Region Blekinge,Södra,ipd_2025_proxy,19.8,87.5,rsv_share,63.6,65.0,pop_75plus_pct,13.56,85.0,77.5
+Abrysvo (RSV adult),13,Region Halland,Södra,ipd_2025_proxy,14.45,37.5,rsv_share,64.2,55.0,pop_75plus_pct,12.22,50.0,49.5
+Abrysvo (RSV adult),07,Region Kronoberg,Södra,ipd_2025_proxy,20.19,100.0,rsv_share,64.39,50.0,pop_75plus_pct,11.74,35.0,54.0
+Abrysvo (RSV adult),14,Västra Götalandsregionen,Västra,ipd_2025_proxy,0,50,rsv_share,73.45,15.0,pop_75plus_pct,10.45,10.0,20.0
+Abrysvo (RSV adult),22,Region Västernorrland,Norra,ipd_2025_proxy,0,50,rsv_share,59.89,85.0,pop_75plus_pct,13.39,75.0,74.0
+Abrysvo (RSV adult),23,Region Jämtland Härjedalen,Norra,ipd_2025_proxy,0,50,rsv_share,69.96,30.0,pop_75plus_pct,12.65,60.0,46.0
+Abrysvo (RSV adult),24,Region Västerbotten,Norra,ipd_2025_proxy,0,50,rsv_share,68.87,35.0,pop_75plus_pct,11.05,20.0,32.0
+Abrysvo (RSV adult),25,Region Norrbotten,Norra,ipd_2025_proxy,14.06,12.5,rsv_share,71.19,20.0,pop_75plus_pct,13.07,65.0,36.5
+FSME-IMMUN (TBE),01,Region Stockholm,Stockholm-Gotland,tbe_2025,5.51,87.5,tbe_share,78.62,40.0,pop_total,2473307,100.0,75.8
+FSME-IMMUN (TBE),09,Region Gotland,Stockholm-Gotland,tbe_2025,4.93,75.0,tbe_share,79.89,25.0,pop_total,60971,0.0,45.0
+FSME-IMMUN (TBE),03,Region Uppsala,Mellansverige,tbe_2025,14.61,100.0,tbe_share,47.63,80.0,pop_total,407912,80.0,90.0
+FSME-IMMUN (TBE),04,Region Sörmland,Mellansverige,tbe_2025,0,50,tbe_share,45.64,85.0,pop_total,301542,60.0,62.5
+FSME-IMMUN (TBE),19,Region Västmanland,Mellansverige,tbe_2025,0,50,tbe_share,24.31,95.0,pop_total,281158,40.0,61.5
+FSME-IMMUN (TBE),18,Region Örebro län,Mellansverige,tbe_2025,0,50,tbe_share,23.87,100.0,pop_total,308375,65.0,68.0
+FSME-IMMUN (TBE),20,Region Dalarna,Mellansverige,tbe_2025,1.4,37.5,tbe_share,89.24,0.0,pop_total,286546,55.0,29.8
+FSME-IMMUN (TBE),21,Region Gävleborg,Mellansverige,tbe_2025,0,50,tbe_share,60.25,70.0,pop_total,284558,50.0,56.0
+FSME-IMMUN (TBE),17,Region Värmland,Mellansverige,tbe_2025,0,50,tbe_share,30.58,90.0,pop_total,283384,45.0,61.0
+FSME-IMMUN (TBE),05,Region Östergötland,Sydöstra,tbe_2025,0,50,tbe_share,82.77,15.0,pop_total,472446,85.0,46.5
+FSME-IMMUN (TBE),06,Region Jönköpings län,Sydöstra,tbe_2025,0,50,tbe_share,87.18,5.0,pop_total,370009,75.0,41.5
+FSME-IMMUN (TBE),08,Region Kalmar,Sydöstra,tbe_2025,3.26,62.5,tbe_share,75.44,50.0,pop_total,246352,25.0,51.2
+FSME-IMMUN (TBE),12,Region Skåne,Södra,tbe_2025,0,50,tbe_share,77.35,45.0,pop_total,1428626,90.0,56.5
+FSME-IMMUN (TBE),10,Region Blekinge,Södra,tbe_2025,1.28,25.0,tbe_share,79.49,30.0,pop_total,157223,10.0,23.5
+FSME-IMMUN (TBE),13,Region Halland,Södra,tbe_2025,1.16,12.5,tbe_share,83.55,10.0,pop_total,345074,70.0,23.2
+FSME-IMMUN (TBE),07,Region Kronoberg,Södra,tbe_2025,2.95,50.0,tbe_share,82.69,20.0,pop_total,203351,15.0,34.0
+FSME-IMMUN (TBE),14,Västra Götalandsregionen,Västra,tbe_2025,0,50,tbe_share,74.65,55.0,pop_total,1772821,95.0,60.5
+FSME-IMMUN (TBE),22,Region Västernorrland,Norra,tbe_2025,0,50,tbe_share,79.42,35.0,pop_total,241458,20.0,39.5
+FSME-IMMUN (TBE),23,Region Jämtland Härjedalen,Norra,tbe_2025,0,50,tbe_share,72.67,60.0,pop_total,132839,5.0,44.0
+FSME-IMMUN (TBE),24,Region Västerbotten,Norra,tbe_2025,0,50,tbe_share,61.91,65.0,pop_total,281138,35.0,51.5
+FSME-IMMUN (TBE),25,Region Norrbotten,Norra,tbe_2025,0.4,0.0,tbe_share,53.06,75.0,pop_total,248620,30.0,28.5
+Tukysa (HER2+ BC),01,Region Stockholm,Stockholm-Gotland,breast_rate,207.87,80.0,breast_surgery_wait,38.95,70.0,pop_women_15_44,20.02,95.0,80.0
+Tukysa (HER2+ BC),09,Region Gotland,Stockholm-Gotland,breast_rate,185.7,45.0,breast_surgery_wait,64.06,20.0,pop_women_15_44,15.69,0.0,28.5
+Tukysa (HER2+ BC),03,Region Uppsala,Mellansverige,breast_rate,191.08,60.0,breast_surgery_wait,48.03,55.0,pop_women_15_44,20.62,100.0,66.5
+Tukysa (HER2+ BC),04,Region Sörmland,Mellansverige,breast_rate,130.8,0.0,breast_surgery_wait,80.68,10.0,pop_women_15_44,16.82,45.0,12.0
+Tukysa (HER2+ BC),19,Region Västmanland,Mellansverige,breast_rate,188.85,55.0,breast_surgery_wait,9.73,100.0,pop_women_15_44,17.52,55.0,68.5
+Tukysa (HER2+ BC),18,Region Örebro län,Mellansverige,breast_rate,175.93,30.0,breast_surgery_wait,22.22,90.0,pop_women_15_44,18.17,70.0,56.0
+Tukysa (HER2+ BC),20,Region Dalarna,Mellansverige,breast_rate,165.28,25.0,breast_surgery_wait,20.0,95.0,pop_women_15_44,15.98,15.0,44.0
+Tukysa (HER2+ BC),21,Region Gävleborg,Mellansverige,breast_rate,188.8,50.0,breast_surgery_wait,77.13,15.0,pop_women_15_44,16.26,30.0,35.5
+Tukysa (HER2+ BC),17,Region Värmland,Mellansverige,breast_rate,179.74,35.0,breast_surgery_wait,51.38,50.0,pop_women_15_44,16.6,35.0,39.5
+Tukysa (HER2+ BC),05,Region Östergötland,Sydöstra,breast_rate,206.9,75.0,breast_surgery_wait,53.31,45.0,pop_women_15_44,18.22,75.0,66.0
+Tukysa (HER2+ BC),06,Region Jönköpings län,Sydöstra,breast_rate,220.6,85.0,breast_surgery_wait,37.72,75.0,pop_women_15_44,17.56,60.0,77.0
+Tukysa (HER2+ BC),08,Region Kalmar,Sydöstra,breast_rate,161.77,15.0,breast_surgery_wait,89.66,5.0,pop_women_15_44,15.86,10.0,11.0
+Tukysa (HER2+ BC),12,Region Skåne,Södra,breast_rate,253.28,100.0,breast_surgery_wait,40.17,65.0,pop_women_15_44,18.93,90.0,87.5
+Tukysa (HER2+ BC),10,Region Blekinge,Södra,breast_rate,200.38,65.0,breast_surgery_wait,62.61,25.0,pop_women_15_44,15.85,5.0,41.0
+Tukysa (HER2+ BC),13,Region Halland,Södra,breast_rate,203.54,70.0,breast_surgery_wait,58.45,35.0,pop_women_15_44,16.78,40.0,53.5
+Tukysa (HER2+ BC),07,Region Kronoberg,Södra,breast_rate,222.99,90.0,breast_surgery_wait,22.7,85.0,pop_women_15_44,17.59,65.0,83.5
+Tukysa (HER2+ BC),14,Västra Götalandsregionen,Västra,breast_rate,181.7,40.0,breast_surgery_wait,40.4,60.0,pop_women_15_44,18.75,80.0,54.0
+Tukysa (HER2+ BC),22,Region Västernorrland,Norra,breast_rate,155.7,10.0,breast_surgery_wait,60.23,30.0,pop_women_15_44,16.02,20.0,18.0
+Tukysa (HER2+ BC),23,Region Jämtland Härjedalen,Norra,breast_rate,236.41,95.0,breast_surgery_wait,37.5,80.0,pop_women_15_44,17.03,50.0,81.5
+Tukysa (HER2+ BC),24,Region Västerbotten,Norra,breast_rate,165.03,20.0,breast_surgery_wait,55.06,40.0,pop_women_15_44,18.81,85.0,39.0
+Tukysa (HER2+ BC),25,Region Norrbotten,Norra,breast_rate,148.79,5.0,breast_surgery_wait,91.38,0.0,pop_women_15_44,16.15,25.0,7.5
+Lorviqua (ALK+ NSCLC),01,Region Stockholm,Stockholm-Gotland,lung_inc,38.15,20.0,smoking_pct,5.5,45.0,pop_total,2473307,100.0,43.5
+Lorviqua (ALK+ NSCLC),09,Region Gotland,Stockholm-Gotland,lung_inc,39.34,35.0,smoking_pct,5.6,30.0,pop_total,60971,0.0,26.5
+Lorviqua (ALK+ NSCLC),03,Region Uppsala,Mellansverige,lung_inc,43.32,65.0,smoking_pct,3.7,90.0,pop_total,407912,80.0,75.5
+Lorviqua (ALK+ NSCLC),04,Region Sörmland,Mellansverige,lung_inc,38.44,25.0,smoking_pct,8.0,0.0,pop_total,301542,60.0,24.5
+Lorviqua (ALK+ NSCLC),19,Region Västmanland,Mellansverige,lung_inc,29.54,5.0,smoking_pct,5.8,25.0,pop_total,281158,40.0,18.0
+Lorviqua (ALK+ NSCLC),18,Region Örebro län,Mellansverige,lung_inc,43.8,70.0,smoking_pct,5.5,50.0,pop_total,308375,65.0,63.0
+Lorviqua (ALK+ NSCLC),20,Region Dalarna,Mellansverige,lung_inc,44.96,85.0,smoking_pct,5.0,75.0,pop_total,286546,55.0,76.0
+Lorviqua (ALK+ NSCLC),21,Region Gävleborg,Mellansverige,lung_inc,52.26,100.0,smoking_pct,7.1,15.0,pop_total,284558,50.0,64.5
+Lorviqua (ALK+ NSCLC),17,Region Värmland,Mellansverige,lung_inc,39.51,40.0,smoking_pct,5.5,55.0,pop_total,283384,45.0,45.5
+Lorviqua (ALK+ NSCLC),05,Region Östergötland,Sydöstra,lung_inc,39.59,45.0,smoking_pct,4.5,85.0,pop_total,472446,85.0,65.0
+Lorviqua (ALK+ NSCLC),06,Region Jönköpings län,Sydöstra,lung_inc,31.94,10.0,smoking_pct,5.6,35.0,pop_total,370009,75.0,30.5
+Lorviqua (ALK+ NSCLC),08,Region Kalmar,Sydöstra,lung_inc,44.62,80.0,smoking_pct,7.7,5.0,pop_total,246352,25.0,46.5
+Lorviqua (ALK+ NSCLC),12,Region Skåne,Södra,lung_inc,43.15,60.0,smoking_pct,7.0,20.0,pop_total,1428626,90.0,54.0
+Lorviqua (ALK+ NSCLC),10,Region Blekinge,Södra,lung_inc,52.03,95.0,smoking_pct,5.2,65.0,pop_total,157223,10.0,69.0
+Lorviqua (ALK+ NSCLC),13,Region Halland,Södra,lung_inc,38.91,30.0,smoking_pct,5.2,70.0,pop_total,345074,70.0,50.0
+Lorviqua (ALK+ NSCLC),07,Region Kronoberg,Södra,lung_inc,29.48,0.0,smoking_pct,5.4,60.0,pop_total,203351,15.0,21.0
+Lorviqua (ALK+ NSCLC),14,Västra Götalandsregionen,Västra,lung_inc,41.36,55.0,smoking_pct,4.9,80.0,pop_total,1772821,95.0,70.5
+Lorviqua (ALK+ NSCLC),22,Region Västernorrland,Norra,lung_inc,45.91,90.0,smoking_pct,5.6,40.0,pop_total,241458,20.0,61.0
+Lorviqua (ALK+ NSCLC),23,Region Jämtland Härjedalen,Norra,lung_inc,44.46,75.0,smoking_pct,3.3,100.0,pop_total,132839,5.0,68.5
+Lorviqua (ALK+ NSCLC),24,Region Västerbotten,Norra,lung_inc,34.29,15.0,smoking_pct,3.4,95.0,pop_total,281138,35.0,43.0
+Lorviqua (ALK+ NSCLC),25,Region Norrbotten,Norra,lung_inc,40.64,50.0,smoking_pct,7.3,10.0,pop_total,248620,30.0,34.0
+Vyndaqel (ATTR-CM),01,Region Stockholm,Stockholm-Gotland,mi_inc,207.2,0.0,heart_quality,92.56,5.0,pop_75plus_pct,8.6,0.0,1.5
+Vyndaqel (ATTR-CM),09,Region Gotland,Stockholm-Gotland,mi_inc,274.5,70.0,heart_quality,0,95.0,pop_75plus_pct,14.26,100.0,89.5
+Vyndaqel (ATTR-CM),03,Region Uppsala,Mellansverige,mi_inc,218.2,5.0,heart_quality,78.44,30.0,pop_75plus_pct,9.9,5.0,12.5
+Vyndaqel (ATTR-CM),04,Region Sörmland,Mellansverige,mi_inc,275.9,75.0,heart_quality,79.76,25.0,pop_75plus_pct,12.53,55.0,52.0
+Vyndaqel (ATTR-CM),19,Region Västmanland,Mellansverige,mi_inc,236.4,10.0,heart_quality,86.55,10.0,pop_75plus_pct,12.07,45.0,24.0
+Vyndaqel (ATTR-CM),18,Region Örebro län,Mellansverige,mi_inc,270.8,55.0,heart_quality,39.63,80.0,pop_75plus_pct,11.81,40.0,56.5
+Vyndaqel (ATTR-CM),20,Region Dalarna,Mellansverige,mi_inc,293.8,85.0,heart_quality,61.8,55.0,pop_75plus_pct,13.83,90.0,78.0
+Vyndaqel (ATTR-CM),21,Region Gävleborg,Mellansverige,mi_inc,257.7,35.0,heart_quality,51.24,60.0,pop_75plus_pct,13.43,80.0,60.5
+Vyndaqel (ATTR-CM),17,Region Värmland,Mellansverige,mi_inc,271.9,65.0,heart_quality,83.4,20.0,pop_75plus_pct,13.26,70.0,53.5
+Vyndaqel (ATTR-CM),05,Region Östergötland,Sydöstra,mi_inc,256.2,25.0,heart_quality,49.4,65.0,pop_75plus_pct,11.32,25.0,37.0
+Vyndaqel (ATTR-CM),06,Region Jönköpings län,Sydöstra,mi_inc,271.6,60.0,heart_quality,74.93,35.0,pop_75plus_pct,11.48,30.0,40.5
+Vyndaqel (ATTR-CM),08,Region Kalmar,Sydöstra,mi_inc,258.8,40.0,heart_quality,32.25,85.0,pop_75plus_pct,14.02,95.0,75.5
+Vyndaqel (ATTR-CM),12,Region Skåne,Södra,mi_inc,269.7,50.0,heart_quality,48.32,70.0,pop_75plus_pct,10.47,15.0,42.0
+Vyndaqel (ATTR-CM),10,Region Blekinge,Södra,mi_inc,323.2,95.0,heart_quality,100.0,0.0,pop_75plus_pct,13.56,85.0,62.5
+Vyndaqel (ATTR-CM),13,Region Halland,Södra,mi_inc,250.2,20.0,heart_quality,70.55,40.0,pop_75plus_pct,12.22,50.0,38.0
+Vyndaqel (ATTR-CM),07,Region Kronoberg,Södra,mi_inc,285.2,80.0,heart_quality,0,100.0,pop_75plus_pct,11.74,35.0,68.0
+Vyndaqel (ATTR-CM),14,Västra Götalandsregionen,Västra,mi_inc,249.1,15.0,heart_quality,66.95,45.0,pop_75plus_pct,10.45,10.0,22.0
+Vyndaqel (ATTR-CM),22,Region Västernorrland,Norra,mi_inc,315.7,90.0,heart_quality,65.49,50.0,pop_75plus_pct,13.39,75.0,72.0
+Vyndaqel (ATTR-CM),23,Region Jämtland Härjedalen,Norra,mi_inc,256.8,30.0,heart_quality,83.57,15.0,pop_75plus_pct,12.65,60.0,37.5
+Vyndaqel (ATTR-CM),24,Region Västerbotten,Norra,mi_inc,264.1,45.0,heart_quality,45.48,75.0,pop_75plus_pct,11.05,20.0,44.0
+Vyndaqel (ATTR-CM),25,Region Norrbotten,Norra,mi_inc,383.1,100.0,heart_quality,31.21,90.0,pop_75plus_pct,13.07,65.0,83.0
+Vydura (migraine),01,Region Stockholm,Stockholm-Gotland,women_pop,20.02,95.0,antibiotic_usage,261.18,50.0,pop_total,2473307,100.0,87.5
+Vydura (migraine),09,Region Gotland,Stockholm-Gotland,women_pop,15.69,0.0,antibiotic_usage,273.66,15.0,pop_total,60971,0.0,3.0
+Vydura (migraine),03,Region Uppsala,Mellansverige,women_pop,20.62,100.0,antibiotic_usage,245.16,85.0,pop_total,407912,80.0,91.0
+Vydura (migraine),04,Region Sörmland,Mellansverige,women_pop,16.82,45.0,antibiotic_usage,255.93,55.0,pop_total,301542,60.0,51.5
+Vydura (migraine),19,Region Västmanland,Mellansverige,women_pop,17.52,55.0,antibiotic_usage,264.92,40.0,pop_total,281158,40.0,47.5
+Vydura (migraine),18,Region Örebro län,Mellansverige,women_pop,18.17,70.0,antibiotic_usage,252.95,70.0,pop_total,308375,65.0,68.5
+Vydura (migraine),20,Region Dalarna,Mellansverige,women_pop,15.98,15.0,antibiotic_usage,253.91,65.0,pop_total,286546,55.0,37.0
+Vydura (migraine),21,Region Gävleborg,Mellansverige,women_pop,16.26,30.0,antibiotic_usage,254.7,60.0,pop_total,284558,50.0,42.0
+Vydura (migraine),17,Region Värmland,Mellansverige,women_pop,16.6,35.0,antibiotic_usage,272.97,20.0,pop_total,283384,45.0,35.0
+Vydura (migraine),05,Region Östergötland,Sydöstra,women_pop,18.22,75.0,antibiotic_usage,264.87,45.0,pop_total,472446,85.0,72.0
+Vydura (migraine),06,Region Jönköpings län,Sydöstra,women_pop,17.56,60.0,antibiotic_usage,237.39,90.0,pop_total,370009,75.0,70.5
+Vydura (migraine),08,Region Kalmar,Sydöstra,women_pop,15.86,10.0,antibiotic_usage,267.55,30.0,pop_total,246352,25.0,18.5
+Vydura (migraine),12,Region Skåne,Södra,women_pop,18.93,90.0,antibiotic_usage,290.36,0.0,pop_total,1428626,90.0,72.0
+Vydura (migraine),10,Region Blekinge,Södra,women_pop,15.85,5.0,antibiotic_usage,286.21,5.0,pop_total,157223,10.0,6.5
+Vydura (migraine),13,Region Halland,Södra,women_pop,16.78,40.0,antibiotic_usage,267.31,35.0,pop_total,345074,70.0,48.0
+Vydura (migraine),07,Region Kronoberg,Södra,women_pop,17.59,65.0,antibiotic_usage,273.99,10.0,pop_total,203351,15.0,39.0
+Vydura (migraine),14,Västra Götalandsregionen,Västra,women_pop,18.75,80.0,antibiotic_usage,246.08,80.0,pop_total,1772821,95.0,84.5
+Vydura (migraine),22,Region Västernorrland,Norra,women_pop,16.02,20.0,antibiotic_usage,251.13,75.0,pop_total,241458,20.0,31.0
+Vydura (migraine),23,Region Jämtland Härjedalen,Norra,women_pop,17.03,50.0,antibiotic_usage,235.35,95.0,pop_total,132839,5.0,45.5
+Vydura (migraine),24,Region Västerbotten,Norra,women_pop,18.81,85.0,antibiotic_usage,231.32,100.0,pop_total,281138,35.0,73.0
+Vydura (migraine),25,Region Norrbotten,Norra,women_pop,16.15,25.0,antibiotic_usage,270.54,25.0,pop_total,248620,30.0,26.5

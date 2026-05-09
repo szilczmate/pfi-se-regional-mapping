@@ -1,0 +1,37 @@
+category,kpi,title,year,regions_with_data
+specialist_density,N70005,"Månadsavlönad personal, regionanställda icke specialistkompetenta läkare, antal",2024,21
+specialist_density,N70015,"Månadsavlönad personal, regionanställda specialistkompetenta läkare, antal",2024,21
+specialist_density,N70024,"Årsarbetare, regionanställda icke specialistkompetenta läkare, antal",2024,21
+specialist_density,N70034,"Årsarbetare, regionanställda specialistkompetenta läkare, antal",2024,21
+specialist_density,N80039,"Nettokostnad specialisttandvård (exkl. läkemedel), kr/inv",2024,21
+specialist_density,N80709,"Patienter specialisttandvård i offentlig regi, antal/inv",2024,21
+cancer_screening,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",2024,21
+cancer_screening,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",2024,21
+cancer_screening,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",2024,21
+lifestyle_smoking,U01402,"Invånare 16-84 år som röker dagligen, andel (%)",2024,21
+lifestyle_smoking,U01508,"Osäkerhetstal - Andel invånare 16-84 år som röker dagligen, andel (%)",2024,21
+lifestyle_obesity,U01411,"Invånare med fetma, andel (%)",2023,21
+lifestyle_obesity,U01517,"Osäkerhetstal - Andel invånare 16-84 år med fetma, andel (%)",2024,21
+lifestyle_obesity,U01560,"Osäkerhetstal - Invånare med övervikt eller fetma, andel (%)",2024,21
+lifestyle_obesity,U01760,"Invånare med övervikt eller fetma, andel (%)",2024,21
+lifestyle_alcohol,N00620,Medborgarundersökningen - Få problem med personer som är påverkade av alkohol eller narkot,2024,21
+lifestyle_alcohol,N07628,NTU - Upplever att det är problem med personer påverkade av alkohol eller droger utomhus i,2022,21
+lifestyle_alcohol,N07676,Osäkerhetstal - Upplever att det är problem med personer påverkade av alkohol eller droger,2022,21
+lifestyle_alcohol,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ex. om alk,2024,21
+lifestyle_alcohol,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra ett självte,2024,21
+elderly_falls,N20402,"Fallskador bland personer 80+, 3-årsm, antal slutenvårdstillfällen/100 000 inv",2024,21
+elderly_falls,N20410,"Fallskador bland personer 65-79, 3-årsm, antal vårdtillfällen/100 000 inv",2024,21
+elderly_falls,N20434,"Fallskador bland personer 80+, 3-årsm, antal vårdtillfällen/100 000 inv",2024,21
+rehabilitation,N70009,"Månadsavlönad personal, regionanställda övrigt rehabiliteringsarbete, antal",2024,21
+rehabilitation,N70028,"Årsarbetare, regionanställda övrigt rehabiliteringsarbete, antal",2024,21
+rehabilitation,N70039,"Månadsavlönade inom rehabilitering och förebyggande arbete, region, antal",2024,21
+rehabilitation,N70041,"Årsarbetare inom rehabilitering och förebyggande arbete, region, antal",2024,21
+rehabilitation,N70595,"Tidig utskrivning för rehabilitering i hemmet efter stroke, andel (%)",2024,21
+operations_volume,N70601,"Operation inom 28 dagar vid välgrundad misstanke om bröstcancer, andel (%) - Målnivå ≥ 80",2024,21
+operations_volume,N70603,"Bröstbevarande operation vid små invasiva tumörer vid bröstcancer, andel (%)",2024,21
+operations_volume,N70604,"Bröstcancerpatienter som genomgått enbart en operation i bröst, andel (%)",2024,21
+operations_volume,N72827,"Operationer - hysterektomi, ålderstandardiserade värden, antal/100 000 kvinnor",2024,21
+operations_volume,N72829,"Operationer - Framfall, ålderstandardiserade värden, antal/100 000 kvinnor",2024,21
+operations_volume,N72830,"Operationer - Urininkontinens, ålderstandardiserade värden, antal/100 000 kvinnor",2024,21
+operations_volume,N72831,"Operationer - Skrapning, ålderstandardiserade värden, antal/100 000 kvinnor",2024,21
+operations_volume,N72832,"Operationer - Artroskopi i knäled, ålderstandardiserade värden, antal/100 000 invånare",2024,21

@@ -1,0 +1,560 @@
+Årsredovisning 2024
+Regionalt cancercentrum syd
+REGIONALT CANCERCENTRUM
+Innehållsförteckning
+SAMMANFATTNING AV ÅRET SOM GÅTT ............................................................ 3
+Cancervården i Södra sjukvårdsregionen ................................................................ 4
+1 VERKSAMHETENS MÅL OCH UPPDRAG ........................................................... 6
+2 ORGANISATION .................................................................................................... 8
+3 VERKSAMHETSOMRÅDEN .................................................................................. 9
+3.1 Att förebygga cancer och upptäcka cancer tidigt ............................................... 9
+3.1.1 Levnadsvanor ................................................................................................. 9
+3.1.2 Diagnostik av ärftlig cancer som primär och sekundär prevention ................. 9
+3.1.3 Screening ....................................................................................................... 9
+3.2 Rehabilitering, uppföljning och palliativ vård .................................................... 10
+3.2.1 Rehabilitering ............................................................................................... 10
+3.2.2 Palliativ vård ................................................................................................. 11
+3.3 Vårdprocesser och standardiserade vårdförlopp ............................................. 11
+3.4 Utbildning och kompetensförsörjning ............................................................... 12
+3.5 Effektiv kunskapsstyrning ................................................................................ 12
+3.6 Samla och sprida patientinformation om cancer .............................................. 13
+3.7 Effektiv och ändamålsenlig ledning och styrning av cancervården ................... 13
+3.8 En stärkt ställning för patienter och närstående ............................................... 14
+3.9 Klinisk cancerforskning och innovation ............................................................ 14
+3.10 En stärkt cancervård för barn och unga ......................................................... 15
+4. SAMVERKAN OCH KOMMUNIKATION ............................................................. 16
+4.1 Nationell och sjukvårdsregional samverkan ..................................................... 16
+4.2 Kommunikation ................................................................................................ 16
+5 EKONOMISK UPPFÖLJNING ............................................................................. 17
+6 ARBETSMILJÖ OCH INTERN UTVECKLING ..................................................... 18
+6.1 Intern bemanning och kompetensförsörjning ................................................... 18
+6.2 Arbetsmiljö och hälsa ...................................................................................... 18
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+SAMMANFATTNING AV ÅRET SOM GÅTT
+I enlighet med Överenskommelse mellan staten och SKR för jämlik och effektiv cancervård med
+kortare väntetider 2024 (ÖK Cancer) har RCC Syd finansierat och följt upp förbättringsarbeten
+inom bilddiagnostik, patologi, cancerrehabilitering och palliativ vård. Flera av de totalt 49
+förbättringsarbetena omfattar samverkan över regiongränserna.
+I slutet av augusti avrapporterades 2023 års canceranmälningar från regionerna i Södra
+sjukvårdsregionen till Socialstyrelsens nationella cancerregister. Leveransen omfattade 23 900
+poster och täckningsgraden var 96,71%.
+RCC Syd ingår som en av fem verksamheter i Skåne University Hospital Comprehensive Cancer
+Center (SUHCCC) och deltar i flera av de arbetsgrupper som ansvarar för utvecklingsarbete inom
+olika områden.
+En halvtidsuppföljning av Regional cancerplan för södra sjukvårdsregionen 2023-2025 har
+genomförts och presenterats för RCC Syds styrgrupp. I slutet av november presenterades förslag
+till en uppdaterad nationell cancerstrategi för Sverige. Den uppdaterade cancerstrategin kommer
+att utgöra grunden för nästa cancerplan för Södra sjukvårdsregionen.
+RCC Syds verksamhet redovisar ett resultat på +2 438 tkr för 2024. Överskottet beror i huvudsak
+på en ökad uppräkning av den solidariska finansieringen, utökat statsbidrag (jmf tidigare år) samt
+lägre kostnader för fast anställd personal. Inför 2025 budgeterar verksamheten för en minskning
+av såväl statsbidrag som solidarisk finansiering.
+RCC Syd har under 2024 arrangerat och deltagit i ett antal möten, utbildningar och
+nätverksträffar i Södra sjukvårdsregionen samt i nationell samverkan.
+Figur 1. Sammanställning av aktiviteter som RCC Syd har genomfört/bidragit till under 2024.
+3
+REGIONALT CANCERCENTRUM SYD
+Cancervården i Södra sjukvårdsregionen
+Standardiserade vårdförlopp (SVF) och patientprocessarbete är väl etablerat inom cancervården i
+Södra sjukvårdsregionen. Arbetet drivs av lokala processteam och lokala patientprocessledare
+(LPPL) med stöd av den lokala linjeorganisationen på respektive sjukhus. RCC Syd stödjer
+patientprocessarbetet via regionala patientprocessledare (RPPL) och i samverkan med regionala
+cancersamordnare. Alla regioner i Södra sjukvårdsregionen nådde inklusionsmålet, d v s >70% av
+patienter med cancer är utredda inom ett SVF, med god marginal under 2024.
+Uppgången i antal patienter som utreds inom SVF har fortsatt sedan 2021 även om den verkar ha
+bromsat in något då det noteras att data för 2023-2024 är relativt jämförbara på nationell nivå.
+Det råder viss eftersläpning i inrapportering av SVF-data varför data för 2024 behöver tolkas
+med viss försiktighet. För utveckling över tid avseende antal som utreds via SVF, respektive
+andel som startar behandling se Tabell 1.
+Skåne Blekinge Kronoberg Halland Riket
+Antal SVF SB SVF SB SVF SB SVF SB SVF SB
+Andel ( %) (%) (%) (%) (%)
+2020 Antal 18100 6519 2505 814 2651 951 5266 1493 118204 44736
+Andel (36%) (32%) (36%) (28%) (38%)
+2021 Antal 20775 6330 2698 793 2938 1000 5753 1495 133149 46690
+Andel (30%) (29%) (34%) (26%) (35%)
+2022 Antal 22874 6514 3031 856 3208 1000 5924 1556 143305 48380
+Andel (28%) (28%) (31%) (26%) (34%)
+2023 Antal 24126 6394 3507 834 3530 1049 6114 1595 154325 49715
+Andel (27%) (24%) (30%) (26%) (32%)
+2024 Antal 24582 6309 3529 838 3822 1138 6707 1813 148806 47541
+Andel (26%) (24%) (30%) (27%) (32%)
+Tabell 1. Antalet patienter som utretts inom SVF totalt och antal patienter som startat behandling (SB) för cancer efter
+utredning inom SVF samt andel SB av SVF totalt.
+Källa: Sammanställning av data 25-01-20 från cancercentrum.se
+Att andelen av patienter utredda inom SVF som startat behandling har minskat är en trend som
+ses inom samtliga regioner i Södra sjukvårdsregionen men också nationellt. Detta kan ses som ett
+uttryck för att SVF blivit alltmer etablerat, men är oroande ur resurssynpunkt.
+Sedan 2024 har SVF-ledtiderna förbättrats inom Södra sjukvårdsregionen men man når inte upp
+till det nationellt satta målet på 80% inom förväntad ledtid. Nationellt är snittet ca 45% och inom
+södra sjukvårdsregionen drygt 40%, där Region Halland har störst ledtidsuppfyllelse på drygt
+50% (se figur 2). Observera att det finns en viss eftersläpning i inrapportering av data varför data
+för 2024 får anses preliminära.
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+Figur 2. Andel av patienterna inom SVF som startar behandling inom den angivna ledtiden per region jämfört med riket.
+Källa: cancercentrum.se 25-01-20
+RCC Syd har under året gett stöd till regionerna för genomlysning av fyra SVF med stor andel
+patienter som fått vänta längre än >75% av ledtiden. Genomlysningarna har synliggjort
+flaskhalsar – såsom kompetensbrist, problem med remissförfarande, väntetid till patologi, patient
+som går över regiongränserna – i respektive process. Resultatet visar även att det finns äldre
+patienter med samsjuklighet respektive patienter med lågriskcancer som kan vara naturliga
+orsaker till utdragna ledtider i vissa processer.
+Satsningar på förbättringsarbeten inom patologi och bilddiagnostik har genomförts under året.
+Inom ramen för satsningen på patologi har ett projekt resulterat i snabbare differentiering av
+cancertyp så att rätt patient hamnar i rätt SVF. Flera projekt inom patologisatsningen eftersträvar
+automation i patientförloppet för att korta ledtiderna. Inom ramen för satsningen på
+bilddiagnostik har ett projekt lett till ändrade arbetssätt och arbetsflöden, vilket resulterat i
+kortare väntetider. Projekt som använder av AI-modeller för att korta ledtiderna pågår.
+Sammanfattningsvis: Cancervården i Södra sjukvårdsregionen håller hög medicinsk kvalitet.
+Arbetet med SVF är väl etablerat och Skånes universitetssjukhus (Sus) är ackrediterat som
+Comprehensive Cancer Center (CCC). En av de stora utmaningarna är kompetensförsörjning i
+vården som fortsatt behöver vara i fokus för att öka tillgängligheten och säkra en sammanhållen
+vårdkedja. Pågående och genomförda förbättringsarbeten inom patologi och bilddiagnostik
+tillsammans med genomlysningar av SVF leder till förbättringar i processerna och kan bidra till
+kortare ledtider.
+5
+REGIONALT CANCERCENTRUM SYD
+1 VERKSAMHETENS MÅL OCH UPPDRAG
+RCC Syd är en kunskapsorganisation med ansvar för att, genom samverkan, stödja en
+kunskapsbaserad utveckling av cancervården i Södra sjukvårdsregionen. I uppdraget ingår att
+tillhandahålla kvalitetssäkrade kunskapsstöd som kan underlätta vid planering, uppföljning och
+utveckling av cancervården. Kunskapsstöden tas fram i nationell samverkan tillsammans med
+landets övriga fem RCC med stöd av Sveriges Kommuner och Regioner (SKR).
+Webbutbildningen Regionala cancercentrum – en orientering går igenom RCCs organisation, de
+nationella kunskapsstöden och processarbete inom cancerområdet.
+Figur 3. Nationella kunskapsstöd på cancerområdet
+RCC Syd ska bidra till en patientcentrerad, ändamålsenlig, effektiv, likvärdig och säker cancervård
+i hela Södra sjukvårdsregionen. Arbetsmodellen bygger på regionala patientprocessledare (RPPL)
+som har i uppdrag att arbeta för en väl sammanhållen process med patient och närståendes
+perspektiv i fokus. I RPPL-uppdraget ingår att stödja införandet av nationella kunskapsstöd samt
+att följa upp den aktuella patientprocessen utifrån kvalitetsregister- och SVF-data.
+Figur 4. RCC Syds modell för regional patientprocessutveckling i Södra sjukvårdsregionen
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+RCC Syds grunduppdrag beskrivs i Södra Regionvårdsnämndens (SRVN) ägardirektiv för
+Regionalt cancercentrum syd samt i Förordning (SFS 2019:7) om statsbidrag för verksamhet i
+regionala cancercentrum. Uppdrag och målbild inom olika utvecklingsområden definieras i
+Regional cancerplan för södra sjukvårdsregionen, i Långsiktig inriktning för det nationella arbetet
+med cancervården 2018-2025 och Vägen framåt - RCC:s gemensamma inriktning för svensk
+cancervård år 2023–2025 (cancercentrum.se).
+Genom årliga överenskommelser mellan staten och SKR tillkommer årligen ett antal uppdrag
+som rör utveckling av cancervården. Uppdrag och mål för utveckling av cancervården 2024
+beskrivs i: Överenskommelse-om-jamlik-och-effektiv-cancervard-med-kortare-vantetider-2024
+RCC har under året samverkat med aktörer inom det nationella systemet för kunskapsstyrning,
+intresseorganisationer inom cancer samt representanter för hälso- och sjukvårdssystemet som
+helhet. Flera möten har genomförts med regeringens särskilda utredare för uppdatering av
+nationella cancerstrategin. En kontinuerlig dialog har förts med Socialdepartementet,
+Socialstyrelsen och andra myndigheter avseende cancervårdens utveckling i Sverige och inom
+EU.
+En halvtidsuppföljning av Regional cancerplan för södra sjukvårdsregionen 2023-2025 har
+genomförts och presenterats för RCC Syds styrgrupp. Den regionala cancerplanen innehåller 84
+mål. Vid halvtidsuppföljningen bedömdes 64 mål som pågående, 13 som uppnådda, 4 som ej
+möjliga, 2 som ej relevanta längre och 1 mål som ej påbörjat.
+RCC Syds styrgrupp föreslår att RCC Syd får i uppdrag att ta fram ett förslag på en ny
+sjukvårdsregional cancerplan med tydlig förankring till den nationella cancerstrategin, nationella
+systemet för kunskapsstyrning, EUs cancerplan och SUHCCCs strategi. I väntan på att en
+uppdaterad nationell cancerstrategi är beslutad är förslaget att giltighetstiden för nuvarande
+sjukvårdsregionala cancerplan förlängs till och med 2026. Ett ärende med förslag till beslut enligt
+ovan bereds till Södra regionvårdsnämndens sammanträde i mars 2025. RCC Syd kommer att
+inleda arbetet med att ta fram en ny sjukvårdsregional cancerplan under hösten.
+7
+REGIONALT CANCERCENTRUM SYD
+2 ORGANISATION
+RCC Syd arbetar på uppdrag av Region Blekinge, Region Halland (södra), Region Kronoberg
+och Region Skåne. Verksamheten är ansvarsmässigt kopplad till Södra regionvårdsnämnden
+(SRVN) men är organisatoriskt placerad inom Region Skånes Avdelning för hälso- och
+sjukvårdsstyrning.
+Arbetet leds av en styrgrupp med representation från Södra sjukvårdsregionen, de fyra
+huvudmännen samt adjungerade representanter från Lunds universitet, Linnéuniversitetet och
+RCC Syds patient- och närståenderåd. Styrgruppen har haft tre protokollförda sammanträden
+under 2024 och rapporterar till ledningsgruppen i Södra sjukvårdsregionen.
+Ordinarie ledamöter RCC Syds styrgrupp under 2024
+Region Skåne
+Anna-Karin Falck - Cancersamordnare Region Skåne
+Björn Ekmehag – Förvaltningschef Skånes universitetssjukvård
+Jörgen Wenner – Biträdande hälso- och sjukvårdsdirektör Region Skåne
+Thomas Wallén – Förvaltningschef Helsingborgs lasarett
+Region Kronoberg
+Florence Eddyson Hägg – Sjukhuschef t o m sept, Susanne Magnusson – sjukhuschef fr o m okt
+Tina Eriksson – Cancersamordnare Region Kronoberg
+Region Blekinge
+Birgitta Friberg – Hälso- och sjukvårdschef Region Blekinge t o m april, Emil Giertz t o m okt, Erik
+Norén fr o m nov.
+Tina Persson – Cancersamordnare Region Blekinge
+Region Halland
+Helena Gladh – Verksamhetschef Hallands sjukhus
+Jeanette Törnqvist – Chef Kvalité inom hälso- och sjukvård, Regionkontoret Region Halland
+Södra sjukvårdsregionen
+Lena Luts - Direktör Södra sjukvårdsregionen
+Adjungerade
+Mats Jerkeman – Professor Medicinsk Onkologi Lunds universitet
+Anna Sandgren - Docent Linnéuniversitetet
+Nick Lamb - Ordförande RCC Syds patient- och närståenderåd
+Elisabeth Lewander – Vice ordförande RCC Syds patient- och närståenderåd
+Adjungerade RCC Syd
+Maria Rejmyr Davis - Verksamhetschef
+Jessica Wihl – Medicinsk chef
+Anna-Maria Larsson – Medicinsk rådgivare
+Ingrid Borg Vogel - Verksamhetssamordnare
+RCC Syds operativa verksamhet leds av verksamhetschef och medicinsk chef tillsammans
+med ledningsgrupp med representation från verksamhetens olika funktionsgrupper.
+Verksamhetschefen ansvarar för övergripande verksamhetssamordning, arbetsmiljö och
+ekonomi. Den medicinska chefen ansvarar för utveckling och uppföljning av cancervårdens
+processer samt fastställande av nationella vårdprogram och medicinska kunskapsstöd i RCC i
+samverkan (NPO cancersjukdomar).
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+3 VERKSAMHETSOMRÅDEN
+3.1 Att förebygga cancer och upptäcka cancer tidigt
+De 12 råden som finns i den europeiska kodexen mot cancer och RCC i samverkans nationella
+plan för cancerprevention utgör basen för RCCs arbete med prevention. Kontinuerlig samverkan
+sker med Cancerfonden, Strålsäkerhetsmyndigheten samt nationellt programområde (NPO)
+respektive regionalt programområde (RPO) Levnadsvanor.
+3.1.1 Levnadsvanor
+RCC i samverkan har, liksom föregående år, genomfört cancerpreventionskampanjen PrevCan.
+Kampanjmaterialet är framtaget inom EU och utgörs av evidensbaserade råd inom
+cancerprevention med utgångspunkt i WHOs Europeiska kodex mot cancer. RCC i samverkans
+roll är att anpassa materialet till svenska förhållanden och vidareförmedla det till regionerna som
+ansvarar för medborgarkommunikation.
+3.1.2 Diagnostik av ärftlig cancer som primär och sekundär prevention
+Under året har RCC Syd gett finansiellt stöd till etablering av regionala verksamheter för
+hantering av patienter med ökad risk för ärftlig cancer. I april öppnade Region Blekinge den
+första regionala mottagningen för ärftlig cancer i Södra sjukvårdsregionen.
+3.1.3 Screening
+Under hösten fokuserade PrevCan-kampanjen (se ovan) på att öka följsamheten till
+screeningprogrammen på cancerområdet.
+Kolorektalcancerscreening
+Samtliga regioner i Södra sjukvårdsregionen är anslutna till det gemensamma samordningskansliet
+för kolorektalcancerscreening och rapporterar till det nationella kvalitetsregistret SveReKKS
+(Svenskt kvalitetsregister för koloskopier och kolorektalcancerscreening). Enligt den nationella
+anslutningsplanen kommer kolorektalcancerscreeningen att vara fullt utbyggd i Södra
+sjukvårdsregionen 2026.
+Cervixcancerscreening
+RCC Syds arbete med cervixcancerscreening har fokuserat på utbildnings- och
+informationsinsatser, uppföljning och stöd till regionernas implementering av det nationella
+vårdprogrammet för cervixcancerprevention. RCC Syd har en stödjande funktion när det gäller
+utbildning, kommunikation samt revidering av regionernas PM och riktlinjer.
+Under året har RCC Syd gett finansiellt stöd till Region Blekinge, Region Kronoberg och Region
+Skåne för att underlätta anslutning till ett nationellt forskningsprojekt som syftar till att utrota
+livmoderhalscancer genom vaccination. Region Halland erbjuds liknande stöd av RCC Väst.
+Mammografi
+RCC Syd har representanter i Nationella Arbetsgruppen för Mammografi, NAM, samt i
+vårdprogramgruppen för bröstcancerscreening. Regionerna har erbjudits finansiellt stöd för
+anslutning till det nationella kvalitetsregistret för bröstcancerscreening. Samtliga regioner har
+fattat beslut kring anslutning men själva anslutningen har fördröjts p g a tekniska utmaningar.
+Under 2024 har HTA Syd utfört en analys avseende ”Artificiell Intelligens (AI) vid
+bröstcancerscreening med mammografi”.
+9
+REGIONALT CANCERCENTRUM SYD
+Organiserad prostatacancertestning (OPT)
+RCC Syds RPPL för prostatacancer är ansvarig för samordning av OPT i Region Skåne och ingår
+i den nationella arbetsgruppen för OPT. Region Kronoberg och Region Blekinge har inlett
+förberedelser för att införa OPT. En sjukvårdsregional arbetsgrupp med RCC Syd som
+sammankallande har skapats i syfte att kontinuerligt dela information och erfarenheter från
+arbetet med OPT.
+Lungcancerscreening
+Pilotprojekt för lungcancerscreening har inletts i Region Stockholm, Västragötalandsregionen
+samt i Norra sjukvårdsregionen. En Nationell, digital workshop om lungcancerscreening i Sverige
+- RCC (cancercentrum.se) genomfördes i februari 2024 i syfte att belysa frågan om
+lungcancerscreening ur olika perspektiv. RCC Syds RPPL för lungcancer deltar i den nationella
+arbetsgruppen och bevakar frågan aktivt. Förslag angående ett pilotprojekt för
+lungcancerscreening i Södra sjukvårdsregionen har presenterats för Södra sjukvårdsregionens
+ledningsgrupp hösten 2024. Återkoppling avseende hur respektive region i Södra
+sjukvårdsregionen ställer sig till fortsatt förberedande arbete väntas i början av 2025.
+3.2 Rehabilitering, uppföljning och palliativ vård
+Inom ramen för regeringens särskilda satsning på rehabilitering och palliativ vård har RCC Syd
+gett finansiellt stöd till 33 förbättringsprojekt, se Rehabilitering och palliativ vård - RCC.
+Flera av projekten bedöms kunna bidra till att snabba på implementeringen av de nationella
+vårdprogrammen inom respektive område. I september arrangerades en gemensam workshop för
+projektens kontaktpersoner i syfte att utbyta erfarenheter och inleda samarbeten. Resultaten av
+projekten följdes upp vid två tillfällen under hösten och rapporterades till Socialstyrelsen i
+december.
+3.2.1 Rehabilitering
+RCC Syd har under året fokuserat på att stödja och följa regionernas införande av det nationella
+vårdprogrammet för cancerrehabilitering. Lokala workshops för representanter från primär-
+respektive specialistvård har arrangerats och utvärderats i syfte att stärka samarbetet och öka
+remitteringen från specialistvård till primärvård. Nationellt informationsmaterial, bl a Fysisk
+aktivitet och fysioterapi vid cancer - 1177, har utarbetats och kommunicerats till berörda
+målgrupper.
+RCC Syd ansvarar för att stödja den nationella samordningen av kommunikation och
+utbildningar inom området cancerrehabilitering. Informationsmaterial och länkar har samlats för
+att vara lätt tillgängligt som stöd i regionernas arbete med cancerrehabilitering. I början av året
+lanserades en webbutbildning med fokus på strukturerat arbete med cancerrehabilitering. Under
+våren genomfördes en undersökning i syfte att kartlägga cancerdrabbades syn på
+cancerrehabilitering och i maj arrangerades det nationella webbinariet ”Cancerrehabilitering
+utifrån patientens perspektiv”.
+Det första nationella vårdprogrammet för cancerrehabilitering barn och ungdom publicerades i
+mars. En GAP-analys har inletts i syfte att få ett strukturerat underlag avseende vilka insatser som
+behövs för att vårdprogrammet ska vara möjligt att implementera i respektive region.
+RCC Syd finansierar en RPPL med uppdrag att stödja forskningsprojekt inom
+bäckencancerrehabilitering samt en RPPL med uppdrag att stödja regionala utbildningsaktiviteter
+och nätverk inom bäckencancerrehabilitering. En sjukvårdsregional utbildningsdag med fokus på
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+urinvägsbesvär efter bäckencancer genomfördes under våren 2024 och en workshop med
+diskussion utifrån patientfall genomfördes i Kronoberg under hösten.
+3.2.2 Palliativ vård
+RCC Syds regionala patientprocessledare (RPPL) för palliativ vård har inom ramen för Södra
+sjukvårdsregionens regionala programområde (RPO) för palliativ vård arbetat med att
+implementera vårdprogram, vårdförlopp och att utveckla den palliativa vården i Södra
+sjukvårdsregionen. Ett projekt med fokus på avancerad smärtbehandling vid palliativ vård
+genomförs inom ramen för Södra sjukvårdsregionens Samarbete för bättre vård. Projektet leds av
+RCC Syds RPPL för palliativ vård och RCC Syd bidrar även med finansiering av processtöd för
+projektet. RCC Syd har under året förstärkt processarbetet med ytterligare en RPPL för palliativ
+vård. Ett internat med representanter från samtliga regioner i Södra sjukvårdsregionen
+genomfördes under hösten i syfte att stärka samverkan kring implementeringen av NVP palliativ
+vård.
+RCC Syds RPPL för palliativ vård av barn har samordnat ett annat delprojekt inom ramen för
+Södra regionvårdsnämndens Samarbete för bättre vård. Detta delprojekt syftar till att erbjuda
+kunskapsbaserad, säker, barn- och familjeanpassad, jämlik, tillgänglig och effektiv palliativ vård
+för alla barn med palliativa vårdbehov och slutrapporterades i december. Under hösten
+genomfördes, för andra året i rad, två utbildningsdagar med fokus på barn i palliativ vård.
+3.3 Vårdprocesser och standardiserade vårdförlopp
+Inom ramen för regeringens särskilda satsning på tillgänglighet har RCC Syd gett finansiellt stöd
+till 16 förbättringsprojekt inom bilddiagnostik respektive patologi. En sammanställning över de
+projekt som har beviljats medel finns publicerad på Bilddiagnostik och patologi - RCC. Projekten
+ligger väl i linje med de rekommendationer som lyfts i de nationella genomlysningarna av bild-
+och funktionsmedicin respektive patologi. Två uppföljningar av förbättringsprojekten
+genomfördes under hösten och rapporterades till Socialstyrelsen i december.
+RCC Syd har även gett stöd till regionernas SVF-analyser som har genomförts i enlighet med
+uppdrag i ÖK Cancer 2024. Arbetsmodellen har successivt utvecklats och kan förhoppningsvis
+integreras i ett mer omfattande samarbete för ökad tillgänglighet i Södra sjukvårdsregionen.
+RCC Syd har under året gett stöd till regional patientprocessutveckling genom uppdrag och
+finansiell ersättning till regionala patientprocessledare (RPPL) inom drygt 20 olika
+diagnosområden samt diagnosövergripande RPPL inom områdena prevention, ärftlig cancer,
+biobank, rehabilitering primärvård, prehabilitering, bäckencancerrehabilitering, cancerläkemedel,
+bild- och funktionsmedicin samt palliativ vård. I april publicerades webbutbildningen Regionala
+cancercentrum – en orientering som är tänkt att fungera som stöd för regionala och lokala
+processledare i cancervården. Dialogmöten med fokus på uppföljning med stöd av SVF- och
+kvalitetsregisterdata har genomförts tillsammans med RPPL, cancersamordnare och patient- och
+närståendeföreträdare.
+Liksom föregående år har RCC Syd genomfört strukturerad granskning av vårddokumentation
+för ett antal patienter som utretts enligt SVF. Resultaten från granskningarna ligger till grund för
+såväl lokala som nationella förbättringar när det gäller rutiner för SVF-kodning.
+Insatser för att stärka kontaktsjuksköterskefunktionen och omvårdnadsperspektivet i det
+regionala patientprocessarbetet har fortsatt under året. Detta har skett genom utbildningsinsatser,
+mötesarrangemang samt genom att stödja forskningsprojekt med fokus på
+11
+REGIONALT CANCERCENTRUM SYD
+kontaktsjuksköterskans roll och uppdrag. Under hösten inleddes ett nationellt arbete med att
+utvärdera kontaktsjuksköterskornas uppdragsbeskrivning. Arbetet med att ta fram en uppdaterad
+nationella uppdragsbeskrivning beräknas vara färdigt i mars 2025.
+3.4 Utbildning och kompetensförsörjning
+En rad utbildningar har under året tagits fram och genomförts i nationell samverkan, se
+Utbildningar.
+RCC Syd har deltagit i arbetet med att revidera underlaget för utbildning Kontaktsjuksköterska i
+cancervård 7,5 hp. Linnéuniversitetet undersöker möjligheten att erbjuda utbildningen som en
+uppdragsutbildning höstterminen 2025.
+RCC Syd har under året fortsatt samarbetet med Palliativt utvecklingscentrum avseende
+samtalsutbildning ”Det nödvändiga samtalet” för kontaktsjuksköterskor och SVF-koordinatorer.
+Se även redovisning av utbildningsinsatser i figur 1 samt under respektive fokusområde.
+3.5 Effektiv kunskapsstyrning
+RCC i samverkan utgör nationellt programområde (NPO) cancersjukdomar i det nationella
+systemet för kunskapsstyrning.
+Tillsammans med övriga fem RCC ansvarar RCC Syd för att ta fram ett antal kunskapsstöd inom
+cancerområdet, se figur 3.
+Antal nationella vårdprogram inom NPO Cancer: 55
+RCC Syd är stödjande för 14 av de nationella vårdprogrammen.
+Antal standardiserade vårdförlopp inom NPO Cancer: 30
+På nation ell nivå har RCCs samarbete med övriga kunskapstyrningsorganisationen stärkts, bl a
+via nation ell samverkansgrupp (NSG) Metoder för kunskapsstöd och nationell arbetsgrupp
+(NAG) K unskapsstöd primärvård.
+Under våren publicerades rapporten Utvärdering av nationella vårdprogram inom cancerområdet
+som utgör grund för vidareutveckling av de nationella vårdprogrammen.
+Den tekniska utvecklingen av cancer- och kvalitetsregister utförs inom den nationella
+samarbetsorganisation kring registerplattformen INCA som leds och finansieras av samtliga
+RCC. RCC Syd utgör registercentrumfunktion för de nationella kvalitetsregistren för AML, ALL,
+lymfom, urinblåsecancer, testikelcancer och ortopediska sarkom och ansvarar även för att ge stöd
+till vårdprogramsgrupperna för dessa diagnoser. I nationell samverkan drivs utvecklingsarbete för
+att ensa och standardisera kvalitetsregistren samt möjliggöra redovisning av diagnosövergripande
+kvalitetsindikatorer på cancerområdet.
+RCC Syd arbetar för att utdata i ökande omfattning ska användas för uppföljning och utveckling
+av cancervården. Funktionalitet som syftar till att underlätta för inrapporterande kliniker att
+sammanställa och ta ut data lanserades på INCA i början av året. Sjukvårdsregionala rapporter
+med kvalitetsindikatorer har publicerats och Interaktiva rapporter har uppdaterats vid ett flertal
+tillfällen under året.
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+RCC Syd ansvarar för Södra sjukvårdsregionens rapportering av canceranmälningar till Nationella
+Cancerregistret vid Socialstyrelsen i enlighet med HSLF-FS 2016:7, Socialstyrelsens föreskrifter
+och allmänna råd om uppgiftsskyldighet till cancerregistret. I enlighet med de nya regler för
+canceranmälan som trädde i kraft 1 januari 2024 har datumet för inrapportering till
+Socialstyrelsen har tidigarelagts och därmed har RCCs tidsplan för efterforskning av
+canceranmälningar uppdaterats. I augusti levererade RCC Syd Södra sjukvårdsregionens
+kompletta canceranmälningar för diagnosår 2023. Leveransen innehöll 23 900 poster, varav 23
+113 poster var kompletta d v s innehöll både A- och B-anmälan. Detta motsvarar en
+täckningsgrad på 96,71% vilket är en förbättring jämfört med täckningsgraden (94,39%)
+föregående år. Socialstyrelsen tillhandahåller analysverktyg och publicerar regelbundet rapporter
+från Cancerregistret, bl a Cancer i Sverige 2025 och Cancer i Sverige: Insjuknande och dödlighet
+RCC Syd ansvarar för nationell samordning, utveckling och förvaltning av det nationella
+Regimbiblioteket som innehåller drygt 760 publicerade regimer, basfakta samt patientinformation
+som i flertalet fall är översatta till engelska och arabiska. Regimerna tas fram baserat på de
+rekommendationer som ges i de nationella vårdprogrammen. Under 2024 har fokus legat på att
+vidareutveckla det tekniska verktyget, dokumentera arbetsrutiner samt lägga en stabil grund för
+integration mot regionernas nya vårdinformationssystem. Ett samarbete med Sil- svenska
+informationstjänster för läkemedel har inletts för att skapa en samlad integration mot regionernas
+ordinations- och vårdinformationssystem. I oktober tilldelades Regimbiblioteket
+Läkemedelsförsäkringens och Dagens medicins utmärkelse Guldpillret.
+3.6 Samla och sprida patientinformation om cancer
+RCC Syd har under året bidragit i arbetet med att ta fram nationellt patientinformationsmaterial
+samt gett stöd för införande och förvaltning av Min vårdplan cancer i Södra sjukvårdsregionen.
+Antal publicerade Min vårdplan: 22
+Antal startade digitala Min vårdplan i Södra sjukvårdsregionen: 15 093
+Mer information: Nationell Min vårdplan
+Samtliga fyra regioner i Södra sjukvårdsregionen har erbjudits finansiellt stöd från RCC Syd för
+införandet av Min vårdplan. Under året har RCC Syd arrangerat nätverksträffar samt informerat
+om Min vårdplan. Verksamhetsutvecklare från RCC Syd ingår i SUHCCCs arbetsgrupp för
+patientinformation och har inom ramen för det arbetet initierat utveckling av en nationell modell
+för s k Survivorship Care Plan.
+3.7 Effektiv och ändamålsenlig ledning och styrning av cancervården
+Regionernas och förvaltningarnas cancersamordnare utgör i regel första och främsta kontakt i
+samband med planering, genomförande och uppföljning av olika utvecklingsinsatser i
+cancervården.
+RCC i samverkan har under året samarbetat med den statliga utredningen för uppdatering av den
+nationella cancerstrategin som framlades i november. Medarbetare från RCC har även deltagit i
+ett antal workshops och nätverksträffar med fokus på nationell infrastruktur och EU-samverkan
+på cancerområdet. Information om pågående EU-projekt och hur RCCs arbete dockar i arbetet
+med EU:s cancerplan har sammanställts och publicerats på cancercentrum.se.
+13
+REGIONALT CANCERCENTRUM SYD
+Medarbetare från RCC har varit engagerade i flera förbättringsarbeten inom Södra
+sjukvårdsregionens samarbete för bättre vård. Insatser för att utvärdera och stärka tillgängligheten
+till cancervård och högspecialiserad vård har genomförts och kommer att fortsätta under
+kommande år.
+RCC Syd ingår i Skåne University Hospital Comprehensive Cancer Centre Center (SUHCCC)
+och deltar aktivt i såväl strategiskt arbete som arbetsgrupper med ansvar för att genomföra
+insatser i enlighet med förbättringsplan. I början av året fick Södra regionvårdsnämnden
+information om SUHCCC följt av en diskussion om vad en ackreditering av ett Comprehensive
+Cancer Center Network i Södra sjukvårdsregionen skulle kunna innebära. Under våren
+genomfördes en nationell CCC-nätverksträff och i oktober genomfördes ett heldagsmöte för
+medarbetare inom SUHCCC.
+3.8 En stärkt ställning för patienter och närstående
+RCC Syds patient-och närståenderåd (PNR) har till uppgift att bidra till cancervårdens utveckling
+ur ett patient- och närståendeperspektiv. Rådet är självständigt med en rådgivande funktion och
+arbetar enbart med diagnosöverskridande frågor. PNRs ordförande och vice ordförande ingår i
+RCC Syds styrgrupp samt RCC i samverkans nationella PNR. Företrädare från rådet har under
+året deltagit i möte med patientnämnder, utbildningsdagar, representanter för mötesplatser för
+cancerberörda, cancerråd, styrgruppen för SUHCCC, möte med SUHCCCs referensråd för
+patienter och närstående och andra nationella och sjukvårdsregionala arbetsgrupper. Mer
+information om PNR finns på RCC Syds webbplats.
+Tillsammans med Centrum för primärvårdsforskning (CPF) genomför RCC Syd en studie för att
+belysa cancerpatienters behov av stöd i primärvården samt hur kommunikationen mellan
+primärvård och specialistvård upplevs, se nedan.
+3.9 Klinisk cancerforskning och innovation
+RCC Syd har under 2024 gett finansiellt stöd till projekten ” AI-stödd konturritning för
+strålbehandling” och ” Breddinförande av AI inom patologi”.
+RCCs nationella arbetsgrupp för klinisk forskning har genomfört en enkätundersökning för att
+kartlägga förutsättningar för kliniska studier samt goda exempel nationellt. Resultatanalys pågår
+och rapport beräknas vara klar våren 2025.
+I februari arrangerade SUHCCC ett webbinarium med fokus på patientens roll i klinisk forskning.
+I mars genomfördes en kurs i registerforskning i samarbete med Kliniska studier Sverige Forum
+Söder. Liksom tidigare år genomfördes inom detta samarbete även grund- samt
+påbyggnadsutbildning i GCP för medarbetare inom Södra sjukvårdsregionen.
+Nya provsamlingar har inrättats i den sjukvårdsregionala tumörbiobanken. Ett omfattande arbete
+har genomförts under året för att kartlägga och följa upp kostnaderna för hantering och förvaring
+av prover. Arbete pågår för att hitta en långsiktigt hållbar finansieringsmodell för hantering och
+förvaring av prover i biobanken.
+I samarbete med Centrum för primärvårdsforskning fortsätter forskningsprojektet som syftar till
+att utvärdera cancerpatienters behov stöd i primärvården samt hur kommunikationen mellan
+primärvård och specialistvård upplevs. Den andra artikeln från intervjustudier som genomförts i
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+projektet publicerades i juni:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11146241/pdf/ZQHW_19_2361492.pdf
+Inom ramen för samma projekt har enkäter skickats ut till drygt 8000 personer som
+diagnostiserats med cancer i Södra sjukvårdsregionen. Analys av insamlade data pågår.
+3.10 En stärkt cancervård för barn och unga
+RCC Syd har under året fördelat medel till insatser som är i linje med den nationella
+handlingsplanen för utveckling av barncancervården. Målet är att nå bästa möjliga
+omhändertagande av barnonkologiska patienter i hela Södra sjukvårdsregionen. Exempel på
+insatser och händelser under 2024:
+• Det palliativa konsultteamet är etablerat i Södra sjukvårdsregionen och kommer fortsätta att
+arbeta framåt med rutiner, utbildning mm utifrån vårdprogram och utförd kartläggning.
+• Etablering av kontaktsjuksköterska vid barncancercentrum för barn med solida tumörer och
+leukemi. Förstärka samverkan med övriga kontaktsjuksköterskor i regionen och fortsatt
+implementering av Min vårdplan samt utökade resurser av paramedicinska insatser
+exempelvis specialpedagog, lekterapi, kurator, m.fl.
+• Regional patientprocessledare för cancerrehabilitering barn och ungdom med fokus på
+implementering av nationellt vårdprogram. Genomförande av GAP-analys i sjukvårds-
+regionen för att stärka möjligheterna till jämlik cancerrehabilitering i enlighet med nationellt
+vårdprogram för barn och unga.
+• Förstärkning av kompetens på uppföljningsmottagning vuxna med både barn- och vuxen
+onkolog samt psykosocialt stöd såsom kurator och psykolog.
+• Vidare utveckling av det barnetiska rådet som bedriver etisk konsultativ verksamhet,
+undervisning och handledning samt samverkan med palliativa konsultteamet med fokus på att
+utöka i hela sjukvårdsregionen.
+• Fortsatt utveckling av den barnonkogenetiska mottagningen tillsammans med Klinisk genetik
+med bl a medverkan vid MDK och utbildning. Nationell arbetsgrupp kommer att
+formaliseras med uppdrag att ta fram information som berör barn.
+15
+REGIONALT CANCERCENTRUM SYD
+4. SAMVERKAN OCH KOMMUNIKATION
+4.1 Nationell och sjukvårdsregional samverkan
+RCC Syds medarbetare ingår i ett antal nationella och sjukvårdsregionala arbets- och
+samverkansgrupper. Under året har RCC samarbetat med diverse representanter från
+myndigheter, intresseorganisationer och andra aktörer inom cancerområdet men också nationella
+programområden, samverkans- och arbetsgrupper inom nationell kunskapsstyrning.
+I maj arrangerade RCC Syd en nationell RCC-dag i digitalt format. Under dagen presenterades
+bland annat pågående uppdatering av nationella cancerstrategin, cancerrehabilitering i praktiken
+samt lokalt patientprocessarbete inom urologin i Helsingborg.
+4.2 Kommunikation
+RCC Syds kommunikationsarbete sker i stor utsträckning i nationell samverkan men också i
+samarbete med kommunikatörer för regioner, SUHCCC och Södra sjukvårdsregionens kansli. Ett
+omfattande arbete för att uppdatera RCC i samverkans gemensamma webbplats,
+www.cancercentrum.se har genomförts under året. Webbplatsen utgör, tillsammans med RCC
+Kunskapsbanken, navet för spridning av nationella kunskapsstöd, rapporter och utbildningar.
+Nyhetsbrev: 6. Antal prenumeranter: 1400.
+Följare Mynewsdesk: 8800. Nyheter och pressmeddelanden: 20.
+Följare Facebook: 971. Inlägg: Cirka 150.
+Publicerade artiklar: ca 100.
+Filmproduktioner: ca 10.
+Årsredovisning RCC Syd 2024
+REGIONALT CANCERCENTRUM SYD
+5 EKONOMISK UPPFÖLJNING
+RCC Syds verksamhet finansieras solidariskt av regionerna inom Södra sjukvårdsregionen.
+Verksamhetens huvudsakliga kostnader utgörs av löner, hyra, kostnader för IT samt
+samfinansierad utveckling och drift av den nationella IT-plattformen INCA som bl a används för
+att hantera canceranmälningar, kvalitetsregister och nationella Regimbiblioteket.
+RCC Syds solidariskt finansierade verksamhet inklusive uppdrag som registercentrum redovisar
+ett resultat på +2 438 tkr tkr. Överskottet förklaras framför allt av en högre uppräkning av den
+solidariska finansieringen jämfört med tidigare år, lägre kostnader för fast anställd personal till
+följd av föräldraledigheter och sjukfrånvaro samt lägre kostnader för resor och möten.
+Figur 5. Ekonomiskt resultat 2024: Redovisning (tkr) av solidarisk finansiering och bidrag för arbete som registercentrum
+(del av RCO Syd).
+RCC Syd har under året erhållit 22 250 tkr i statsbidrag i enlighet med Förordning (SFS 2019:7)
+om statsbidrag för verksamhet i regionala cancercentrum. Socialstyrelsen ansvarar för fördelning
+och uppföljning av medlen. RCC Syd har i huvudsak använt statsbidraget till tjänsteköp av RPPL
+och sjukvårdsregionala processtöd, samfinansiering av nationellt arbete med kunskapsstöd på
+cancerområdet samt hantering och förvaring av prover i den sjukvårdsregionala tumörbiobanken.
+Redovisning är inskickad till Socialstyrelsen.
+17
+REGIONALT CANCERCENTRUM SYD
+6 ARBETSMILJÖ OCH INTERN UTVECKLING
+6.1 Intern bemanning och kompetensförsörjning
+Tillgången till kompetent personal är den främsta framgångsfaktorn för RCC Syd. Antalet fast
+anställda medarbetare är vid årets utgång 28 inkluderande 7 registeradministratörer, 7
+verksamhetsutvecklare (4 sjuksköterskor, 1 apotekare, 1 fysioterapeut, 1 beteendevetare), 3
+medicinska rådgivare (läkare med specialistkompetens inom kirurgi, onkologi respektive
+gynonkologi), 4 statistiker, 3 systemvetare med uppdrag inom data management och
+registerutveckling, 2 kommunikatörer, verksamhetssamordnare och verksamhetschef. En tidigare
+medarbetare samt en student har under året arbetat som timanställda i verksamheten.
+Drygt 50 RPPL och en medicinsk rådgivare har arbetat på uppdrag för RCC Syd motsvarande
+10-50 % av heltid. RCC Syd har ersatt respektive hemklinik/verksamhet för utebliven arbetstid.
+En kompetensförsörjningsmatris för RCC Syd har tagits fram och använts som stöd i dialogen
+kring respektive medarbetares kompetensutveckling. Kompetensförsörjningsmatrisen kommer
+framöver att utgöra underlag vid rekryteringar och utbildningssatsningar.
+6.2 Arbetsmiljö och hälsa
+RCC Syd arbetar i enlighet med Region Skånes Arbetsmiljöpolicy. Den gemensamma
+arbetsmiljön diskuteras kontinuerligt på arbetsplatsträffar (APT) och andra sammankomster för
+RCC Syds medarbetare. Under året har sammanlagt elva APT och en personalhalvdag
+genomförts. Därutöver har tio utvecklingsseminarier samt fyra interna informationsmöten med
+fokus på verksamhetens fokusområden genomförts.
+Som ett led i det systematiska arbetsmiljöarbetet genomfördes en arbetsmiljörond i april. En
+uppföljning av det systematiska arbetsmiljöarbetet genomfördes i oktober.
+Årsredovisning RCC Syd 2024
+Regionala cancercentrum – regionernas nationella samverkan inom cancervården.
+Med patienter och närstående för hela människan, i dagens och framtidens cancervård.
+www.cancercentrum.se/syd
+19

@@ -1,0 +1,188 @@
+[
+  {
+    "month": "2023-09-01",
+    "ibrance": 58.6,
+    "kisqali": 29.0,
+    "verzenios": 12.5
+  },
+  {
+    "month": "2023-10-01",
+    "ibrance": 56.5,
+    "kisqali": 29.5,
+    "verzenios": 14.0
+  },
+  {
+    "month": "2023-11-01",
+    "ibrance": 54.5,
+    "kisqali": 29.2,
+    "verzenios": 16.2
+  },
+  {
+    "month": "2023-12-01",
+    "ibrance": 51.8,
+    "kisqali": 29.4,
+    "verzenios": 18.8
+  },
+  {
+    "month": "2024-01-01",
+    "ibrance": 48.2,
+    "kisqali": 28.5,
+    "verzenios": 23.3
+  },
+  {
+    "month": "2024-02-01",
+    "ibrance": 44.3,
+    "kisqali": 28.1,
+    "verzenios": 27.6
+  },
+  {
+    "month": "2024-03-01",
+    "ibrance": 41.6,
+    "kisqali": 27.1,
+    "verzenios": 31.3
+  },
+  {
+    "month": "2024-04-01",
+    "ibrance": 38.7,
+    "kisqali": 26.6,
+    "verzenios": 34.7
+  },
+  {
+    "month": "2024-05-01",
+    "ibrance": 35.9,
+    "kisqali": 26.3,
+    "verzenios": 37.7
+  },
+  {
+    "month": "2024-06-01",
+    "ibrance": 33.7,
+    "kisqali": 25.7,
+    "verzenios": 40.6
+  },
+  {
+    "month": "2024-07-01",
+    "ibrance": 32.3,
+    "kisqali": 25.9,
+    "verzenios": 41.8
+  },
+  {
+    "month": "2024-08-01",
+    "ibrance": 31.6,
+    "kisqali": 25.9,
+    "verzenios": 42.4
+  },
+  {
+    "month": "2024-09-01",
+    "ibrance": 30.5,
+    "kisqali": 26.1,
+    "verzenios": 43.3
+  },
+  {
+    "month": "2024-10-01",
+    "ibrance": 29.8,
+    "kisqali": 25.9,
+    "verzenios": 44.4
+  },
+  {
+    "month": "2024-11-01",
+    "ibrance": 28.7,
+    "kisqali": 25.8,
+    "verzenios": 45.5
+  },
+  {
+    "month": "2024-12-01",
+    "ibrance": 27.8,
+    "kisqali": 25.9,
+    "verzenios": 46.2
+  },
+  {
+    "month": "2025-01-01",
+    "ibrance": 26.0,
+    "kisqali": 26.2,
+    "verzenios": 47.8
+  },
+  {
+    "month": "2025-02-01",
+    "ibrance": 24.4,
+    "kisqali": 26.3,
+    "verzenios": 49.3
+  },
+  {
+    "month": "2025-03-01",
+    "ibrance": 22.8,
+    "kisqali": 27.4,
+    "verzenios": 49.8
+  },
+  {
+    "month": "2025-04-01",
+    "ibrance": 21.3,
+    "kisqali": 28.3,
+    "verzenios": 50.4
+  },
+  {
+    "month": "2025-05-01",
+    "ibrance": 20.1,
+    "kisqali": 28.9,
+    "verzenios": 50.9
+  },
+  {
+    "month": "2025-06-01",
+    "ibrance": 19.3,
+    "kisqali": 29.5,
+    "verzenios": 51.2
+  },
+  {
+    "month": "2025-07-01",
+    "ibrance": 19.1,
+    "kisqali": 29.7,
+    "verzenios": 51.2
+  },
+  {
+    "month": "2025-08-01",
+    "ibrance": 18.9,
+    "kisqali": 30.1,
+    "verzenios": 50.9
+  },
+  {
+    "month": "2025-09-01",
+    "ibrance": 18.9,
+    "kisqali": 29.8,
+    "verzenios": 51.3
+  },
+  {
+    "month": "2025-10-01",
+    "ibrance": 18.5,
+    "kisqali": 30.2,
+    "verzenios": 51.3
+  },
+  {
+    "month": "2025-11-01",
+    "ibrance": 18.3,
+    "kisqali": 30.6,
+    "verzenios": 51.0
+  },
+  {
+    "month": "2025-12-01",
+    "ibrance": 18.0,
+    "kisqali": 31.1,
+    "verzenios": 50.9
+  },
+  {
+    "month": "2026-01-01",
+    "ibrance": 17.9,
+    "kisqali": 31.7,
+    "verzenios": 50.4
+  },
+  {
+    "month": "2026-02-01",
+    "ibrance": 17.7,
+    "kisqali": 32.1,
+    "verzenios": 50.3
+  },
+  {
+    "month": "2026-03-01",
+    "ibrance": 17.5,
+    "kisqali": 32.4,
+    "verzenios": 50.1
+  }
+]

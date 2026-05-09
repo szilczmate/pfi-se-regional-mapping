@@ -1,0 +1,2470 @@
+Cancerplan och processplaner för
+norra sjukvårdsregionen 2022-2024
+Uppföljning av kvalitetsregister från norra
+sjukvårdsregionen - täckningsgrader och
+målindikatorer
+april 2025
+
+Regionalt cancercentrum norr
+Norrlands universitetssjukhus
+SE-901 85 UME˚A
+iii
+Inneh˚allsf¨orteckning
+Inneh˚allsf¨orteckning
+1 Inledning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+2 T¨ackningsgrader f¨or anm¨alan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.1 T¨ackningsgrader per tidsperiod . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.2 T¨ackningsgrader per region . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.3 T¨ackningsgrader per sjukhus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3 M˚alindikatorer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.1 Br¨ostcancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3.2 Bukspottk¨ortelcancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.3 Hudcancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+3.4 Cancer i lever och gallv¨agar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3.5 Lung- och lungs¨ackscancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+3.6 Neuroendokrina buktum¨orer (GEP-NET) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+3.7 Matstrupe/Mags¨ackscancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+3.8 Palliativa registret . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+3.9 Prostatacancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+3.10 Sk¨oldk¨ortelcancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+3.11 Tjocktarmscancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+3.12 A¨ndtarmscancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+iv Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+1
+Inledning
+Sedan etableringen av regionala cancercent- sjukv˚ardsregionala cancerplanen f¨or 2022–2024 ¨ar
+rum (RCC) har RCC haft i uppdrag att ha sy- ett m˚al att kvalitetsregisterdata ska anv¨andas f¨or
+stem f¨or uppf¨oljning av cancerv˚ardens kvalitet. I styrningavverksamheten.Regionernaskan˚a”na-
+grunduppdraget ingick att varje RCC skulle ta tionella m˚alniv˚aer”i nationella v˚ardprogram och
+fram en cancerplan f¨or sin sjukv˚ardsregion, ba- kvalitetsregister.
+serad p˚a den nationella cancerstrategin. Dessa
+planer har sedan reviderats med j¨amna inter- F¨or att data fr˚an kvalitetsregistren ska va-
+vall. Ut¨over den nationella cancerstrategin har ra tillf¨orlitliga kr¨avs en h¨og t¨ackningsgrad. Det
+nu ¨aven EU tagit fram en gemensam cancerstra- ¨ar ett m˚att p˚a hur m˚anga av de patienter som
+tegi f¨or unionen. F¨orbundsdirektionen vid Norra finns registrerade i cancerregistret som ¨aven finns
+sjukv˚ardsregionf¨orbundet fastst¨allde i juni 2022 registrerade i kvalitetsregistret f¨or den aktuel-
+cancerplanen f¨or norra sjukv˚ardsregionen f¨or pe- la tum¨orformen. Kvalitetsregister omfattar flera
+rioden 2022–2024 (strategisk utvecklingsplan f¨or rapporteringssteg, fr˚an anm¨alan av en ny pati-
+cancerv˚arden i norra sjukv˚ardsregionen). Denna ent till uppf¨oljningar, som skiljer sig ˚at mellan
+uppf¨oljningsrapport ¨ar den sista f¨or cancerplanen diagnoser. RCC Norr redovisar t¨ackningsgrader
+f¨or2022-2024.Ennysjukv˚ardsregionalcancerplan ur cancerv˚ardens kvalitetsregister som g¨aller an-
+f¨or 2025-2028 fastst¨alldes i december 2024. Den m¨alningsformul¨aren, p˚a sjukv˚ardsregion-, region-
+nya cancerplanen f¨oljs upp f¨orsta g˚angen under (landstings-) och sjukhusniv˚a. I denna rapport
+2026. redovisas huvudsakligen statistik f¨or 2023 och
+2024.
+De sjukv˚ardsregionala cancerplanerna har se-
+dan starten varit omf˚angsrika och omfattat ett T¨ackningsgraderna f¨or 2024 redovisas uppde-
+stort antal diagnosspecifika m˚al. Cancerplanen latperhalv˚ar.Idensjukv˚ardsregionalacancerpla-
+f¨ornorrasjukv˚ardsregionen2022–2024¨arkortare, nen f¨or 2022–2024 ¨ar ett m˚al att t¨ackningsgrader
+f¨orattallaskakunnatadelavochf¨orst˚aden.En och inrapporteringshastighet i kvalitetsregistren
+bred f¨orankring och f¨orst˚aelse f¨or cancerplanen ¨ar inom canceromr˚adet ska f¨orb¨attras.
+viktigt f¨or att gemensamt utveckla av cancerv˚ar-
+deninorrasjukv˚ardsregionenochf¨orattm¨otade F¨ort¨ackningsgradersomg¨allerandraformul¨ar
+stora utmaningar som finns. ¨an anm¨alningsformul¨aren h¨anvisas till interakti-
+va rapporter. F¨or inrapport¨orer av registerdata
+Som komplement till den sjukv˚ardsregionala till INCA finns ¨aven aktuella t¨ackningsgrader per
+cancerplanen finns detaljerade planer f¨or de olika diagnos redovisade, dels p˚a sjukhusniv˚a och dels
+v˚ardprocesserna inom cancerv˚arden. Planerna ¨ar f¨or andra formul¨ar ¨an anm¨alningsformul¨aret d¨ar
+publicerade p˚a RCC Norrs webbplats. I process- t¨ackningsgrader g˚ar att ber¨akna.
+planernafinnskonkretam˚alniv˚aerdefinierade.De
+diagnosspecifika m˚alen avser i h¨ogutstr¨ackning I denna rapport redovisas ¨aven statistik f¨or
+ledtider, samt specifika ˚atg¨arder inom utredning diagnosspecifika m˚alniv˚aer. Data presenteras dels
+eller behandling. V˚arden ¨ar enligt lag skyldig att f¨or sjukv˚ardsregionen, regionerna, per sjukhus
+anm¨ala alla nyuppt¨ackta tum¨orer och tum¨orlik- samt i j¨amf¨orelse med riket f¨or ˚aren 2023–2024
+nande tillst˚and till cancerregistret. F¨or de allra och dels redovisas utvecklingen i norra sjukv˚ards-
+flesta cancerformer finns diagnosspecifika kvali- regionen under de senaste fem˚aren.
+tetsregister. Dessa inneh˚aller patientbundna upp-
+gifter om problem/diagnos, behandling och resul- Rapporteringenomfattardev˚ardprocesserd¨ar
+tat.Kvalitetsregistrenvisarhurv¨alv˚ardprogram- RCC Norrs processledare och deras sjukv˚ardsre-
+men f¨oljs och utv¨arderar behandlingsresultaten. gionala arbetsgrupper har identifierat m˚alniv˚aer
+De g¨or det ocks˚a m¨ojligt att f¨olja upp enskilda som kan f¨oljas i kvalitetsregistren. M˚alindikato-
+sjukhusellerklinikersarbete.Im˚angaavdedetal- rerna har ber¨aknats av nationella statistiker f¨or
+jerade v˚ardprocessplanerna finns flera definierade aktuell diagnos efter best¨allning fr˚an RCC Norrs
+m˚alsomkanf¨oljasgenomkvalitetsregistren.Iden processledare. Utformandet av rapporten och be-
+1
+r¨akningaravt¨ackningsgraderf¨ornorrasjukv˚ards- Data till denna uppf¨oljningsrapport h¨amtades
+regionen har gjorts av RCC Norrs statistiker. fr˚an registren den 4 april 2025.
+2 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+2
+T¨ackningsgrader f¨or anm¨alan
+Tum¨orer som uppfyller inklusionskriterierna f¨or ett specifikt kvalitetsregister ska registreras b˚ade i kva-
+litetsregistretochcancerregistret.T¨ackningsgradenf¨orkvalitetsregistretsanm¨alningsformul¨armotsvarar
+den andel av tum¨orerna i cancerregistret som ocks˚a registrerats i kvalitetsregistret. Anm¨alningsformul¨a-
+ret ¨ar i regel det f¨orsta formul¨ar som registreras i kvalitetsregistret f¨or en ny tum¨or och inneh˚aller bland
+annatinformationomprim¨artum¨orenslokalisation.T¨ackningsgraden¨arettviktigtkvalitetsm˚attf¨orden
+statistik som redovisas med hj¨alp av data fr˚an ett kvalitetsregister.
+Vid redovisning av t¨ackningsgrader f¨or anm¨alningsformul¨aret baseras sjukhus p˚a uppgifter fr˚an can-
+cerregistret. Om en tum¨orpost i cancerregistret saknar anm¨alningsformul¨ar fr˚an kvalitetsregistret repre-
+senteras sjukhus av den enhet som initialt tagit diagnosticerande prov.
+T¨ackningsgrad f¨or palliativa registret g¨ors genom att relatera antal registrerade i palliativa registret
+med grundsjukdom cancer med f¨orv¨antat antal baserat p˚a Socialstyrelsens d¨odsorsaksregister
+3
+2.1 T¨ackningsgrader per tidsperiod
+414
+01 96
+9
+14
+471
+77
+105 211 261
+67 03
+442
+34 85
+3
+36 62 82 41
+0311
+62
+9
+72 25
+4
+451
+6
+641
+5
+43 61
+5 6
+93 90 88 89 90 88 90 87
+81 81 83
+76 75 74 74
+67 68 68 65 67
+60 58
+50 51 49
+43 41 44
+38
+33
+25
+20 20
+793
+61 26 61 54
+991
+77
+416 211 602
+86 05
+082
+93 58
+6
+86 12 34 41
+0311
+62 71 04 73
+3
+851
+2
+651
+4
+63 41 41
+9
+9910010010098
+95 91
+99
+93 92 94 90 92
+99100
+88 86
+82 81
+76 75
+72 71
+65 62 68 67 66 64 67
+54
+50 47
+43
+738
+54
+911
+03
+311 463 761 699 622 483 561
+58
+155
+78
+461
+11
+441
+45 56 54
+7522
+73 23 96 07
+5
+063
+15
+552
+4
+76 92 03 61
+10010098 97 95 98 97 97100 95 9910099 95 99 91 99100 96 94 94 100 94
+80 72 70 76 72 73 78 75 76 83
+63
+tsörB syfopyH kcäsgaM/epurtstaM avluV SNC duH letrökttopskuB atatsorP mratdnÄ agnuL suproC letrökdlökS mratkcojT lairavO slah/duvuH LMK erujN LMA NPM xivreC avitaillaP SDM lekitseT allaG/reveL moleyM anigaV ragävnirU/asålbnirU LLK mofmyL LLA TEN−PEG mokrassledkujM/ttelekS sineP lanA
+jul−dec
+2024
+jan−jun
+2024
+2023
+100
+75
+50
+25
+0
+100
+75
+50
+25
+0
+100
+75
+50
+25
+0
+tnecorP
+Figur 1. T¨ackningsgrader f¨or anm¨alningsformul¨aren per diagnos och tidsperiod f¨or norra sjukv˚ardsre-
+gionen. Siffrorna i vit text l¨angst ner p˚a staplarna representerar hur m˚anga diagnoser som skall
+vara registrerade i kvalitetsregistret f¨or att uppn˚a full t¨ackningsgrad (antal i cancerregistret). R¨oda
+streckade linjen visar genomsnittlig t¨ackningsgrad per tidsperiod (Palliativa registret exkluderade).
+Genomsnittlig t¨ackningsgrad f¨or 2023 var 94.1%, januari-juni 2024 88.9% och juli-december 2024
+76.1%. Staplarna ¨ar sorterade fr˚an h¨ogsta till l¨agsta t¨ackningsgrad f¨or hela tidsperioden 2023-2024
+4 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+2.2 T¨ackningsgrader per region
+274
+9
+35 271 495 37 811 66 702 87 91 023
+4
+43 62 13 81 45 01 81
+3231
+31 31 62
+5
+391 55 361
+2
+32 31
+2
+99100 89 99 97 96 87 92 96 94 84 89 100 81 90 89 96 94 100 85 88 85 81 100
+65 68
+54
+38 40
+20 17
+5
+013
+7 04
+231 033
+42 47 73
+411
+74 72
+451
+5 25 71 31 31 61 81 61
+536
+31 4 9 4 48 91 16 1 61 9
+100 93 10010098 96 100 1009810099100 92 100 94 100100100 96 100
+87 88
+81
+75 71 69 69
+62
+53
+38
+32
+06
+744
+51 28
+852 491 086 071 331 341 991
+19 58
+953
+7
+201 401
+73 03 93 02 56
+4031
+51 11 92
+1
+891
+45
+471
+65 06 31
+6
+98100100 95 98 95 94 97 89 95 88 86 88 85 100 88 98 97 87 97 80 78 100 91 97100 96 87 83 75 85 83
+65 64
+5
+214
+51 47
+071 574
+63
+221
+36
+132
+68 23
+932
+4 18 02 02 21 72 9 52
+5521
+81 3 52 2
+591
+13
+451
+03 01 5
+10099
+87
+100
+84 89 92
+100
+94 90 93
+10098 100
+85 83
+100
+96
+100
+74
+65 67
+60
+50
+13 15
+6 4 1
+syfopyH tsörB avluV kcäsgaM/epurtstaM duH SNC atatsorP letrökttopskuB mratdnÄ suproC agnuL slah/duvuH letrökdlökS mratkcojT LMK erujN lairavO LMA xivreC NPM lekitseT allaG/reveL avitaillaP LLK lanA SDM anigaV ragävnirU/asålbnirU moleyM mofmyL mokrassledkujM/ttelekS TEN−PEG sineP LLA
+Västernorrland
+Jämtland
+Västerbotten
+Norrbotten
+100
+75
+50
+25
+0
+100
+75
+50
+25
+0
+100
+75
+50
+25
+0
+100
+75
+50
+25
+0
+tnecorP
+Figur 2. T¨ackningsgrader f¨or anm¨alningsformul¨aren 2023-2024 per diagnos och region. Siffrorna nere p˚a
+staplarna representerar hur m˚anga diagnoser som skall vara registrerade i kvalitetsregistret f¨or att
+uppn˚a full t¨ackningsgrad (antal i cancerregistret). R¨oda streckade linjen visar genomsnittlig t¨ack-
+ningsgrad per l¨an (Palliativa registret exkluderade). Genomsnittlig t¨ackningsgrad f¨or V¨asternorrland
+var 84.1%, J¨amtland 86.4%, V¨asterbotten 88.3% och Norrbotten 76.3%. Staplarna¨ar sorterade fr˚an
+b¨asta till s¨amsta t¨ackningsgrad baserat p˚a totalt f¨or hela norra regionen. Att summan av antal di-
+agnoser i figur 1 kan vara n˚agot fler ¨an i figur 2 beror p˚a att patienter anm¨alda fr˚an utanf¨or norra
+regionen inte finns med i figur 2.
+5
+2.3 T¨ackningsgrader per sjukhus
+6142
+383
+6
+93
+84
+67
+9782
+582 527
+94
+92
+83
+6261
+93
+43
+0632
+25
+811
+83
+Västernorrland Jämtland
+Västerbotten Norrbotten
+91
+82
+73
+11
+8
+llavsdnuS
+SUN
+kivÖ
+eleskcyL
+åetfelloS
+åetfellekS xilaK nybrednuS
+dnusretsÖ
+anuriK eravilläG åetiP
+75
+50
+25
+0
+75
+50
+25
+0
+tnecorP
+Figur 3. T¨ackningsgrader f¨or anm¨alningsformul¨aren 2023-2024 per sjukhus, samtliga diagnosregister. Siff-
+rornal¨angstnerp˚astaplarnarepresenterarhurm˚angadiagnosersomskallvararegistreradeikvalitets-
+registretf¨orattuppn˚afullt¨ackningsgrad(antalicancerregistret).Antalregistreradeicancerregistret
+f¨or patienter anm¨alda fr˚an sjukhus utanf¨or norra regionen var 132, 2023-2024 med t¨ackningsgrad
+81.1% och 201 patienter var anm¨alda fr˚an prim¨arv˚arden med t¨ackningsgrad 83.6%.
+6 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+3
+M˚alindikatorer
+Tidpunkt f¨or m˚aluppfyllelse varierar mellan m˚alindikatorerna, d¨ar vissa enligt enligt processplanerna
+f¨or respektive diagnos/omr˚ade f¨or 2022-2024 ska uppn˚as under den perioden, medan tidplanen f¨or vissa
+m˚al str¨acker sig till 2024 eller senare. F¨or detaljerad information kring olika m˚alindikatorer h¨anvisas till
+processplanerna.
+Numerafinns¨avenomfattanderedovisningaravstatistikonlinefr˚andeflestacancerdiagnoser.Endel
+av de indikatorer som redovisas i denna rapport kan ¨aven˚aterfinnas i dessa onlinerapporter. A¨ven om
+indikatorerna ibland ¨ar samma s˚a ¨ar det inte s¨aker att siffrorna ¨overensst¨ammer exakt med denna rap-
+port. Dessa avvikelser kan bla bero p˚a att statistiken baseras p˚a olika enheter, att olika datumvariabler
+anv¨ands eller att datauttagen skett vid olika tidpunkter. L¨ankar till diagnosspecifik statistik: interaktiva
+rapporter. F¨or inrapport¨orer av kvalitetsregisterdata i datalagringssystemet INCA finns ocks˚a statistik
+p˚a diagnosniv˚a och d¨ar redovisas uppdaterade data.
+F¨or senast redovisade˚ar, dvs 2024, har flera register inte uppn˚att fullgod t¨ackningsgrad. D¨arf¨or b¨or
+dessa siffror ses som prelimin¨ara fram tills t¨ackningsgraden ¨ar j¨amf¨orbar med tidigare˚ar.
+7
+3.1 Br¨ostcancer
+Br¨ostcancer: Andelen patienter med v¨algrundad misstanke om br¨ostcancer som opereras inom 4 veckor
+(nuvarandem˚al¨arjusterattill5veckor).Indikatornavserprim¨artopereradefallutanfj¨arrmetastaservid
+diagnos.Uppgifternaredovisasuppdelatp˚apatientensbostadsl¨an.Ettfallperbr¨ostkanrapporteratstill
+Nationellt kvalitetsregister f¨or br¨ostcancer, vilket inneb¨ar att samma person kan finnas med i statistiken
+tv˚a g˚anger.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 4. Norra sjukv˚ardsregionen
+Tabell 1. Andelenmedv¨algrundadmisstankeombr¨ost-
+cancer som opereras inom 4 veckor
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 28 27 7477 7163
+Sjukv˚ardsregion
+Norra regionen 48 52 666 513
+Bostadsl¨an
+V¨asternorrland 34 44 189 164
+J¨amtland 31 14 124 14
+V¨asterbotten 35 31 179 172
+Norrbotten 88 87 174 163
+8 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Br¨ostcancer:Andelenpatientersomskahapostoperativbehandlingmedcytostatikaochsomp˚ab¨orjar
+denna inom 24 dagar efter operation. Indikatorn avser prim¨art opererade fall utan fj¨arrmetastaser vid
+diagnos.Operationsdatum¨ardatumf¨orf¨orstaoperation,vilketinneb¨aratttidenfr˚ansistaoperationtill
+start av cytostatikabehandling kan vara kortare ¨an den som redovisas. Uppgifterna redovisas uppdelat
+p˚a patientens bostadsl¨an. Rapporteringen sker cirka 1 – 1.5˚ar efter anm¨alan och d¨arf¨or redovisas data
+bara tom 2023
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 5. Norra sjukv˚ardsregionen
+Tabell 2. V¨antetid fr˚an operation till cytostatikabe-
+handling, andel inom 24 dagar
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 4 5 1772 1664
+Sjukv˚ardsregion
+Norra regionen 1 4 157 161
+Bostadsl¨an
+V¨asternorrland 3 7 39 46
+J¨amtland 0 9 18 23
+V¨asterbotten 0 2 49 46
+Norrbotten 2 2 50 45
+9
+Br¨ostcancer: Andelen patienter som ska ha postoperativ str˚albehandling och som p˚ab¨orjat denna
+inom 42 dagar efter operation. Indikatorn avser prim¨art opererade fall utan fj¨arrmetastaser vid diagnos.
+Operationsdatum ¨ar datum f¨or f¨orsta operation, vilket inneb¨ar att tiden fr˚an sista operation till start
+av cytostatikabehandling kan vara kortare ¨an den som redovisas. Uppgifterna redovisas uppdelat p˚a
+patientensbostadsl¨an.Rapporteringenskercirka1–1.5˚arefteranm¨alanochd¨arf¨orredovisasdatabara
+tom 2023.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 6. Norra sjukv˚ardsregionen
+Tabell 3. V¨antetid fr˚an operation till str˚albehandling,
+andel inom 42 dagar
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 14 13 3753 3868
+Sjukv˚ardsregion
+Norra regionen 54 47 368 371
+Bostadsl¨an
+V¨asternorrland 42 61 118 111
+J¨amtland 42 45 53 69
+V¨asterbotten 60 48 96 93
+Norrbotten 69 31 100 96
+10 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Br¨ostcancer: Andelen patienter med ER-positiv br¨ostcancer som p˚ab¨orjar endokrin behandling ska
+vara h¨ogre ¨an 90%. Indikatorn avser opererade ¨ostrogenreceptorpositiva invasiva fall utan fj¨arrmetas-
+taser vid diagnos. B˚ade preoperativ och postoperativ endokrin behandling ¨ar medtagna i ber¨akningen.
+Redovisade data avser p˚ab¨orjad behandling. Uppgifterna redovisas uppdelat p˚a patientens bostadsl¨an.
+Rapporteringen sker cirka 1 – 1.5˚ar efter anm¨alan och d¨arf¨or redovisas data bara tom 2023.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 7. Norra sjukv˚ardsregionen
+Tabell 4. Andelen patienter med ER-positiv br¨ostcan-
+cer som p˚ab¨orjar endokrin behandling
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 91 91 6026 6025
+Sjukv˚ardsregion
+Norra regionen 92 92 541 525
+Bostadsl¨an
+V¨asternorrland 94 96 174 149
+J¨amtland 94 94 84 86
+V¨asterbotten 89 95 144 150
+Norrbotten 90 83 137 137
+11
+Br¨ostcancer: Observerad 5-˚ars¨overlevnad. Indikatorn ger br¨ostcancerfall som ¨overlevt 5˚ar efter diag-
+nos. Eftersom en patients ¨overlevnad kan p˚averkas av m˚anga faktorer och d¨ar patientens individuella
+f¨oruts¨attningar ¨ar avg¨orande b¨or j¨amf¨orelser mellan enheter g¨oras med f¨orsiktighet. Av den anledningen
+redovisas bara statistiken ner till sjukv˚ardsregional niv˚a. ˚Aren avser diagnos˚aret.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2015 2016 2017 2018 2019
+Figur 8. Norra sjukv˚ardsregionen
+Tabell 5. Observerad 5-˚ars¨overlevnad. ˚Aret avser dia-
+gnos˚aret
+Procent Antaldiagnoser
+2017 2018 2017 2018
+Riket
+Riket 84 85 8812 9291
+Sjukv˚ardsregion
+Norra regionen 84 85 740 806
+12 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Br¨ostcancer: Andelen patienter som f˚ar preoperativ onkologisk behandling. Inget m˚alv¨arde beslutat.
+Indikatornavseropererade,invasivafallutanfj¨arrmetastaserviddiagnos.Uppgifternaredovisasuppdelat
+p˚a patientens bostadsl¨an. Rapporteringen av preoperativ cytostatikabehandling sker tillsammans med
+¨ovrig cytostatikabehandling cirka 1 – 1.5˚ar efter anm¨alan och d¨arf¨or redovisas data bara tom 2023.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 9. Norra sjukv˚ardsregionen
+Tabell 6. Andelen patienter som f˚ar preoperativ cy-
+tostatikabehandling
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 18 18 7604 7812
+Sjukv˚ardsregion
+Norra regionen 13 15 653 674
+Bostadsl¨an
+V¨asternorrland 22 17 208 190
+J¨amtland 11 11 94 121
+V¨asterbotten 11 19 178 189
+Norrbotten 5 9 172 172
+13
+Br¨ostcancer:AndelenavpatienternasomutredsenligtSVFochsomh˚allerledtiden28dagartillstart
+avf¨orstabehandlingmedkirurgi/l¨akemedel/str˚alning.Indikatornavseropereradefallutanfj¨arrmetasta-
+ser viddiagnos.Uppgifterna redovisas uppdelatp˚a patientens bostadsl¨an. Rapporteringenavonkologisk
+behandling sker cirka 1 – 1.5˚ar efter anm¨alan och d¨arf¨or redovisas data bara tom 2023.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 10. Norra sjukv˚ardsregionen
+Tabell 7. Tid fr˚an v¨algrundad misstanke om cancer till
+prim¨ar behandling. Andel inom 28 dagar
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 36 31 8664 8766
+Sjukv˚ardsregion
+Norra regionen 57 49 743 761
+Bostadsl¨an
+V¨asternorrland 49 36 241 220
+J¨amtland 39 31 109 137
+V¨asterbotten 43 38 203 213
+Norrbotten 93 88 189 190
+14 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+3.2 Bukspottk¨ortelcancer
+Bukspottk¨ortelcancer:T¨ackningsgradeninomett˚arfr˚andiagnosdatumbaseratp˚am˚alniv˚a95%.Endast
+patienter som har kunnat f¨oljas upp under ett˚ar ing˚ar, vilket g¨or att f¨or sista˚aret baseras t¨ackningen
+barap˚apatienterdiagnosiseradetidigareunder˚aret.F¨orfullst¨andigt¨ackningsgradh¨anvisastillfigur1-3.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 11. Norra sjukv˚ardsregionen
+Tabell 8. Anm¨alningsblanketten med 95 procent t¨ack-
+ningsgrad inom 1˚ar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 83 63 167 38
+Region
+V¨asternorrland 100 86 35 7
+J¨amtland 50 10 <5
+V¨asterbotten 80 57 88 21
+Norrbotten 82 22 <5
+Sjukhus
+Kiruna <5 <5
+Lycksele 80 5 <5
+NUS 88 55 75 20
+Prim¨arv˚ard <5 <5
+Skellefte˚a 0 8 <5
+Sunderby 86 21 <5
+Sundsvall 100 100 23 5
+Utoml¨an 92 12 <5
+O¨rnsk¨oldsvik 100 12 <5
+O¨stersund 50 10 <5
+15
+Bukspottk¨ortelcancer: M25edianv¨antetid fr˚an operation till PAD-svar. Statistiken redovisas f¨or riket
+och sjukv˚ardsregionen.
+20 20
+17
+16
+15 15
+13.5
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 12. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 9. V¨antetid fr˚an operation till PAD-svar
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 25 22 781 584
+Sjukv˚ardsregion
+Norra regionen 17 20 63 39
+16 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+3.3 Hudcancer
+Hudcancer: Andel patienter med MM > 1mm som har erbjudits en kontaktsjuksk¨oterska. Sjukhus avser
+anm¨alande sjukhus.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 13. Norra sjukv˚ardsregionen
+Tabell 10. Andel patienter med MM st¨orre ¨an 1 mm som
+har erbjudits en kontaktsjuksk¨oterska
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 88 87 1855 1615
+Sjukv˚ardsregion
+Norra regionen 76 83 124 103
+Region
+V¨asternorrland 62 72 37 43
+J¨amtland 63 67 19 12
+V¨asterbotten 80 96 44 47
+Norrbotten 100 24 <5
+Sjukhus
+NUS 76 100 25 25
+Skellefte˚a 88 90 8 21
+Sunderbyn 100 24
+Sundsvall 69 93 16 27
+O¨stersund 100 88 11 8
+O¨vik <5 <5
+O¨vr. J¨amtland 12 8 <5
+O¨vr. V¨asterbotten 83 12 <5
+O¨vr. V¨asternorrland 53 29 17 14
+17
+Hudcancer:Andelpatientersomopererasinomenveckafr˚anf¨orstal¨akarbes¨ok.Sjukhusavsersjukhus
+f¨or prim¨ar kirurgi.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 14. Norra sjukv˚ardsregionen
+Tabell 11. Andelpatientersom opereras inom enveckafr˚an
+f¨orsta l¨akarbes¨ok
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 45 45 5664 5045
+Sjukv˚ardsregion
+Norra regionen 45 37 315 292
+Region
+V¨asternorrland 45 46 71 79
+J¨amtland 64 46 64 41
+V¨asterbotten 36 39 118 104
+Norrbotten 44 19 62 68
+Sjukhus
+G¨allivare <5 <5
+Kiruna <5 <5
+NUS 36 39 72 70
+Pite˚a <5 <5
+Skellefte˚a 57 48 21 33
+Sunderbyn 21 10 38 48
+Sundsvall 25 33 36 39
+O¨stersund 47 40 38 30
+O¨vik 38 27 8 11
+O¨vr. J¨amtland 88 62 24 8
+O¨vr. Norrbotten 89 67 18 12
+O¨vr. V¨asterbotten 23 33 26 6
+O¨vr. V¨asternorrland 76 64 29 28
+18 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Hudcancer: Andel patienter som v¨antat mindre ¨an 4 veckor fr˚an f¨orsta l¨akarbes¨ok till diagnosbesked.
+Sjukhus avser anm¨alande sjukhus.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 15. Norra sjukv˚ardsregionen
+Tabell 12. Andel patienter som v¨antat mindre ¨an 4 veckor
+fr˚an f¨orsta l¨akarbes¨ok till diagnosbesked
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 48 48 5635 5027
+Sjukv˚ardsregion
+Norra regionen 54 52 312 288
+Region
+V¨asternorrland 51 61 70 79
+J¨amtland 64 66 64 41
+V¨asterbotten 55 52 119 101
+Norrbotten 41 34 59 67
+Sjukhus
+Lycksele <5
+NUS 56 53 77 73
+Skellefte˚a 77 59 22 29
+Sunderbyn 38 30 55 57
+Sundsvall 45 59 38 41
+O¨stersund 59 61 39 31
+O¨vik 0 36 6 11
+O¨vr. J¨amtland 71 75 24 8
+O¨vr. Norrbotten 67 <5 9
+O¨vr. V¨asterbotten 30 20 <5
+O¨vr. V¨asternorrland 78 69 27 26
+19
+Hudcancer: Andel patienter med MM > 1mm som genomg˚ar utvidgad kirurgi inom 3 veckor efter
+PAD-svar. Sjukhus avser sjukhus f¨or prim¨ar kirurgi.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 16. Norra sjukv˚ardsregionen
+Tabell 13. AndelpatientermedMM>1mmsomgenomg˚ar
+utvidgad kirurgi inom 3 veckor efter PAD-svar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 33 33 1586 1259
+Sjukv˚ardsregion
+Norra regionen 38 23 104 86
+Region
+V¨asternorrland 37 17 30 29
+J¨amtland 48 55 21 11
+V¨asterbotten 26 20 35 45
+Norrbotten 50 18 <5
+Sjukhus
+G¨allivare <5
+NUS 22 32 18 22
+Skellefte˚a 12 10 8 21
+Sunderbyn 33 9
+Sundsvall 33 18 12 22
+O¨stersund 40 57 10 7
+O¨vik <5 <5
+O¨vr. J¨amtland 55 11 <5
+O¨vr. Norrbotten 62 8
+O¨vr. V¨asterbotten 44 9 <5
+O¨vr. V¨asternorrland 44 0 16 6
+20 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+3.4 Cancer i lever och gallv¨agar
+Cancer i lever och gallv¨agar: T¨ackningsgraden inom ett˚ar fr˚an diagnosdatum baserat p˚a m˚alniv˚a 95%.
+Endast patienter som har kunnat f¨oljas upp under ett ˚ar ing˚ar, vilket g¨or att f¨or sista ˚aret baseras
+t¨ackningen bara p˚a patienter diagnosiserade tidigare under˚aret. F¨or fullst¨andig t¨ackningsgrad h¨anvisas
+tillfigur1-3.Det¨arendastdiagnosgruppernahepatocellul¨arcancerilever,kolangiocellul¨arcanceriintra
+hepatiska gallv¨agar och gallbl˚asa som ing˚ar i ber¨akningarna.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 17. Norra sjukv˚ardsregionen
+Tabell 14. Anm¨alningsblankettenmed95procentt¨ack-
+ningsgrad inom 1˚ar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 83 76 77 70
+Region
+V¨asternorrland 100 82 24 11
+J¨amtland 12 <5 8
+V¨asterbotten 79 85 34 33
+Norrbotten 82 83 11 12
+Sjukhus
+Lycksele <5 <5
+NUS 84 87 31 30
+Pite˚a <5 <5
+Prim¨arv˚ard <5 <5
+Skellefte˚a <5 <5
+Sunderby 82 83 11 12
+Sundsvall 100 75 19 8
+Utoml¨an 83 <5 6
+O¨rnsk¨oldsvik 100 5 <5
+O¨stersund 12 <5 8
+21
+3.5 Lung- och lungs¨ackscancer
+Lung- och lungs¨ackscancer: Andel lungcancerfall d¨ar antal dagar mellan behandlingsbeslut och behand-
+lingsstart f¨or patienter planerade f¨or kirurgi eller str˚albehandling ¨ar mindre ¨an 14 dagar.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 18. Norra sjukv˚ardsregionen
+Tabell 15. V¨antetid f¨or behandlingsbeslut till behand-
+lingsstart (Kirurgi/RT) < 14 dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 27 28 1863 1391
+Sjukv˚ardsregion
+Norra regionen 33 40 135 112
+Region
+V¨asternorrland 30 38 30 34
+J¨amtland 38 35 32 17
+V¨asterbotten 39 59 33 29
+Norrbotten 25 28 40 32
+Sjukhus
+NUS 39 59 33 29
+Sunderbyn 25 28 40 32
+Sundsvall 29 38 31 34
+O¨stersund 38 35 32 17
+22 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Lung- och lungs¨ackscancer: Mediantid f¨or lungcancerfall d¨ar antal dagar mellan behandlingsbeslut
+ochbehandlingsstartf¨orpatienterplaneradef¨orkirurgiellerstr˚albehandlingskavaramindre¨an14dagar.
+25
+20 20 20
+18 18 17
+15
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 19. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 16. Medianv¨antetid fr˚an behandlingsbeslut till
+behandlingsstart (kirurgi, str˚albehandling)
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 22 21 1863 1391
+Sjukv˚ardsregion
+Norra regionen 20 18 135 112
+Region
+V¨asternorrland 21 20 30 34
+J¨amtland 21 20 32 17
+V¨asterbotten 16 13 33 29
+Norrbotten 26 21 40 32
+Sjukhus
+NUS 16 13 33 29
+Sunderbyn 26 21 40 32
+Sundsvall 22 20 31 34
+O¨stersund 21 20 32 17
+23
+Lung- och lungs¨ackscancer: Andel lungcancerfall som planeras f¨or l¨akemedel d¨ar antal dagar mellan
+behandlingsbeslut till behandlingsstart ¨ar mindre ¨an 10 dagar.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 20. Norra sjukv˚ardsregionen
+Tabell 17. V¨antetid f¨or behandlingsbeslut till behand-
+lingsstart om L¨akemedel < 10 dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 55 56 1850 1270
+Sjukv˚ardsregion
+Norra regionen 64 61 156 141
+Region
+V¨asternorrland 54 55 35 42
+J¨amtland 70 82 20 17
+V¨asterbotten 63 53 38 38
+Norrbotten 68 64 63 45
+Sjukhus
+NUS 62 51 39 35
+Sunderbyn 69 66 62 47
+Sundsvall 54 55 35 42
+O¨stersund 70 82 20 17
+24 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Lung- och lungs¨ackscancer: Mediantid f¨or lungcancerfall som planeras f¨or l¨akemedel d¨ar antal dagar
+mellan behandlingsbeslut till behandlingsstart ska vara mindre ¨an 10 dagar.
+10
+7 7 7
+6 6
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 21. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 18. V¨antetidfr˚anbehandlingsbesluttillbehand-
+lingsstart om L¨akemedel-mediantid
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 9 8 1850 1268
+Sjukv˚ardsregion
+Norra regionen 7 7 156 141
+Region
+V¨asternorrland 7 8 35 42
+J¨amtland 6 6 20 17
+V¨asterbotten 8 10 38 38
+Norrbotten 6 6 63 45
+Sjukhus
+NUS 8 10 39 35
+Sunderbyn 6 6 62 47
+Sundsvall 7 8 35 42
+O¨stersund 6 6 20 17
+25
+Lung- och lungs¨ackscancer: Andel fall d¨ar antal dagar mellan inremiss och start av behandling ska
+vara 44 dagar eller l¨agre.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 22. Norra sjukv˚ardsregionen
+Tabell 19. V¨antetid f¨or inremiss till behandlingsstart
+<= 44 dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 26 27 3756 2670
+Sjukv˚ardsregion
+Norra regionen 35 33 294 250
+Region
+V¨asternorrland 30 23 67 77
+J¨amtland 28 53 53 32
+V¨asterbotten 37 34 71 65
+Norrbotten 41 35 103 77
+Sjukhus
+NUS 36 31 72 62
+Sunderbyn 41 37 102 79
+Sundsvall 29 23 68 77
+O¨stersund 28 53 53 32
+26 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Lung- och lungs¨ackscancer: Mediantiden f¨or antal dagar mellan inremiss och start av behandling ska
+vara 44 dagar eller l¨agre
+80
+75
+70
+65
+61.5
+60
+55 55 56 56
+52.5 50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 23. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 20. V¨antetid f¨or inremiss till behandlingsstart-
+mediantid
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 65 63 3755 2664
+Sjukv˚ardsregion
+Norra regionen 56 56 294 250
+Region
+V¨asternorrland 59 59 67 77
+J¨amtland 56 44 53 32
+V¨asterbotten 55 58 71 65
+Norrbotten 54 53 103 77
+Sjukhus
+NUS 54 59 72 62
+Sunderbyn 54 53 102 79
+Sundsvall 60 59 68 77
+O¨stersund 56 44 53 32
+27
+Lung- och lungs¨ackscancer: Andel fall med lungcancer d¨ar multidisciplin¨ar konferens (mdk) genom-
+f¨orts
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 24. Norra sjukv˚ardsregionen
+Tabell 21. Andel fall d¨ar multidisciplin¨ar konferens ge-
+nomf¨orts
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 83 83 4799 3404
+Sjukv˚ardsregion
+Norra regionen 83 81 372 360
+Region
+V¨asternorrland 74 73 93 113
+J¨amtland 82 72 62 60
+V¨asterbotten 91 96 95 89
+Norrbotten 84 85 122 99
+Sjukhus
+Lycksele <5 <5
+NUS 92 96 95 84
+Sunderbyn 84 85 121 101
+Sundsvall 74 73 94 113
+O¨stersund 82 72 62 60
+28 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Lung- och lungs¨ackscancer: Andel fall med lungcancer som har tilldelats kontaktsjuksk¨oterska.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 25. Norra sjukv˚ardsregionen
+Tabell 22. Andelfallsomhartilldelatskontaktsjuksk¨o-
+terska
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 87 86 4802 3403
+Sjukv˚ardsregion
+Norra regionen 79 79 373 359
+Region
+V¨asternorrland 96 91 93 113
+J¨amtland 97 95 62 60
+V¨asterbotten 28 38 96 88
+Norrbotten 96 93 122 99
+Sjukhus
+Lycksele <5 <5
+NUS 28 37 96 83
+Sunderbyn 97 92 121 101
+Sundsvall 96 91 94 113
+O¨stersund 97 95 62 60
+29
+3.6 Neuroendokrina buktum¨orer (GEP-NET)
+Neuroendokrina buktum¨orer (GEP-NET): Andel patienter som genomg˚att MDK i norra sjukv˚ardsregi-
+onen ska vara minst 90%.
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+Pankreas Tunntarm
+Diagnosgrupp
+tnecorP
+Figur 26. Norra sjukv˚ardsregionen
+Tabell 23. Patienter som genomg˚att MDK
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Pankreas 100 100 10 7
+Tunntarm 100 100 22 12
+30 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Neuroendokrina buktum¨orer (GEP-NET): Andelen patienter som erbjudits namngiven kontaktsjuk-
+sk¨oterska i norra sjukv˚ardsregionen ska vara minst 90%.
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024 2020 2021 2022 2023 2024
+Pankreas Tunntarm
+Diagnosgrupp
+tnecorP
+Figur 27. Norra sjukv˚ardsregionen
+Tabell 24. Patienter som erbjudits namngiven
+kontaktsjuksk¨oterska
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Pankreas 90 100 10 7
+Tunntarm 100 100 22 12
+31
+3.7 Matstrupe/Mags¨ackscancer
+Indikatorn Medianv¨antetid fr˚an operation till pad-svar skall vara inom 21 dagar har utg˚att
+fr˚an rapporten eftersom datum f¨or pad-svar inte l¨angre registreras
+32 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Matstrupe/Mags¨ackscancer: T¨ackningsgraden inom ett ˚ar fr˚an diagnosdatum baserat p˚a m˚alniv˚a
+95%. Endast patienter som har kunnat f¨oljas upp under ett˚ar ing˚ar, vilket g¨or att f¨or sista˚aret baseras
+t¨ackningen bara p˚a patienter diagnosiserade tidigare under˚aret. F¨or fullst¨andig t¨ackningsgrad h¨anvisas
+till figur 1-3.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 28. Norra sjukv˚ardsregionen
+Tabell 25. Anm¨alningsblankettenmed95procentt¨ack-
+ningsgrad inom 1˚ar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 90 80 236 60
+Region
+V¨asternorrland 70 50 37 20
+J¨amtland 79 75 38 8
+V¨asterbotten 99 100 85 16
+Norrbotten 97 100 74 16
+Sjukhus
+Kiruna <5 <5
+Lycksele 100 10 <5
+NUS 98 100 63 14
+Skellefte˚a 100 12 <5
+Sollefte˚a <5 <5
+Sunderby 97 100 74 16
+Sundsvall 50 38 20 16
+Utoml¨an <5 <5
+O¨rnsk¨oldsvik 100 16 <5
+O¨stersund 79 75 38 8
+33
+3.8 Palliativa registret
+Palliativa registret: I redovisningen ing˚ar individer d¨ar grundsjukdomen ¨ar cancer. Brytpunktssamtal –
+M˚alniv˚a 70%. Brytpunktssamtal h˚alls n¨ar all botande och bromsande behandling avslutas och v˚arden
+¨overg˚ar till palliativ v˚ard.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 29. Norra sjukv˚ardsregionen
+Tabell 26. Brytpunktssamtal genomf¨ord
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 86 91 1308 1328
+Region
+V¨asternorrland 92 94 365 403
+J¨amtland 91 92 184 195
+V¨asterbotten 86 91 391 423
+Norrbotten 79 87 368 307
+34 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Palliativa registret: I redovisningen ing˚ar individer d¨ar grundsjukdomen ¨ar cancer. Anv¨andning av
+valideratsm¨artskattningsinstrument–M˚alniv˚a80%.Indikatornvisarandelenpatientervarssm¨artaskat-
+tats med ett sm¨artskattningsinstrument.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 30. Norra sjukv˚ardsregionen
+Tabell 27. Anv¨andning av validerat sm¨artskattningsin-
+strument
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 65 67 1611 1646
+Region
+V¨asternorrland 62 62 441 468
+J¨amtland 57 58 232 248
+V¨asterbotten 74 72 471 522
+Norrbotten 64 69 467 408
+35
+Palliativa registret: I redovisningen ing˚ar individer d¨ar grundsjukdomen ¨ar cancer. Ordination av
+stark opioid i injektionsform – M˚alniv˚a 95%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 31. Norra sjukv˚ardsregionen
+Tabell 28. Ordination av stark opioid i injektionsform
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 98 99 1611 1646
+Region
+V¨asternorrland 99 99 441 468
+J¨amtland 100 100 232 248
+V¨asterbotten 98 98 471 522
+Norrbotten 96 99 467 408
+36 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Palliativaregistret:Iredovisningening˚arindividerd¨argrundsjukdomen¨arcancer.Bed¨omdmunh¨alsa
+– M˚alniv˚a 90%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 32. Norra sjukv˚ardsregionen
+Tabell 29. Bed¨omd munh¨alsa
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 60 57 1611 1646
+Region
+V¨asternorrland 63 60 441 468
+J¨amtland 50 51 232 248
+V¨asterbotten 66 58 471 522
+Norrbotten 56 58 467 408
+37
+Palliativa registret: I redovisningen ing˚ar individer d¨ar grundsjukdomen ¨ar cancer. Med start 2022
+redovisas andel d¨odsplats efterfr˚agades ej”, vars andel skall understiga 15%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 33. Norra sjukv˚ardsregionen
+Tabell 30. O¨nskem˚al om d¨odsplats k¨ant
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 22 19 1413 1362
+Region
+V¨asternorrland 11 9 386 399
+J¨amtland 14 18 203 202
+V¨asterbotten 22 14 417 426
+Norrbotten 37 38 407 335
+38 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Palliativa registret: I redovisningen ing˚ar individer d¨ar grundsjukdomen ¨ar cancer. Ordination av
+injektionsl¨akemedel mot˚angest– M˚alniv˚a 95%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 34. Norra sjukv˚ardsregionen
+Tabell 31. Ordination av injektionsl¨akemedel mot˚ang-
+est
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Sjukv˚ardsregion
+Norra regionen 97 99 1611 1646
+Region
+V¨asternorrland 98 99 441 468
+J¨amtland 97 100 232 248
+V¨asterbotten 97 98 471 522
+Norrbotten 94 98 467 408
+39
+3.9 Prostatacancer
+Prostatacancer: Andel m¨an med prostatacancer som tilldelats kontaktsjuksk¨oterska skall vara h¨ogre ¨an
+70%. I SoS NR motsvaras indikatorn av indikator 1.10, som ¨ar en allm¨an indikator f¨or m˚anga cancer-
+former. SoS m˚alniv˚a ¨ar 100% (sida 34 i M˚alniv˚aer). Eftersom patienten ibland byter v˚ardgivare under
+v˚ardprocessen finns m¨ojlighet att rapportera p˚a samtliga formul¨ar. Det r¨acker att en v˚ardgivare har
+angivit kontaktsjuksk¨oterska f¨or att indikatorn ska anses vara uppfylld. F¨or ytterligare information om
+kontaktsk¨oterskans uppgifter se: Referens kontaktsjuksk¨oterska.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 35. Norra sjukv˚ardsregionen
+Tabell 32. Andel m¨an med prostatacancer som tillde-
+lats kontaktsjuksk¨oterska
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 88 89 10792 9351
+Sjukv˚ardsregion
+Norra regionen 95 96 780 849
+Region
+V¨asternorrland 99 99 267 300
+J¨amtland 99 100 152 151
+V¨asterbotten 98 99 312 317
+Norrbotten 47 68 49 81
+Sjukhus
+Kalix 0 17 18 12
+Kiruna 80 100 15 23
+Lycksele 94 100 48 38
+NUS 98 99 196 204
+Skellefte˚a 100 100 68 75
+Sunderbyn 69 65 16 46
+Sundsvall 99 99 252 287
+O¨stersund 99 100 152 151
+O¨vik 100 92 15 13
+40 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Prostatacancer: Andel som har rapporterad ePROM-enk¨at 1˚ar efter kurativ behandling skall vara
+h¨ogre ¨an 70%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 36. Norra sjukv˚ardsregionen
+Tabell 33. AndelsomharrapporteradePROM-enk¨at1
+˚ar efter kurativ behandling
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 75 79 6822 1426
+Sjukv˚ardsregion
+Norra regionen 64 77 477 116
+Region
+V¨asternorrland 70 69 125 36
+J¨amtland 69 94 108 16
+V¨asterbotten 56 73 165 41
+Norrbotten 62 82 79 22
+Sjukhus
+NUS 55 74 243 57
+Sundsvall 70 69 159 36
+O¨stersund 81 100 53 12
+41
+Prostatacancer: Andel m¨an h¨ogst 80˚ar med h¨ogriskcancer eller cancer med mycket h¨og risk utan
+fj¨arrmetastaser som diskuterats p˚a MDK skall vara h¨ogre ¨an 40%. Definitionen av multidisciplin¨arkon-
+ferens i NPCR ¨ar att urolog och onkolog deltar.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 37. Norra sjukv˚ardsregionen
+Tabell 34. Multidisciplin¨ar konferens/mottagning (h¨o-
+grisk/mycket h¨og risk)
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 86 84 2234 1885
+Sjukv˚ardsregion
+Norra regionen 85 76 154 185
+Region
+V¨asternorrland 93 82 67 89
+J¨amtland 69 61 26 18
+V¨asterbotten 93 79 43 53
+Norrbotten 65 60 17 25
+Sjukhus
+Kalix 56 80 9 5
+Kiruna 60 5 <5
+Lycksele 71 83 7 6
+NUS 96 78 27 40
+Skellefte˚a 100 77 9 13
+Sunderbyn 40 <5 15
+Sundsvall 92 84 63 86
+O¨stersund 67 54 24 13
+O¨vik <5 <5
+42 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Prostatacancer: V¨antetid fr˚an operationsanm¨alan till operation som prim¨arbehandling f¨or m¨an med
+h¨ogriskcancer eller cancer med mycket h¨og risk. Andel inom 28 dagar skall vara h¨ogre ¨an 40%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 38. Norra sjukv˚ardsregionen
+Tabell 35. V¨antetid fr˚an beslut till operation (h¨og-
+risk/mycketh¨ogrisk),andelinom28dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 59 61 533 476
+Sjukv˚ardsregion
+Norra regionen 65 72 20 29
+Region
+V¨asternorrland 83 <5 6
+J¨amtland 86 7 <5
+V¨asterbotten 50 50 8 10
+Norrbotten 82 <5 11
+Sjukhus
+NUS 50 50 10 10
+Sundsvall <5 <5
+O¨stersund 80 5 <5
+43
+Prostatacancer: V¨antetid fr˚an operationsanm¨alan till operation som prim¨arbehandling f¨or m¨an med
+h¨ogriskcancer eller cancer med mycket h¨og risk, mediantid inom 28 dagar.
+50
+45
+40
+35
+33 33.5
+30
+26
+25
+22.5 23
+20
+15
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 39. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 36. V¨antetid fr˚an beslut till operation (h¨og-
+risk/mycket h¨og risk), median
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 25 25 533 476
+Sjukv˚ardsregion
+Norra regionen 22 23 20 29
+Region
+V¨asternorrland 23 <5 6
+J¨amtland 16 7 <5
+V¨asterbotten 28 29 8 10
+Norrbotten 17 <5 11
+Sjukhus
+NUS 29 29 10 10
+Sundsvall <5 <5
+O¨stersund 14 5 <5
+44 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Prostatacancer: V¨antetid fr˚an behandlingsbeslut hos onkolog till str˚albehandling (utan neoadjuvant
+hormonbehandling) som prim¨arbehandling f¨or m¨an med mellanriskcancer. Andel inom 30 dagar skall
+vara h¨ogre ¨an 40%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 40. Norra sjukv˚ardsregionen
+Tabell 37. V¨antetid fr˚an beslut till str˚albehandling
+(mellanrisk), andel inom 30 dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 19 17 612 357
+Sjukv˚ardsregion
+Norra regionen 49 28 65 53
+Region
+V¨asternorrland 20 20 5 5
+J¨amtland 35 17 <5
+V¨asterbotten 65 30 34 30
+Norrbotten 33 21 9 14
+Sjukhus
+NUS 60 30 43 46
+Sundsvall 29 29 21 7
+45
+Prostatacancer: V¨antetid fr˚an behandlingsbeslut hos onkolog till str˚albehandling (utan neoadjuvant
+hormonbehandling) som prim¨arbehandling f¨or m¨an med mellanriskcancer, mediantid inom 30 dagar.
+55
+50
+45
+40
+38.5
+36
+35
+31 32.5 32
+30
+25
+20
+15
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 41. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 38. V¨antetid fr˚an beslut till str˚albehandling
+(mellanrisk), median
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 47 47 612 357
+Sjukv˚ardsregion
+Norra regionen 32 36 65 53
+Region
+V¨asternorrland 36 34 5 5
+J¨amtland 37 17 <5
+V¨asterbotten 28 40 34 30
+Norrbotten 42 34 9 14
+Sjukhus
+NUS 28 36 43 46
+Sundsvall 37 34 21 7
+46 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Prostatacancer: V¨antetid fr˚an provtagning till PAD-besked till patient, andel inom 11 dagar skall
+vara h¨ogre ¨an 40%. I SVF anges att m¨ote ska ske med patienten h¨ogst elva dagar efter biopsitagning.
+I NPCR registreras om denna v¨antetid var f¨orl¨angd pga. patientens val. NPCR registrerar ocks˚a om
+information gavs vid mottagningsbes¨ok, via telefon, eller brev.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 42. Norra sjukv˚ardsregionen
+Tabell 39. V¨antetid fr˚an provtagning till PAD-besked
+till patient, andel inom 11 dagar
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 11 15 10272 8598
+Sjukv˚ardsregion
+Norra regionen 16 14 747 768
+Region
+V¨asternorrland 32 30 259 281
+J¨amtland 6 4 147 155
+V¨asterbotten 6 4 309 296
+Norrbotten 23 19 30 36
+Sjukhus
+Kalix 6 8 18 12
+Kiruna 43 14 14 22
+Lycksele 8 7 49 41
+NUS 6 2 188 172
+Skellefte˚a 7 4 70 81
+Sundsvall 34 31 243 272
+O¨stersund 6 3 137 151
+O¨vik 0 0 15 11
+47
+Prostatacancer: V¨antetid fr˚an provtagning till PAD-besked till patient, mediantid inom 11 dagar. I
+SVF anges att m¨ote ska ske med patienten h¨ogst elva dagar efter biopsitagning. I NPCR registreras
+om denna v¨antetid var f¨orl¨angd pga. patientens val. NPCR registrerar ocks˚a om information gavs vid
+mottagningsbes¨ok, via telefon, eller brev.
+25
+21
+20 20
+19 19
+18
+15
+10
+5
+0
+2020 2021 2022 2023 2024
+ragadnaideM
+Figur 43. Norra sjukv˚ardsregionen. 50% av v¨antetiderna ligger inom lodr¨at linje.
+Tabell 40. V¨antetid fr˚an provtagning till PAD-besked
+till patient, median
+Mediantid Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 19 19 10272 8598
+Sjukv˚ardsregion
+Norra regionen 20 21 747 768
+Region
+V¨asternorrland 15 15 259 281
+J¨amtland 21 25 147 155
+V¨asterbotten 21 21 309 296
+Norrbotten 14 20 30 36
+Sjukhus
+Kalix 14 14 18 12
+Kiruna 14 21 14 22
+Lycksele 28 30 49 41
+NUS 21 21 188 172
+Skellefte˚a 22 21 70 81
+Sundsvall 14 14 243 272
+O¨stersund 21 25 137 151
+O¨vik 25 26 15 11
+48 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+3.10 Sk¨oldk¨ortelcancer
+Enligt beslut fr˚an registergruppen redovisas ej ¨oppen statistik p˚a sjukhusniv˚a.
+Sk¨oldk¨ortelcancer: Preoperativ fastst¨alld malignitet. Endast papill¨ar eller medull¨ar cancer om pato-
+logisk T-stadium >= T1b. M˚alniv˚a 60% (enligt cancerplanen f¨or norra regionen 2022-2024).
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 44. Norra sjukv˚ardsregionen
+Tabell 41. Preoperativ fastst¨alld malignitet
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 68 64 283 169
+Sjukv˚ardsregion
+Norra regionen 75 44 32 27
+49
+Sk¨oldk¨ortelcancer: Behandlingsbeslut taget p˚a multidisciplin¨ar konferens (MDK). Endast patienter
+med patologisk T-stadium >= T1b. M˚alniv˚a 90%.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 45. Norra sjukv˚ardsregionen
+Tabell 42. Behandlingsbeslut taget p˚a multidisciplin¨ar
+konferens (MDK)
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 96 97 435 252
+Sjukv˚ardsregion
+Norra regionen 98 98 51 48
+50 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Sk¨oldk¨ortelcancer: Namngiven kontaktsjuksk¨oterska skall finnas f¨or 90% av patienterna.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 46. Norra sjukv˚ardsregionen
+Tabell 43. Namngiven kontaktsjuksk¨oterska skall fin-
+nas f¨or 90% av patienterna
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 92 87 663 383
+Sjukv˚ardsregion
+Norra regionen 100 100 84 65
+51
+3.11 Tjocktarmscancer
+Tjocktarmscancer: Andelen tjocktarmscancrar som inkluderats i studie (klinisk eller onkologisk) skall
+vara h¨ogre ¨an 40% (cancerplanen 2022-2024). P˚a sjukhusniv˚a redovisas resultat f¨or opererande sjukhus.
+Data redovisas bara till och med 2023 pga eftersl¨apning i registreringen av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 47. Norra sjukv˚ardsregionen
+Tabell 44. Tjocktarmscancer: Inkluderad i studie
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 19 17 4081 4057
+Sjukv˚ardsregion
+Norra regionen 3 6 368 398
+Region
+V¨asternorrland 7 4 94 108
+J¨amtland 0 0 54 61
+V¨asterbotten 4 15 121 137
+Norrbotten 0 0 99 92
+Sjukhus
+Lycksele <5 <5
+NUS 5 20 73 66
+Skellefte˚a 2 11 47 70
+Sunderbyn 0 0 99 92
+Sundsvall 13 6 52 66
+O¨stersund 0 0 54 61
+O¨vik 0 0 42 42
+52 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Tjocktarmscancer: Andelen minimalinvasiv kirurgi (laparoskopiskt opererade) skall vara h¨ogre ¨an
+60%. P˚a sjukhusniv˚a redovisas resultat f¨or opererande sjukhus.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 48. Norra sjukv˚ardsregionen
+Tabell 45. Tjocktarmscancer: Minimalinvasiv kirurgi
+genomf¨ord
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 73 77 5153 4375
+Sjukv˚ardsregion
+Norra regionen 77 82 473 364
+Region
+V¨asternorrland 82 88 124 96
+J¨amtland 72 73 61 59
+V¨asterbotten 71 87 168 112
+Norrbotten 80 75 120 97
+Sjukhus
+Lycksele <5
+NUS 73 84 114 92
+Skellefte˚a 70 100 53 20
+Sunderbyn 80 75 120 97
+Sundsvall 74 86 82 59
+O¨stersund 72 73 61 59
+O¨vik 98 89 42 37
+53
+Tjocktarmscancer:Andelentjocktarmscancerpatientersomgenomg˚attMMR/MSI-analysn˚agong˚ang
+(oavsett stadium) skall vara h¨ogre ¨an 80%. Fr˚agor om MSI/MMR-analys besvaras f¨or patienter som ge-
+nomg˚att resektionskirurgi (alternativt endoskopisk polypektomi) eller genomg˚att neoadjuvant, adjuvant
+eller generaliserad behandling. Med sjukhus avses f¨oretr¨adesvis opererande sjukhus. Data redovisas bara
+till och med 2023 pga eftersl¨apning i registreringen.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 49. Norra sjukv˚ardsregionen
+Tabell 46. Tjocktarmscancer: Andelen som genomg˚att
+MSI/MMR-analys
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 60 73 4232 4296
+Sjukv˚ardsregion
+Norra regionen 75 87 404 443
+Region
+V¨asternorrland 36 66 117 130
+J¨amtland 88 99 56 67
+V¨asterbotten 92 96 131 146
+Norrbotten 93 94 100 100
+Sjukhus
+Lycksele 100 <5 6
+NUS 92 95 78 73
+Skellefte˚a 96 97 49 67
+Sunderbyn 93 94 100 100
+Sundsvall 34 76 64 79
+O¨stersund 88 99 56 67
+O¨vik 38 51 53 51
+54 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Tjocktarmscancer: Andelen adjuvant behandlade, stadium I-III inom 8 veckor fr˚an operation skall
+vara h¨ogre ¨an 90%. Med sjukhus avses opererande sjukhus. Data redovisas bara till och med 2023 pga
+eftersl¨apning i registreringen av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 50. Norra sjukv˚ardsregionen
+Tabell 47. Tjocktarmscancer: V¨antetid fr˚an operation
+till adjuvant behandling
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 87 84 743 642
+Sjukv˚ardsregion
+Norra regionen 82 79 56 96
+Region
+V¨asternorrland 100 100 13 26
+J¨amtland 88 92 8 12
+V¨asterbotten 78 88 18 33
+Norrbotten 71 40 17 25
+Sjukhus
+NUS 80 88 10 17
+Skellefte˚a 75 88 8 16
+Sunderbyn 71 40 17 25
+Sundsvall 100 100 6 18
+O¨stersund 88 92 8 12
+O¨vik 100 100 7 8
+55
+Tjocktarmscancer: Andel tjocktarmscancerfall med v¨antetid fr˚an operation till PAD inom 21 dagar
+skall vara h¨ogre ¨an 90% (cancerplanen 2022-2024). Med sjukhus avses opererande sjuhus.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 51. Norra sjukv˚ardsregionen
+Tabell 48. Tjocktarmscancer: V¨antetid fr˚an operation
+till PAD
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 77 80 3726 2818
+Sjukv˚ardsregion
+Norra regionen 88 90 370 289
+Region
+V¨asternorrland 97 98 103 90
+J¨amtland 91 72 55 40
+V¨asterbotten 85 83 124 84
+Norrbotten 80 97 88 75
+Sjukhus
+Lycksele <5
+NUS 80 83 60 64
+Skellefte˚a 92 85 63 20
+Sunderbyn 80 97 88 75
+Sundsvall 100 100 60 47
+O¨stersund 91 72 55 40
+O¨vik 93 95 43 43
+56 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+Tjocktarmscancer: Andelen patienter som f˚att palliativ cytostatikabehandling och som genomg˚att
+RAS/RAF-analys skall vara h¨ogre ¨an 80%. Med sjukhus avses opererande sjukhus. Data redovisas upp-
+delat p˚a n¨ar palliativ cytostatikabehandling startade till och med 2023 pga eftersl¨apning i registreringen
+av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 52. Norra sjukv˚ardsregionen
+Tabell 49. Tjocktarmscancer: Andelen som genomg˚att
+RAS/RAF-analys
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 86 86 456 526
+Sjukv˚ardsregion
+Norra regionen 86 93 50 73
+Region
+V¨asternorrland 100 100 13 22
+J¨amtland 86 91 7 11
+V¨asterbotten 94 100 18 24
+Norrbotten 58 75 12 16
+Sjukhus
+Lycksele 100 6
+NUS 93 100 14 10
+Skellefte˚a 100 <5 8
+Sunderbyn 58 75 12 16
+Sundsvall 100 100 7 8
+O¨stersund 86 91 7 11
+O¨vik 100 100 6 14
+57
+¨
+3.12 Andtarmscancer
+A¨ndtarmscancer:Andelenrektalcancrarsomvaritmedin˚agonstudie(kliniskelleronkologisk)skallvara
+h¨ogre ¨an 40% enl cancerplanen 2022-2024. P˚a sjukhusniv˚a redovisas resultat f¨or opererande sjukhus.
+Data redovisas bara till och med 2023 pga eftersl¨apning i registreringen av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 53. Norra sjukv˚ardsregionen
+Tabell 50. A¨ndtarmscancer: Inkluderad i studie
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 24 21 1653 1717
+Sjukv˚ardsregion
+Norra regionen 9 9 129 160
+Region
+V¨asternorrland 24 6 34 31
+J¨amtland 0 0 14 16
+V¨asterbotten 9 22 44 59
+Norrbotten 0 0 37 54
+Sjukhus
+NUS 10 23 42 57
+Skellefte˚a <5 <5
+Sunderbyn 0 0 37 54
+Sundsvall 24 6 34 31
+O¨stersund 0 0 14 16
+58 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+A¨ndtarmscancer:Andelenminimalinvasivkirurgi(laparoskopisktopererade)skallvarah¨ogre¨an60%.
+Med sjukhus avses opererande sjukhus
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 54. Norra sjukv˚ardsregionen
+Tabell 51. A¨ndtarmscancer: Minimalinvasiv kirurgi
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 85 88 1484 1197
+Sjukv˚ardsregion
+Norra regionen 79 90 131 94
+Region
+V¨asternorrland 75 92 28 13
+J¨amtland 92 100 12 18
+V¨asterbotten 73 86 52 35
+Norrbotten 87 89 39 28
+Sjukhus
+NUS 73 86 52 35
+Sunderbyn 87 89 39 28
+Sundsvall 75 92 28 13
+O¨stersund 92 100 12 18
+59
+A¨ndtarmscancer: Andelen ¨andtarmscancerpatienter som genomg˚att MMR/MSI-analys n˚agon g˚ang
+(oavsett stadium) skall vara h¨ogre ¨an 80%. Fr˚agor om MSI/MMR-analys besvaras f¨or patienter som ge-
+nomg˚att resektionskirurgi (alternativt endoskopisk polypektomi) eller genomg˚att neoadjuvant, adjuvant
+eller generaliserad behandling. Med sjukhus avses f¨oretr¨adesvis opererande sjukhus. Data redovisas bara
+tom 2023 pga eftersl¨apning i registreringen
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 55. Norra sjukv˚ardsregionen
+Tabell 52. A¨ndtarmscancer: Andelen som genomg˚att
+MSI/MMR-analys
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 58 73 1836 1952
+Sjukv˚ardsregion
+Norra regionen 66 93 157 192
+Region
+V¨asternorrland 45 78 40 41
+J¨amtland 58 96 19 25
+V¨asterbotten 86 97 51 67
+Norrbotten 66 97 47 59
+Sjukhus
+Lycksele <5 <5
+NUS 87 97 46 63
+Skellefte˚a <5 <5
+Sunderbyn 66 97 47 59
+Sundsvall 42 79 38 38
+O¨stersund 58 96 19 25
+O¨vik <5 <5
+60 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+A¨ndtarmscancer: Andelen adjuvant behandlade, stadium I-III, inom 8 veckor skall vara h¨ogre ¨an
+90%. Med sjukhus avses opererande sjukhus. Data redovisas bara till och med 2023 pga eftersl¨apning i
+registreringen av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 56. Norra sjukv˚ardsregionen
+Tabell 53. A¨ndtarmscancer:V¨antetidfr˚anoperationtill
+adjuvant behandling
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 87 89 175 129
+Sjukv˚ardsregion
+Norra regionen 77 85 13 13
+Region
+V¨asternorrland <5 <5
+J¨amtland <5 <5
+V¨asterbotten 100 5 <5
+Norrbotten <5 <5
+Sjukhus
+NUS 100 5 <5
+Sunderbyn <5 <5
+Sundsvall <5 <5
+O¨stersund <5 <5
+61
+A¨ndtarmscancer: Andelen ¨andtarmscancerfall med v¨antetid fr˚an operation till PAD skall vara inom
+21 dagar f¨or 90% av patienterna. Med sjukhus avses opererande sjukhus.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023 2024
+Figur 57. Norra sjukv˚ardsregionen
+Tabell 54. A¨ndtarmscancer:V¨antetidfr˚anoperationtill
+PAD
+Procent Antaldiagnoser
+2023 2024 2023 2024
+Riket
+Riket 77 79 1366 950
+Sjukv˚ardsregion
+Norra regionen 90 87 128 91
+Region
+V¨asternorrland 96 100 28 13
+J¨amtland 83 82 12 17
+V¨asterbotten 84 79 51 34
+Norrbotten 95 93 37 27
+Sjukhus
+NUS 84 79 51 34
+Sunderbyn 95 93 37 27
+Sundsvall 96 100 28 13
+O¨stersund 83 82 12 17
+62 Uppf¨oljningavkvalitetsregisterfr˚annorraregionen-T¨ackningsgraderochm˚alindikatorer
+A¨ndtarmscancer: Andelen patienter som f˚att palliativ cytostatikabehandling och som genomg˚att
+RAS/RAF-analys skall vara h¨ogre ¨an 80%. Med sjukhus avses opererande sjukhus. Data redovisas upp-
+delat p˚a n¨ar palliativ cytostatikabehandling startade till och med 2023 pga eftersl¨apning i registreringen
+av onkologisk behandling.
+tnecorP
+Uppnått målet
+Ej uppnått målet
+Målnivå saknas
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2020 2021 2022 2023
+Figur 58. Norra sjukv˚ardsregionen
+Tabell 55. A¨ndtarmscancer: Andelen som genomg˚att
+RAS/RAF-analys
+Procent Antaldiagnoser
+2022 2023 2022 2023
+Riket
+Riket 85 82 205 207
+Sjukv˚ardsregion
+Norra regionen 97 91 34 34
+Region
+V¨asternorrland 86 100 7 9
+J¨amtland 82 <5 11
+V¨asterbotten 100 88 14 8
+Norrbotten 100 100 9 6
+Sjukhus
+Lycksele <5
+NUS 100 80 13 5
+Skellefte˚a <5 <5
+Sunderbyn 100 100 9 6
+Sundsvall 83 100 6 6
+O¨stersund 82 <5 11
+O¨vik <5 <5
+63

@@ -1,0 +1,22 @@
+region,total_pfizer_rate_100k,n_under,n_over,ses_rank,cornerstone,leverage_score,population,cluster_label,healthcare_region
+Blekinge,24.805530997373157,5,1,8,FALSE,24,157223,E. Mid-range standard,Södra
+Dalarna,17.44920536318776,6,0,15,FALSE,19,286546,E. Mid-range standard,Mellansverige
+Gotland,39.362975840973576,2,1,16,FALSE,10,60971,E. Mid-range standard,Stockholm-Gotland
+Gävleborg,21.788176751312562,5,2,3,FALSE,29,284558,E. Mid-range standard,Mellansverige
+Halland,57.95858279673346,0,4,21,FALSE,1,345074,D. Affluent mid-size,Västra
+Jämtland Härjedalen,32.37001181881827,4,2,17,FALSE,13,132839,E. Mid-range standard,Norra
+Jönköping,30.53979768059696,4,1,12,TRUE,26,370009,E. Mid-range standard,Sydöstra
+Kalmar,23.543547444307332,4,1,10,FALSE,20,246352,E. Mid-range standard,Sydöstra
+Kronoberg,29.01387256517057,5,2,14,FALSE,18,203351,E. Mid-range standard,Södra
+Norrbotten,43.43978762770493,5,1,2,TRUE,38,248620,E. Mid-range standard,Norra
+Skåne,49.698101532521456,2,4,11,FALSE,15,1428626,D. Affluent mid-size,Södra
+Stockholm,60.97099955646428,2,2,19,FALSE,7,2473307,D. Affluent mid-size,Stockholm-Gotland
+Sörmland,40.79033766440496,4,1,1,FALSE,29,301542,E. Mid-range standard,Mellansverige
+Uppsala,43.63686285277217,4,3,20,TRUE,18,407912,D. Affluent mid-size,Mellansverige
+Värmland,19.408294046241142,6,1,7,FALSE,27,283384,E. Mid-range standard,Mellansverige
+Västerbotten,39.48238943152473,4,1,18,TRUE,20,281138,E. Mid-range standard,Norra
+Västernorrland,31.475453287942415,4,0,6,FALSE,24,241458,E. Mid-range standard,Norra
+Västmanland,22.051657786724903,5,1,4,FALSE,28,281158,E. Mid-range standard,Mellansverige
+Västra Götaland,50.7665466507899,3,2,9,FALSE,19,1772821,D. Affluent mid-size,Västra
+Örebro,22.375354681799756,3,3,5,FALSE,23,308375,E. Mid-range standard,Mellansverige
+Östergötland,33.01964668978042,3,3,13,FALSE,15,472446,D. Affluent mid-size,Sydöstra

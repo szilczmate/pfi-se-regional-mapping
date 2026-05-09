@@ -1,0 +1,351 @@
+category,kpi,title,region_code,region,year,value
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0001,Region Stockholm,2024,37.26
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0003,Region Uppsala,2024,48.37
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0004,Region Sörmland,2024,39.9
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0005,Region Östergötland,2024,47.15
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0006,Region Jönköpings län,2024,50.01
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0007,Region Kronoberg,2024,41.19
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0008,Region Kalmar,2024,50.53
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0009,Region Gotland,2024,44.4
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0010,Region Blekinge,2024,45.54
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0012,Region Skåne,2024,43.99
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0013,Region Halland,2024,48.53
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0014,Västra Götalandsregionen,2024,49.11
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0017,Region Värmland,2024,35.76
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0018,Region Örebro län,2024,53.75
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0019,Region Västmanland,2024,51.66
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0020,Region Dalarna,2024,48.17
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0021,Region Gävleborg,2024,36.1
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0022,Region Västernorrland,2024,51.05
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0023,Region Jämtland Härjedalen,2024,33.28
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0024,Region Västerbotten,2024,44.54
+cancer_screening_detail,N70347,"Förekomst av tjocktarmscancer, kvinnor, antal/100 000 invånare",0025,Region Norrbotten,2024,38.08
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0001,Region Stockholm,2024,43.14
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0003,Region Uppsala,2024,51.87
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0004,Region Sörmland,2024,55.79
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0005,Region Östergötland,2024,41.16
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0006,Region Jönköpings län,2024,48.34
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0007,Region Kronoberg,2024,44.61
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0008,Region Kalmar,2024,50.6
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0009,Region Gotland,2024,31.12
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0010,Region Blekinge,2024,60.79
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0012,Region Skåne,2024,46.2
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0013,Region Halland,2024,49.8
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0014,Västra Götalandsregionen,2024,55.81
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0017,Region Värmland,2024,45.34
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0018,Region Örebro län,2024,49.09
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0019,Region Västmanland,2024,58.29
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0020,Region Dalarna,2024,48.92
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0021,Region Gävleborg,2024,48.44
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0022,Region Västernorrland,2024,56.64
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0023,Region Jämtland Härjedalen,2024,49.74
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0024,Region Västerbotten,2024,60.2
+cancer_screening_detail,N70348,"Förekomst av tjocktarmscancer, män, antal/100 000 invånare",0025,Region Norrbotten,2024,35.08
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0001,Region Stockholm,2023,56.82382134
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0003,Region Uppsala,2023,66.5480427
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0004,Region Sörmland,2023,65.94594595
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0005,Region Östergötland,2023,60.70038911
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0006,Region Jönköpings län,2023,71.78423237
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0007,Region Kronoberg,2023,61.25
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0008,Region Kalmar,2023,66.10169492
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0009,Region Gotland,2023,60.71428571
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0010,Region Blekinge,2024,70.19230769
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0012,Region Skåne,2024,66.87116564
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0013,Region Halland,2024,77.43190661
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0014,Västra Götalandsregionen,2024,68.28193833
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0017,Region Värmland,2024,80.46511628
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0018,Region Örebro län,2024,57.36842105
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0019,Region Västmanland,2024,77.38693467
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0020,Region Dalarna,2024,67.40331492
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0021,Region Gävleborg,2024,61.03286385
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0022,Region Västernorrland,2024,70.96774194
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0023,Region Jämtland Härjedalen,2024,70.10309278
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0024,Region Västerbotten,2024,67.13286713
+cancer_screening_detail,N70605,"Bröstcancerfall som upptäckts vid screening, andel (%)",0025,Region Norrbotten,2024,62.85714286
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0001,Region Stockholm,2024,88.24413573
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0003,Region Uppsala,2024,94.31913116
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0004,Region Sörmland,2024,91.46141215
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0005,Region Östergötland,2024,89.61263262
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0006,Region Jönköpings län,2024,93.15693431
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0007,Region Kronoberg,2024,88.83435583
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0008,Region Kalmar,2024,94.86921529
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0009,Region Gotland,2024,89.90147783
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0010,Region Blekinge,2024,95.77464789
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0012,Region Skåne,2024,92.66484588
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0013,Region Halland,2024,89.62169401
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0014,Västra Götalandsregionen,2024,88.0476393
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0017,Region Värmland,2024,94.86709441
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0018,Region Örebro län,2024,96.76724138
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0019,Region Västmanland,2024,96.43904483
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0020,Region Dalarna,2024,91.65907019
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0021,Region Gävleborg,2024,95.84741671
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0022,Region Västernorrland,2024,97.65765766
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0023,Region Jämtland Härjedalen,2024,92.27188082
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0024,Region Västerbotten,2024,96.07668301
+cancer_screening_detail,N70608,"Screening för våldsutsatthet under graviditet, andel (%)",0025,Region Norrbotten,2024,89.39130435
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0001,Region Stockholm,2024,94.31555073
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0003,Region Uppsala,2024,95.67211235
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0004,Region Sörmland,2024,94.58558934
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0005,Region Östergötland,2024,97.89587267
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0006,Region Jönköpings län,2024,96.46654159
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0007,Region Kronoberg,2024,89.27250308
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0008,Region Kalmar,2024,96.69421488
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0009,Region Gotland,2024,93.76558603
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0010,Region Blekinge,2024,93.14671815
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0012,Region Skåne,2024,89.24222602
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0013,Region Halland,2024,95.54030875
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0014,Västra Götalandsregionen,2024,98.15947013
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0017,Region Värmland,2024,98.70936902
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0018,Region Örebro län,2024,97.15328467
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0019,Region Västmanland,2024,94.94112516
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0020,Region Dalarna,2024,94.00468384
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0021,Region Gävleborg,2024,92.45951417
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0022,Region Västernorrland,2024,91.84177998
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0023,Region Jämtland Härjedalen,2024,94.35946463
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0024,Region Västerbotten,2024,94.50249886
+cancer_screening_detail,N70614,"Screening för riskbruk av alkohol före graviditet, andel (%)",0025,Region Norrbotten,2024,91.4495658
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0001,Region Stockholm,2024,304.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0003,Region Uppsala,2024,268.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0004,Region Sörmland,2024,299.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0005,Region Östergötland,2024,305.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0006,Region Jönköpings län,2024,289.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0007,Region Kronoberg,2024,263.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0008,Region Kalmar,2024,277.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0009,Region Gotland,2024,257.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0010,Region Blekinge,2024,315.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0012,Region Skåne,2024,319.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0013,Region Halland,2024,280.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0014,Västra Götalandsregionen,2024,288.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0017,Region Värmland,2024,318.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0018,Region Örebro län,2024,274.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0019,Region Västmanland,2024,343.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0020,Region Dalarna,2024,311.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0021,Region Gävleborg,2024,335.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0022,Region Västernorrland,2024,322.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0023,Region Jämtland Härjedalen,2024,310.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0024,Region Västerbotten,2024,310.0
+diabetes_cardio_care,N70346,"Förekomst av stroke, antal/100 000 invånare",0025,Region Norrbotten,2024,328.0
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0001,Region Stockholm,2024,53.98656274
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0003,Region Uppsala,2024,95.64841377
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0004,Region Sörmland,2024,35.4171316
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0005,Region Östergötland,2024,84.30038232
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0006,Region Jönköpings län,2024,75.71770948
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0007,Region Kronoberg,2024,61.98759841
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0008,Region Kalmar,2024,39.75696684
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0009,Region Gotland,2024,89.02960044
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0010,Region Blekinge,2024,100.0
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0012,Region Skåne,2024,15.47817801
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0013,Region Halland,2024,63.80880504
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0014,Västra Götalandsregionen,2024,58.23050898
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0017,Region Värmland,2024,30.2319913
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0018,Region Örebro län,2024,37.41921455
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0019,Region Västmanland,2024,35.78737785
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0020,Region Dalarna,2024,54.22556776
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0021,Region Gävleborg,2024,36.74807891
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0022,Region Västernorrland,2024,34.80861687
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0023,Region Jämtland Härjedalen,2024,36.49583734
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0024,Region Västerbotten,2024,80.7485106
+diabetes_cardio_care,N70537,"Kvalitetsindikatorer - Diabetes, index (max = 100)",0025,Region Norrbotten,2024,0.0
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0001,Region Stockholm,2024,84.62526845
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0003,Region Uppsala,2024,57.20251827
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0004,Region Sörmland,2024,3.7163126
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0005,Region Östergötland,2024,69.66130116
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0006,Region Jönköpings län,2024,41.1463659
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0007,Region Kronoberg,2024,42.0920696
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0008,Region Kalmar,2024,28.94280264
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0010,Region Blekinge,2024,29.21553257
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0012,Region Skåne,2024,0.0
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0014,Västra Götalandsregionen,2024,67.60551934
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0017,Region Värmland,2024,51.03084338
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0018,Region Örebro län,2024,100.0
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0019,Region Västmanland,2024,95.20776723
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0020,Region Dalarna,2024,28.52263989
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0021,Region Gävleborg,2024,66.18548367
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0022,Region Västernorrland,2024,83.45650949
+diabetes_cardio_care,N70544,"Kvalitetsindikatorer - Stroke, index (max = 100)",0024,Region Västerbotten,2024,42.41812447
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0001,Region Stockholm,2023,11.8
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0003,Region Uppsala,2023,15.2
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0004,Region Sörmland,2023,6.1
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0005,Region Östergötland,2023,9.9
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0006,Region Jönköpings län,2023,14.1
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0007,Region Kronoberg,2023,9.3
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0008,Region Kalmar,2023,5.9
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0009,Region Gotland,2023,10.3
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0010,Region Blekinge,2023,13.3
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0012,Region Skåne,2023,10.8
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0013,Region Halland,2023,8.5
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0014,Västra Götalandsregionen,2023,15.9
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0017,Region Värmland,2023,10.4
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0018,Region Örebro län,2023,9.7
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0019,Region Västmanland,2023,6.1
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0020,Region Dalarna,2023,10.3
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0021,Region Gävleborg,2023,6.7
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0022,Region Västernorrland,2023,12.5
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0023,Region Jämtland Härjedalen,2023,13.7
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0024,Region Västerbotten,2023,11.8
+diabetes_cardio_care,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,0025,Region Norrbotten,2023,12.2
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0001,Region Stockholm,2023,5.0
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0003,Region Uppsala,2023,5.1
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0004,Region Sörmland,2023,3.4
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0005,Region Östergötland,2023,4.7
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0006,Region Jönköpings län,2023,5.8
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0007,Region Kronoberg,2023,4.7
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0008,Region Kalmar,2023,3.6
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0009,Region Gotland,2023,5.4
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0010,Region Blekinge,2023,5.4
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0012,Region Skåne,2023,4.7
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0013,Region Halland,2023,4.2
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0014,Västra Götalandsregionen,2023,5.8
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0017,Region Värmland,2023,4.9
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0018,Region Örebro län,2023,4.7
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0019,Region Västmanland,2023,3.3
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0020,Region Dalarna,2023,5.2
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0021,Region Gävleborg,2023,4.1
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0022,Region Västernorrland,2023,4.7
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0023,Region Jämtland Härjedalen,2023,5.1
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0024,Region Västerbotten,2023,5.2
+diabetes_cardio_care,N70576,Osäkerhetstal - Invånare som använt internet eller digital tjänst för att göra e,0025,Region Norrbotten,2023,5.2
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0001,Region Stockholm,2024,74.07299002
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0003,Region Uppsala,2024,72.64831184
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0004,Region Sörmland,2024,0.0
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0005,Region Östergötland,2024,100.0
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0006,Region Jönköpings län,2024,77.21991606
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0007,Region Kronoberg,2024,15.86874132
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0008,Region Kalmar,2024,65.89883785
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0009,Region Gotland,2024,62.35562387
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0010,Region Blekinge,2024,56.46791039
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0012,Region Skåne,2024,62.49855852
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0013,Region Halland,2024,72.74162095
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0014,Västra Götalandsregionen,2024,30.2619665
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0017,Region Värmland,2024,68.25723756
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0018,Region Örebro län,2024,38.4557289
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0019,Region Västmanland,2024,43.29077532
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0020,Region Dalarna,2024,62.65605757
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0021,Region Gävleborg,2024,12.15993107
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0022,Region Västernorrland,2024,15.79199957
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0023,Region Jämtland Härjedalen,2024,64.70919914
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0024,Region Västerbotten,2024,62.56825774
+palliative,N70542,"Kvalitetsindikatorer - Palliativ vård, index (max = 100)",0025,Region Norrbotten,2024,32.01431322
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0001,Region Stockholm,2024,43.8
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0003,Region Uppsala,2024,39.1
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0004,Region Sörmland,2024,35.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0005,Region Östergötland,2024,36.9
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0006,Region Jönköpings län,2024,40.8
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0007,Region Kronoberg,2024,38.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0008,Region Kalmar,2024,37.8
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0010,Region Blekinge,2024,22.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0012,Region Skåne,2024,40.1
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0013,Region Halland,2024,40.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0014,Västra Götalandsregionen,2024,35.9
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0017,Region Värmland,2024,39.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0018,Region Örebro län,2024,38.8
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0019,Region Västmanland,2024,35.3
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0020,Region Dalarna,2024,40.2
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0021,Region Gävleborg,2024,29.1
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0022,Region Västernorrland,2024,37.6
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0023,Region Jämtland Härjedalen,2024,33.5
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0024,Region Västerbotten,2024,43.7
+patient_satisfaction,N00664,"Medborgarundersökningen - Förtroende för kommunens politiker, andel (%)",0025,Region Norrbotten,2024,37.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0001,Region Stockholm,2024,42.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0003,Region Uppsala,2024,43.9
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0004,Region Sörmland,2024,37.3
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0005,Region Östergötland,2024,36.1
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0006,Region Jönköpings län,2024,39.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0007,Region Kronoberg,2024,36.1
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0008,Region Kalmar,2024,36.6
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0010,Region Blekinge,2024,39.6
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0012,Region Skåne,2024,37.9
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0013,Region Halland,2024,40.9
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0014,Västra Götalandsregionen,2024,37.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0017,Region Värmland,2024,39.9
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0018,Region Örebro län,2024,40.7
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0019,Region Västmanland,2024,38.6
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0020,Region Dalarna,2024,36.9
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0021,Region Gävleborg,2024,34.8
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0022,Region Västernorrland,2024,35.8
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0023,Region Jämtland Härjedalen,2024,31.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0024,Region Västerbotten,2024,36.5
+patient_satisfaction,N00665,"Medborgarundersökningen - Förtroende för riksdagens politiker, andel (%)",0025,Region Norrbotten,2024,34.7
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0001,Region Stockholm,2024,86.7
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0003,Region Uppsala,2024,87.5
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0004,Region Sörmland,2024,84.0
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0005,Region Östergötland,2024,87.6
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0006,Region Jönköpings län,2024,86.6
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0007,Region Kronoberg,2024,86.7
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0008,Region Kalmar,2024,88.1
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0009,Region Gotland,2024,86.4
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0010,Region Blekinge,2024,84.5
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0012,Region Skåne,2024,85.1
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0013,Region Halland,2024,86.3
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0014,Västra Götalandsregionen,2024,83.8
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0017,Region Värmland,2024,85.8
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0018,Region Örebro län,2024,85.9
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0019,Region Västmanland,2024,85.6
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0020,Region Dalarna,2024,86.4
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0021,Region Gävleborg,2024,87.0
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0022,Region Västernorrland,2024,85.4
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0023,Region Jämtland Härjedalen,2024,86.5
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0024,Region Västerbotten,2024,86.8
+primary_care_continuity,N79503,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0025,Region Norrbotten,2024,84.3
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0001,Region Stockholm,2023,87.4
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0003,Region Uppsala,2023,86.7
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0004,Region Sörmland,2023,84.6
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0005,Region Östergötland,2023,88.0
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0006,Region Jönköpings län,2023,89.2
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0007,Region Kronoberg,2023,86.7
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0008,Region Kalmar,2023,89.4
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0009,Region Gotland,2023,87.8
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0010,Region Blekinge,2023,86.6
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0012,Region Skåne,2023,88.3
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0013,Region Halland,2023,89.7
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0014,Västra Götalandsregionen,2023,87.8
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0017,Region Värmland,2023,89.2
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0018,Region Örebro län,2023,88.4
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0019,Region Västmanland,2023,86.9
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0020,Region Dalarna,2023,89.2
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0021,Region Gävleborg,2023,87.1
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0022,Region Västernorrland,2023,87.9
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0023,Region Jämtland Härjedalen,2023,87.1
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0024,Region Västerbotten,2023,89.0
+primary_care_continuity,N79510,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0025,Region Norrbotten,2023,87.7
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0001,Region Stockholm,2024,78.8
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0003,Region Uppsala,2024,74.5
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0004,Region Sörmland,2024,73.9
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0005,Region Östergötland,2024,77.2
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0006,Region Jönköpings län,2024,81.4
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0007,Region Kronoberg,2024,77.4
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0008,Region Kalmar,2024,79.6
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0009,Region Gotland,2024,81.7
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0010,Region Blekinge,2024,77.4
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0012,Region Skåne,2024,79.3
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0013,Region Halland,2024,78.9
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0014,Västra Götalandsregionen,2024,78.1
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0017,Region Värmland,2024,78.6
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0019,Region Västmanland,2024,78.8
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0020,Region Dalarna,2024,80.5
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0021,Region Gävleborg,2024,76.0
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0022,Region Västernorrland,2024,77.7
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0023,Region Jämtland Härjedalen,2024,78.2
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0024,Region Västerbotten,2024,79.2
+primary_care_continuity,N79517,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0025,Region Norrbotten,2024,75.1
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0001,Region Stockholm,2023,81.3
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0003,Region Uppsala,2023,81.9
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0004,Region Sörmland,2023,79.4
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0005,Region Östergötland,2023,83.6
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0006,Region Jönköpings län,2023,83.3
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0007,Region Kronoberg,2023,80.6
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0008,Region Kalmar,2023,85.6
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0009,Region Gotland,2023,83.3
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0010,Region Blekinge,2023,81.3
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0012,Region Skåne,2023,81.2
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0013,Region Halland,2023,83.4
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0014,Västra Götalandsregionen,2023,81.8
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0017,Region Värmland,2023,83.5
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0018,Region Örebro län,2023,83.1
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0019,Region Västmanland,2023,82.9
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0020,Region Dalarna,2023,84.2
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0021,Region Gävleborg,2023,82.3
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0022,Region Västernorrland,2023,81.6
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0023,Region Jämtland Härjedalen,2023,81.7
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0024,Region Västerbotten,2023,84.2
+primary_care_continuity,N79525,Patientupplevd kvalitet avseende kontinuitet och koordinering hos patienter som ,0025,Region Norrbotten,2023,80.6

@@ -1,0 +1,36 @@
+category,kpi_id,title,year,regions_with_data
+vaccine_coverage,N01481,"MPR-vaccinerade 2-åringar, andel (%)",2024,21
+vaccine_coverage,N01482,"MPR-vaccinerade 9-åringar, andel (%)",2024,21
+vaccine_coverage,N01483,"HPV-vaccinerade flickor, andel (%)",2024,21
+vaccine_coverage,N01484,"HPV-vaccinerade pojkar, andel (%)",2024,21
+elderly_care,N00533,"Medborgarundersökningen - Äldreomsorgen fungerar bra i kommunen, andel (%)",2024,21
+elderly_care,N00592,Medborgarundersökningen - Bra utbud av ställen (t.ex. träffpunkter) för äldre at,2024,21
+elderly_care,N00980,"Äldre äldre av invånare 65+, andel (%)",2024,21
+elderly_care,N01719,"Invånare, 1 år eller äldre som flyttat in eller bytt distrikt i kommunen, andel ",2024,21
+primary_care_access,N00303,Tillgänglighet till tjänster - Kommunindex,2023,21
+primary_care_access,N00314,Tillgänglighet till tjänster – Kommunindex Kvinnor,2023,21
+primary_care_access,N00325,Tillgänglighet till tjänster – Kommunindex Män,2023,21
+primary_care_access,N00336,Tillgänglighet till tjänster - Regionindex,2024,21
+primary_care_access,N00347,Tillgänglighet till tjänster – Regionindex Kvinnor,2024,21
+wait_times,N70619,"Väntetid till prostatacancerbesked, andel (%)",2024,21
+wait_times,N70620,"Väntetid till första besök vid misstänkt prostatacancer, andel (%)",2024,21
+wait_times,N79221,"Väntande högst 90 dagar till första kontakt i specialiserad vård, andel (%)",2024,21
+wait_times,N79223,"Väntande högst 90 dagar på operation/åtgärd i specialiserad vård, andel (%)",2024,21
+wait_times,N79240,"Väntetid för väntande till första kontakt i specialiserad vård, antal dagar (med",2024,21
+oncology,N02013,"Lungcancer, dödlighet, 25+ år, antal/100 000 inv",2024,21
+oncology,N60910,"Incidens av cancer, åldersstandardiserat, antal/100 000 inv",2023,21
+oncology,N60911,"Incidens, livmoderhalscancer, antal/100 000 inv",2024,21
+oncology,N60912,"Incidens, lungcancer, antal/100 000 inv",2024,21
+oncology,N70342,"Förekomst av lungcancer, kvinnor, antal/100 000 invånare",2024,21
+respiratory,N70535,"Kvalitetsindikatorer - Astma och KOL, index (max = 100)",2024,21
+respiratory,N70626,"Patienter med KOL som genomgått mätning av FEV1/FVC efter bronkdilation, andel (",2024,21
+respiratory,N70627,"Patienter med KOL med hög symtombörda (CAT>20), andel (%)",2024,21
+respiratory,N70630,"Patienter med KOL som utfört spirometriundersökning, andel (%)",2024,21
+cardiovascular,N01439,"Incidens av hjärtinfarkter 25+ år, antal/100 000 inv",2024,21
+cardiovascular,N60920,"Incidens av hjärtinfarkter, åldersstandardiserat 20+ år, fyraårsmedelvärde, anta",2023,21
+cardiovascular,N70341,"Förekomst av akut hjärtinfarkt, antal/100 000 invånare",2024,21
+cardiovascular,N70539,"Kvalitetsindikatorer - Hjärtsjukvård, index (max = 100)",2024,21
+cardiovascular,N70556,Invånare som använt internet eller digital tjänst för att göra ett självtest (t ,2024,21
+rx_prescribing_patterns,N70880,"Antibiotikaförsäljning inkl. viss förskrivning till husdjur, recept/1000 inv",2024,21
+infectious_disease,N00404,"Antibiotikaförsäljning, recept/1000 inv",2024,21
+infectious_disease,N00487,"Antibiotikaförsäljning åldersstandardiserat, recept/1000 (medelbefolkning) inv",2024,21
