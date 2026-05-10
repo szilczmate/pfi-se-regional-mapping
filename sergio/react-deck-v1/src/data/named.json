@@ -1,0 +1,106 @@
+[
+  {
+    "rank": 1,
+    "name": "Jan Melin",
+    "roles": "LK ordförande (Uppsala) · NT-rådet rep (Mellansverige)",
+    "regions": "Dalarna · Gävleborg · Sörmland · Uppsala · Värmland · Västmanland · Örebro län",
+    "min_conf": "HIGH",
+    "score": 179.5
+  },
+  {
+    "rank": 2,
+    "name": "Jonas Claesson",
+    "roles": "NSG rep (Västra) · HSD (Västra Götalandsregionen)",
+    "regions": "VGR",
+    "min_conf": "HIGH",
+    "score": 163.5
+  },
+  {
+    "rank": 3,
+    "name": "Martin Engström",
+    "roles": "HSD (Skåne)",
+    "regions": "Skåne",
+    "min_conf": "HIGH",
+    "score": 70
+  },
+  {
+    "rank": 4,
+    "name": "Johan Rosenqvist",
+    "roles": "NSG rep (Sydöstra) · HSD (Kalmar)",
+    "regions": "Jönköpings län · Kalmar · Östergötland",
+    "min_conf": "HIGH",
+    "score": 159.2
+  },
+  {
+    "rank": 5,
+    "name": "Pia Näsvall",
+    "roles": "NSG rep (Norra) · HSD (Västerbotten)",
+    "regions": "Jämtland Härjedalen · Norrbotten · Västerbotten · Västernorrland",
+    "min_conf": "HIGH",
+    "score": 155
+  },
+  {
+    "rank": 6,
+    "name": "Rickard Malmström",
+    "roles": "NT-rådet rep (Stockholm-Gotland)",
+    "regions": "Gotland · Stockholm",
+    "min_conf": "HIGH",
+    "score": 114
+  },
+  {
+    "rank": 7,
+    "name": "Anna Lindhé",
+    "roles": "NT-rådet rep (Västra)",
+    "regions": "VGR",
+    "min_conf": "HIGH",
+    "score": 109.2
+  },
+  {
+    "rank": 8,
+    "name": "Linda Staaf",
+    "roles": "NT-rådet rep (Södra)",
+    "regions": "Blekinge · Halland · Kronoberg · Skåne",
+    "min_conf": "HIGH",
+    "score": 104.5
+  },
+  {
+    "rank": 9,
+    "name": "Johan Bratt",
+    "roles": "NSG rep (Stockholm-Gotland)",
+    "regions": "Gotland · Stockholm",
+    "min_conf": "HIGH",
+    "score": 102
+  },
+  {
+    "rank": 10,
+    "name": "Mårten Lindström",
+    "roles": "NT-rådet rep (Sydöstra)",
+    "regions": "Jönköpings län · Kalmar · Östergötland",
+    "min_conf": "HIGH",
+    "score": 99.8
+  },
+  {
+    "rank": 12,
+    "name": "Anders Bergström",
+    "roles": "NT-rådet rep (Norra)",
+    "regions": "Jämtland Härjedalen · Norrbotten · Västerbotten · Västernorrland",
+    "min_conf": "HIGH",
+    "score": 95
+  },
+  {
+    "rank": 99,
+    "name": "Magnus Johansson",
+    "roles": "NSG rep (Mellansverige) · HSD (Sörmland)",
+    "regions": "Dalarna · Gävleborg · Sörmland · Uppsala · Värmland · Västmanland · Örebro län",
+    "min_conf": "HIGH",
+    "score": 150
+  },
+  {
+    "rank": 99,
+    "name": "Emma Pihl",
+    "roles": "NSG rep (Södra) · HSD (Halland)",
+    "regions": "Blekinge · Halland · Kronoberg · Skåne",
+    "min_conf": "HIGH",
+    "score": 150
+  }
+]

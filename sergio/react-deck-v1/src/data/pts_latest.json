@@ -1,0 +1,692 @@
+{
+  "Region Blekinge": {
+    "Ibrance": {
+      "value": 9,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Dalarna": {
+    "Ibrance": {
+      "value": 24,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 10,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Gotland": {
+    "Ibrance": {
+      "value": 4,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Gävleborg": {
+    "Ibrance": {
+      "value": 22,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 13,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Halland": {
+    "Ibrance": {
+      "value": 22,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 5,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 24,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Jämtland Härjedalen": {
+    "Ibrance": {
+      "value": 8,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 14,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Jönköpings län": {
+    "Ibrance": {
+      "value": 30,
+      "year": 2025,
+      "source": "AVA"
+    }
+  },
+  "Region Kalmar": {
+    "Ibrance": {
+      "value": 13,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 5,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 5,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Kronoberg": {
+    "Ibrance": {
+      "value": 10,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Norrbotten": {
+    "Ibrance": {
+      "value": 4,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 8,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Skåne": {
+    "Ibrance": {
+      "value": 97,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 7,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 10,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 4,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 56,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Stockholm": {
+    "Ibrance": {
+      "value": 143,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 6,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 9,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 15,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 267,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Sweden": {
+    "Ibrance": {
+      "value": 635,
+      "year": 2025,
+      "source": "AVA"
+    }
+  },
+  "Södermanland": {
+    "Ibrance": {
+      "value": 12,
+      "year": 2025,
+      "source": "AVA"
+    }
+  },
+  "Region Uppsala": {
+    "Ibrance": {
+      "value": 34,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 50,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Värmland": {
+    "Ibrance": {
+      "value": 12,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 4,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 12,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Västerbotten": {
+    "Ibrance": {
+      "value": 10,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 7,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Västernorrland": {
+    "Ibrance": {
+      "value": 12,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 14,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Västmanland": {
+    "Ibrance": {
+      "value": 21,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 4,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 11,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Västra Götalandsregionen": {
+    "Ibrance": {
+      "value": 100,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 5,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 16,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 67,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Örebro län": {
+    "Ibrance": {
+      "value": 18,
+      "year": 2025,
+      "source": "AVA"
+    }
+  },
+  "Region Östergötland": {
+    "Ibrance": {
+      "value": 30,
+      "year": 2025,
+      "source": "AVA"
+    },
+    "Talzenna": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 7,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 45,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Sörmland": {
+    "Talzenna": {
+      "value": 0,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 29,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Jönköping": {
+    "Talzenna": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 2,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region Örebro": {
+    "Talzenna": {
+      "value": 1,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 3,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 4,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 28,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  },
+  "Region NATIONAL TOTAL": {
+    "Talzenna": {
+      "value": 31,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Lorbrena/Lorviqua": {
+      "value": 55,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Tukysa": {
+      "value": 58,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    },
+    "Paxlovid": {
+      "value": 669,
+      "year": 2024,
+      "source": "Socialstyrelsen",
+      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    }
+  }
+}

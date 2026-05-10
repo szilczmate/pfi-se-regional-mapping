@@ -1,0 +1,130 @@
+{
+  "Region Stockholm": [
+    {
+      "role": "HSN ordf · Talla Alkurdi (S)",
+      "focus": "ICU and acute-care margins; the fast läkarkontakt rollout; 580 mnkr to vårdcentraler in the 2026 budget.",
+      "pfizer": "Frame the conversation around budget-impact predictability and whether a therapy frees capacity rather than consumes it."
+    },
+    {
+      "role": "HSD · Anders Ahlsson",
+      "focus": "Karolinska tertiary-care capacity, the specialty workforce question, and vårdgaranti compliance.",
+      "pfizer": "Talk delivery practicality — infusion-chair allocation, referral pathway, implementation timing."
+    },
+    {
+      "role": "RD · Emma Lennartsson",
+      "focus": "Translates HSN and RS political directives into region operations. Beredskap and continuity of care.",
+      "pfizer": "Implementation timeline — when a national decision actually shows up in regional practice."
+    },
+    {
+      "role": "LK ordf · Mats Ek",
+      "focus": "Stewards the Janusinfo rekommendationslista. Evidence quality on new entrants; localisation of NT-rådet recommendations.",
+      "pfizer": "Regional formulary positioning and vårdprogram updates, not national subsidy questions."
+    },
+    {
+      "role": "NT-rådet rep · Rickard Malmström",
+      "focus": "Carries the Stockholm-Gotland perspective into NT-rådet recommendations and horisontspaning.",
+      "pfizer": "Pre-recommendation briefings on assets entering national review."
+    },
+    {
+      "role": "NSG rep · Johan Bratt",
+      "focus": "Coordinates Stockholm-Gotland strategic clinical-care priorities. Rare-disease infrastructure at Karolinska.",
+      "pfizer": "Hympavzi launch infrastructure — Stockholm holds the largest Swedish haemophilia market by SEK."
+    }
+  ],
+  "Region Skåne": [
+    {
+      "role": "HSN ordf (Anna Mannfalk, M)",
+      "priorities": "M-led HSN 2024-26 — wait-time reduction, prevention, budget discipline. Pharma question: capacity-sparing innovations + clear health-economic case at moderate budget impact."
+    },
+    {
+      "role": "HSD (Martin Engström)",
+      "priorities": "Healthcare-system steering; LAG hjärt-kärlsjukdomar (Beyonttra/Vyndaqel-riktlinje 2025-11-13); LAG onkologi. Pharma question: ATTR-CM operationalisation post-NAG-LOK template; HER2+ brain-mets pathway."
+    },
+    {
+      "role": "RD (Jonna Myrebris)",
+      "priorities": "Operations, regional scale, investments. Pharma question: regional procurement timing for klinikläkemedel; Skånes vårdprocess-arbete."
+    },
+    {
+      "role": "LK ordf (Stefan Nilsson)",
+      "priorities": "Skånelistan 2025 stewardship; Region Skåne Läkemedelsrådet rolling formulary updates; vårdriktlinjer pneumokocker 2026 lists Prevenar 20. Pharma question: Migrän Skånelistan 2025 + LAG-driven product-class revisions."
+    },
+    {
+      "role": "NT-rådet SVR-rep (Linda Staaf, apotekare)",
+      "priorities": "Carries Södra perspective into NT-rådet recommendations. Influence-score 104.5. Pharma question: pre-NT-rådet horisontspaning briefings + Södra positioning."
+    },
+    {
+      "role": "NSG-rep (Emma Pihl, Halland HSD)",
+      "priorities": "Coordinates Södra strategic clinical-care priorities (Skåne + Blekinge + Halland + Kronoberg). Influence-score 163.5 (highest in scope). Pharma question: cross-regional ATTR + breast cancer pathway harmonisation."
+    }
+  ],
+  "Region Halland": [
+    {
+      "role": "HSN structure (STRUCTURAL EXCEPTION)",
+      "priorities": "Halland operates with local municipal HSNs rather than a single regional HSN ordförande. Engagement routes through Regionstyrelsen ordförande Mikaela Waltersson (M) + Hälso- och sjukvårdsstyrelsen, NOT a single regional HSN ordf."
+    },
+    {
+      "role": "RD (Krister Björkegren)",
+      "priorities": "Region operations, integrated kommun+region care model. Pharma question: integrated care pathway operationalisation for chronic Pfizer products."
+    },
+    {
+      "role": "LK ordf (Tamara Adem)",
+      "priorities": "Halland formulary — Ibrance still leading CDK4/6 region (51.2% share, only Pfizer-leading region in Sweden). Verzenios +196% growth pressure. Pharma question: how to defend Ibrance position; Class-naive vs class-experienced positioning."
+    },
+    {
+      "role": "NT-rådet SVR-rep (Linda Staaf)",
+      "priorities": "Shared with Skåne. Pharma question: shared Södra positioning."
+    },
+    {
+      "role": "NSG-rep (Emma Pihl, Halland HSD — direct seat)",
+      "priorities": "Influence-score 163.5 (highest stakeholder lever in scope). Direct anchor for Pfizer engagement; cross-regional Södra coordination + access-pathway harmonisation. Pharma question: NSG-level priority signals for breast/CDK4/6 + ATTR."
+    }
+  ],
+  "Region Jönköpings län": [
+    {
+      "role": "NT-rådet acting Chair (Mårten Lindström, kardiologi)",
+      "priorities": "CHAIR through 2026-06-30 (transition to Holmström 2026-07-01). ATTR/cardio direct relevance to Vyndaqel transitions. Influence-score 99.8. Pharma question: pre-Holmström-transition strategic items + cardio-class horisontspaning + closure of in-flight items."
+    },
+    {
+      "role": "HSD (Mats Bojestig — pensioneras 2026)",
+      "priorities": "Outgoing; succession active. Pharma question: who comes in + pathway continuity for klinikläkemedel."
+    },
+    {
+      "role": "RD (Jane Ydman)",
+      "priorities": "Region operations + Jönköping reformer-cycle. Pharma question: scope of self-rule on klinikläkemedel + budget discipline."
+    },
+    {
+      "role": "HSN ordf (Thomas Gustafsson, S)",
+      "priorities": "Healthcare-board priorities — kostnadseffektiv vård. Pharma question: Verzenios +76% growth at 1,483 units — Ibrance defence story for Jönköping."
+    },
+    {
+      "role": "LK ordf (Maria Ekelund)",
+      "priorities": "Local formulary stewardship. Pharma question: Pfizer brand priorities including CDK4/6 defence; Prevenar 20 11.8% share (large MSD majority context)."
+    },
+    {
+      "role": "NSG-rep (Johan Rosenqvist, Kalmar HSD)",
+      "priorities": "Influence-score 159.2. Sydöstra coordination (Östergötland + Jönköping + Kalmar). Pharma question: cross-regional Sydöstra harmonisation + ATTR pathway."
+    }
+  ],
+  "Region Västerbotten": [
+    {
+      "role": "NSG Chair (Pia Näsvall, HSD Västerbotten)",
+      "priorities": "NSG Läkemedel CHAIR since 2025-10-01 — drives the national clinical-strategy signal-setting. Influence-score 155 (highest single Pfizer stakeholder lever in northern context). Pharma question: NSG-level priority signals for 2026 + NAG LOK behandlingsrekommendationer pipeline."
+    },
+    {
+      "role": "NT-rådet Vice Chair (Anders Bergström, Norrbotten apotekare)",
+      "priorities": "Carries Norra perspective into NT-rådet AND vice chair under Holmström from 2026-07-01. Influence-score 95. Pharma question: pre-NT-rådet briefings + ATMP-bandwidth signals + class-level recommendation evolution."
+    },
+    {
+      "role": "RD (Tommy Svensson)",
+      "priorities": "ATTR reference centre at Norrlands universitetssjukhus Umeå (V30M founder cluster). Pharma question: ATTR-PN/CM implementation continuity and SVR-level coordination."
+    },
+    {
+      "role": "HSN ordf (Anna-Lena Danielsson, S)",
+      "priorities": "Regional access equity — large geography with sparse population. Pharma question: rural-access-friendly delivery models + telemedicine-supported specialty access."
+    },
+    {
+      "role": "LK ordf (Bo Sundqvist)",
+      "priorities": "Norrlandstinget formulary harmonisation across the four northern regions. Influence-score 75. Pharma question: northern-cornerstone (P1 ATTR) cross-regional positioning + Vyndaqel/Beyonttra parallel handling."
+    }
+  ]
+}

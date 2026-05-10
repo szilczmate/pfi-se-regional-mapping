@@ -1,0 +1,666 @@
+@import '@fontsource-variable/inter';
+
+/* ============================================================
+   DESIGN TOKENS — Pfizer Sweden Regional Landscape Mapping
+   ============================================================ */
+:root {
+  /* Brand */
+  --navy: #1B2944;
+  --navy-soft: #334260;
+  --navy-deep: #0F1A2E;
+
+  /* Greys */
+  --gray-1: #6B7280;
+  --gray-2: #9CA3AF;
+  --gray-3: #D1D5DB;
+  --gray-4: #E5E9EF;
+  --gray-5: #F4F6F9;
+
+  /* Backgrounds */
+  --bg-page: #ECEFF3;
+  --bg-card: #FFFFFF;
+  --bg-tint: #E8F4FB;
+  --bg-soft: #F7FAFD;
+
+  /* Accent (cyan-blue) */
+  --accent: #2A9DD0;
+  --accent-d: #1A7CA8;
+  --accent-l: #BCE3F2;
+  --accent-xl: #F0FAFE;
+
+  /* Status colors */
+  --warn: #DC2626;
+  --warn-l: #FEE2E2;
+  --gold: #D97706;
+  --gold-l: #FEF3C7;
+  --good: #15803D;
+  --good-l: #DCFCE7;
+
+  /* Track colors (4 tracks across all slides for visual consistency) */
+  --track-a: #1E40AF;          /* förmån — deep blue */
+  --track-a-soft: #DBEAFE;
+  --track-b: #92400E;          /* rekvisition — deep amber */
+  --track-b-soft: #FEF3C7;
+  --track-c: #15803D;          /* managed introduction — deep green */
+  --track-c-soft: #DCFCE7;
+  --track-d: #6B7280;          /* sub-regional — neutral grey */
+  --track-d-soft: #F3F4F6;
+
+  /* Confidence colors */
+  --conf-verified: #15803D;
+  --conf-observed: #2A9DD0;
+  --conf-inferred: #D97706;
+  --conf-open: #DC2626;
+
+  /* Typography scale */
+  --fs-cover-title: 60px;
+  --fs-cover-sub: 22px;
+  --fs-h1: 36px;
+  --fs-h2: 28px;
+  --fs-h3: 18px;
+  --fs-body: 13px;
+  --fs-small: 11px;
+  --fs-meta: 10px;
+  --fs-section-label: 11px;
+
+  /* Spacing scale (8-point grid) */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 20px;
+  --sp-6: 24px;
+  --sp-8: 32px;
+  --sp-10: 40px;
+
+  /* Radius */
+  --r-1: 3px;
+  --r-2: 4px;
+  --r-3: 6px;
+
+  /* Shadow */
+  --shadow: 0 2px 8px rgba(20, 30, 60, 0.06);
+  --shadow-h: 0 4px 16px rgba(20, 30, 60, 0.10);
+  --shadow-card: 0 1px 3px rgba(20, 30, 60, 0.05), 0 4px 12px rgba(20, 30, 60, 0.04);
+}
+
+/* ============================================================
+   RESET + BASE
+   ============================================================ */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: 'Inter Variable', system-ui, sans-serif;
+  background: var(--bg-page);
+  color: var(--navy);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================================
+   PRESENTATION SHELL — fixed 1280×720, scaled to fit viewport
+   ============================================================ */
+.presentation {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.slide-stage {
+  width: 1280px;
+  height: 720px;
+  position: relative;
+  transform-origin: center center;
+  /* JS sets transform: scale(...) at runtime */
+}
+
+/* ============================================================
+   SLIDE — base layout
+   ============================================================ */
+.slide {
+  position: absolute;
+  inset: 0;
+  background: white;
+  box-shadow: 0 20px 60px rgba(20, 30, 60, 0.20);
+  display: none;
+  flex-direction: column;
+  overflow: hidden;
+}
+.slide.active { display: flex; }
+
+.topbar {
+  height: 4px;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.conf-strip {
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--gray-1);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
+}
+
+.body {
+  flex: 1;
+  padding: 28px 60px 0 60px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.section-label {
+  font-size: var(--fs-section-label);
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  margin-bottom: var(--sp-2);
+  text-transform: uppercase;
+}
+
+.slide-title {
+  font-size: var(--fs-h1);
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.1;
+  margin-bottom: 6px;
+}
+
+.slide-subtitle {
+  font-size: 14px;
+  color: var(--gray-1);
+  margin-bottom: 22px;
+  line-height: 1.45;
+}
+
+.foot {
+  height: 36px;
+  flex-shrink: 0;
+  border-top: 1px solid var(--gray-4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 60px;
+  font-size: 9.5px;
+  color: var(--gray-2);
+}
+.foot .center {
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gray-1);
+}
+.foot .brand {
+  font-weight: 600;
+  color: var(--accent);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+/* ============================================================
+   COVER — slide 1
+   ============================================================ */
+.cover-bg {
+  flex: 1;
+  background:
+    radial-gradient(circle at 80% 20%, rgba(42, 157, 208, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 20% 80%, rgba(42, 157, 208, 0.05) 0%, transparent 50%),
+    linear-gradient(180deg, white 0%, #FAFCFD 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 100px;
+  position: relative;
+}
+.cover-eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+}
+.cover-title {
+  font-size: var(--fs-cover-title);
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1.05;
+  margin-bottom: 24px;
+  max-width: 900px;
+}
+.cover-sub {
+  font-size: var(--fs-cover-sub);
+  color: var(--navy-soft);
+  line-height: 1.4;
+  margin-bottom: 60px;
+  font-weight: 400;
+  max-width: 850px;
+}
+.cover-meta { display: flex; gap: 50px; }
+.cover-meta-item .label {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gray-1);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.cover-meta-item .val {
+  font-size: 15px;
+  color: var(--navy);
+  font-weight: 600;
+}
+.cover-accent-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 250px;
+  height: 6px;
+  background: var(--accent);
+}
+
+/* ============================================================
+   KPI CARDS (reusable across slides 21/22/24/etc.)
+   ============================================================ */
+.kpi-grid {
+  display: grid;
+  gap: 12px;
+}
+.kpi-grid.cols-2 { grid-template-columns: repeat(2, 1fr); }
+.kpi-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+.kpi-grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
+
+.kpi {
+  background: var(--bg-soft);
+  border-radius: var(--r-2);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.kpi-value {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.kpi-label {
+  font-size: 10.5px;
+  color: var(--gray-1);
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+/* ============================================================
+   CARD (generic content card)
+   ============================================================ */
+.card {
+  background: white;
+  border-radius: var(--r-2);
+  box-shadow: var(--shadow-card);
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+}
+.card-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--navy);
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+.card-body { font-size: 11.5px; color: var(--navy-soft); line-height: 1.55; }
+
+.card-accent { border-left: 4px solid var(--accent); }
+.card-track-a { border-left: 4px solid var(--track-a); background: var(--track-a-soft); }
+.card-track-b { border-left: 4px solid var(--track-b); background: var(--track-b-soft); }
+.card-track-c { border-left: 4px solid var(--track-c); background: var(--track-c-soft); }
+.card-track-d { border-left: 4px solid var(--track-d); background: var(--track-d-soft); }
+.card-warn { border-left: 4px solid var(--warn); background: var(--warn-l); }
+.card-good { border-left: 4px solid var(--good); background: var(--good-l); }
+.card-gold { border-left: 4px solid var(--gold); background: var(--gold-l); }
+
+/* ============================================================
+   TLDR ROW — slide 4 / scorecard
+   ============================================================ */
+.tldr-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  flex: 1;
+  align-content: center;
+}
+.tldr-card {
+  background: white;
+  border-left: 4px solid var(--accent);
+  border-radius: var(--r-2);
+  box-shadow: var(--shadow);
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 340px;
+}
+.tldr-num {
+  font-size: 56px;
+  font-weight: 800;
+  color: var(--navy);
+  line-height: 1;
+  margin-bottom: 6px;
+  font-variant-numeric: tabular-nums;
+}
+.tldr-num .unit {
+  font-size: 24px;
+  color: var(--accent);
+  font-weight: 600;
+  margin-left: 2px;
+}
+.tldr-headline {
+  font-size: 14px;
+  color: var(--navy);
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 12px;
+}
+.tldr-detail { font-size: 11.5px; color: var(--gray-1); line-height: 1.55; }
+.tldr-tag {
+  display: inline-block;
+  background: var(--accent-l);
+  color: var(--accent-d);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+/* ============================================================
+   STAKEHOLDER ROW — slide 25 / appendix governance
+   ============================================================ */
+.stk-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--gray-4);
+}
+.stk-row:last-child { border-bottom: none; }
+.stk-role {
+  flex: 0 0 35%;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--navy-soft);
+}
+.stk-name {
+  flex: 1;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--navy);
+}
+.stk-priority {
+  font-size: 10px;
+  color: var(--gray-1);
+  line-height: 1.45;
+  margin-top: 2px;
+}
+
+/* ============================================================
+   TABLES (DMM, scorecard, portfolio)
+   ============================================================ */
+.dmm-wrap {
+  flex: 1;
+  overflow: auto;
+  border: 1px solid var(--gray-4);
+  border-radius: var(--r-2);
+}
+table.dmm, table.rp-table, table.score-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+}
+table th {
+  background: var(--gray-5);
+  color: var(--navy);
+  font-weight: 700;
+  padding: 8px 10px;
+  text-align: left;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  border-bottom: 2px solid var(--gray-3);
+}
+table td {
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--gray-4);
+  color: var(--navy-soft);
+}
+table tr:hover td { background: var(--bg-soft); }
+table .numeric { text-align: right; font-variant-numeric: tabular-nums; }
+table .product { font-weight: 600; color: var(--navy); }
+
+/* Trend pill (sparkline column / inline) */
+.rp-trend {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 10px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.rp-trend.declining { background: var(--warn-l); color: var(--warn); }
+.rp-trend.growing { background: var(--good-l); color: var(--good); }
+.rp-trend.stable { background: var(--gray-5); color: var(--gray-1); }
+.rp-trend.launch { background: var(--accent-l); color: var(--accent-d); }
+.rp-trend.prelaunch {
+  background: white;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+}
+
+/* ============================================================
+   GOVERNANCE / SVR / NPO
+   ============================================================ */
+.gov-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  flex: 1;
+  overflow: hidden;
+}
+.gov-card {
+  background: white;
+  border-radius: var(--r-2);
+  box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.gov-card-header {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--gray-4);
+}
+.gov-card-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--navy);
+}
+.gov-card-subtitle {
+  font-size: 10px;
+  color: var(--gray-1);
+  margin-top: 2px;
+  line-height: 1.35;
+}
+.gov-card-body {
+  padding: 8px 14px;
+  flex: 1;
+  overflow-y: auto;
+}
+.gov-row {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--gray-4);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.gov-row:last-child { border-bottom: none; }
+.gov-name {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--navy);
+}
+.gov-role {
+  font-size: 9.5px;
+  color: var(--gray-1);
+  margin-top: 1px;
+  line-height: 1.4;
+}
+.gov-tag {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 8px;
+  font-size: 8.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: var(--accent-l);
+  color: var(--accent-d);
+  white-space: nowrap;
+}
+.gov-tag.warn { background: var(--gold-l); color: var(--gold); }
+
+/* ============================================================
+   SOURCE LINE
+   ============================================================ */
+.source-note {
+  font-size: 9.5px;
+  color: var(--gray-2);
+  font-style: italic;
+  margin-top: var(--sp-3);
+}
+
+/* ============================================================
+   CONFIDENCE PILL
+   ============================================================ */
+.conf-pill {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 8px;
+  font-size: 8.5px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.conf-pill.verified { background: var(--good-l); color: var(--conf-verified); }
+.conf-pill.observed { background: var(--accent-l); color: var(--conf-observed); }
+.conf-pill.inferred { background: var(--gold-l); color: var(--conf-inferred); }
+.conf-pill.open { background: var(--warn-l); color: var(--conf-open); }
+
+/* ============================================================
+   NAVIGATION (bottom)
+   ============================================================ */
+.nav-bar {
+  position: fixed;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: rgba(27, 41, 68, 0.85);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 24px;
+  font-size: 11px;
+  z-index: 100;
+  backdrop-filter: blur(8px);
+}
+.nav-bar button {
+  background: transparent;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 4px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 11px;
+  transition: background 0.15s;
+}
+.nav-bar button:hover { background: rgba(255, 255, 255, 0.15); }
+.nav-bar button:disabled { opacity: 0.3; cursor: not-allowed; }
+.nav-counter { font-variant-numeric: tabular-nums; min-width: 50px; text-align: center; }
+
+/* ============================================================
+   TOC OVERLAY
+   ============================================================ */
+.toc-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(27, 41, 68, 0.92);
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+  overflow: auto;
+}
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  max-width: 1100px;
+}
+.toc-item {
+  background: white;
+  color: var(--navy);
+  padding: 10px 12px;
+  border-radius: var(--r-2);
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 600;
+  transition: transform 0.15s;
+  text-align: left;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.toc-item:hover { transform: translateY(-2px); box-shadow: var(--shadow-h); }
+.toc-num { font-size: 9px; color: var(--accent); letter-spacing: 0.06em; text-transform: uppercase; }
+
+/* ============================================================
+   HELPERS
+   ============================================================ */
+.flex-row { display: flex; gap: var(--sp-4); }
+.flex-col { display: flex; flex-direction: column; }
+.flex-1 { flex: 1; }
+.gap-2 { gap: var(--sp-2); }
+.gap-3 { gap: var(--sp-3); }
+.gap-4 { gap: var(--sp-4); }
+.muted { color: var(--gray-1); }
+.tabular { font-variant-numeric: tabular-nums; }
+.text-center { text-align: center; }
+
+/* ============================================================
+   PRINT
+   ============================================================ */
+@media print {
+  @page { size: 1280px 720px; margin: 0; }
+  html, body { background: white; overflow: visible; height: auto; }
+  .presentation { position: static; }
+  .slide-stage { transform: none !important; width: 1280px; height: 720px; page-break-after: always; }
+  .slide { display: flex !important; position: relative; box-shadow: none; }
+  .nav-bar, .toc-overlay { display: none !important; }
+}
