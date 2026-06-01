@@ -7,11 +7,10 @@ export function Slide14_Closing({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="Where this could go next"
       title="From a deck to a live dashboard"
-      subtitle="A short note on how this same work could continue, if it would be useful."
     >
       <div style={{
         flex: 1, display: 'grid', gridTemplateColumns: '1.1fr 1fr',
-        gap: 24, alignItems: 'center', padding: '20px 0',
+        gap: 24, alignItems: 'start', alignContent: 'start', paddingTop: 24,
       }}>
 
         {/* Left narrative */}
@@ -19,7 +18,7 @@ export function Slide14_Closing({ isActive }: SlideProps) {
           <p style={{ fontSize: 14, color: 'var(--navy)', lineHeight: 1.6, margin: 0 }}>
             Most of what we have just walked through is built once and then ages. Stakeholders
             change seats, NT-rådet recommendations land, agreements expire, and new products
-            enter the picture, all on a quiet but constant cadence.
+            enter the picture.
           </p>
           <p style={{ fontSize: 14, color: 'var(--navy-soft)', lineHeight: 1.6, margin: 0 }}>
             One natural next step would be to take the same data behind this deck and put it

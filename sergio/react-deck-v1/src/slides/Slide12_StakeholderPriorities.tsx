@@ -8,16 +8,8 @@ interface PriorityRow {
   pfizer: string
 }
 
-const REGIONS = [
-  'Region Stockholm',
-  'Region Skåne',
-  'Region Halland',
-  'Region Jönköpings län',
-  'Region Västerbotten',
-] as const
-
 interface Props extends SlideProps {
-  region?: typeof REGIONS[number]
+  region?: string
 }
 
 type RoleType = 'political' | 'operational' | 'formulary' | 'national'
@@ -44,9 +36,8 @@ export function Slide12_StakeholderPriorities({ isActive, region = 'Region Stock
   return (
     <Slide
       isActive={isActive}
-      sectionLabel={`Stockholm — governance · ${regionShort}`}
-      title="What's at each decision-maker's table"
-      subtitle="Six seats, six different sets of priorities. The right Pfizer question depends on which one you're talking to."
+      sectionLabel={`${regionShort} · governance`}
+      title="Each decision-maker's priorities"
     >
       <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, overflow: 'hidden' }}>
         {data.filter(d => d.focus).map((p, i) => {
@@ -76,7 +67,7 @@ export function Slide12_StakeholderPriorities({ isActive, region = 'Region Stock
                 }}>
                   Focus
                 </span>
-                <span style={{ fontSize: 10.5, color: 'var(--navy-soft)', lineHeight: 1.5 }}>
+                <span style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5 }}>
                   {p.focus}
                 </span>
               </div>
@@ -87,7 +78,7 @@ export function Slide12_StakeholderPriorities({ isActive, region = 'Region Stock
                 }}>
                   Pfizer angle
                 </span>
-                <span style={{ fontSize: 10.5, color: 'var(--navy-soft)', lineHeight: 1.5 }}>
+                <span style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5 }}>
                   {p.pfizer}
                 </span>
               </div>

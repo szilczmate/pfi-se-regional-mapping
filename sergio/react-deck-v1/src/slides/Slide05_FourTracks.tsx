@@ -4,7 +4,7 @@ import type { SlideProps } from '../types'
 const TRACKS = [
   {
     key: 'A',
-    label: 'Track A — Outpatient prescription (förmån)',
+    label: 'Track A · Outpatient prescription (förmån)',
     body: <>
       TLV decides nationally on subsidy and the maximum public price. The decision applies
       in every region and is not repeated regionally. Regions pay through their own budgets
@@ -17,9 +17,9 @@ const TRACKS = [
   },
   {
     key: 'B',
-    label: 'Track B — Hospital / requisition (rekvisition)',
+    label: 'Track B · Hospital / requisition (rekvisition)',
     body: <>
-      Regions buy directly under public-procurement law for hospital-administered medicines —
+      Regions buy directly under public-procurement law for hospital-administered medicines,
       typically infusions and ATMP-like therapies. Net prices are usually confidential, which
       makes the visible part of the conversation look quite different from the förmån track.
     </>,
@@ -27,7 +27,7 @@ const TRACKS = [
   },
   {
     key: 'C',
-    label: 'Track C — National managed introduction',
+    label: 'Track C · National managed introduction',
     body: <>
       NT-rådet decides whether a new medicine enters national collaboration and, if it does,
       recommends to regions in a four-phrase language:{' '}
@@ -39,7 +39,7 @@ const TRACKS = [
   },
   {
     key: 'D',
-    label: 'Track D — Sub-regional implementation',
+    label: 'Track D · Sub-regional implementation',
     body: <>
       Each region's drugs and therapeutics committee publishes its own formulary. National
       care-programme groups (NPO, NAG, RCC) write the clinical guidance that operationalises
@@ -55,7 +55,7 @@ export function Slide05_FourTracks({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="The architecture"
       title="Sweden's pharmaceutical access architecture"
-      subtitle="Four parallel decision tracks. The track a product sits on shapes which conversations matter and where to have them."
+      subtitle="Four parallel decision tracks, plus a fifth for vaccines. The track a product sits on determines where its access is decided."
     >
       <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, overflow: 'hidden' }}>
         {TRACKS.map(t => (
@@ -67,7 +67,7 @@ export function Slide05_FourTracks({ isActive }: SlideProps) {
                      t.key === 'C' ? 'var(--track-c)' : 'var(--track-d)',
               marginBottom: 6,
             }}>{t.label}</div>
-            <div style={{ fontSize: 10.5, color: 'var(--navy-soft)', lineHeight: 1.55 }}>
+            <div style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55 }}>
               {t.body}
             </div>
           </div>
@@ -77,14 +77,19 @@ export function Slide05_FourTracks({ isActive }: SlideProps) {
       <div style={{
         marginTop: 12, padding: '8px 14px', background: 'var(--bg-soft)',
         borderLeft: '3px solid var(--accent)', borderRadius: 3,
-        fontSize: 10.5, color: 'var(--navy-soft)', lineHeight: 1.55,
+        fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55,
       }}>
-        <strong style={{ color: 'var(--navy)' }}>Vaccines.</strong> Vaccines do not move
-        through these four tracks in the usual way. Folkhälsomyndigheten sets recommendations
-        and runs the national programmes; regions execute through procurement. Some adult
-        vaccines (e.g. Apexxnar / Prevenar 20) also have a TLV reimbursement decision for
-        risk groups, but the operative decision sits with the public-health authority and
+        <strong style={{ color: 'var(--navy)' }}>Track E · Vaccines.</strong> Vaccines run
+        on a fifth pattern. Folkhälsomyndigheten sets the recommendations and runs the
+        national programmes; regions execute through procurement. Some adult vaccines
+        (e.g. Apexxnar / Prevenar 20) also carry a TLV reimbursement decision for risk
+        groups, but the operative decision sits with the public-health authority and
         regional procurement.
+        <br /><br />
+        <strong style={{ color: 'var(--navy)' }}>RSV is the exception.</strong> Rather than
+        the standard vaccine route, it was steered through Track C (NT-rådet managed
+        introduction). The track a product lands on is decided case by case,
+        not by category.
       </div>
 
       <div className="source-note">

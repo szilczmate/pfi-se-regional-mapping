@@ -4,6 +4,7 @@ interface Props {
   value: ReactNode
   label: ReactNode
   unit?: string
+  sub?: ReactNode
   tone?: 'default' | 'accent' | 'warn' | 'good'
 }
 
@@ -14,7 +15,7 @@ const toneStyle: Record<string, React.CSSProperties> = {
   good: { borderLeft: '3px solid var(--good)' },
 }
 
-export function KPI({ value, label, unit, tone = 'default' }: Props) {
+export function KPI({ value, label, unit, sub, tone = 'default' }: Props) {
   return (
     <div className="kpi" style={toneStyle[tone]}>
       <div className="kpi-value">
@@ -22,6 +23,7 @@ export function KPI({ value, label, unit, tone = 'default' }: Props) {
         {unit && <span style={{ fontSize: '13px', color: 'var(--gray-1)', fontWeight: 500, marginLeft: 3 }}>{unit}</span>}
       </div>
       <div className="kpi-label">{label}</div>
+      {sub && <div style={{ fontSize: 9, color: 'var(--gray-2)', marginTop: 2, fontVariantNumeric: 'tabular-nums' }}>{sub}</div>}
     </div>
   )
 }

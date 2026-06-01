@@ -45,8 +45,15 @@ export function LineChart({
 
   const yScale = (v: number) => padT + plotH - ((v - yMin) / yRange) * plotH
 
+  const svgH = height + (showLegend ? 16 : 0)
   return (
-    <svg width={width} height={height + (showLegend ? 16 : 0)}>
+    <svg
+      viewBox={`0 0 ${width} ${svgH}`}
+      width="100%"
+      height="auto"
+      preserveAspectRatio="xMidYMid meet"
+      style={{ maxWidth: width, display: 'block' }}
+    >
       {title && (
         <text x={padL} y={12} fontSize={9.5} fontWeight={600} fill="var(--navy)">
           {title}

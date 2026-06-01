@@ -5,29 +5,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 17,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 119,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Södra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Södra"
     }
   },
   "Region Dalarna": {
@@ -36,29 +27,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 8,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 10,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Region Gotland": {
@@ -67,29 +49,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 5,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 109,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Stockholm Sörmland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Stockholm Sörmland"
     }
   },
   "Region Gävleborg": {
@@ -98,29 +71,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 16,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 13,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Region Halland": {
@@ -129,29 +93,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 42,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 5,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 24,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 119,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Södra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Södra"
     }
   },
   "Region Jämtland Härjedalen": {
@@ -160,29 +115,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 3,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 14,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 141,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Norrland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Norrland"
     }
   },
   "Region Jönköpings län": {
@@ -190,6 +136,21 @@
       "value": 30,
       "year": 2025,
       "source": "AVA"
+    },
+    "Vydura": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 37,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Sydöstra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Sydöstra"
     }
   },
   "Region Kalmar": {
@@ -198,29 +159,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 16,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 5,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 5,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 37,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Sydöstra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Sydöstra"
     }
   },
   "Region Kronoberg": {
@@ -229,29 +181,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 18,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 119,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Södra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Södra"
     }
   },
   "Region Norrbotten": {
@@ -260,29 +203,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
+    "Vydura": {
       "value": 8,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 141,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Norrland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Norrland"
     }
   },
   "Region Skåne": {
@@ -291,29 +225,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 7,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 234,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 10,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 4,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 56,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 119,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Södra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Södra"
     }
   },
   "Region Stockholm": {
@@ -322,29 +247,35 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 6,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 647,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 109,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Stockholm Sörmland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Stockholm Sörmland"
     },
     "Lorbrena/Lorviqua": {
       "value": 9,
       "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+      "source": "Socialstyrelsen"
     },
     "Tukysa": {
       "value": 15,
       "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+      "source": "Socialstyrelsen"
     },
-    "Paxlovid": {
-      "value": 267,
+    "Talzenna": {
+      "value": 6,
       "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+      "source": "Socialstyrelsen"
     }
   },
   "Sweden": {
@@ -352,13 +283,35 @@
       "value": 635,
       "year": 2025,
       "source": "AVA"
+    },
+    "Vydura": {
+      "value": 1548,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     }
   },
-  "Södermanland": {
+  "Region Sörmland": {
     "Ibrance": {
       "value": 12,
       "year": 2025,
       "source": "AVA"
+    },
+    "Vydura": {
+      "value": 48,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 109,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Stockholm Sörmland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Stockholm Sörmland"
     }
   },
   "Region Uppsala": {
@@ -367,29 +320,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 32,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 50,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Region Värmland": {
@@ -398,29 +342,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 13,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 4,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 12,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Region Västerbotten": {
@@ -429,29 +364,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 5,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 7,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 141,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Norrland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Norrland"
     }
   },
   "Region Västernorrland": {
@@ -460,29 +386,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
+    "Vydura": {
       "value": 14,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 141,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Norrland); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Norrland"
     }
   },
   "Region Västmanland": {
@@ -491,29 +408,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 10,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 4,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 11,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Västra Götalandsregionen": {
@@ -522,29 +430,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 5,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 321,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 16,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 67,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 58,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to VGR); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "VGR"
     }
   },
   "Region Örebro län": {
@@ -552,6 +451,21 @@
       "value": 18,
       "year": 2025,
       "source": "AVA"
+    },
+    "Vydura": {
+      "value": 14,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
+    },
+    "Vyndaqel": {
+      "value": 45,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Mellansverige); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Mellansverige"
     }
   },
   "Region Östergötland": {
@@ -560,133 +474,20 @@
       "year": 2025,
       "source": "AVA"
     },
-    "Talzenna": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vydura": {
+      "value": 32,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Patients with dispensations in the latest single month (acute-treatment indication)"
     },
-    "Lorbrena/Lorviqua": {
-      "value": 7,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 45,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    }
-  },
-  "Region Sörmland": {
-    "Talzenna": {
-      "value": 0,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 29,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    }
-  },
-  "Region Jönköping": {
-    "Talzenna": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 2,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    }
-  },
-  "Region Örebro": {
-    "Talzenna": {
-      "value": 1,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 3,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 4,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 28,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    }
-  },
-  "Region NATIONAL TOTAL": {
-    "Talzenna": {
-      "value": 31,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Lorbrena/Lorviqua": {
-      "value": 55,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Tukysa": {
-      "value": 58,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
-    },
-    "Paxlovid": {
-      "value": 669,
-      "year": 2024,
-      "source": "Socialstyrelsen",
-      "note": "TODO: refresh to 2025 from sdb.socialstyrelsen.se/if_lak/val.aspx"
+    "Vyndaqel": {
+      "value": 37,
+      "year": 2026,
+      "source": "AVA",
+      "period": "2026-03-15",
+      "note": "Sjukvårdsregion-level (Vyndaqel ATTR data is aggregated to Sydöstra); count is the budget-year prevalence at the latest snapshot",
+      "aggregation_level": "Sydöstra"
     }
   }
 }

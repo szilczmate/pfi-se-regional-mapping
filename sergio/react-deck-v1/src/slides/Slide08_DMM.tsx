@@ -21,7 +21,7 @@ export function Slide08_DMM({ isActive }: SlideProps) {
       subtitle="Who holds each formal role in each region · structural exceptions noted · 91% verified"
     >
       <div className="dmm-wrap" style={{ flex: 1 }}>
-        <table className="dmm">
+        <table className="dmm dmm-compact">
           <thead>
             <tr>
               <th style={{ width: '18%' }}>Region</th>

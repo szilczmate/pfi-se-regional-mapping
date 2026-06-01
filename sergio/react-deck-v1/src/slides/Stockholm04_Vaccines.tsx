@@ -105,6 +105,7 @@ export function Stockholm04_Vaccines({ isActive }: SlideProps) {
           <div key={m.market} className="card" style={{
             padding: '14px 16px', display: 'flex', flexDirection: 'column', gap: 10,
             borderLeft: `4px solid ${m.border}`, background: 'white',
+            minWidth: 0, overflow: 'hidden',
           }}>
             {/* Header: market name + Pfizer product */}
             <div>

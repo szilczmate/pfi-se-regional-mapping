@@ -118,8 +118,38 @@ export function Stockholm05_PositioningQuadrant({ isActive }: SlideProps) {
               Growth · last 6 mo vs prior 6 mo
             </text>
 
+            {/* X axis tick labels — log decades + actual max anchor */}
+            {(() => {
+              const ticks: Array<{ v: number; label: string }> = [
+                { v: 1e6, label: '1 M' },
+                { v: 1e7, label: '10 M' },
+                { v: 1e8, label: '100 M' },
+              ]
+              const maxLabel = `${Math.round(X_LABEL_MAX / 1e6)} M`
+              return (
+                <g>
+                  {ticks.map(t => {
+                    const x = xPos(t.v)
+                    return (
+                      <g key={t.v}>
+                        <line x1={x} y1={PAD_T + PLOT_H} x2={x} y2={PAD_T + PLOT_H + 3}
+                          stroke="#9CA3AF" strokeWidth={0.8} />
+                        <text x={x} y={PAD_T + PLOT_H + 12} fontSize={9}
+                          fill="var(--gray-1)" textAnchor="middle">{t.label}</text>
+                      </g>
+                    )
+                  })}
+                  {/* Max anchor at right edge */}
+                  <line x1={PAD_L + PLOT_W} y1={PAD_T + PLOT_H} x2={PAD_L + PLOT_W} y2={PAD_T + PLOT_H + 3}
+                    stroke="#9CA3AF" strokeWidth={1} />
+                  <text x={PAD_L + PLOT_W} y={PAD_T + PLOT_H + 12} fontSize={9} fontWeight={700}
+                    fill="var(--navy-soft)" textAnchor="end">{maxLabel}</text>
+                </g>
+              )
+            })()}
+
             {/* X axis label */}
-            <text x={PAD_L + PLOT_W / 2} y={H - 8} fontSize={9.5} fill="var(--gray-1)" textAnchor="middle">
+            <text x={PAD_L + PLOT_W / 2} y={H - 4} fontSize={9.5} fill="var(--gray-1)" textAnchor="middle">
               Stockholm 3-yr SEK (log scale)
             </text>
 
@@ -178,24 +208,29 @@ export function Stockholm05_PositioningQuadrant({ isActive }: SlideProps) {
           <div className="card card-good" style={{ padding: '10px 12px' }}>
             <div style={{ fontSize: 11, fontWeight: 700, color: 'var(--good)' }}>Defend / expand</div>
             <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.5, margin: '4px 0 0 0' }}>
-              Vyndaqel and Xtandi anchor the high-SEK growing position in Stockholm. The posture
-              here is to defend the existing share while preparing for upcoming inflections
-              (Vyndaqel agreement ends August 2026; Xtandi mature, with Astellas coordination).
+              Vyndaqel anchors the quadrant; Elrexfio is climbing in on launch trajectory;
+              Lorviqua sits at the boundary on positive Stockholm momentum. Defend Vyndaqel
+              ahead of the August 2026 agreement renewal in a Beyonttra-shaped competitive
+              picture; support Elrexfio's launch; confirm whether Lorviqua sustains — the
+              gap between national care-programme positioning and the formal NT-rådet text
+              is the open thread.
             </p>
           </div>
           <div className="card card-warn" style={{ padding: '10px 12px' }}>
             <div style={{ fontSize: 11, fontWeight: 700, color: 'var(--warn)' }}>Recover</div>
             <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.5, margin: '4px 0 0 0' }}>
-              Ibrance is the recovery story: material SEK in Stockholm with a declining
-              trajectory. The brick-recovery analysis later in the deck identifies where
-              the headroom sits.
+              Ibrance and Xtandi both sit here. Ibrance is the deck's central recovery story
+              (material Stockholm SEK with a declining trajectory; the brick-recovery analysis
+              later in the deck identifies the headroom). Xtandi's decline is less expected
+              for a mature co-marketed product and warrants a coordinated Pfizer-Astellas
+              response.
             </p>
           </div>
           <div className="card" style={{ padding: '10px 12px', borderLeft: '4px solid var(--accent)' }}>
             <div style={{ fontSize: 11, fontWeight: 700, color: 'var(--accent-d)' }}>Build</div>
             <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.5, margin: '4px 0 0 0' }}>
-              Vydura, Tukysa and Talzenna are the build positions: smaller current SEK in
-              Stockholm but growing. Each has a clear clinical forum (the breast-cancer
+              Vydura, Tukysa and Talzenna are the build positions: smaller current Stockholm
+              SEK but strong growth. Each has a clear clinical forum (the breast-cancer
               care-programme group for Tukysa, specialist neurology for Vydura, the
               precision-oncology pathway for Talzenna).
             </p>
@@ -203,9 +238,9 @@ export function Stockholm05_PositioningQuadrant({ isActive }: SlideProps) {
           <div className="card" style={{ padding: '10px 12px', borderLeft: '4px solid var(--gray-2)' }}>
             <div style={{ fontSize: 11, fontWeight: 700, color: 'var(--gray-1)' }}>Monitor</div>
             <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.5, margin: '4px 0 0 0' }}>
-              Lower-SEK products without strong recent momentum. Worth a structured watch,
-              particularly Lorviqua, where the gap between national care-programme positioning
-              and the formal NT-rådet text is the open thread.
+              Currently empty for the Stockholm portfolio: no products combine low SEK with
+              flat or declining trajectory at the moment. Pre-launch products (Hympavzi) and
+              vaccines are excluded by construction.
             </p>
           </div>
         </div>

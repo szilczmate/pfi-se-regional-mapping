@@ -16,37 +16,48 @@ const cardHeader = (icon: React.ReactNode, title: string, color = 'var(--accent)
   </div>
 )
 
-const stk: any = (DATA as any[]).find(d => d.region === 'Region Stockholm')
+// National references (all 21 regions) for context.
+const ALL = DATA as any[]
+const sumF = (f: string) => ALL.reduce((s, d) => s + (d[f] ?? 0), 0)
+const TOTAL_POP = sumF('pop')
+const wAvg = (f: string) => ALL.reduce((s, d) => s + (d[f] ?? 0) * d.pop, 0) / TOTAL_POP
+const shareOfNat = (v: number, f: string) => (v / sumF(f)) * 100
+const NAT_65_2024 = ALL.reduce((s, d) => s + (d.pop_65_share / 100) * d.pop, 0)
+const NAT_GROWTH_65 = ((sumF('pop_65_2040') - NAT_65_2024) / NAT_65_2024) * 100
 
-export function Stockholm01_Overview({ isActive }: SlideProps) {
+interface Props extends SlideProps { region?: string }
+
+export function Stockholm01_Overview({ isActive, region = 'Region Stockholm' }: Props) {
+  const stk: any = (DATA as any[]).find(d => d.region === region)
+  const regionShort = region.replace('Region ', '').replace('Västra Götalandsregionen', 'VGR')
   return (
     <Slide
       isActive={isActive}
-      sectionLabel="Stockholm — region overview"
+      sectionLabel={`${regionShort} · region overview`}
       title="The region in numbers"
-      subtitle={`Sjukvårdsregion: ${stk?.svr || '—'}. Largest region by population, with the densest concentration of specialist infrastructure in Sweden.`}
+      subtitle={`Sjukvårdsregion: ${stk?.svr || '—'}. Demographics, projections and budget, shown against the national level.`}
     >
       <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14, alignContent: 'start' }}>
 
         <div className="card card-accent" style={{ padding: '14px 16px' }}>
           {cardHeader(<Icon name="people" />, 'Demographics today')}
           <KPIGrid cols={3}>
-            <KPI value={fmt.num(stk.pop)} label="Population" />
-            <KPI value={fmt.dec(stk.pop_65_share)} unit="%" label="65 + share" />
-            <KPI value={fmt.dec(stk.foreign_born_pct)} unit="%" label="Foreign-born" />
-            <KPI value={fmt.num(stk.births_2024)} label="Births 2024" />
-            <KPI value={fmt.num(stk.pop_women_15_44)} label="Women 15–44" />
-            <KPI value={fmt.num(stk.pop_0_1)} label="Infants 0–1" />
+            <KPI value={fmt.num(stk.pop)} label="Population" sub={`${shareOfNat(stk.pop, 'pop').toFixed(1)}% of Sweden`} />
+            <KPI value={fmt.dec(stk.pop_65_share)} unit="%" label="65 + share" sub={`Sweden ${fmt.dec(wAvg('pop_65_share'))}%`} />
+            <KPI value={fmt.dec(stk.foreign_born_pct)} unit="%" label="Foreign-born" sub={`Sweden ${fmt.dec(wAvg('foreign_born_pct'))}%`} />
+            <KPI value={fmt.num(stk.births_2024)} label="Births 2024" sub={`${shareOfNat(stk.births_2024, 'births_2024').toFixed(1)}% of Sweden`} />
+            <KPI value={fmt.num(stk.pop_women_15_44)} label="Women 15–44" sub={`${shareOfNat(stk.pop_women_15_44, 'pop_women_15_44').toFixed(1)}% of Sweden`} />
+            <KPI value={fmt.num(stk.pop_0_1)} label="Infants 0–1" sub={`${shareOfNat(stk.pop_0_1, 'pop_0_1').toFixed(1)}% of Sweden`} />
           </KPIGrid>
         </div>
 
         <div className="card card-accent" style={{ padding: '14px 16px' }}>
           {cardHeader(<Icon name="projection" />, 'Population projections')}
           <KPIGrid cols={2}>
-            <KPI value={fmt.num(stk.pop_2040)} label="Population 2040" />
-            <KPI value={fmt.num(stk.pop_65_2040)} label="65 + in 2040" />
-            <KPI value={`+${Math.round(stk.growth_65_2040)}%`} label="65 + growth → 2040" tone="accent" />
-            <KPI value={fmt.num(stk.pop_2050)} label="Population 2050" />
+            <KPI value={fmt.num(stk.pop_2040)} label="Population 2040" sub={`${shareOfNat(stk.pop_2040, 'pop_2040').toFixed(1)}% of Sweden`} />
+            <KPI value={fmt.num(stk.pop_65_2040)} label="65 + in 2040" sub={`${shareOfNat(stk.pop_65_2040, 'pop_65_2040').toFixed(1)}% of Sweden`} />
+            <KPI value={`+${Math.round(stk.growth_65_2040)}%`} label="65 + growth → 2040" tone="accent" sub={`Sweden +${Math.round(NAT_GROWTH_65)}%`} />
+            <KPI value={fmt.num(stk.pop_2050)} label="Population 2050" sub={`${shareOfNat(stk.pop_2050, 'pop_2050').toFixed(1)}% of Sweden`} />
           </KPIGrid>
         </div>
 

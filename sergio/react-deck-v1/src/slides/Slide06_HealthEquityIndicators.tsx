@@ -1,157 +1,143 @@
 import { Slide } from '../components/Slide'
+import { fmt } from '../lib/format'
 import type { SlideProps } from '../types'
 import DATA from '../data/data.json'
 
-interface RegionRow {
-  region: string
-  short: string
-  pop: number
-  premature_mortality_25_64?: number
-  hc_amenable_mortality?: number
+const REGION = 'Region Stockholm'
+const ALL = DATA as any[]
+
+const ordinal = (n: number): string => {
+  const s = ['th', 'st', 'nd', 'rd']
+  const v = n % 100
+  return n + (s[(v - 20) % 10] || s[v] || s[0])
 }
 
-const ROWS = (DATA as RegionRow[])
-  .filter(d => d.premature_mortality_25_64 != null)
-  .sort((a, b) => (a.premature_mortality_25_64 ?? 0) - (b.premature_mortality_25_64 ?? 0))
+interface Ind {
+  field: string
+  label: string
+  year: string
+  unit: string
+  dec: number
+}
 
-const VALUES = ROWS.map(r => r.premature_mortality_25_64 as number)
-const MIN = Math.min(...VALUES)
-const MAX = Math.max(...VALUES)
-const SCALE_MIN = MIN * 0.92
-const RANGE = MAX - SCALE_MIN
-const NATIONAL_AVG = VALUES.reduce((a, b) => a + b, 0) / VALUES.length
-const AVG_PCT = ((NATIONAL_AVG - SCALE_MIN) / RANGE) * 100
+// All four are "lower is better" — rank 1 = lowest = strongest outcome.
+const INDICATORS: Ind[] = [
+  { field: 'premature_mortality_25_64', label: 'Premature mortality, 25–64', year: '2024', unit: '/100k', dec: 0 },
+  { field: 'hc_amenable_mortality', label: 'Healthcare-amenable mortality', year: '2023', unit: '/100k', dec: 0 },
+  { field: 'suicide_25plus', label: 'Suicide, 25 +', year: '2024', unit: '/100k', dec: 1 },
+  { field: 'overweight_obese_pct', label: 'Overweight / obese', year: '2023', unit: '%', dec: 1 },
+]
+
+function Strip({ ind }: { ind: Ind }) {
+  const rows = ALL
+    .map(d => ({ short: d.short, v: d[ind.field] as number, pop: d.pop, stk: d.region === REGION }))
+    .filter(r => r.v != null)
+  const lo = Math.min(...rows.map(r => r.v))
+  const hi = Math.max(...rows.map(r => r.v))
+  const pad = (hi - lo) * 0.08 || 1
+  const a = lo - pad
+  const b = hi + pad
+  const pos = (v: number) => ((v - a) / (b - a)) * 100
+  const natAvg = rows.reduce((s, r) => s + r.v * r.pop, 0) / rows.reduce((s, r) => s + r.pop, 0)
+  const stk = rows.find(r => r.stk)!
+  const rankAsc = [...rows].sort((x, y) => x.v - y.v).findIndex(r => r.stk) + 1
+
+  return (
+    <div style={{ marginBottom: 16 }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 7 }}>
+        <span style={{ fontSize: 11, fontWeight: 700, color: 'var(--navy)' }}>
+          {ind.label} <span style={{ fontSize: 9, fontWeight: 500, color: 'var(--gray-1)' }}>{ind.year}</span>
+        </span>
+        <span style={{ fontSize: 9.5, color: 'var(--gray-1)' }}>
+          <span style={{ color: 'var(--accent-d)', fontWeight: 700 }}>
+            Sthlm {fmt.dec(stk.v, ind.dec)}{ind.unit}
+          </span>
+          {' · '}{ordinal(rankAsc)} lowest · Sweden {fmt.dec(natAvg, ind.dec)}{ind.unit}
+        </span>
+      </div>
+      <div style={{ position: 'relative', height: 16 }}>
+        {/* baseline */}
+        <div style={{ position: 'absolute', left: 0, right: 0, top: '50%', height: 2, background: 'var(--gray-5)', borderRadius: 2 }} />
+        {/* national average tick */}
+        <div style={{ position: 'absolute', top: -3, bottom: -3, left: `${pos(natAvg)}%`, width: 1.5, background: 'var(--navy)', opacity: 0.5 }} />
+        {/* region dots */}
+        {rows.map(r => (
+          <div key={r.short} title={`${r.short}: ${fmt.dec(r.v, ind.dec)}${ind.unit}`} style={{
+            position: 'absolute', top: '50%', left: `${pos(r.v)}%`,
+            width: r.stk ? 11 : 7, height: r.stk ? 11 : 7, borderRadius: '50%',
+            transform: 'translate(-50%, -50%)',
+            background: r.stk ? 'var(--accent)' : 'var(--gray-3)',
+            border: r.stk ? '1.5px solid white' : 'none',
+            boxShadow: r.stk ? '0 0 0 1.5px var(--accent)' : 'none',
+            zIndex: r.stk ? 3 : 1,
+          }} />
+        ))}
+      </div>
+    </div>
+  )
+}
 
 export function Slide06_HealthEquityIndicators({ isActive }: SlideProps) {
   return (
     <Slide
       isActive={isActive}
       sectionLabel="How regions plan"
-      title="The equity indicators that shape regional priorities"
-      subtitle="The indicators regions reference, the spread that makes a national average insufficient, and how the resource-allocation model partially compensates."
+      title="Equity indicators that shape regional priorities"
+      subtitle="The same view applied to four indicators: every region as a dot, the population-weighted national average marked, Stockholm highlighted. The resource-allocation model adjusts the grant for need."
     >
-      <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1.3fr 1fr', gap: 16, overflow: 'hidden' }}>
+      <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1.4fr 1fr', gap: 16, overflow: 'hidden' }}>
 
-        {/* Left: regional spread chart with national-average line */}
+        {/* Left: four indicators, same strip plot each */}
         <div className="card" style={{ padding: '14px 16px', display: 'flex', flexDirection: 'column' }}>
-          <div className="card-title">Premature mortality, ages 25 to 64, per 100,000 (2024)</div>
-          <div style={{ fontSize: 10, color: 'var(--gray-1)', marginTop: -4, marginBottom: 8 }}>
-            All 21 regions, sorted low to high. The dashed line is the national average ({Math.round(NATIONAL_AVG)} per 100k).
+          <div className="card-title">Where Stockholm sits in the 21-region spread</div>
+          <div style={{ fontSize: 10, color: 'var(--gray-1)', marginTop: -4, marginBottom: 12 }}>
+            Each dot is a region; the line marks the national average. Lower is better on all four.
           </div>
-
-          <div style={{ flex: 1, position: 'relative', display: 'flex', flexDirection: 'column', gap: 3 }}>
-            {/* National average dashed line — overlay positioned over the bar columns */}
-            <div style={{
-              position: 'absolute',
-              top: 0, bottom: 0,
-              left: `calc(94px + (100% - 94px - 36px - 12px) * ${AVG_PCT / 100})`,
-              borderLeft: '1.5px dashed var(--navy)',
-              opacity: 0.55,
-              pointerEvents: 'none',
-              zIndex: 2,
-            }}>
-              <div style={{
-                position: 'absolute', top: -2, left: 4,
-                fontSize: 9, fontWeight: 700, color: 'var(--navy)',
-                background: 'white', padding: '0 3px',
-                whiteSpace: 'nowrap',
-              }}>
-                national avg
-              </div>
-            </div>
-
-            {ROWS.map((r) => {
-              const v = r.premature_mortality_25_64 as number
-              const widthPct = ((v - SCALE_MIN) / RANGE) * 100
-              const above = v > NATIONAL_AVG
-              const fillColor = above ? 'var(--warn)' : 'var(--accent)'
-              const opacity = above ? 0.7 : 0.55
-              return (
-                <div key={r.region} style={{
-                  display: 'grid', gridTemplateColumns: '88px 1fr 36px',
-                  alignItems: 'center', gap: 6, fontSize: 9.5, position: 'relative', zIndex: 1,
-                }}>
-                  <div style={{ color: 'var(--navy)', textAlign: 'right', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
-                    {r.short}
-                  </div>
-                  <div style={{ position: 'relative', height: 12, background: 'var(--gray-5)', borderRadius: 2 }}>
-                    <div style={{
-                      position: 'absolute', top: 0, bottom: 0, left: 0,
-                      width: `${widthPct}%`, background: fillColor, opacity,
-                      borderRadius: 2,
-                    }} />
-                  </div>
-                  <div style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums', color: 'var(--navy)' }}>
-                    {Math.round(v)}
-                  </div>
-                </div>
-              )
-            })}
+          <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+            {INDICATORS.map(ind => <Strip key={ind.field} ind={ind} />)}
           </div>
-
-          <div style={{ marginTop: 8, fontSize: 9.5, color: 'var(--gray-1)', display: 'flex', gap: 14 }}>
-            <span><span style={{
-              display: 'inline-block', width: 10, height: 10, background: 'var(--accent)',
-              opacity: 0.55, borderRadius: 2, verticalAlign: 'middle', marginRight: 4,
-            }} />Below national average</span>
-            <span><span style={{
-              display: 'inline-block', width: 10, height: 10, background: 'var(--warn)',
-              opacity: 0.7, borderRadius: 2, verticalAlign: 'middle', marginRight: 4,
-            }} />Above national average</span>
+          <div style={{ display: 'flex', gap: 16, fontSize: 9, color: 'var(--gray-1)', marginTop: 4 }}>
+            <span><span style={{ display: 'inline-block', width: 8, height: 8, borderRadius: '50%', background: 'var(--accent)', verticalAlign: 'middle', marginRight: 4 }} />Stockholm</span>
+            <span><span style={{ display: 'inline-block', width: 8, height: 8, borderRadius: '50%', background: 'var(--gray-3)', verticalAlign: 'middle', marginRight: 4 }} />Other regions</span>
+            <span><span style={{ display: 'inline-block', width: 2, height: 10, background: 'var(--navy)', opacity: 0.5, verticalAlign: 'middle', marginRight: 5 }} />National average</span>
           </div>
         </div>
 
-        {/* Right: indicators + behovsmodell + Pfizer relevance */}
+        {/* Right: the need model + what it means */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-          <div className="card" style={{ padding: '10px 12px', borderLeft: '4px solid var(--accent)' }}>
+          <div className="card card-accent" style={{ padding: '11px 13px' }}>
             <div style={{
               fontSize: 10.5, fontWeight: 700, color: 'var(--accent)',
               letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: 5,
             }}>
-              The indicators in common use
+              The need model (behovsmodellen)
             </div>
-            <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
-              Premature mortality 25 to 64. Healthcare-amenable mortality. Suicide rates above 25.
-              Lifestyle drivers. The Care Need Index (Kolada N00992). Hälso- och sjukvårdsbarometern
-              for patient-reported access. Maintained by SCB, Folkhälsomyndigheten, Socialstyrelsen,
-              RCC and Kolada.
+            <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
+              SKR weights 22 demographic groups per region (age, education, household income, living situation)
+              against national average consumption to set each region's modellkostnad, then channels a larger grant
+              per capita to higher-need regions. Each region layers its own resursfördelningsmodell on top.
             </p>
           </div>
 
-          <div className="card card-accent" style={{ padding: '10px 12px' }}>
-            <div style={{
-              fontSize: 10.5, fontWeight: 700, color: 'var(--accent)',
-              letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: 5,
-            }}>
-              The behovsmodell, and what it does
-            </div>
-            <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
-              SKR distributes the state grant for the reimbursement system between the 21 regions,
-              weighted on age, household income, education and household type. Higher-need regions
-              receive more grant per capita. Each region then layers its own resursfördelningsmodell
-              for sub-regional distribution.
-            </p>
-          </div>
-
-          <div className="card" style={{
-            padding: '10px 12px', background: 'var(--bg-tint)',
-            borderLeft: '4px solid var(--good)',
-          }}>
+          <div className="card" style={{ padding: '11px 13px', background: 'var(--bg-tint)', borderLeft: '4px solid var(--good)' }}>
             <div style={{
               fontSize: 10.5, fontWeight: 700, color: 'var(--good)',
               letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: 5,
             }}>
-              Why this matters for engagement
+              Need, spend and equity
             </div>
-            <p style={{ fontSize: 10, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
-              Pfizer cannot influence the behovsmodell, but reading it gives useful context. Regions
-              high on premature mortality face more political pressure on access equity. They also
-              receive a relatively larger state grant, but typically still face tighter pharma
-              budgets per inhabitant. Therapies framed around equity-of-access tend to land
-              differently in those regions than in low-need ones.
+            <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
+              Stockholm sits among the lowest on all four indicators, so equity-of-access is not the lever here.
+              Higher-need regions carry more political pressure on access equity. Pharma spend per inhabitant does
+              not track need in a simple way: several higher-need northern regions spend more per capita
+              than Stockholm (see the läkemedel-budget slide), so an equity framing lands differently region to region.
             </p>
           </div>
         </div>
+      </div>
+
+      <div className="source-note">
+        Indicators from Kolada (premature mortality N01451 2024; healthcare-amenable mortality N79190 2023; suicide N61603 2024; overweight/obese N00955 2023); also referenced regionally: Care Need Index (Kolada N00992) and Hälso- och sjukvårdsbarometern. Behovsmodell: Överenskommelse läkemedelsförmånerna 2026 (SKR).
       </div>
     </Slide>
   )

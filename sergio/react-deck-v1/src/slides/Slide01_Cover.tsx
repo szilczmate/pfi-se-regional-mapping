@@ -8,8 +8,8 @@ export function Slide01_Cover({ isActive }: SlideProps) {
       <div className="cover-bg">
         <div className="cover-title">Pfizer Sweden Regional Landscape Mapping</div>
         <div className="cover-sub">
-          Who decides, what is on their table, what evidence they use,
-          and where Pfizer can lift the right questions.
+          Who decides on regional access, what shapes their priorities,
+          the evidence they use, and where Pfizer can lift the right questions.
         </div>
         <div style={{
           marginTop: 80, fontSize: 14, fontWeight: 600,

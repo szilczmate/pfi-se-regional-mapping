@@ -5,38 +5,38 @@ const STAGES = [
   {
     n: '1',
     label: 'Frame',
-    body: 'The four-track decision architecture as the organising principle.',
+    body: 'The four-track decision architecture (five with vaccines) as the organising principle.',
     color: 'var(--track-a)',
     soft: 'var(--track-a-soft)',
   },
   {
     n: '2',
     label: 'Map',
-    body: '21 regions × 7 roles, plus the three national bodies. 12 products positioned against the four tracks.',
+    body: '21 regions × 5 roles, plus the three national bodies: who holds each access decision and who governs around them.',
     color: 'var(--track-b)',
     soft: 'var(--track-b-soft)',
   },
   {
     n: '3',
     label: 'Analyse',
-    body: 'Brick-level commercial decomposition, patient-level depth where AVA gives it, regional archetypes.',
+    body: 'Each region on the same dimensions (demographics, equity, budget and disease burden), read against the priorities its decision-makers act on.',
     color: 'var(--track-c)',
     soft: 'var(--track-c-soft)',
   },
   {
     n: '4',
     label: 'Verify',
-    body: 'One workbook, every figure reconciles. Confidence tagged per claim. Open items flagged.',
+    body: 'One workbook in which every figure reconciles, with each claim confidence-tagged and open items flagged.',
     color: 'var(--accent)',
     soft: 'var(--accent-xl)',
   },
 ]
 
 const SOURCES = [
-  ['IQVIA Sell-In', 'commercial backbone'],
-  ['AVA', 'patient-level depth'],
   ['TLV · NT-rådet', 'access decisions'],
+  ['SKR', 'budget & spend'],
   ['SCB · Kolada · FoHM', 'regional context'],
+  ['Socialstyrelsen', 'guidance & forecasts'],
 ]
 
 export function Slide03_Methodology({ isActive }: SlideProps) {
@@ -46,14 +46,14 @@ export function Slide03_Methodology({ isActive }: SlideProps) {
       sectionLabel="Method"
       title="How the work was done"
     >
-      <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', paddingTop: 20, paddingBottom: 8 }}>
+      <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center', gap: 80, paddingTop: 8, paddingBottom: 8 }}>
 
         {/* Four-stage flow */}
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 18, position: 'relative' }}>
           {/* Connecting line */}
           <div style={{
             position: 'absolute',
-            top: 36, left: '12.5%', right: '12.5%',
+            top: 48, left: '12.5%', right: '12.5%',
             height: 2, background: 'linear-gradient(90deg, var(--track-a), var(--track-b), var(--track-c), var(--accent))',
             opacity: 0.25, zIndex: 0,
           }} />
@@ -61,22 +61,22 @@ export function Slide03_Methodology({ isActive }: SlideProps) {
           {STAGES.map(s => (
             <div key={s.n} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', position: 'relative', zIndex: 1 }}>
               <div style={{
-                width: 72, height: 72, borderRadius: '50%',
+                width: 96, height: 96, borderRadius: '50%',
                 background: s.soft, border: `2px solid ${s.color}`,
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
-                marginBottom: 12,
+                marginBottom: 16,
               }}>
-                <span style={{ fontSize: 28, fontWeight: 800, color: s.color, lineHeight: 1 }}>{s.n}</span>
+                <span style={{ fontSize: 40, fontWeight: 800, color: s.color, lineHeight: 1 }}>{s.n}</span>
               </div>
               <div style={{
-                fontSize: 14, fontWeight: 700, color: 'var(--navy)',
-                letterSpacing: '0.04em', marginBottom: 8, textTransform: 'uppercase',
+                fontSize: 15, fontWeight: 700, color: 'var(--navy)',
+                letterSpacing: '0.04em', marginBottom: 10, textTransform: 'uppercase',
               }}>
                 {s.label}
               </div>
               <p style={{
-                fontSize: 11.5, color: 'var(--navy-soft)', lineHeight: 1.55,
-                margin: 0, textAlign: 'center', padding: '0 8px',
+                fontSize: 13, color: 'var(--navy-soft)', lineHeight: 1.6,
+                margin: 0, textAlign: 'center', padding: '0 6px',
               }}>
                 {s.body}
               </p>
@@ -86,22 +86,22 @@ export function Slide03_Methodology({ isActive }: SlideProps) {
 
         {/* Source spine — minimal strip */}
         <div style={{
-          marginTop: 20, padding: '14px 20px', background: 'var(--bg-tint)',
+          marginTop: 0, padding: '18px 24px', background: 'var(--bg-tint)',
           borderRadius: 4, display: 'flex', justifyContent: 'space-around',
           alignItems: 'center', gap: 16,
         }}>
           {SOURCES.map(([src, role], i) => (
             <div key={src} style={{ display: 'flex', alignItems: 'center', gap: 16, flex: 1, justifyContent: 'center' }}>
               <div style={{ textAlign: 'center' }}>
-                <div style={{ fontSize: 11.5, fontWeight: 700, color: 'var(--navy)', marginBottom: 2 }}>
+                <div style={{ fontSize: 13, fontWeight: 700, color: 'var(--navy)', marginBottom: 3 }}>
                   {src}
                 </div>
-                <div style={{ fontSize: 9.5, color: 'var(--gray-1)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+                <div style={{ fontSize: 10.5, color: 'var(--gray-1)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
                   {role}
                 </div>
               </div>
               {i < SOURCES.length - 1 && (
-                <div style={{ width: 1, height: 32, background: 'var(--gray-3)' }} />
+                <div style={{ width: 1, height: 40, background: 'var(--gray-3)' }} />
               )}
             </div>
           ))}

@@ -37,7 +37,7 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
     <Slide
       isActive={isActive}
       sectionLabel="Part B · The stakeholders"
-      title="Three governance bodies · named seats"
+      title="Named seats on the governance bodies"
       subtitle="NT-rådet recommends · NSG coordinates clinical strategy · 21 regional formularies decide locally · Holmström succession 2026-07-01"
     >
       <div className="gov-grid">
@@ -71,11 +71,9 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
           </div>
           <div className="gov-card-body">
             {lkOrdf.map(l => (
-              <div className="gov-row" key={l.region} style={{ padding: '4px 0' }}>
-                <div style={{ flex: 1 }}>
-                  <div className="gov-name" style={{ fontSize: 10.5 }}>{l.name}</div>
-                  <div className="gov-role" style={{ fontSize: 9 }}>{l.region}</div>
-                </div>
+              <div className="gov-row" key={l.region} style={{ padding: '2.5px 0', alignItems: 'baseline', gap: 6 }}>
+                <div className="gov-name" style={{ fontSize: 10, flex: 1 }}>{l.name}</div>
+                <div className="gov-role" style={{ fontSize: 8.5, whiteSpace: 'nowrap' }}>{l.region}</div>
               </div>
             ))}
           </div>

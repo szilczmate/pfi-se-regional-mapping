@@ -32,6 +32,12 @@ export function Analysis_BrickRecovery({ isActive }: SlideProps) {
           {top15.map((b, i) => {
             const widthPct = (b.recovery_sek / maxRecovery) * 100
             const region = b.county.replace(/^[0-9]+ - /, '').replace(' län', '').replace('Region ', '')
+            // Tier: 0 = top 3 (dark teal), 1 = 4-8 (medium teal), 2 = 9-15 (light teal)
+            const tier = i < 3 ? 0 : i < 8 ? 1 : 2
+            const barColor = tier === 0 ? 'var(--accent-d)' : tier === 1 ? 'var(--accent)' : 'var(--accent-l)'
+            // For tiers 0 + 1 (dark/medium bar) use white text; for tier 2 (light bar) use navy
+            const labelColor = tier < 2 ? '#FFFFFF' : 'var(--navy)'
+            const suffixColor = tier < 2 ? 'rgba(255,255,255,0.78)' : 'var(--gray-1)'
             return (
               <div key={b.brick} style={{ display: 'grid', gridTemplateColumns: '24px 1fr 60px', alignItems: 'center', gap: 6, fontSize: 10.5 }}>
                 <div style={{ color: 'var(--gray-1)', fontWeight: 600, textAlign: 'right' }}>#{i + 1}</div>
@@ -39,14 +45,14 @@ export function Analysis_BrickRecovery({ isActive }: SlideProps) {
                   <div style={{
                     position: 'absolute', left: 0, top: 0, bottom: 0,
                     width: `${widthPct}%`,
-                    background: i < 3 ? 'var(--accent-d)' : i < 8 ? 'var(--accent)' : 'var(--accent-l)',
+                    background: barColor,
                     borderRadius: 2,
                   }} />
                   <div style={{
                     position: 'absolute', left: 6, top: 0, bottom: 0,
-                    display: 'flex', alignItems: 'center', fontSize: 10, fontWeight: 600, color: 'var(--navy)',
+                    display: 'flex', alignItems: 'center', fontSize: 10, fontWeight: 600, color: labelColor,
                   }}>
-                    {b.brick.replace(/^[0-9]+ - /, '')} <span style={{ color: 'var(--gray-1)', fontWeight: 400, marginLeft: 4 }}>· {region}</span>
+                    {b.brick.replace(/^[0-9]+ - /, '')} <span style={{ color: suffixColor, fontWeight: 400, marginLeft: 4 }}>· {region}</span>
                   </div>
                 </div>
                 <div style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums', fontSize: 10.5, color: 'var(--navy)', fontWeight: 600 }}>

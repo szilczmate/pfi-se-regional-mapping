@@ -42,7 +42,7 @@ export function Analysis_VaccineTrends({ isActive }: SlideProps) {
       <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 14, overflow: 'hidden' }}>
 
         {/* RSV */}
-        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8, minWidth: 0, overflow: 'hidden' }}>
           <div style={{ fontSize: 12, fontWeight: 700, color: 'var(--navy)' }}>
             RSV (adult vaccination)
           </div>
@@ -54,7 +54,7 @@ export function Analysis_VaccineTrends({ isActive }: SlideProps) {
         </div>
 
         {/* PCV */}
-        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8, minWidth: 0, overflow: 'hidden' }}>
           <div style={{ fontSize: 12, fontWeight: 700, color: 'var(--navy)' }}>
             Pneumococcal
           </div>
@@ -67,7 +67,7 @@ export function Analysis_VaccineTrends({ isActive }: SlideProps) {
         </div>
 
         {/* TBE */}
-        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <div className="card" style={{ padding: '12px 14px', display: 'flex', flexDirection: 'column', gap: 8, minWidth: 0, overflow: 'hidden' }}>
           <div style={{ fontSize: 12, fontWeight: 700, color: 'var(--navy)' }}>
             TBE
           </div>

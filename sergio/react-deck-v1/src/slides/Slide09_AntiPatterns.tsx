@@ -39,7 +39,7 @@ const ROUTING = [
   },
   {
     question: 'Co-marketed product positioning',
-    forum: 'Coordinated message with the partner — uncoordinated outreach creates channel conflict',
+    forum: 'Coordinated message with the partner. Uncoordinated outreach creates channel conflict',
     products: ['Xtandi (with Astellas)'],
   },
 ]
@@ -50,7 +50,7 @@ export function Slide09_AntiPatterns({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="Engagement routing"
       title="Which forum for which kind of question"
-      subtitle="A reference for routing the recurring engagement questions in the portfolio. Each row is the type of question and the part of the system that owns it."
+      subtitle="Where to route the recurring engagement questions in the portfolio."
     >
       <div className="dmm-wrap" style={{ flex: 1 }}>
         <table className="dmm">
@@ -64,8 +64,8 @@ export function Slide09_AntiPatterns({ isActive }: SlideProps) {
           <tbody>
             {ROUTING.map((r, i) => (
               <tr key={i}>
-                <td style={{ fontWeight: 600, color: 'var(--navy)', fontSize: 11 }}>{r.question}</td>
-                <td style={{ fontSize: 10.5 }}>
+                <td style={{ fontWeight: 600, color: 'var(--navy)', fontSize: 12, padding: '15px 10px' }}>{r.question}</td>
+                <td style={{ fontSize: 11 }}>
                   <span style={{ color: 'var(--accent-d)', fontWeight: 600 }}>{r.forum}</span>
                 </td>
                 <td style={{ fontSize: 10 }}>

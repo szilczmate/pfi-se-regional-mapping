@@ -98,8 +98,11 @@ export function Stockholm03_Portfolio({ isActive }: SlideProps) {
       </div>
 
       <div className="source-note">
-        Patient counts from Pfizer's AVA platform (Ibrance, Vydura — 2025 latest; Vyndaqel — sjukvårdsregion level)
-        and from Socialstyrelsen Läkemedelsregistret (other products — most recent open year). SEK from IQVIA Sell-In.
+        Patient counts from Pfizer's AVA platform — Ibrance: annual patients with dispensations, 2025;
+        Vyndaqel: sjukvårdsregion-level budget-year prevalence (Stockholm Sörmland SVR), March 2026 snapshot;
+        Vydura: single-month patients with dispensations, March 2026 (acute-treatment indication, so a
+        monthly count is not equivalent to annual unique patients). Other products from Socialstyrelsen
+        Läkemedelsregistret (most recent open year). SEK from IQVIA Sell-In.
         Xtandi ({(stk.xtandi/1e6).toFixed(0)} M kr 3-yr) is co-marketed with Astellas; included in oncology total.
       </div>
     </Slide>

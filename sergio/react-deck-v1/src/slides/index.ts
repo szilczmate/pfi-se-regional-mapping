@@ -12,38 +12,49 @@ import { Slide03_Methodology } from './Slide03_Methodology'
 // National mapping
 import { Slide05_FourTracks } from './Slide05_FourTracks'
 import { Slide06_HealthEquityIndicators } from './Slide06_HealthEquityIndicators'
+import { Slide_GovernanceRemits } from './Slide_GovernanceRemits'
 import { Slide07_GovernanceBodies } from './Slide07_GovernanceBodies'
+import { Slide_QuestionOwnership } from './Slide_QuestionOwnership'
 import { Slide08_DMM } from './Slide08_DMM'
-import { Slide10_ProductTracks } from './Slide10_ProductTracks'
-import { Slide11_ReformCalendar } from './Slide11_ReformCalendar'
-
-// Stockholm
-import { Stockholm01_Overview } from './Stockholm01_Overview'
-import { Stockholm02_DiseaseBurden } from './Stockholm02_DiseaseBurden'
-import { Stockholm03_Portfolio } from './Stockholm03_Portfolio'
-import { Stockholm04_Vaccines } from './Stockholm04_Vaccines'
-import { Stockholm05_PositioningQuadrant } from './Stockholm05_PositioningQuadrant'
-import { Slide12_StakeholderPriorities } from './Slide12_StakeholderPriorities'
-import { Stockholm06_Synthesis } from './Stockholm06_Synthesis'
-
-// National analysis
-import { Slide04_FindingsPreview } from './Slide04_FindingsPreview'
-import { Analysis_BrickRecovery } from './Analysis_BrickRecovery'
-import { Analysis_ATTRConcentration } from './Analysis_ATTRConcentration'
-import { Analysis_VaccineTrends } from './Analysis_VaccineTrends'
 import { Slide09_AntiPatterns } from './Slide09_AntiPatterns'
+import { Slide11_ReformCalendar } from './Slide11_ReformCalendar'
+import { Slide_NumbersInUse } from './Slide_NumbersInUse'
+import { Slide_CostDriver } from './Slide_CostDriver'
+
+// Region deep-dive (Stockholm as template)
+import { Slide12_StakeholderPriorities } from './Slide12_StakeholderPriorities'
+import { Stockholm01_Overview } from './Stockholm01_Overview'
+import { Stockholm_Benchmark } from './Stockholm_Benchmark'
+import { Stockholm_Budget } from './Stockholm_Budget'
+import { Stockholm_LakemedelBudget } from './Stockholm_LakemedelBudget'
+import { Stockholm02_DiseaseBurden } from './Stockholm02_DiseaseBurden'
 
 // Close
 import { Slide14_Closing } from './Slide14_Closing'
+
+// ─────────────────────────────────────────────────────────────────────────
+// PARKED for the app (removed from the deck per Samira feedback 2026-05-31).
+// Files kept intentionally — these become the product/commercial layer of the
+// live app. Do not delete.
+//   import { Slide10_ProductTracks } from './Slide10_ProductTracks'
+//   import { Stockholm03_Portfolio } from './Stockholm03_Portfolio'
+//   import { Stockholm04_Vaccines } from './Stockholm04_Vaccines'
+//   import { Stockholm05_PositioningQuadrant } from './Stockholm05_PositioningQuadrant'
+//   import { Stockholm06_Synthesis } from './Stockholm06_Synthesis'
+//   import { Slide04_FindingsPreview } from './Slide04_FindingsPreview'
+//   import { Analysis_BrickRecovery } from './Analysis_BrickRecovery'
+//   import { Analysis_ATTRConcentration } from './Analysis_ATTRConcentration'
+//   import { Analysis_VaccineTrends } from './Analysis_VaccineTrends'
+// ─────────────────────────────────────────────────────────────────────────
 
 const Section1Divider = (props: SlideProps) =>
   SectionDivider({ ...props, number: '1', title: 'National mapping' })
 
 const Section2Divider = (props: SlideProps) =>
-  SectionDivider({ ...props, number: '2', title: 'Stockholm' })
+  SectionDivider({ ...props, number: '2', title: 'Region focus: Stockholm' })
 
 const Section3Divider = (props: SlideProps) =>
-  SectionDivider({ ...props, number: '3', title: 'National analysis' })
+  SectionDivider({ ...props, number: '3', title: 'Region focus: Skåne & VGR' })
 
 const Section4Divider = (props: SlideProps) =>
   SectionDivider({ ...props, number: '4', title: 'Where this could go next' })
@@ -51,68 +62,88 @@ const Section4Divider = (props: SlideProps) =>
 export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   // Open (4)
   Slide01_Cover,
-  Slide_Scope,
   Slide02_Objectives,
+  Slide_Scope,
   Slide03_Methodology,
 
-  // Section 1 — National mapping (divider + 6)
+  // Section 1 — National mapping
   Section1Divider,
   Slide05_FourTracks,
   Slide06_HealthEquityIndicators,
+  Slide_GovernanceRemits,
   Slide07_GovernanceBodies,
+  Slide_QuestionOwnership,
   Slide08_DMM,
-  Slide10_ProductTracks,
-  Slide11_ReformCalendar,
-
-  // Section 2 — Stockholm (divider + 7)
-  Section2Divider,
-  Stockholm01_Overview,
-  Stockholm02_DiseaseBurden,
-  Stockholm03_Portfolio,
-  Stockholm04_Vaccines,
-  Stockholm05_PositioningQuadrant,
-  (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Region Stockholm' }),
-  Stockholm06_Synthesis,
-
-  // Section 3 — National analysis (divider + 5)
-  Section3Divider,
-  Slide04_FindingsPreview,
-  Analysis_BrickRecovery,
-  Analysis_ATTRConcentration,
-  Analysis_VaccineTrends,
   Slide09_AntiPatterns,
+  Slide11_ReformCalendar,
+  Slide_NumbersInUse,
+  Slide_CostDriver,
 
-  // Section 4 — Close (divider + 1)
+  // Section 2 — Region deep-dive · Stockholm (template for the 21-region rollout)
+  Section2Divider,
+  (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Region Stockholm' }),
+  Stockholm01_Overview,
+  Stockholm_Benchmark,
+  Stockholm_Budget,
+  Stockholm_LakemedelBudget,
+  Stockholm02_DiseaseBurden,
+
+  // Section 3 — Further regions (preview of the 21-region rollout)
+  Section3Divider,
+  (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Stockholm01_Overview({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Stockholm_Benchmark({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Stockholm_Budget({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Region Skåne' }),
+  (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Västra Götalandsregionen' }),
+  (props: SlideProps) => Stockholm01_Overview({ ...props, region: 'Västra Götalandsregionen' }),
+  (props: SlideProps) => Stockholm_Benchmark({ ...props, region: 'Västra Götalandsregionen' }),
+  (props: SlideProps) => Stockholm_Budget({ ...props, region: 'Västra Götalandsregionen' }),
+  (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Västra Götalandsregionen' }),
+  (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Västra Götalandsregionen' }),
+
+  // Section 4 — Close
   Section4Divider,
   Slide14_Closing,
 ]
 
 export const SLIDE_TITLES: string[] = [
   'Cover',
-  'What we have built',
   'Objectives',
+  'Scope of the work',
   'Methodology',
-  '— Section 1 — National mapping —',
+  'Section 1 · National mapping',
   'Four-track architecture',
   'Health equity indicators',
-  'Governance bodies (NT-rådet · NSG · LK)',
+  'Governance remits (NT-rådet · NSG · LK)',
+  'Governance bodies and named seats',
+  'Question ownership (5 roles)',
   'Decision-maker matrix (21 regions × 5 roles)',
-  'Per-product mapping (12 products)',
-  'Reform calendar 2025–2027',
-  '— Section 2 — Stockholm —',
-  'Stockholm — region overview',
-  'Stockholm — disease burden',
-  'Stockholm — Pfizer portfolio with trendlines',
-  'Stockholm — vaccine landscape',
-  'Stockholm — strategic positioning quadrant',
-  'Stockholm — governance & stakeholder priorities',
-  'Stockholm — strategic synthesis',
-  '— Section 3 — National analysis —',
-  'Five findings to anchor on',
-  'CDK4/6 brick recovery (top 15)',
-  'ATTR concentration in the V30M cluster',
-  'National vaccine trajectories',
-  'Engagement anti-patterns',
-  '— Section 4 — Where this could go next —',
+  'Engagement routing',
+  'Reform calendar 2026–2027',
+  'Indicators and decisions',
+  'Where spend growth concentrates',
+  'Section 2 · Region focus: Stockholm',
+  'Stockholm: decision-maker priorities',
+  'Stockholm: region overview',
+  'Stockholm: national benchmark',
+  'Stockholm: regional budget',
+  'Stockholm: medicines budget',
+  'Stockholm: disease burden',
+  'Section 3 · Region focus: Skåne & VGR',
+  'Skåne: decision-maker priorities',
+  'Skåne: region overview',
+  'Skåne: national benchmark',
+  'Skåne: regional budget',
+  'Skåne: medicines budget',
+  'Skåne: disease burden',
+  'VGR: decision-maker priorities',
+  'VGR: region overview',
+  'VGR: national benchmark',
+  'VGR: regional budget',
+  'VGR: medicines budget',
+  'VGR: disease burden',
+  'Section 4 · Where this could go next',
   'From a deck to a live dashboard',
 ]
