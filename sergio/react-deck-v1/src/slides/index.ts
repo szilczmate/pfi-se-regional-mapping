@@ -18,6 +18,7 @@ import { Slide_QuestionOwnership } from './Slide_QuestionOwnership'
 import { Slide08_DMM } from './Slide08_DMM'
 import { Slide09_AntiPatterns } from './Slide09_AntiPatterns'
 import { Slide11_ReformCalendar } from './Slide11_ReformCalendar'
+import { Slide_ReformCalendarFull } from './Slide_ReformCalendarFull'
 import { Slide_NumbersInUse } from './Slide_NumbersInUse'
 import { Slide_CostDriver } from './Slide_CostDriver'
 
@@ -79,6 +80,7 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   Slide08_DMM,
   Slide09_AntiPatterns,
   Slide11_ReformCalendar,
+  Slide_ReformCalendarFull,
   Slide_NumbersInUse,
   Slide_CostDriver,
 
@@ -128,6 +130,7 @@ export const SLIDE_TITLES: string[] = [
   'Decision-maker matrix (21 regions × 5 roles)',
   'Engagement routing',
   'Reform calendar 2026–2027',
+  'Full reform calendar 2025–2027',
   'Indicators and decisions',
   'Where spend growth concentrates',
   'Section 2 · Region focus: Stockholm',

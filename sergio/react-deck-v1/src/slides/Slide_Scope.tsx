@@ -25,8 +25,8 @@ const ANCHORS: Anchor[] = [
     detail: 'Across 21 regions × 5 roles plus the national bodies. Three regions carry structural exceptions where the role is split or distributed; nine seats remain in confirmation.',
   },
   {
-    num: '4',
-    label: 'Reform windows',
+    num: '23',
+    label: 'Reform signals',
     detail: 'Dated changes through 2027 to policy, contracts, recommendations and vaccine programmes that reshape engagement windows.',
   },
 ]
