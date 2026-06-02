@@ -6,10 +6,10 @@ import DATA from '../data/data.json'
 const REGIONS = DATA as any[]
 
 // Per-inhabitant net of the kommunalekonomisk utjämning system, 2026 (total across all five
-// parts). Verified source: SCB table OE0115A, "Kommunalekonomisk utjämning, utfall kr/invånare"
-// (OE0115B7). Stockholm contributes the most (−2 278); Gotland receives the most (+13 616).
-const GOTLAND_NET = REGIONS.find(d => d.region === 'Region Gotland').utjamning_net_2026
-const STOCKHOLM_NET = REGIONS.find(d => d.region === 'Region Stockholm').utjamning_net_2026
+// parts). Source: SCB table OE0115A / KomEkUtj, ContentsCode OE0115B7 (utfall kr/invånare).
+// Each region is shown against AVG_NET (mean net across the 21 regions); MAX_ABS scales the bars.
+const AVG_NET = Math.round(REGIONS.reduce((s, d) => s + d.utjamning_net_2026, 0) / REGIONS.length)
+const MAX_ABS = Math.max(...REGIONS.map(d => Math.abs(d.utjamning_net_2026)))
 
 const STAGES = [
   {
@@ -106,9 +106,8 @@ export function Stockholm_Budget({ isActive, region = 'Region Stockholm' }: Prop
 
   const rows: { name: string; value: number; tag: string; highlight?: boolean }[] = [
     { name: region, value: NET, tag: regionTag, highlight: true },
+    { name: 'Average region', value: AVG_NET, tag: 'mean across the 21 regions' },
   ]
-  if (!isStockholm) rows.push({ name: 'Region Stockholm', value: STOCKHOLM_NET, tag: 'the only net contributor of the 21' })
-  if (!isGotland) rows.push({ name: 'Region Gotland', value: GOTLAND_NET, tag: 'receives the most of all 21 regions' })
 
   const subtitleTail = isStockholm
     ? 'Among the 21 regions, Stockholm is the only one that pays in.'
@@ -181,7 +180,7 @@ export function Stockholm_Budget({ isActive, region = 'Region Stockholm' }: Prop
           </div>
           {rows.map((r, i) => (
             <div key={r.name} style={i > 0 ? { borderTop: '1px solid var(--gray-4)' } : undefined}>
-              <NetRow name={shortName(r.name)} value={r.value} max={GOTLAND_NET} tag={r.tag} highlight={r.highlight} />
+              <NetRow name={shortName(r.name)} value={r.value} max={MAX_ABS} tag={r.tag} highlight={r.highlight} />
             </div>
           ))}
         </div>

@@ -11,11 +11,17 @@ export function Slide01_Cover({ isActive }: SlideProps) {
           Who decides on regional access, what shapes their priorities,
           the evidence they use, and where Pfizer can lift the right questions.
         </div>
-        <div style={{
-          marginTop: 80, fontSize: 14, fontWeight: 600,
-          color: 'var(--accent)', letterSpacing: '0.08em', textTransform: 'uppercase',
-        }}>
-          Viti Science
+        <div style={{ marginTop: 64 }}>
+          <div style={{
+            fontSize: 14, fontWeight: 600, color: 'var(--accent)',
+            letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: 12,
+          }}>
+            Viti Science
+          </div>
+          <div style={{ fontSize: 14, color: 'var(--navy-soft)', lineHeight: 1.7 }}>
+            <div>Sergio Flores · <a href="mailto:sergio.flores@vitiscience.se" style={{ color: 'var(--accent-d)', textDecoration: 'none', fontWeight: 600 }}>sergio.flores@vitiscience.se</a></div>
+            <div>Máté Szilcz · <a href="mailto:mate.szilcz@vitiscience.se" style={{ color: 'var(--accent-d)', textDecoration: 'none', fontWeight: 600 }}>mate.szilcz@vitiscience.se</a></div>
+          </div>
         </div>
         <div className="cover-accent-bar" />
       </div>

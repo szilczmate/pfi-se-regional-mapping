@@ -626,29 +626,76 @@ table .product { font-weight: 600; color: var(--navy); }
   padding: 60px;
   overflow: auto;
 }
-.toc-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 10px;
-  max-width: 1100px;
-}
-.toc-item {
+.toc-panel {
   background: white;
-  color: var(--navy);
-  padding: 10px 12px;
   border-radius: var(--r-2);
-  cursor: pointer;
-  font-size: 11px;
-  font-weight: 600;
-  transition: transform 0.15s;
-  text-align: left;
-  border: none;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
+  width: 760px;
+  max-width: 86vw;
+  max-height: 82vh;
+  overflow-y: auto;
+  padding: 20px 24px;
+  box-shadow: var(--shadow-h);
 }
-.toc-item:hover { transform: translateY(-2px); box-shadow: var(--shadow-h); }
-.toc-num { font-size: 9px; color: var(--accent); letter-spacing: 0.06em; text-transform: uppercase; }
+.toc-panel-title {
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+.toc-section { border-top: 1px solid var(--gray-4); }
+.toc-section:first-of-type { border-top: none; }
+.toc-section-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 9px 4px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--navy);
+}
+.toc-section-head:hover { background: var(--bg-soft); }
+.toc-section-head.current .toc-section-label { color: var(--accent-d); }
+.toc-chevron { color: var(--accent); font-size: 10px; width: 12px; flex-shrink: 0; }
+.toc-section-label { flex: 1; }
+.toc-section-count {
+  font-size: 10px;
+  color: var(--gray-1);
+  background: var(--bg-soft);
+  border-radius: 10px;
+  padding: 1px 8px;
+}
+.toc-leaves { padding-bottom: 6px; }
+.toc-leaf {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px 6px 5px 30px;
+  font-size: 12.5px;
+  color: var(--navy-soft);
+  line-height: 1.3;
+}
+.toc-leaf:hover { background: var(--bg-soft); }
+.toc-leaf.current { color: var(--accent-d); font-weight: 700; }
+.toc-num {
+  font-size: 10px;
+  color: var(--accent);
+  min-width: 20px;
+  letter-spacing: 0.04em;
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+}
 
 /* ============================================================
    HELPERS

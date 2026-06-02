@@ -75,11 +75,13 @@ export function Slide14_Closing({ isActive }: SlideProps) {
         </div>
       </div>
 
-      <div style={{
-        marginTop: 4, fontSize: 11, color: 'var(--gray-2)',
-        textAlign: 'center', fontStyle: 'italic',
-      }}>
-        Thank you.
+      <div style={{ marginTop: 8, textAlign: 'center' }}>
+        <div style={{ fontSize: 11, color: 'var(--gray-2)', fontStyle: 'italic', marginBottom: 6 }}>Thank you.</div>
+        <div style={{ fontSize: 12.5, color: 'var(--navy-soft)' }}>
+          Sergio Flores · <a href="mailto:sergio.flores@vitiscience.se" style={{ color: 'var(--accent-d)', textDecoration: 'none', fontWeight: 600 }}>sergio.flores@vitiscience.se</a>
+          <span style={{ color: 'var(--gray-3)', margin: '0 10px' }}>|</span>
+          Máté Szilcz · <a href="mailto:mate.szilcz@vitiscience.se" style={{ color: 'var(--accent-d)', textDecoration: 'none', fontWeight: 600 }}>mate.szilcz@vitiscience.se</a>
+        </div>
       </div>
     </Slide>
   )

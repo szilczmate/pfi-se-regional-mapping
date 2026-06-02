@@ -66,7 +66,7 @@ export function Slide_QuestionOwnership({ isActive }: SlideProps) {
       <div style={{ flex: 1, display: 'flex', flexDirection: 'column', gap: 7, overflow: 'hidden' }}>
         {/* Column headers */}
         <div style={{
-          display: 'grid', gridTemplateColumns: '23% 41% 36%', gap: 12,
+          display: 'grid', gridTemplateColumns: '23fr 41fr 36fr', gap: 12,
           fontSize: 9, fontWeight: 700, color: 'var(--gray-1)',
           letterSpacing: '0.06em', textTransform: 'uppercase', padding: '0 14px',
         }}>
@@ -80,7 +80,7 @@ export function Slide_QuestionOwnership({ isActive }: SlideProps) {
           return (
             <div key={r.abbr} className="card" style={{
               padding: '9px 14px', borderLeft: `4px solid ${meta.color}`,
-              display: 'grid', gridTemplateColumns: '23% 41% 36%', gap: 12,
+              display: 'grid', gridTemplateColumns: '23fr 41fr 36fr', gap: 12,
               alignItems: 'center', flex: 1,
             }}>
               <div>

@@ -54,10 +54,13 @@ const Section2Divider = (props: SlideProps) =>
   SectionDivider({ ...props, number: '2', title: 'Region focus: Stockholm' })
 
 const Section3Divider = (props: SlideProps) =>
-  SectionDivider({ ...props, number: '3', title: 'Region focus: Skåne & VGR' })
+  SectionDivider({ ...props, number: '3', title: 'Region focus: Skåne' })
 
 const Section4Divider = (props: SlideProps) =>
-  SectionDivider({ ...props, number: '4', title: 'Where this could go next' })
+  SectionDivider({ ...props, number: '4', title: 'Region focus: VGR' })
+
+const Section5Divider = (props: SlideProps) =>
+  SectionDivider({ ...props, number: '5', title: 'Where this could go next' })
 
 export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   // Open (4)
@@ -88,7 +91,7 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   Stockholm_LakemedelBudget,
   Stockholm02_DiseaseBurden,
 
-  // Section 3 — Further regions (preview of the 21-region rollout)
+  // Section 3 — Region focus · Skåne
   Section3Divider,
   (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Region Skåne' }),
   (props: SlideProps) => Stockholm01_Overview({ ...props, region: 'Region Skåne' }),
@@ -96,6 +99,9 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   (props: SlideProps) => Stockholm_Budget({ ...props, region: 'Region Skåne' }),
   (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Region Skåne' }),
   (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Region Skåne' }),
+
+  // Section 4 — Region focus · VGR
+  Section4Divider,
   (props: SlideProps) => Slide12_StakeholderPriorities({ ...props, region: 'Västra Götalandsregionen' }),
   (props: SlideProps) => Stockholm01_Overview({ ...props, region: 'Västra Götalandsregionen' }),
   (props: SlideProps) => Stockholm_Benchmark({ ...props, region: 'Västra Götalandsregionen' }),
@@ -103,8 +109,8 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Västra Götalandsregionen' }),
   (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Västra Götalandsregionen' }),
 
-  // Section 4 — Close
-  Section4Divider,
+  // Section 5 — Close
+  Section5Divider,
   Slide14_Closing,
 ]
 
@@ -131,19 +137,20 @@ export const SLIDE_TITLES: string[] = [
   'Stockholm: regional budget',
   'Stockholm: medicines budget',
   'Stockholm: disease burden',
-  'Section 3 · Region focus: Skåne & VGR',
+  'Section 3 · Region focus: Skåne',
   'Skåne: decision-maker priorities',
   'Skåne: region overview',
   'Skåne: national benchmark',
   'Skåne: regional budget',
   'Skåne: medicines budget',
   'Skåne: disease burden',
+  'Section 4 · Region focus: VGR',
   'VGR: decision-maker priorities',
   'VGR: region overview',
   'VGR: national benchmark',
   'VGR: regional budget',
   'VGR: medicines budget',
   'VGR: disease burden',
-  'Section 4 · Where this could go next',
+  'Section 5 · Where this could go next',
   'From a deck to a live dashboard',
 ]
