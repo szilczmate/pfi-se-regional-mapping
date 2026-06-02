@@ -697,6 +697,32 @@ table .product { font-weight: 600; color: var(--navy); }
   flex-shrink: 0;
 }
 
+.zoom-bar {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 50;
+  display: flex;
+  gap: 4px;
+  background: rgba(27, 41, 68, 0.85);
+  border-radius: 8px;
+  padding: 4px;
+}
+.zoom-bar button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 6px;
+  min-width: 40px;
+  font-variant-numeric: tabular-nums;
+}
+.zoom-bar button:hover:not(:disabled) { background: rgba(255, 255, 255, 0.16); }
+.zoom-bar button:disabled { opacity: 0.4; cursor: default; }
+
 /* ============================================================
    HELPERS
    ============================================================ */
@@ -719,5 +745,5 @@ table .product { font-weight: 600; color: var(--navy); }
   .presentation { position: static; }
   .slide-stage { transform: none !important; width: 1280px; height: 720px; page-break-after: always; }
   .slide { display: flex !important; position: relative; box-shadow: none; }
-  .nav-bar, .toc-overlay { display: none !important; }
+  .nav-bar, .toc-overlay, .zoom-bar { display: none !important; }
 }
