@@ -132,7 +132,7 @@ const SUBTITLE: Record<string, string> = {
   'Region Stockholm': 'Stockholm spends below the national average per capita while recording among the strongest health outcomes in the country. Relative need is low; access is driven by specialist appetite and the adoption of innovation.',
 }
 const SYNTHESIS: Record<string, string> = {
-  'Region Stockholm': "With outcomes already among the country’s best, access here rests on specialist appetite, trial infrastructure and early adoption of innovation, set against a spend envelope that sits below the national line by design.",
+  'Region Stockholm': "With outcomes already among the country’s best, access here rests on specialist appetite, trial infrastructure and early adoption of innovation, set against per-capita spend that sits below the national average.",
 }
 
 interface Props extends SlideProps { region?: string }

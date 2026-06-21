@@ -47,7 +47,7 @@ export function Slide_GovernanceRemits({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="Part B · The stakeholders"
       title="What each governance body decides"
-      subtitle="The three national bodies that govern access, and what each one decides."
+      subtitle="Two national bodies shape access; the 21 regional committees make the final call."
     >
       <div className="gov-grid">
         {BODIES.map(b => (

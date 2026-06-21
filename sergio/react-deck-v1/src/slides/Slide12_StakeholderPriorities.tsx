@@ -71,17 +71,9 @@ export function Slide12_StakeholderPriorities({ isActive, region = 'Region Stock
                   {p.focus}
                 </span>
               </div>
-              <div>
-                <span style={{
-                  fontSize: 9, fontWeight: 700, color: 'var(--accent)',
-                  letterSpacing: '0.06em', textTransform: 'uppercase', marginRight: 6,
-                }}>
-                  Pfizer angle
-                </span>
-                <span style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5 }}>
-                  {p.pfizer}
-                </span>
-              </div>
+              {/* Samira 2026-06-16 (Bild 18): "Pfizer angle" block removed — the slide now shows
+                  each decision-maker's role + type + focus only (no Pfizer-commercial overlay).
+                  Applies to all region instances (Stockholm / Skåne / VGR). */}
             </div>
           )
         })}

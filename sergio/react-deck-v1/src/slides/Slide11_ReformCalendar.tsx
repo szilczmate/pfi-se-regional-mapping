@@ -52,12 +52,13 @@ export function Slide11_ReformCalendar({ isActive }: SlideProps) {
         <div className="dmm-wrap" style={{ flex: 'none' }}>
           <table className="dmm">
           <thead>
+            {/* Samira 2026-06-16 (Bild 13): "Pfizer impact" column removed (its text is retained
+                in EVENTS for reference but no longer rendered). */}
             <tr>
-              <th style={{ width: '11%' }}>Date</th>
-              <th style={{ width: '10%' }}>Kind</th>
-              <th style={{ width: '24%' }}>Inflection</th>
-              <th style={{ width: '34%' }}>Pfizer impact</th>
-              <th style={{ width: '21%' }}>Products affected</th>
+              <th style={{ width: '12%' }}>Date</th>
+              <th style={{ width: '12%' }}>Kind</th>
+              <th style={{ width: '46%' }}>Inflection</th>
+              <th style={{ width: '30%' }}>Products affected</th>
             </tr>
           </thead>
           <tbody>
@@ -73,7 +74,6 @@ export function Slide11_ReformCalendar({ isActive }: SlideProps) {
                   }}>{kindLabel[e.kind]}</span>
                 </td>
                 <td style={{ fontWeight: 600, color: 'var(--navy)', fontSize: 12 }}>{e.title}</td>
-                <td style={{ fontSize: 11 }}>{e.impact}</td>
                 <td>
                   {e.products.map(p => (
                     <span key={p} style={{

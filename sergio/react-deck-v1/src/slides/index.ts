@@ -28,7 +28,6 @@ import { Stockholm01_Overview } from './Stockholm01_Overview'
 import { Stockholm_Benchmark } from './Stockholm_Benchmark'
 import { Stockholm_Budget } from './Stockholm_Budget'
 import { Stockholm_LakemedelBudget } from './Stockholm_LakemedelBudget'
-import { Stockholm02_DiseaseBurden } from './Stockholm02_DiseaseBurden'
 
 // Close
 import { Slide14_Closing } from './Slide14_Closing'
@@ -42,6 +41,7 @@ import { Slide14_Closing } from './Slide14_Closing'
 //   import { Stockholm04_Vaccines } from './Stockholm04_Vaccines'
 //   import { Stockholm05_PositioningQuadrant } from './Stockholm05_PositioningQuadrant'
 //   import { Stockholm06_Synthesis } from './Stockholm06_Synthesis'
+//   import { Stockholm02_DiseaseBurden } from './Stockholm02_DiseaseBurden'  // Samira 2026-06-16 (Bild 23): "disease burden" removed from the deck (all regions)
 //   import { Slide04_FindingsPreview } from './Slide04_FindingsPreview'
 //   import { Analysis_BrickRecovery } from './Analysis_BrickRecovery'
 //   import { Analysis_ATTRConcentration } from './Analysis_ATTRConcentration'
@@ -74,6 +74,7 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   Section1Divider,
   Slide05_FourTracks,
   Slide06_HealthEquityIndicators,
+  Slide_NumbersInUse, // Samira 2026-06-16 (Bild 15): moved earlier — frames "indicators → forum → decision" up front, before the governance detail
   Slide_GovernanceRemits,
   Slide07_GovernanceBodies,
   Slide_QuestionOwnership,
@@ -81,7 +82,6 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   Slide09_AntiPatterns,
   Slide11_ReformCalendar,
   Slide_ReformCalendarFull,
-  Slide_NumbersInUse,
   Slide_CostDriver,
 
   // Section 2 — Region deep-dive · Stockholm (template for the 21-region rollout)
@@ -91,7 +91,7 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   Stockholm_Benchmark,
   Stockholm_Budget,
   Stockholm_LakemedelBudget,
-  Stockholm02_DiseaseBurden,
+  // Samira 2026-06-16 (Bild 23): "Stockholm: disease burden" removed (all regions)
 
   // Section 3 — Region focus · Skåne
   Section3Divider,
@@ -100,7 +100,6 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   (props: SlideProps) => Stockholm_Benchmark({ ...props, region: 'Region Skåne' }),
   (props: SlideProps) => Stockholm_Budget({ ...props, region: 'Region Skåne' }),
   (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Region Skåne' }),
-  (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Region Skåne' }),
 
   // Section 4 — Region focus · VGR
   Section4Divider,
@@ -109,7 +108,6 @@ export const ALL_SLIDES: ComponentType<SlideProps>[] = [
   (props: SlideProps) => Stockholm_Benchmark({ ...props, region: 'Västra Götalandsregionen' }),
   (props: SlideProps) => Stockholm_Budget({ ...props, region: 'Västra Götalandsregionen' }),
   (props: SlideProps) => Stockholm_LakemedelBudget({ ...props, region: 'Västra Götalandsregionen' }),
-  (props: SlideProps) => Stockholm02_DiseaseBurden({ ...props, region: 'Västra Götalandsregionen' }),
 
   // Section 5 — Close
   Section5Divider,
@@ -124,6 +122,7 @@ export const SLIDE_TITLES: string[] = [
   'Section 1 · National mapping',
   'Four-track architecture',
   'Health equity indicators',
+  'Indicators and decisions', // Samira 2026-06-16 (Bild 15): moved earlier
   'Governance remits (NT-rådet · NSG · LK)',
   'Governance bodies and named seats',
   'Question ownership (5 roles)',
@@ -131,7 +130,6 @@ export const SLIDE_TITLES: string[] = [
   'Engagement routing',
   'Reform calendar 2026–2027',
   'Full reform calendar 2025–2027',
-  'Indicators and decisions',
   'Where spend growth concentrates',
   'Section 2 · Region focus: Stockholm',
   'Stockholm: decision-maker priorities',
@@ -139,21 +137,19 @@ export const SLIDE_TITLES: string[] = [
   'Stockholm: national benchmark',
   'Stockholm: regional budget',
   'Stockholm: medicines budget',
-  'Stockholm: disease burden',
+  // Samira 2026-06-16 (Bild 23): "disease burden" removed for all regions
   'Section 3 · Region focus: Skåne',
   'Skåne: decision-maker priorities',
   'Skåne: region overview',
   'Skåne: national benchmark',
   'Skåne: regional budget',
   'Skåne: medicines budget',
-  'Skåne: disease burden',
   'Section 4 · Region focus: VGR',
   'VGR: decision-maker priorities',
   'VGR: region overview',
   'VGR: national benchmark',
   'VGR: regional budget',
   'VGR: medicines budget',
-  'VGR: disease burden',
   'Section 5 · Where this could go next',
   'From a deck to a live dashboard',
 ]

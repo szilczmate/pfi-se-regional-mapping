@@ -127,7 +127,7 @@ export function Slide06_HealthEquityIndicators({ isActive }: SlideProps) {
               Need, spend and equity
             </div>
             <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
-              Stockholm sits among the lowest on all four indicators, so equity-of-access is not the lever here.
+              Stockholm sits among the lowest on all four indicators, so equity-of-access is not a binding constraint here.
               Higher-need regions carry more political pressure on access equity. Pharma spend per inhabitant does
               not track need in a simple way: several higher-need northern regions spend more per capita
               than Stockholm (see the läkemedel-budget slide), so an equity framing lands differently region to region.

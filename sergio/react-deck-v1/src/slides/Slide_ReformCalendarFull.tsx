@@ -30,7 +30,7 @@ export function Slide_ReformCalendarFull({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="Reform-signal calendar"
       title="The full reform calendar, 2025–2027"
-      subtitle="All 23 tracked reform signals across policy, governance, clinical guidance, contracts and vaccines. The four key windows still ahead are highlighted on the previous slide."
+      subtitle="All 23 tracked reform signals across policy, governance, clinical guidance, contracts and vaccines. The four windows still ahead are highlighted on the previous slide."
     >
       <div style={{ flex: 1, display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 14, minHeight: 0 }}>
         {YEARS.map(y => {

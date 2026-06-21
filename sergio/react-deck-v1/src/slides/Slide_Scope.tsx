@@ -27,7 +27,7 @@ const ANCHORS: Anchor[] = [
   {
     num: '23',
     label: 'Reform signals',
-    detail: 'Dated changes through 2027 to policy, contracts, recommendations and vaccine programmes that reshape engagement windows.',
+    detail: 'Dated changes through 2027 to policy, contracts, recommendations and vaccine programmes that open engagement windows.',
   },
 ]
 

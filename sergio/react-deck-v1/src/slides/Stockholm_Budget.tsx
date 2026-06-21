@@ -117,8 +117,7 @@ export function Stockholm_Budget({ isActive, region = 'Region Stockholm' }: Prop
     <>Stockholm’s below-national spend per capita is partly by design. As one of Sweden’s wealthiest and lowest-need
       regions (highest GRP per capita, {fmt.num(stk.grp_per_capita_ksek)} kSEK, rank {grpRank} of 21), its tax base is
       the only one above the income-equalisation guarantee (110% of the national average), making it the sole net
-      contributor of the 21 regions in 2026 rather than a recipient. Budget conversations here are about <em>reallocation
-      and innovation appetite inside a constrained envelope</em> rather than topping up unmet need. </>
+      contributor of the 21 regions in 2026 rather than a recipient. Budget conversations here are about <em>reallocation within a fixed budget</em> rather than topping up unmet need. </>
   ) : (
     <>{short} {NET < 0 ? 'contributes' : 'receives'} {fmt.num(Math.abs(NET))} SEK per inhabitant through the equalisation
       system, with GRP per capita {fmt.num(stk.grp_per_capita_ksek)} kSEK (rank {grpRank} of 21). </>

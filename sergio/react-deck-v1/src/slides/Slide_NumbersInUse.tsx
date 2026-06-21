@@ -86,9 +86,7 @@ export function Slide_NumbersInUse({ isActive }: SlideProps) {
         borderLeft: '3px solid var(--accent)', borderRadius: 3,
         fontSize: 10.5, color: 'var(--navy-soft)', lineHeight: 1.55,
       }}>
-        <strong style={{ color: 'var(--navy)' }}>Reading the table.</strong> Each row runs from the
-        indicator to its source, the forum that acts on it, and the decision it shapes. The Stockholm
-        section applies the same view to one region.
+        <strong style={{ color: 'var(--navy)' }}>Next:</strong> the Stockholm section applies this same view to a single region.
       </div>
 
       <div className="source-note">
