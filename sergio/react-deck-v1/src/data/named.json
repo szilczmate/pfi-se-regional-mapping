@@ -74,10 +74,18 @@
   {
     "rank": 10,
     "name": "Mårten Lindström",
-    "roles": "NT-rådet rep (Sydöstra)",
+    "roles": "NT-rådet ordförande (tf.) → 2026-06-30 · Sydöstra",
     "regions": "Jönköpings län · Kalmar · Östergötland",
     "min_conf": "HIGH",
     "score": 99.8
+  },
+  {
+    "rank": 11,
+    "name": "Maria Ekelund",
+    "roles": "NT-rådet rep (Sydöstra)",
+    "regions": "Jönköpings län · Kalmar · Östergötland",
+    "min_conf": "HIGH",
+    "score": 99
   },
   {
     "rank": 12,
@@ -89,7 +97,7 @@
   },
   {
     "rank": 99,
-    "name": "Magnus Johansson",
+    "name": "Magnus A Johansson",
     "roles": "NSG rep (Mellansverige) · HSD (Sörmland)",
     "regions": "Dalarna · Gävleborg · Sörmland · Uppsala · Värmland · Västmanland · Örebro län",
     "min_conf": "HIGH",

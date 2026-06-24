@@ -12,7 +12,7 @@ interface Row {
 const ROWS: Row[] = [
   {
     indicator: 'Behovsmodell weights',
-    detail: 'age · income · education · household',
+    detail: 'age · sex · marital status · employment · income · housing',
     source: 'SKR · SCB',
     forum: 'SKR nationally → RS / HSN',
     decision: 'How the state grant is split between the 21 regions, then each region’s own resursfördelningsmodell for sub-regional distribution.',

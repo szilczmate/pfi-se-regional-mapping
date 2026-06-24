@@ -19,7 +19,7 @@ const BODIES: Body[] = [
     color: 'var(--track-c)',
     track: 'Track C · national managed introduction',
     remit: 'Decides whether a new high-impact medicine enters national collaboration, then issues a recommendation in the four-phrase language (bör använda · kan använda · bör avstå · avvakta) with an implementation strategy: patient subgroups, sequencing, restrictions.',
-    decides: 'Reads aggregate national budget impact, not per-patient cost-effectiveness (that sits with TLV). Reaches the Track B hospital products TLV never covers. Not legally binding, but followed in practice.',
+    decides: 'Weighs the per-patient cost-effectiveness TLV establishes, alongside disease severity, evidence certainty, rarity and aggregate budget impact. Reaches the Track B hospital products TLV never covers. Not legally binding, but followed in practice.',
   },
   {
     name: 'NSG Läkemedel',

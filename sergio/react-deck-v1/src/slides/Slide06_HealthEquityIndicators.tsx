@@ -113,7 +113,7 @@ export function Slide06_HealthEquityIndicators({ isActive }: SlideProps) {
               The need model (behovsmodellen)
             </div>
             <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.55, margin: 0 }}>
-              SKR weights 22 demographic groups per region (age, education, household income, living situation)
+              SKR weights demographic groups per region (age, sex, marital status, employment, income, housing type)
               against national average consumption to set each region's modellkostnad, then channels a larger grant
               per capita to higher-need regions. Each region layers its own resursfördelningsmodell on top.
             </p>

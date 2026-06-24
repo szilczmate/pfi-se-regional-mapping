@@ -5,7 +5,6 @@ import priorities from '../data/stakeholderpriorities.json'
 interface PriorityRow {
   role: string
   focus: string
-  pfizer: string
 }
 
 interface Props extends SlideProps {

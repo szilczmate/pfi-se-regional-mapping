@@ -161,16 +161,16 @@ export function Stockholm_LakemedelBudget({ isActive, region = 'Region Stockholm
               <span style={{ fontSize: 12, color: 'var(--accent-d)', fontWeight: 700 }}>mnkr</span>
             </div>
             <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5, margin: 0 }}>
-              Total state läkemedelsbidrag in the Överenskommelse läkemedelsförmånerna 2026 (brutto
-              {' '}{fmt.num(41536)}, less the state's rebate share −{fmt.num(1960)}). Socialstyrelsen forecasts the
-              national förmån cost rising from 40.1 to 47.3 bn SEK by 2029 (+18%), led by rare-disease therapies.
+              Total state läkemedelsbidrag (net contribution) in the Överenskommelse läkemedelsförmånerna 2026.
+              Socialstyrelsen forecasts the national förmån cost rising from 40.1 to 47.3 bn SEK by 2029 (+18%),
+              led by rare-disease therapies.
             </p>
           </div>
 
           <div className="card card-accent" style={{ padding: '11px 13px' }}>
             {cardLabel('How it is split (behovsmodellen)')}
             <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5, margin: 0 }}>
-              22 demographic groups per region (age, education, household income, living situation), weighted against
+              demographic groups per region (age, sex, marital status, employment, income, housing type), weighted against
               national average consumption to set each region's modellkostnad. Solidarisk finansiering then tops up
               regions carrying costly drugs unevenly (≥30 SEK/inv above the national average), where rare-disease
               and specialty therapy areas concentrate.

@@ -45,7 +45,7 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
         <div className="gov-card">
           <div className="gov-card-header">
             <div className="gov-card-title">NT-rådet</div>
-            <div className="gov-card-subtitle">National Pharmacy Advisory Council · ordinary members + adjuncts coordinated by sjukvårdsregion</div>
+            <div className="gov-card-subtitle">Council for New Therapies (Rådet för nya terapier) · ordinary members + adjuncts coordinated by sjukvårdsregion</div>
           </div>
           <div className="gov-card-body">
             {ntRows.map(renderRow)}
@@ -56,7 +56,7 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
         <div className="gov-card">
           <div className="gov-card-header">
             <div className="gov-card-title">NSG Läkemedel</div>
-            <div className="gov-card-subtitle">National Support Group · 6 sjukvårdsregion clinical-strategy reps</div>
+            <div className="gov-card-subtitle">National Collaboration Group (Nationell samverkansgrupp) · 6 sjukvårdsregion clinical-strategy reps</div>
           </div>
           <div className="gov-card-body">
             {nsgRows.map(renderRow)}

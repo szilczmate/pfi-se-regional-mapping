@@ -93,7 +93,7 @@ export function Slide05_FourTracks({ isActive }: SlideProps) {
       </div>
 
       <div className="source-note">
-        Sources: TLV, samverkanlakemedel.se, SKR Cirkulär 26-16, the public-procurement law (LOU/LUF).
+        Sources: TLV, samverkanlakemedel.se, SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026), the public-procurement law (LOU/LUF).
       </div>
     </Slide>
   )

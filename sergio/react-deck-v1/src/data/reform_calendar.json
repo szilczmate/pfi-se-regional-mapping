@@ -4,7 +4,7 @@
     "version": "1.0",
     "compiled": "2026-05-10",
     "compiled_by": "Sergio Flores — Viti Science — VS-2026-PFI-001",
-    "source_basis": "Round 3 deep-research output (Section 3 + Section 2 cross-cutting) + anchor facts; verified against samverkanlakemedel.se, SKR Cirkulär 26-16, regeringen.se, E-hälsomyndigheten, Folkhälsomyndigheten, Riksrevisionen RiR 2023:23.",
+    "source_basis": "Round 3 deep-research output (Section 3 + Section 2 cross-cutting) + anchor facts; verified against samverkanlakemedel.se, SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026), regeringen.se, E-hälsomyndigheten, Folkhälsomyndigheten, Riksrevisionen RiR 2023:23.",
     "confidence_legend": "OBSERVED = directly verifiable in source as of 2026-05-10; INFERRED = derived from observed source; HYPOTHESIS = analytical projection; NOT FOUND = open status."
   },
   "events": [
@@ -15,7 +15,14 @@
       "actor": "Riksdagen / E-hälsomyndigheten",
       "summary": "Patient pays full cost up to 2 000 SEK (was 1 450); free pass at 3 800 SEK total cost ≥ 7 117 SEK. Prop. 2024/25:144.",
       "pfizer_impact": "Higher OOP for chronic Pfizer förmån products: Vyndaqel, Vydura, Ibrance, Lorviqua, Xtandi, Talzenna.",
-      "products_affected": ["Vyndaqel", "Vydura", "Ibrance", "Lorviqua", "Xtandi", "Talzenna"],
+      "products_affected": [
+        "Vyndaqel",
+        "Vydura",
+        "Ibrance",
+        "Lorviqua",
+        "Xtandi",
+        "Talzenna"
+      ],
       "confidence": "OBSERVED",
       "source": "Prop. 2024/25:144; ehalsomyndigheten.se"
     },
@@ -26,18 +33,22 @@
       "actor": "TLV",
       "summary": "TLV delivered tilläggsanalys (dnr 197/2025) on duration of effect / booster needs to NT-rådet.",
       "pfizer_impact": "Material for NT-rådet to move Abrysvo off 'avvakta' — but no recommendation yet as of 2026-05-10.",
-      "products_affected": ["Abrysvo"],
+      "products_affected": [
+        "Abrysvo"
+      ],
       "confidence": "OBSERVED",
       "source": "TLV dnr 197/2025; samverkanlakemedel.se Abrysvo product page"
     },
     {
       "date": "2025-09-02",
       "kind": "nt-radet",
-      "title": "Vyndaqel/Amvuttra — NT-rådet avslutar nationell samverkan",
+      "title": "Vyndaqel — NT-rådet avslutar nationell samverkan",
       "actor": "NT-rådet → NAG LOK",
-      "summary": "NT-rådet archived recommendations for Vyndaqel (and Amvuttra in August). NAG LOK takes over behandlingsrekommendationer for ATTR-CM/ATTRv.",
+      "summary": "NT-rådet archived its recommendation for Vyndaqel; NAG LOK takes over behandlingsrekommendationer for ATTR-CM/ATTRv. (Earlier bundling with Amvuttra removed — Amvuttra is an ATTRv silencer, a separate matter; the ATTR-CM handover concerns the TTR-stabilisers Vyndaqel and Beyonttra.)",
       "pfizer_impact": "Operating template for archived chronic-disease recommendations. New stakeholder forum for Vyndaqel = NAG LOK, NOT NT-rådet.",
-      "products_affected": ["Vyndaqel"],
+      "products_affected": [
+        "Vyndaqel"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Vyndaqel product page, archived 2025-09-02"
     },
@@ -46,33 +57,39 @@
       "kind": "guideline",
       "title": "NAG LOK behandlingsrekommendation ATTR-CM/ATTRv",
       "actor": "NAG LOK",
-      "summary": "First NAG LOK behandlingsrekommendation positioning Vyndaqel and Beyonttra as likvärdiga choices for ATTR-CM.",
+      "summary": "First NAG LOK behandlingsrekommendation positioning Beyonttra and Vyndaqel 61 mg as alternatives for ATTR-CM under shared insättningskriterier (not a formal equivalence ruling).",
       "pfizer_impact": "Sets the operating frame for Vyndaqel's competitive position vs Beyonttra ahead of 2026-08-31 contract end.",
-      "products_affected": ["Vyndaqel"],
+      "products_affected": [
+        "Vyndaqel"
+      ],
       "confidence": "OBSERVED",
       "source": "Region Skåne LAG hjärt-kärlsjukdomar Beyonttra/Vyndaqel-riktlinje 2025-11-13 (referencing NAG LOK)"
     },
     {
-      "date": "2025-10-23",
+      "date": "2025-11-10",
       "kind": "regulatory",
       "title": "TLV refused to relax Vydura subventionsbegränsning",
       "actor": "TLV",
-      "summary": "TLV decision (dnr 1855/2025) maintains restricted subvention — neurology specialist + ≥2 attacks/month + post-failed/intolerant ≥2 triptans.",
+      "summary": "TLV maintained the restricted subvention (dnr 2035/2023, carried over from the original 2023 begränsning) — neurology specialist + ≥2 attacks/month + post-failed/intolerant ≥2 triptans. Avslag published 2025-11-10.",
       "pfizer_impact": "Vydura specialist-prescriber + step-through restriction stays in place. Subventionsglidning monitoring will scrutinise adherence.",
-      "products_affected": ["Vydura"],
+      "products_affected": [
+        "Vydura"
+      ],
       "confidence": "OBSERVED",
-      "source": "TLV dnr 1855/2025 (Vydura får inte ändrad subventionsbegränsning, 2025-10-23 / 2025-11-10)"
+      "source": "tlv.se avslag/uteslutningar Vydura, publicerad 2025-11-10 (dnr 2035/2023)"
     },
     {
-      "date": "2025-11-04",
+      "date": "2025-11-25",
       "kind": "regulatory",
       "title": "Talzenna TLV further patient-group expansion",
       "actor": "TLV",
-      "summary": "TLV decision dnr 2380/2025 — additional patient-group expansion. Final wording for HRR-mutated mCRPC scope to be confirmed.",
+      "summary": "TLV expanded the high-cost-protection scope to a further patient group (Talzenna + Xtandi for mCRPC where chemotherapy is not motivated and abiraterone is unsuitable). Decision effective 2025-11-25.",
       "pfizer_impact": "Track A subsidy scope expanded; sequencing + biomarker testing pathway implications for mCRPC population.",
-      "products_affected": ["Talzenna"],
+      "products_affected": [
+        "Talzenna"
+      ],
       "confidence": "OBSERVED",
-      "source": "TLV dnr 2380/2025 (Talzenna ingår i högkostnadsskyddet för ytterligare en patientgrupp, 2025-11-04)"
+      "source": "tlv.se; onkologiisverige.se (diarienummer not confirmable on a primary TLV page)"
     },
     {
       "date": "2025-12-01",
@@ -81,7 +98,9 @@
       "actor": "Regionerna (NT-rådet samordnat)",
       "summary": "Enhertu (T-DXd, AZ/Daiichi) regiongemensamt avtal 2025-12-01 → 2027-11-30.",
       "pfizer_impact": "HER2-low expansion encroaches on Tukysa-relevant population; HER2CLIMB-05 dec-2025 first-line data not yet integrated.",
-      "products_affected": ["Tukysa"],
+      "products_affected": [
+        "Tukysa"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Enhertu produktsida"
     },
@@ -92,7 +111,13 @@
       "actor": "SKR",
       "summary": "Highlights need for ramverk for negotiation/transparency-handling; signals direction of travel for 2026 work programme.",
       "pfizer_impact": "Frames Pfizer rekvisition product negotiations and any solidarisk-finansiering 2027 expansion.",
-      "products_affected": ["Tukysa", "Elrexfio", "Hympavzi", "Abrysvo", "Vyndaqel"],
+      "products_affected": [
+        "Tukysa",
+        "Elrexfio",
+        "Hympavzi",
+        "Abrysvo",
+        "Vyndaqel"
+      ],
       "confidence": "OBSERVED",
       "source": "SKR Ställningstagande Läkemedel 2025-12-19"
     },
@@ -103,9 +128,11 @@
       "actor": "Staten + SKR",
       "summary": "Net contribution 41 461 mnkr (vs 40 695 mnkr 2025; +1.9%). 60/40 region/state återbäring split. Parties commit to revised solidarisk-finansiering model 'som även inkluderar vissa rekvisitionsläkemedel' targeting 2027.",
       "pfizer_impact": "All förmån products covered (Vyndaqel, Vydura, Talzenna, Tukysa, Ibrance, Lorviqua, Xtandi). The 2027 solidarisk-finansiering revision potentially affects Pfizer hospital/national-agreement products such as Elrexfio, Hympavzi, and Abrysvo.",
-      "products_affected": ["all"],
+      "products_affected": [
+        "all"
+      ],
       "confidence": "OBSERVED",
-      "source": "SKR Cirkulär 26-16; regeringen.se 2026-02 pressmeddelande"
+      "source": "SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026); regeringen.se 2026-02 pressmeddelande"
     },
     {
       "date": "2026-01-01",
@@ -114,7 +141,14 @@
       "actor": "E-hälsomyndigheten",
       "summary": "Transitional 2 950 SEK ceiling for benefit periods started before 2025-07-01.",
       "pfizer_impact": "Phasing-in mechanism, only relevant for periods spanning the 2025-07-01 cutover.",
-      "products_affected": ["Vyndaqel", "Vydura", "Ibrance", "Lorviqua", "Xtandi", "Talzenna"],
+      "products_affected": [
+        "Vyndaqel",
+        "Vydura",
+        "Ibrance",
+        "Lorviqua",
+        "Xtandi",
+        "Talzenna"
+      ],
       "confidence": "OBSERVED",
       "source": "ehalsomyndigheten.se 'Taket i högkostnadsskyddet blir högre den 1 januari 2026'"
     },
@@ -123,22 +157,29 @@
       "kind": "guideline",
       "title": "Folkhälsomyndigheten pneumokock-rekommendation update",
       "actor": "Folkhälsomyndigheten",
-      "summary": "PCV20 (Prevenar 20) recommended as the SINGLE vaccine for nearly all risk groups (replacing the earlier PCV13+PPV23 regimen).",
+      "summary": "PCV20 (Prevenar 20) recommended as a single conjugate vaccine (≥20 serotypes) for nearly all adult risk groups, replacing the earlier PCV13+PPV23 regimen. Capvaxive (PCV21) is also a recommended ≥20-serotype option, and PPV23 still follows for asplenia.",
       "pfizer_impact": "WIN — Prevenar 20 nu enda PCV-vaccin för vuxna riskgrupper. Region Skåne, VGR, Sörmland, Örebro, Jönköping all confirmed Prevenar 20 as upphandlat vaccin.",
-      "products_affected": ["Prevenar 20"],
+      "products_affected": [
+        "Prevenar 20"
+      ],
       "confidence": "OBSERVED",
       "source": "folkhalsomyndigheten.se januari 2026; regional vårdriktlinjer pneumokocker 2026"
     },
     {
       "date": "2026-02-23",
       "kind": "regulatory",
-      "title": "TLV Wegovy decision — subventionsglidning context",
+      "title": "TLV avslår Wegovy i högkostnadsskyddet",
       "actor": "TLV",
-      "summary": "TLV decision flags concern over subventionsglidning enforcement; reinforces direction set by Riksrevisionen RiR 2023:23.",
+      "summary": "TLV refused to include Wegovy in the high-cost protection (beslut 2026-02-19, publicerat 2026-02-23, dnr 4541/2024); reinforces subventionsglidning scrutiny per Riksrevisionen RiR 2023:23.",
       "pfizer_impact": "Increases pressure to demonstrate adherence to subventionsbegränsningar for Vydura (specialist), Talzenna (BRCA), Vyndaqel (kardiolog), Ibrance (onkologi).",
-      "products_affected": ["Vydura", "Talzenna", "Vyndaqel", "Ibrance"],
+      "products_affected": [
+        "Vydura",
+        "Talzenna",
+        "Vyndaqel",
+        "Ibrance"
+      ],
       "confidence": "OBSERVED",
-      "source": "tlv.se Wegovy 2026-02-23 beslut"
+      "source": "tlv.se Wegovy avslag, publicerat 2026-02-23 (dnr 4541/2024)"
     },
     {
       "date": "2026-03-02",
@@ -147,7 +188,10 @@
       "actor": "NT-rådet",
       "summary": "samverkanlakemedel.se news post: 'Den 1 juli 2026 tillträder Margareta Holmström som ordinarie ordförande i NT-rådet.' Vice ordförande: Anders Bergström (Norrbotten apotekare).",
       "pfizer_impact": "Holmström's clinical background = koagulation/blödningssjukdomar (KS Stockholm + Linköping) → directly relevant for Hympavzi positioning.",
-      "products_affected": ["Hympavzi", "Abrysvo"],
+      "products_affected": [
+        "Hympavzi",
+        "Abrysvo"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se 2026-03-02 'Ny ordförande i NT-rådet utsedd'"
     },
@@ -158,7 +202,9 @@
       "actor": "Folkhälsomyndigheten",
       "summary": "First formal national framework guiding regional subventionsbeslut for TBE-vaccin baserat på kommunindelning i riskområde 1/2/3. Vaccination from 3 yrs in riskområde 1.",
       "pfizer_impact": "Changes regional procurement logic for FSME-IMMUN vs Encepur. Stakeholder layer shifts to regional smittskyddsläkare in Stockholm, Uppsala, Sörmland, Östergötland (highest TBE incidence historically).",
-      "products_affected": ["FSME-IMMUN"],
+      "products_affected": [
+        "FSME-IMMUN"
+      ],
       "confidence": "OBSERVED",
       "source": "folkhalsomyndigheten.se TBE-rekommendation maj 2026; SVT Blekinge 2026 reporting"
     },
@@ -169,20 +215,24 @@
       "actor": "NT-rådet",
       "summary": "Mårten Lindström (acting) → Margareta Holmström (KS Stockholm + Linköping, biträdande professor LiU). Anders Bergström (Norrbotten) vice ordförande.",
       "pfizer_impact": "RECALIBRATE STAKEHOLDER CADENCE Q3 2026. Pågående process-ärenden (Abrysvo, possibly Hympavzi) closed/forwarded under new chair. Holmström koagulation/blödning bg = direct relevance Hympavzi.",
-      "products_affected": ["all"],
+      "products_affected": [
+        "all"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se 2026-03-02; LäkemedelsVärlden + Läkartidningen"
     },
     {
-      "date": "2026-05-31",
+      "date": "2027-05-31",
       "kind": "contract",
       "title": "Talzenna regiongemensamt avtal slut",
       "actor": "Regionerna",
-      "summary": "Avtalsstart 2024-06-01, avtalsslut 2026-05-31. Förlängningsoption till 2027-05-31.",
+      "summary": "Avtalsstart 2024-06-01; avtalsslut 2027-05-31 (the live product page now shows a single end date, no separate 2026-05-31 boundary).",
       "pfizer_impact": "DECISION POINT: extend avtal vs renegotiate, in context of expanded TLV scope (2024-04-22 + 2025-11-04 expansions) and BRCA/HRR testing-pathway maturation.",
-      "products_affected": ["Talzenna"],
+      "products_affected": [
+        "Talzenna"
+      ],
       "confidence": "OBSERVED",
-      "source": "samverkanlakemedel.se Talzenna produktsida (Round 3+4 second-agent integration)"
+      "source": "samverkanlakemedel.se Talzenna (talazoparib) produktsida (verifierad 2026-06-24)"
     },
     {
       "date": "2026-08-31",
@@ -191,7 +241,9 @@
       "actor": "Regionerna",
       "summary": "Avtalsstart 2024-09-01, avtalsslut 2026-08-31. Förlängningsoption till 2027-08-31.",
       "pfizer_impact": "DECISION POINT: extend avtal vs renegotiate vs terminate, weighing Beyonttra competition + NAG LOK 2025-10-15 likvärdiga-recommendation.",
-      "products_affected": ["Vyndaqel"],
+      "products_affected": [
+        "Vyndaqel"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Vyndaqel produktsida"
     },
@@ -202,7 +254,9 @@
       "actor": "RCC nationella vårdprogramgruppen bröstcancer",
       "summary": "HER2CLIMB-05 first-line data presented December 2025 not yet integrated into vårdprogrammet as of May 2026.",
       "pfizer_impact": "Critical Tukysa positioning question. NT-rådet has explicitly declined recommendation — vårdprogramgruppen is the right forum.",
-      "products_affected": ["Tukysa"],
+      "products_affected": [
+        "Tukysa"
+      ],
       "confidence": "INFERRED",
       "source": "cancercentrum.se vårdprogrammet bröstcancer + HER2CLIMB-05 ASCO/SABCS-data dec 2025"
     },
@@ -213,9 +267,15 @@
       "actor": "SKR + myndigheter",
       "summary": "2026 förberedande arbete intensifieras för en reviderad modell som även inkluderar vissa rekvisitionsläkemedel. Sjukdomsområden under övervägande: ATTR-amyloidos, sällsynta hälsotillstånd, ATMPs, möjligen högkostnads-onkologi-rekvisition.",
       "pfizer_impact": "POTENTIAL TRACK SHIFT: Vyndaqel, Hympavzi, Elrexfio, Tukysa, Abrysvo if qualifying. Per anchor fact 8: do NOT assert specific Pfizer product qualifies without explicit citation.",
-      "products_affected": ["Vyndaqel", "Hympavzi", "Elrexfio", "Tukysa", "Abrysvo"],
+      "products_affected": [
+        "Vyndaqel",
+        "Hympavzi",
+        "Elrexfio",
+        "Tukysa",
+        "Abrysvo"
+      ],
       "confidence": "OBSERVED",
-      "source": "SKR Cirkulär 26-16; Överenskommelse 2026; Riksdagsmotion 2025/26:668"
+      "source": "SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026); Överenskommelse 2026; Riksdagsmotion 2025/26:668"
     },
     {
       "date": "2027",
@@ -235,7 +295,9 @@
       "actor": "Regionerna",
       "summary": "Avtalsstart 2025-05-01, avtalsslut 2027-04-30. Förlängningsoption till 2028-04-30.",
       "pfizer_impact": "Extension/renegotiation window. NT-rådet kommer inte ge rekommendation; vårdprogramgruppen är hävstångspunkten för positionering.",
-      "products_affected": ["Tukysa"],
+      "products_affected": [
+        "Tukysa"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Tukysa produktsida (anchor fact 12)"
     },
@@ -246,7 +308,9 @@
       "actor": "Regionerna",
       "summary": "Final extension boundary for Vyndaqel regiongemensamt avtal 2024-09-01 → 2026-08-31, optional to 2027-08-31.",
       "pfizer_impact": "Hard decision point on Vyndaqel commercial track if förlängning utövats.",
-      "products_affected": ["Vyndaqel"],
+      "products_affected": [
+        "Vyndaqel"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Vyndaqel produktsida"
     },
@@ -255,9 +319,11 @@
       "kind": "contract",
       "title": "Enhertu regiongemensamt avtal slut",
       "actor": "Regionerna",
-      "summary": "Enhertu avtal 2025-12-01 → 2027-11-30.",
+      "summary": "Enhertu avtal 2025-12-01 → 2027-11-30. Förlängningsoption till och med 2029-11-30.",
       "pfizer_impact": "Indirect Pfizer relevance: HER2-targeted breast competition with Tukysa.",
-      "products_affected": ["Tukysa"],
+      "products_affected": [
+        "Tukysa"
+      ],
       "confidence": "OBSERVED",
       "source": "samverkanlakemedel.se Enhertu produktsida"
     }
@@ -284,8 +350,8 @@
     {
       "topic": "Solidarisk-finansiering — Pfizer product qualification",
       "status": "STATUS UNKNOWN",
-      "note": "Per anchor fact 8: ingen specifik Pfizer-produkt asserteras kvalificera utan explicit citation. SKR's aktuella 2026-lista not öppet återspeglad. Verifiera mot SKR Cirkulär 26-16 vid leverans.",
-      "source": "SKR Cirkulär 26-16; SKR Ställningstagande 2025-12-19"
+      "note": "Per anchor fact 8: ingen specifik Pfizer-produkt asserteras kvalificera utan explicit citation. SKR's aktuella 2026-lista not öppet återspeglad. Verifiera mot SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026) vid leverans.",
+      "source": "SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026); SKR Ställningstagande 2025-12-19"
     },
     {
       "topic": "Riksrevisionen RiR 2023:23 follow-up — uppföljning av subventionsbegränsningar",

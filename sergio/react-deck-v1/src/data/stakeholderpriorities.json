@@ -2,167 +2,547 @@
   "Region Stockholm": [
     {
       "role": "HSN ordf · Talla Alkurdi (S)",
-      "focus": "ICU and acute-care margins; the fast läkarkontakt rollout; 580 mnkr to vårdcentraler in the 2026 budget.",
-      "pfizer": "Frame the conversation around budget-impact predictability and whether a therapy frees capacity rather than consumes it."
+      "focus": "ICU and acute-care margins; the fast läkarkontakt rollout; 580 mnkr to vårdcentraler in the 2026 budget."
     },
     {
       "role": "HSD · Anders Ahlsson",
-      "focus": "Karolinska tertiary-care capacity, the specialty workforce question, and vårdgaranti compliance.",
-      "pfizer": "Talk delivery practicality: infusion-chair allocation, referral pathway, implementation timing."
+      "focus": "Karolinska tertiary-care capacity, the specialty workforce question, and vårdgaranti compliance."
     },
     {
       "role": "RD · Emma Lennartsson",
-      "focus": "Translates HSN and RS political directives into region operations. Beredskap and continuity of care.",
-      "pfizer": "Implementation timeline: when a national decision shows up in regional practice."
+      "focus": "Translates HSN and RS political directives into region operations. Beredskap and continuity of care."
     },
     {
       "role": "LK ordf · Mats Ek",
-      "focus": "Stewards the Janusinfo rekommendationslista. Evidence quality on new entrants; localisation of NT-rådet recommendations.",
-      "pfizer": "Regional formulary positioning and vårdprogram updates rather than national subsidy questions."
+      "focus": "Stewards the Janusinfo rekommendationslista. Evidence quality on new entrants; localisation of NT-rådet recommendations."
     },
     {
       "role": "NT-rådet rep · Rickard Malmström",
-      "focus": "Carries the Stockholm-Gotland perspective into NT-rådet recommendations and horisontspaning.",
-      "pfizer": "Pre-recommendation briefings on assets entering national review."
+      "focus": "Carries the Stockholm-Gotland perspective into NT-rådet recommendations and horisontspaning."
     },
     {
       "role": "NSG rep · Johan Bratt",
-      "focus": "Coordinates Stockholm-Gotland strategic clinical-care priorities. Rare-disease infrastructure at Karolinska.",
-      "pfizer": "Hympavzi launch infrastructure: Stockholm holds the largest Swedish haemophilia market by SEK."
+      "focus": "Coordinates Stockholm-Gotland strategic clinical-care priorities. Rare-disease infrastructure at Karolinska."
     }
   ],
   "Region Skåne": [
     {
       "role": "HSN ordf · Anna Mannfalk (M)",
-      "focus": "M-led HSN 2024-26: wait-time reduction, prevention, budget discipline.",
-      "pfizer": "Capacity-sparing innovations and a clear health-economic case at moderate budget impact."
+      "focus": "M-led HSN 2024-26: wait-time reduction, prevention, budget discipline."
     },
     {
       "role": "HSD · Martin Engström",
-      "focus": "Healthcare-system steering; LAG hjärt-kärlsjukdomar (Beyonttra/Vyndaqel-riktlinje 2025-11-13); LAG onkologi.",
-      "pfizer": "ATTR-CM operationalisation on the post-NAG-LOK template; HER2+ brain-mets pathway."
+      "focus": "Healthcare-system steering; LAG hjärt-kärlsjukdomar (Beyonttra/Vyndaqel-riktlinje 2025-11-13); LAG onkologi."
     },
     {
       "role": "RD · Jonna Myrebris",
-      "focus": "Operations, regional scale, investments.",
-      "pfizer": "Regional procurement timing for klinikläkemedel; Skånes vårdprocess-arbete."
+      "focus": "Operations, regional scale, investments."
     },
     {
       "role": "LK ordf · Stefan Nilsson",
-      "focus": "Skånelistan 2025 stewardship; Region Skåne Läkemedelsrådet rolling formulary updates; vårdriktlinjer pneumokocker 2026 lists Prevenar 20.",
-      "pfizer": "Migrän Skånelistan 2025 and LAG-driven product-class revisions."
+      "focus": "Skånelistan 2025 stewardship; Region Skåne Läkemedelsrådet rolling formulary updates; vårdriktlinjer pneumokocker 2026 lists Prevenar 20."
     },
     {
       "role": "NT-rådet rep · Linda Staaf (apotekare)",
-      "focus": "Carries the Södra perspective into NT-rådet recommendations.",
-      "pfizer": "Pre-NT-rådet horisontspaning briefings and Södra positioning."
+      "focus": "Carries the Södra perspective into NT-rådet recommendations."
     },
     {
       "role": "NSG rep · Emma Pihl (Halland HSD)",
-      "focus": "Coordinates Södra strategic clinical-care priorities across Skåne, Blekinge, Halland and Kronoberg.",
-      "pfizer": "Cross-regional ATTR and breast-cancer pathway harmonisation."
+      "focus": "Coordinates Södra strategic clinical-care priorities across Skåne, Blekinge, Halland and Kronoberg."
     }
   ],
   "Västra Götalandsregionen": [
     {
       "role": "HSN ordf · Janette Olsson (S)",
-      "focus": "Chairs Strategiska HSN. VGR has no single HSN but a Strategiska and an Operativa nämnd plus five delregionala. Leading the new long-term care strategy (remiss to 2026-09-30, in effect 2028) and god och nära vård; the 2026 Regionplan adds 2.7 bn SEK to care.",
-      "pfizer": "System-level and resource-stewardship framing aligned to the new strategy rather than single-product asks."
+      "focus": "Chairs Strategiska HSN; the Operativa HSN is chaired by My Alnebratt (S). VGR has no single HSN but a Strategiska and an Operativa nämnd plus five delregionala. Leading the new long-term care strategy (remiss to 2026-09-30, in effect 2028) and god och nära vård; the 2026 Regionplan adds 2.7 bn SEK to care."
     },
     {
       "role": "HSD · Jonas Claesson",
-      "focus": "In post since 2026-02-16; specialist in clinical pharmacology, formerly Örebro HSD. Pushing cross-system coordination across VGR's förvaltningar.",
-      "pfizer": "Delivery practicality across a fragmented organisation; his clinical-pharmacology background makes the evidence conversation direct."
+      "focus": "In post since 2026-02-16; specialist in clinical pharmacology, formerly Örebro HSD. Pushing cross-system coordination across VGR's förvaltningar."
     },
     {
-      "role": "RD · Strandroth Frid (from 2026-09-01)",
-      "focus": "Regiondirektör handover: Ulrika Strandroth Frid succeeds Ann-Charlotte Järnström on 2026-09-01. The office executes Regionplan 2026: access, primary care, more vårdplatser.",
-      "pfizer": "Expect an agenda reset after 2026-09-01; time operational and rollout asks accordingly."
+      "role": "RD · Ann-Charlotte Järnström (Strandroth Frid succeeds 2026-09-01)",
+      "focus": "Regiondirektör Ann-Charlotte Järnström; Ulrika Strandroth Frid succeeds her on 2026-09-01. The office executes Regionplan 2026: access, primary care, more vårdplatser."
     },
     {
       "role": "LK ordf · Johan Sandelin",
-      "focus": "Chairs Läkemedelskommittén (läkemedelschef Maria Carlson Brühl). Stewards REKlistan 2026, localises NT-rådet recommendations, maintains the regionala medicinska riktlinjer.",
-      "pfizer": "REKlistan positioning and RMR updates: regional formulary rather than national subsidy."
+      "focus": "Chairs Läkemedelskommittén (läkemedelschef Maria Carlson Brühl). Stewards REKlistan 2026, localises NT-rådet recommendations, maintains the regionala medicinska riktlinjer."
     },
     {
       "role": "NT-rådet rep · Anna Lindhé (apotekare)",
-      "focus": "Carries the Västra perspective into NT-rådet; chairs VGR's beredningsgrupp läkemedel.",
-      "pfizer": "Pre-NT-rådet horisontspaning briefings and Västra positioning."
+      "focus": "Carries the Västra perspective into NT-rådet; chairs VGR's beredningsgrupp läkemedel."
     },
     {
       "role": "NSG rep · Jonas Claesson (HSD)",
-      "focus": "VGR's HSD also holds the Västra seat on NSG Läkemedel, so national clinical-strategy signalling sits with the same person who runs regional delivery.",
-      "pfizer": "One relationship spans regional delivery and national signal-setting; engage early on therapy-area priorities."
+      "focus": "VGR's HSD also holds the Västra seat on NSG Läkemedel, so national clinical-strategy signalling sits with the same person who runs regional delivery."
     }
   ],
-  "Region Halland": [
+  "Region Östergötland": [
     {
-      "role": "HSN structure (STRUCTURAL EXCEPTION)",
-      "priorities": "Halland operates with local municipal HSNs rather than a single regional HSN ordförande. Engagement routes through Regionstyrelsen ordförande Mikaela Waltersson (M) + Hälso- och sjukvårdsstyrelsen, NOT a single regional HSN ordf."
+      "role": "HSN ordf · Fredrik Sjöstrand (M)",
+      "focus": "Chairs the M-led hälso- och sjukvårdsnämnden. The 2026 healthcare budget (≈17.35 bn SEK) puts money behind nära vård (+20 mnkr to primärvård), shorter waiting lists (15 mnkr; about 16,000 waiting) and a new styr- och ersättningsmodell for klinikläkemedel from 2026 (+50 mnkr)."
     },
     {
-      "role": "RD (Krister Björkegren)",
-      "priorities": "Region operations, integrated kommun+region care model. Pharma question: integrated care pathway operationalisation for chronic Pfizer products."
+      "role": "HSD · Karl Landergren",
+      "focus": "In post since 2025-06-01 (after Annica Öhrn); cardiologist and former chefläkare with a Sydöstra-region background. Runs Universitetssjukhuset i Linköping tertiary care and the new klinikläkemedel reimbursement model."
     },
     {
-      "role": "LK ordf (Tamara Adem)",
-      "priorities": "Halland formulary: Ibrance still leading CDK4/6 region (51.2% share, only Pfizer-leading region in Sweden). Verzenios +196% growth pressure. Pharma question: how to defend Ibrance position; Class-naive vs class-experienced positioning."
+      "role": "RD · Mikael Borin",
+      "focus": "Regiondirektör since 2023-10-01 with a long Östergötland operations record. Executes the Regionplan as the region returns to economic balance, across its three hospitals (Linköping, Norrköping, Motala)."
     },
     {
-      "role": "NT-rådet SVR-rep (Linda Staaf)",
-      "priorities": "Shared with Skåne. Pharma question: shared Södra positioning."
+      "role": "LK ordf · Christina Fischer",
+      "focus": "Chairs Läkemedelskommittén (LKÖ). Maintains the regional Rekommenderade läkemedel list through therapy-area expert groups and localises NT-rådet recommendations into Östergötland practice."
     },
     {
-      "role": "NSG-rep (Emma Pihl, Halland HSD, direct seat)",
-      "priorities": "Influence-score 163.5 (highest stakeholder lever in scope). Direct anchor for Pfizer engagement; cross-regional Södra coordination + access-pathway harmonisation. Pharma question: NSG-level priority signals for breast/CDK4/6 + ATTR."
+      "role": "NT-rådet rep · Mårten Lindström (Sydöstra)",
+      "focus": "Carries the Sydöstra perspective into NT-rådet; Jönköping cardiologist and NT-rådet acting chair through 2026-06-30. The national chair passes to Margareta Holmström (Linköpings universitet / US Linköping) on 2026-07-01."
+    },
+    {
+      "role": "NSG rep · Johan Rosenqvist (Kalmar HSD)",
+      "focus": "Holds the Sydöstra seat on NSG Läkemedel and coordinates strategic clinical-care priorities across Östergötland, Jönköping and Kalmar."
     }
   ],
   "Region Jönköpings län": [
     {
-      "role": "NT-rådet acting Chair (Mårten Lindström, kardiologi)",
-      "priorities": "CHAIR through 2026-06-30 (transition to Holmström 2026-07-01). ATTR/cardio direct relevance to Vyndaqel transitions. Influence-score 99.8. Pharma question: pre-Holmström-transition strategic items + cardio-class horisontspaning + closure of in-flight items."
+      "role": "HSN ordf · Thomas Gustafsson (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; priorities centre on kostnadseffektiv vård within a healthcare budget of roughly 15 bn SEK."
     },
     {
-      "role": "HSD (Mats Bojestig, pensioneras 2026)",
-      "priorities": "Outgoing; succession active. Pharma question: who comes in + pathway continuity for klinikläkemedel."
+      "role": "HSD · Mats Bojestig (retiring 2026, verify successor)",
+      "focus": "Long-serving HSD, retiring during 2026; successor not yet named publicly. Continuity of the klinikläkemedel pathway is the open question."
     },
     {
-      "role": "RD (Jane Ydman)",
-      "priorities": "Region operations + Jönköping reformer-cycle. Pharma question: scope of self-rule on klinikläkemedel + budget discipline."
+      "role": "RD · Jane Ydman",
+      "focus": "Region operations; Jönköping's established improvement culture and budget discipline."
     },
     {
-      "role": "HSN ordf (Thomas Gustafsson, S)",
-      "priorities": "Healthcare-board priorities: kostnadseffektiv vård. Pharma question: Verzenios +76% growth at 1,483 units, Ibrance defence story for Jönköping."
+      "role": "LK ordf · Maria Ekelund",
+      "focus": "Chairs Läkemedelskommittén and is also the Sydöstra ordinary member of NT-rådet (one person, two seats), linking regional formulary stewardship to national managed introduction."
     },
     {
-      "role": "LK ordf (Maria Ekelund)",
-      "priorities": "Local formulary stewardship. Pharma question: Pfizer brand priorities including CDK4/6 defence; Prevenar 20 11.8% share (large MSD majority context)."
+      "role": "NT-rådet acting chair · Mårten Lindström",
+      "focus": "Jönköping cardiologist; NT-rådet acting chair through 2026-06-30 before the national chair passes to Margareta Holmström on 2026-07-01."
     },
     {
-      "role": "NSG-rep (Johan Rosenqvist, Kalmar HSD)",
-      "priorities": "Influence-score 159.2. Sydöstra coordination (Östergötland + Jönköping + Kalmar). Pharma question: cross-regional Sydöstra harmonisation + ATTR pathway."
+      "role": "NSG rep · Johan Rosenqvist (Kalmar HSD)",
+      "focus": "Holds the Sydöstra seat on NSG Läkemedel; coordinates across Östergötland, Jönköping and Kalmar."
+    }
+  ],
+  "Region Halland": [
+    {
+      "role": "HSN · structural (no single regional ordf)",
+      "focus": "Halland has no single regional HSN ordförande — health-board functions sit with Regionstyrelsen (ordf Mikaela Waltersson, M) and Hälso- och sjukvårdsstyrelsen. Engagement that targets a single Halland HSN ordförande has the wrong adressat."
+    },
+    {
+      "role": "HSD · Emma Pihl",
+      "focus": "Hälso- och sjukvårdsdirektör (in post; appointment announced 2024-12-18). Leads the hälso- och sjukvårdsförvaltning and also holds the Södra seat on NSG Läkemedel, coordinating clinical-care priorities across Skåne, Blekinge, Halland and Kronoberg."
+    },
+    {
+      "role": "RD · Krister Björkegren",
+      "focus": "Region operations and Halland's integrated kommun + region närsjukvård model."
+    },
+    {
+      "role": "LK ordf · Tamara Adem",
+      "focus": "Chairs Läkemedelskommittén; maintains the regional formulary and localises NT-rådet recommendations."
+    },
+    {
+      "role": "NT-rådet rep · Linda Staaf (Södra)",
+      "focus": "Carries the Södra perspective into NT-rådet, shared across Skåne, Blekinge, Halland and Kronoberg."
+    },
+    {
+      "role": "NSG rep · Emma Pihl (Halland)",
+      "focus": "Holds the Södra seat on NSG Läkemedel and coordinates strategic clinical-care priorities across the four Södra regions (Skåne, Blekinge, Halland, Kronoberg)."
     }
   ],
   "Region Västerbotten": [
     {
-      "role": "NSG Chair (Pia Näsvall, HSD Västerbotten)",
-      "priorities": "NSG Läkemedel CHAIR since 2025-10-01. Drives the national clinical-strategy signal-setting. Influence-score 155 (highest single Pfizer stakeholder lever in northern context). Pharma question: NSG-level priority signals for 2026 + NAG LOK behandlingsrekommendationer pipeline."
+      "role": "HSN ordf · Anna-Lena Danielsson (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; the central question is access equity across a large, sparsely populated geography — rural access and telemedicine-supported specialty care."
     },
     {
-      "role": "NT-rådet Vice Chair (Anders Bergström, Norrbotten apotekare)",
-      "priorities": "Carries Norra perspective into NT-rådet AND vice chair under Holmström from 2026-07-01. Influence-score 95. Pharma question: pre-NT-rådet briefings + ATMP-bandwidth signals + class-level recommendation evolution."
+      "role": "HSD · Pia Näsvall",
+      "focus": "Hälso- och sjukvårdsdirektör and, since 2025-10-01, national chair of NSG Läkemedel — regional delivery and national clinical-strategy signalling sit with the same person."
     },
     {
-      "role": "RD (Tommy Svensson)",
-      "priorities": "ATTR reference centre at Norrlands universitetssjukhus Umeå (V30M founder cluster). Pharma question: ATTR-PN/CM implementation continuity and SVR-level coordination."
+      "role": "RD · Tommy Svensson",
+      "focus": "Region operations; Norrlands universitetssjukhus Umeå hosts the national ATTR reference centre (V30M founder cluster) and anchors SVR-level coordination."
     },
     {
-      "role": "HSN ordf (Anna-Lena Danielsson, S)",
-      "priorities": "Regional access equity: large geography with sparse population. Pharma question: rural-access-friendly delivery models + telemedicine-supported specialty access."
+      "role": "LK ordf · Bo Sundqvist",
+      "focus": "Chairs Läkemedelskommittén; leads Norrlandstinget formulary harmonisation across the four northern regions."
     },
     {
-      "role": "LK ordf (Bo Sundqvist)",
-      "priorities": "Norrlandstinget formulary harmonisation across the four northern regions. Influence-score 75. Pharma question: northern-cornerstone (P1 ATTR) cross-regional positioning + Vyndaqel/Beyonttra parallel handling."
+      "role": "NT-rådet rep · Anders Bergström (Norra)",
+      "focus": "Norrbotten apotekare; carries the Norra perspective into NT-rådet and is its vice ordförande (the 2026-07-01 change is the chair handover, Mårten Lindström → Margareta Holmström)."
+    },
+    {
+      "role": "NSG chair · Pia Näsvall (Norra)",
+      "focus": "Holds the Norra seat and chairs NSG Läkemedel nationally since 2025-10-01 (same person as the region's HSD)."
+    }
+  ],
+  "Region Uppsala": [
+    {
+      "role": "Sjukhusstyrelsen ordf · Neil Ormerod (V)",
+      "focus": "Uppsala has no single hälso- och sjukvårdsnämnd; the Sjukhusstyrelsen governs hospital care — Akademiska sjukhuset and Lasarettet i Enköping — covering specialised care, capacity and waiting times."
+    },
+    {
+      "role": "Vårdstyrelsen ordf · Vivianne Macdisi (S)",
+      "focus": "The Vårdstyrelsen governs primary care, nära vård and dental care, including the region's own and contracted providers, and stewards the shift to care closer to the patient."
+    },
+    {
+      "role": "HSD · Mikael Köhler",
+      "focus": "Hälso- och sjukvårdsdirektör; coordinates clinical operations, care quality, access and kunskapsstyrning across the region's hospitals and primary care."
+    },
+    {
+      "role": "RD · Johan von Knorring",
+      "focus": "Regiondirektör; leads the koncernledning and implements the adopted Regionplan och budget across the region's operations."
+    },
+    {
+      "role": "LK ordf · Jan Melin",
+      "focus": "Nephrologist; chairs Läkemedelskommittén and maintains the regional rekommenderade läkemedel. Also the Mellansverige representative to NT-rådet, so one person spans regional formulary and national managed introduction."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s HSD holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Kalmar": [
+    {
+      "role": "Beredningsordf hälso- och sjukvård · Mattias Adolfson (S)",
+      "focus": "Region Kalmar län has no standalone hälso- och sjukvårdsnämnd; healthcare politics sit in a beredning under regionfullmäktige (chair Adolfson; vice Jimmy Loord, KD, and Emmy Ahlstedt, C) that prepares and monitors, while executive mandate rests with regionstyrelsen (ordf Angelica Katsanidou, S)."
+    },
+    {
+      "role": "HSD · Johan Rosenqvist",
+      "focus": "Leads the hälso- och sjukvårdsförvaltning and its three hospitals (incl. Länssjukhuset i Kalmar); also holds the Sydöstra seat on NSG Läkemedel."
+    },
+    {
+      "role": "RD · Magdalena Bosson",
+      "focus": "Regiondirektör since 2026-05-01 (after Ingeborg Eriksson). Regionplan 2026–2028 is budgeted to a +332 mnkr result for 2026, with primary care, imaging capacity (PET/CT, MR) and a single point of access for child and youth mental health among the named priorities."
+    },
+    {
+      "role": "LK ordf · Fredrik Hagerman",
+      "focus": "Distriktsläkare; chairs Läkemedelskommittén and issues the region's Rekommenderade läkemedel (2026) and prescriber guidance."
+    },
+    {
+      "role": "NT-rådet rep · Mårten Lindström (Sydöstra)",
+      "focus": "Carries the Sydöstra perspective into NT-rådet; acting chair through 2026-06-30 before the national chair passes to Margareta Holmström on 2026-07-01."
+    },
+    {
+      "role": "NSG rep · Johan Rosenqvist (Kalmar HSD)",
+      "focus": "Holds the Sydöstra seat on NSG Läkemedel (the same person as the region's HSD); coordinates across Östergötland, Jönköping and Kalmar."
+    }
+  ],
+  "Region Norrbotten": [
+    {
+      "role": "HSN ordf · Camilla Friberg (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden (vice Caroline Svensson, C); steers the nämnd's remit over omställning till nära vård, primärvård and tandvård across a large, sparsely populated geography."
+    },
+    {
+      "role": "HSD · Veronica Arthurson",
+      "focus": "Hälso- och sjukvårdsdirektör (appointed 2025-11-19, in post 2026, after acting Maria Joelsson); physician and microbiology docent, previously a Läkemedelsverket director for drug supply. Leads the healthcare administration and is föredragande in HSN."
+    },
+    {
+      "role": "RD · Anna Alm Andersson",
+      "focus": "Regiondirektör; accountable for the reviderad budget 2026 and the region's economic restructuring (negative balanskravsresultat across the period), with delivery anchored at Sunderby sjukhus."
+    },
+    {
+      "role": "LK ordf · Linda Grahn",
+      "focus": "Informationsapotekare; chairs Norrbottens Läkemedelskommitté, supporting prescribers with education and the region's rekommenderade läkemedel / terapirekommendationer, oriented to primary care."
+    },
+    {
+      "role": "NT-rådet rep · Anders Bergström (Norra)",
+      "focus": "Norrbotten apotekare; carries the Norra perspective into NT-rådet and is its vice ordförande (the 2026-07-01 change is the chair handover, Mårten Lindström → Margareta Holmström)."
+    },
+    {
+      "role": "NSG rep · Pia Näsvall (Norra)",
+      "focus": "Region Västerbotten's HSD holds the Norra seat and has chaired NSG Läkemedel nationally since 2025-10-01."
+    }
+  ],
+  "Region Gotland": [
+    {
+      "role": "HSN ordf · Filip Reinhag (S)",
+      "focus": "Chairs Gotland’s hälso- och sjukvårdsnämnd (2:e vice Eva Ahlin, C); steers access, nära vård and the Visby lasarett and primary-care investment priorities in a single-hospital island setting."
+    },
+    {
+      "role": "HSD · Marie Loob",
+      "focus": "Förvaltningschef and hälso- och sjukvårdsdirektör; leads healthcare delivery and the coming decade’s Visby lasarett and primary-care investments. A handover to incoming HSD Anna Nergårdh is expected 2026-08-10."
+    },
+    {
+      "role": "RD · Stefan Hollmark",
+      "focus": "Regiondirektör of the combined kommun + region; executes Regionplan 2026 from a weakened economic position. Gotland has the highest healthcare cost per capita in the country."
+    },
+    {
+      "role": "LK ordf · Nils Block",
+      "focus": "Överläkare (infektion/lungmedicin); chairs Läkemedelskommittén, which issues the recommended-medicines list and prescriber guidance free of commercial interests."
+    },
+    {
+      "role": "NT-rådet rep · Rickard Malmström (Stockholm-Gotland)",
+      "focus": "Stockholm klinisk farmakologi; carries the Stockholm-Gotland perspective into NT-rådet."
+    },
+    {
+      "role": "NSG rep · Johan Bratt (Stockholm-Gotland)",
+      "focus": "Holds the Stockholm-Gotland seat on NSG Läkemedel; coordinates strategic clinical-care priorities across Stockholm and Gotland."
+    }
+  ],
+  "Region Sörmland": [
+    {
+      "role": "HSN · structural (regionstyrelsen governs)",
+      "focus": "Sörmland has no separate hälso- och sjukvårdsnämnd; healthcare sits with the regionstyrelse (ordf Christoffer Öqvist, M), with Lars Lundqvist (KD) as regionråd for hälso- och sjukvård. 2026 priorities centre on shorter waiting lists and nära vård."
+    },
+    {
+      "role": "HSD · Magnus A Johansson",
+      "focus": "Hälso- och sjukvårdsdirektör (a different person from the regiondirektör of the same surname); leads the healthcare delivery area across Mälarsjukhuset Eskilstuna, Nyköping and Kullbergska Katrineholm."
+    },
+    {
+      "role": "RD · Magnus Johansson",
+      "focus": "Regiondirektör since 2023 (nurse by background, former Västernorrland HSD); steers the 2026 budget under cost-reduction pressure, including a workforce-reduction requirement."
+    },
+    {
+      "role": "LK ordf · Lars Steen",
+      "focus": "Överläkare (endocrinology) and head of Läkemedelscentrum; chairs Läkemedelskommittén and its expert groups, maintaining the regional rekommenderade läkemedel."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Sörmland’s own HSD holds the Mellansverige seat on NSG Läkemedel, coordinating across the seven Mellansverige regions."
+    }
+  ],
+  "Region Västmanland": [
+    {
+      "role": "HSN ordf · Lina Ekengren (L)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden in the M/KD/L majority; access and primary-care reform — egen läkare continuity, evening-open vårdcentraler and curbing improper nätläkare reimbursement."
+    },
+    {
+      "role": "HSD · Jonas Cederberg (tf.)",
+      "focus": "Acting hälso- och sjukvårdsdirektör since Lars Almroth left for Socialstyrelsen (end of May 2026); steers the HoS2029 omställning, the vårdplats situation and cost control. Permanent recruit pending."
+    },
+    {
+      "role": "RD · Maria Linder",
+      "focus": "Regiondirektör; executes Regionplan 2026–2028 with a focus on ekonomi i balans and a region-wide cost-restraint program."
+    },
+    {
+      "role": "LK ordf · Lena Ottosson Bixo",
+      "focus": "Chairs Läkemedelskommittén (sjukvårdsfarmaci); maintains Basläkemedel 2026 / rekommenderade läkemedel and oversees läkemedelsförsörjning."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s hälso- och sjukvårdsdirektör holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Örebro län": [
+    {
+      "role": "HSN ordf · Behcet Barsom (KD)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; 2025–26 work includes the nära vård genomförandeplan for the western county district and a healthcare-administration utvecklingsplan."
+    },
+    {
+      "role": "HSD · Martin Gunnarsson (tf.)",
+      "focus": "Acting hälso- och sjukvårdsdirektör since Jonas Claesson left for VGR (Feb 2026); leads the administration through the transition — access, nära vård, Universitetssjukhuset Örebro. Permanent recruit pending."
+    },
+    {
+      "role": "RD · Rickard Simonsson",
+      "focus": "Regiondirektör; oversees Regionplan 2026 execution and the healthcare-administration leadership transition."
+    },
+    {
+      "role": "LK ordf · Maria Palmetun Ekbäck",
+      "focus": "Chairs Läkemedelskommittén and heads Läkemedelscentrum; published Rekommenderade läkemedel 2026–2027 (added chapters on chronic kidney disease and obesity)."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s hälso- och sjukvårdsdirektör holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Dalarna": [
+    {
+      "role": "HSN ordf · Sofia Jarl (C)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; 2026 work spans access (En väg in for child and youth mental health) and a trygg vårdsommar effort."
+    },
+    {
+      "role": "HSD · Åsa Dedering (departing 2026-07-06)",
+      "focus": "Hälso- och sjukvårdsdirektör of about five years; announced her departure on 2026-06-23, effective 2026-07-06, with an interim director to follow. Operational lead for access, nära vård and Falu lasarett."
+    },
+    {
+      "role": "RD · Johan Lindberg",
+      "focus": "Regiondirektör; oversees Regionplan 2026 — sustainable finances, reduced reliance on hyrpersonal, patient safety and access."
+    },
+    {
+      "role": "LK ordf · Gunnar Domeij",
+      "focus": "Chairs Dalarnas läkemedelskommitté (about 20 therapy groups, based at Falu lasarett); maintains the Basläkemedel and terapirekommendationer."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s hälso- och sjukvårdsdirektör holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Gävleborg": [
+    {
+      "role": "HSN ordf · Jennie Forsblom (KD)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; engaged in 2026 on the accountability split between the new region-run hälsocentralsbolag and the nämnd, and on securing provision across the county."
+    },
+    {
+      "role": "HSD · Martin Andersson (departing autumn 2026)",
+      "focus": "Hälso- och sjukvårdsdirektör; leaving for Region Stockholm in autumn 2026 (successor unnamed). Operational lead for access, nära vård and the two acute hospitals (Gävle, Hudiksvall)."
+    },
+    {
+      "role": "RD · Göran Angergård",
+      "focus": "Regiondirektör; also interim VD of the new hälsocentralsbolag (from 2026-02-01) that took over the affected health centres — a central piece of the primary-care restructuring."
+    },
+    {
+      "role": "LK ordf · Björn Ericsson",
+      "focus": "Specialist in allmänmedicin; chairs Läkemedelskommittén and signs the regional Rekommenderade läkemedel (2025–2026)."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s hälso- och sjukvårdsdirektör holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Värmland": [
+    {
+      "role": "HSN ordf · Daniel Schützer (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden; 2026 priorities are economy in balance, shorter waiting lists (extra funds to the longest-wait areas) and stronger primary care (vårdcentralernas basuppdrag)."
+    },
+    {
+      "role": "HSD · Lars Christensen",
+      "focus": "Hälso- och sjukvårdsdirektör and biträdande regiondirektör; operational lead for the Framtidens hälso- och sjukvård plan and Centralsjukhuset i Karlstad."
+    },
+    {
+      "role": "RD · Peter Bäckstrand",
+      "focus": "Regiondirektör; accountable for the Regionplan 2026 goal of economy in balance."
+    },
+    {
+      "role": "LK ordf · seat vacant (verify)",
+      "focus": "The Läkemedelskommitté ordförande seat is listed as vacant as of 2026-06-18 (chaired by Malgorzata Antoniewicz through late 2025); the committee continues to issue rekommenderade läkemedel via Läkemedelscentrum."
+    },
+    {
+      "role": "NT-rådet rep · Jan Melin (Mellansverige)",
+      "focus": "Uppsala nephrologist; carries the Mellansverige perspective into NT-rådet (also Uppsala’s LK ordf)."
+    },
+    {
+      "role": "NSG rep · Magnus A Johansson (Sörmland HSD)",
+      "focus": "Region Sörmland’s hälso- och sjukvårdsdirektör holds the Mellansverige seat on NSG Läkemedel; coordinates strategic clinical-care priorities across the seven Mellansverige regions."
+    }
+  ],
+  "Region Blekinge": [
+    {
+      "role": "HSN ordf · Anders Lund (M)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden, which carries the bulk of the region’s deficit while it reorganises into three divisions (Specialist-, Närsjukvårds- and Akut- och service)."
+    },
+    {
+      "role": "HSD · Caroline Nilsson",
+      "focus": "Hälso- och sjukvårdsdirektör (permanent since July 2025); drives the new three-division organisation and the access and savings agenda."
+    },
+    {
+      "role": "RD · Linda Hultén",
+      "focus": "Regiondirektör, made permanent on 2025-12-18 after an extended acting period; oversees the financial recovery and the healthcare reorganisation."
+    },
+    {
+      "role": "LK ordf · Helena Ringborn",
+      "focus": "Allmänläkare; chairs the läkemedelskommitté, which issues rekommenderade läkemedel and prescribing guidance (recent focus on diclofenac and opioid prescribing)."
+    },
+    {
+      "role": "NT-rådet rep · Linda Staaf (Södra)",
+      "focus": "Apotekare; carries the Södra perspective into NT-rådet, shared across Skåne, Blekinge, Halland and Kronoberg."
+    },
+    {
+      "role": "NSG rep · Emma Pihl (Halland HSD)",
+      "focus": "Holds the Södra seat on NSG Läkemedel and coordinates strategic clinical-care priorities across the four Södra regions."
+    }
+  ],
+  "Region Kronoberg": [
+    {
+      "role": "HSN ordf · Ida Eriksson (M)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden in the S+M majority; 2026 priorities include primary-care strengthening, an akutläkarorganisation and shorter waiting lists."
+    },
+    {
+      "role": "HSD · Ewa Ekman",
+      "focus": "Hälso- och sjukvårdsdirektör; building a stepwise akutläkarorganisation at the two hospitals (Centrallasarettet Växjö, Ljungby lasarett)."
+    },
+    {
+      "role": "RD · Andreas Liljenrud",
+      "focus": "Regiondirektör (permanent since 2024-09-20); oversees Regionplan 2026 across healthcare and regional development."
+    },
+    {
+      "role": "LK ordf · Fredrik Schön",
+      "focus": "Chairs Läkemedelskommittén (also leads the nervous-system therapy group); issues the annual Rekommenderade läkemedel for adults and children."
+    },
+    {
+      "role": "NT-rådet rep · Linda Staaf (Södra)",
+      "focus": "Apotekare; carries the Södra perspective into NT-rådet, shared across Skåne, Blekinge, Halland and Kronoberg."
+    },
+    {
+      "role": "NSG rep · Emma Pihl (Halland HSD)",
+      "focus": "Holds the Södra seat on NSG Läkemedel and coordinates strategic clinical-care priorities across the four Södra regions."
+    }
+  ],
+  "Region Västernorrland": [
+    {
+      "role": "HSN ordf · Kristina Nilsson (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden (majority shifted back to S); oversees the contested sjukhusstrukturförändring across Sundsvall, Örnsköldsvik and Sollefteå, and the nära vård shift."
+    },
+    {
+      "role": "HSD · Roger Westerlund (tf.)",
+      "focus": "Acting hälso- och sjukvårdsdirektör since 2026-02-24 (about a one-year term); stabilising operations during the hospital-structure reform and leadership turnover. Permanent recruit pending."
+    },
+    {
+      "role": "RD · Åsa Bellander",
+      "focus": "Regiondirektör; steers a multi-year budget consolidation (tufft ekonomiskt läge) and the primärvård scale-up."
+    },
+    {
+      "role": "LK ordf · Emma Ölander",
+      "focus": "Chairs Läkemedelskommittén; maintains the regional Mitt läkemedel / rekommenderade läkemedel and the structured introduction of new medicines via Norra."
+    },
+    {
+      "role": "NT-rådet rep · Anders Bergström (Norra)",
+      "focus": "Norrbotten apotekare; carries the Norra perspective into NT-rådet and is its vice ordförande (the 2026-07-01 change is the chair handover, Mårten Lindström → Margareta Holmström)."
+    },
+    {
+      "role": "NSG rep · Pia Näsvall (Norra)",
+      "focus": "Region Västerbotten’s HSD holds the Norra seat and has chaired NSG Läkemedel nationally since 2025-10-01."
+    }
+  ],
+  "Region Jämtland Härjedalen": [
+    {
+      "role": "HSN ordf · Katarina Nyberg-Finn (S)",
+      "focus": "Chairs hälso- och sjukvårdsnämnden under heavy financial strain; the 2026 agenda centres on shorter waiting lists, nära vård (new Centrum för nära vård in Funäsdalen) and access across a sparse geography."
+    },
+    {
+      "role": "HSD · Anna Granevärn",
+      "focus": "Hälso- och sjukvårdsdirektör; priorities are economic recovery, staffing and summer-cover resilience, and Östersunds sjukhus capacity."
+    },
+    {
+      "role": "RD · Sara Lewerentz",
+      "focus": "Regiondirektör; 2026 is dominated by closing a structural deficit and workforce strategy in Sweden’s most sparsely populated mainland region."
+    },
+    {
+      "role": "LK ordf · Kristina Seling",
+      "focus": "Läkemedelsansvarig läkare; chairs Läkemedelskommittén and its expert groups, maintaining the regional rekommenderade läkemedel."
+    },
+    {
+      "role": "NT-rådet rep · Anders Bergström (Norra)",
+      "focus": "Norrbotten apotekare; carries the Norra perspective into NT-rådet and is its vice ordförande (the 2026-07-01 change is the chair handover, Mårten Lindström → Margareta Holmström)."
+    },
+    {
+      "role": "NSG rep · Pia Näsvall (Norra)",
+      "focus": "Region Västerbotten’s HSD holds the Norra seat and has chaired NSG Läkemedel nationally since 2025-10-01."
     }
   ]
 }

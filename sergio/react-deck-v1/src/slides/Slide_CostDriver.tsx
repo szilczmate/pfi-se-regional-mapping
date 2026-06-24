@@ -40,7 +40,7 @@ export function Slide_CostDriver({ isActive }: SlideProps) {
           <Stat
             value="17.1" unit="bn SEK" delta="+22%" color="var(--gold)"
             label="Hospital (rekvisition) cost by 2029"
-            note="Up from 14.9 bn in 2025 (Socialstyrelsen). The steeper curve sits in clinic-administered specialty medicines."
+            note="Up from 14.1 bn in 2025 (Socialstyrelsen; 14.9 bn was the 2024 actual). The steeper curve sits in clinic-administered specialty medicines."
           />
         </div>
 

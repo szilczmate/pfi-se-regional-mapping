@@ -67,7 +67,7 @@ export function Slide_ReformCalendarFull({ isActive }: SlideProps) {
       </div>
 
       <div className="source-note">
-        Sources: samverkanlakemedel.se, SKR Cirkulär 26-16, regeringen.se, E-hälsomyndigheten, Folkhälsomyndigheten, TLV. Per-event Pfizer impact, products and confidence sit in the reform-signal calendar workbook.
+        Sources: samverkanlakemedel.se, SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026), regeringen.se, E-hälsomyndigheten, Folkhälsomyndigheten, TLV. Per-event Pfizer impact, products and confidence sit in the reform-signal calendar workbook.
       </div>
     </Slide>
   )

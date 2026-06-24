@@ -90,7 +90,7 @@ export function Slide11_ReformCalendar({ isActive }: SlideProps) {
         </div>
       </div>
       <div className="source-note">
-        Sources: SKR Cirkulär 26-16, regeringen.se, samverkanlakemedel.se, Folkhälsomyndigheten programme pages, E-hälsomyndigheten.
+        Sources: SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026), regeringen.se, samverkanlakemedel.se, Folkhälsomyndigheten programme pages, E-hälsomyndigheten.
       </div>
     </Slide>
   )
