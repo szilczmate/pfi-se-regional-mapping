@@ -1,8 +1,9 @@
 {
   "_meta": {
     "title": "Pfizer Sweden — Reform Signal Calendar 2025–2027",
-    "version": "1.0",
+    "version": "1.1",
     "compiled": "2026-05-10",
+    "refreshed": "2026-06-25 — external fact-check pass: Abrysvo 2026-06-12 avvakta-rekommendation; Talzenna expansionsdatum; Prevenar valensbaserad rekommendation; Tukysa LK-routning; vattkoppor-datum; HER2CLIMB-05 JCO-publicering.",
     "compiled_by": "Sergio Flores — Viti Science — VS-2026-PFI-001",
     "source_basis": "Round 3 deep-research output (Section 3 + Section 2 cross-cutting) + anchor facts; verified against samverkanlakemedel.se, SKR Meddelande 2/2026 (Överenskommelse läkemedelsförmånerna 2026), regeringen.se, E-hälsomyndigheten, Folkhälsomyndigheten, Riksrevisionen RiR 2023:23.",
     "confidence_legend": "OBSERVED = directly verifiable in source as of 2026-05-10; INFERRED = derived from observed source; HYPOTHESIS = analytical projection; NOT FOUND = open status."
@@ -32,25 +33,25 @@
       "title": "TLV tilläggsanalys Abrysvo",
       "actor": "TLV",
       "summary": "TLV delivered tilläggsanalys (dnr 197/2025) on duration of effect / booster needs to NT-rådet.",
-      "pfizer_impact": "Material for NT-rådet to move Abrysvo off 'avvakta' — but no recommendation yet as of 2026-05-10.",
+      "pfizer_impact": "Input to NT-rådet's RSV review; fed the dated 2026-06-12 recommendation (see below), which kept Abrysvo on 'avvakta' rather than moving it off.",
       "products_affected": [
         "Abrysvo"
       ],
       "confidence": "OBSERVED",
-      "source": "TLV dnr 197/2025; samverkanlakemedel.se Abrysvo product page"
+      "source": "TLV dnr 197/2025; samverkanlakemedel.se Abrysvo produktsida"
     },
     {
-      "date": "2025-09-02",
+      "date": "2025-08",
       "kind": "nt-radet",
       "title": "Vyndaqel — NT-rådet avslutar nationell samverkan",
       "actor": "NT-rådet → NAG LOK",
-      "summary": "NT-rådet archived its recommendation for Vyndaqel; NAG LOK takes over behandlingsrekommendationer for ATTR-CM/ATTRv. (Earlier bundling with Amvuttra removed — Amvuttra is an ATTRv silencer, a separate matter; the ATTR-CM handover concerns the TTR-stabilisers Vyndaqel and Beyonttra.)",
+      "summary": "NT-rådet ended national samverkan for Vyndaqel in August 2025; NAG LOK took over behandlingsrekommendationer for ATTR-CM/ATTRv (NAG LOK Vyndaqel 61 mg-rekommendation 2025-09-02; ATTR-CM-behandlingsrekommendation 2025-10-15). (Amvuttra — an ATTRv silencer — is a separate matter; the ATTR-CM handover concerns the TTR-stabilisers Vyndaqel and Beyonttra.)",
       "pfizer_impact": "Operating template for archived chronic-disease recommendations. New stakeholder forum for Vyndaqel = NAG LOK, NOT NT-rådet.",
       "products_affected": [
         "Vyndaqel"
       ],
       "confidence": "OBSERVED",
-      "source": "samverkanlakemedel.se Vyndaqel product page, archived 2025-09-02"
+      "source": "samverkanlakemedel.se Vyndaqel produktsida (NT-rådet avslutade nationell samverkan augusti 2025); NAG LOK-rekommendationer 2025-09-02 / 2025-10-15"
     },
     {
       "date": "2025-10-15",
@@ -158,7 +159,7 @@
       "title": "Folkhälsomyndigheten pneumokock-rekommendation update",
       "actor": "Folkhälsomyndigheten",
       "summary": "PCV20 (Prevenar 20) recommended as a single conjugate vaccine (≥20 serotypes) for nearly all adult risk groups, replacing the earlier PCV13+PPV23 regimen. Capvaxive (PCV21) is also a recommended ≥20-serotype option, and PPV23 still follows for asplenia.",
-      "pfizer_impact": "WIN — Prevenar 20 nu enda PCV-vaccin för vuxna riskgrupper. Region Skåne, VGR, Sörmland, Örebro, Jönköping all confirmed Prevenar 20 as upphandlat vaccin.",
+      "pfizer_impact": "WIN (upphandling) — FoHM:s rekommendation jan 2026 är valensbaserad (konjugat ≥20 serotyper), så både PCV20 och PCV21/Capvaxive kvalificerar för vuxna riskgrupper. Prevenar 20 är dock det de facto upphandlade ≥20-valenta vaccinet i Region Skåne, VGR, Sörmland, Örebro och Jönköping (PCV21/Capvaxive ännu inte upphandlat i flertalet regioner).",
       "products_affected": [
         "Prevenar 20"
       ],
@@ -209,6 +210,19 @@
       "source": "folkhalsomyndigheten.se TBE-rekommendation maj 2026; SVT Blekinge 2026 reporting"
     },
     {
+      "date": "2026-06-12",
+      "kind": "nt-radet",
+      "title": "NT-rådet — rekommendation att avvakta för RSV-vacciner (äldre)",
+      "actor": "NT-rådet",
+      "summary": "NT-rådet utfärdade en daterad rekommendation att regionerna fortsatt avvaktar med att finansiera RSV-vaccination till äldre (Abrysvo; motsvarande hållning för Arexvy, och mResvia nyligen EU-godkänt och under bedömning), i väntan på NT-rådets pågående gemensamma värdering av hälsoekonomin tillsammans med TLV och Folkhälsomyndigheten.",
+      "pfizer_impact": "Abrysvo förblir utan nationell finansiering; TLV:s tilläggsanalys flyttade inte produkten från 'avvakta'. Aktuella hävstänger: regionala beslut, maternell indikation och den gemensamma TLV/FoHM-översynen — inte ett nära förestående nationellt 'bör använda'.",
+      "products_affected": [
+        "Abrysvo"
+      ],
+      "confidence": "OBSERVED",
+      "source": "samverkanlakemedel.se Abrysvo produktsida — 'Rekommendation att avvakta' daterad 2026-06-12"
+    },
+    {
       "date": "2026-07-01",
       "kind": "nt-radet",
       "title": "Margareta Holmström tillträder som NT-rådet ordförande",
@@ -227,7 +241,7 @@
       "title": "Talzenna regiongemensamt avtal slut",
       "actor": "Regionerna",
       "summary": "Avtalsstart 2024-06-01; avtalsslut 2027-05-31 (the live product page now shows a single end date, no separate 2026-05-31 boundary).",
-      "pfizer_impact": "DECISION POINT: extend avtal vs renegotiate, in context of expanded TLV scope (2024-04-22 + 2025-11-04 expansions) and BRCA/HRR testing-pathway maturation.",
+      "pfizer_impact": "DECISION POINT: extend avtal vs renegotiate, in context of expanded TLV scope (2024-04-22 + 2025-11-25 expansions) and BRCA/HRR testing-pathway maturation.",
       "products_affected": [
         "Talzenna"
       ],
@@ -252,13 +266,13 @@
       "kind": "guideline",
       "title": "HER2CLIMB-05 first-line data integration into vårdprogram (expected)",
       "actor": "RCC nationella vårdprogramgruppen bröstcancer",
-      "summary": "HER2CLIMB-05 first-line data presented December 2025 not yet integrated into vårdprogrammet as of May 2026.",
-      "pfizer_impact": "Critical Tukysa positioning question. NT-rådet has explicitly declined recommendation — vårdprogramgruppen is the right forum.",
+      "summary": "HER2CLIMB-05 first-line maintenance data (tucatinib + trastuzumab + pertuzumab) presented at SABCS December 2025 and published in JCO (DOI 10.1200/JCO-25-02600); RCC bröstcancer-vårdprogram integration status to be re-checked (not yet integrated as of May 2026).",
+      "pfizer_impact": "Critical Tukysa positioning question. NT-rådet has explicitly declined to issue a recommendation, so use is formally assessed by the regional läkemedelskommittéer; the RCC national vårdprogram is the lever for integrating the HER2CLIMB-05 first-line data. Engage both — not solely vårdprogramgruppen.",
       "products_affected": [
         "Tukysa"
       ],
       "confidence": "INFERRED",
-      "source": "cancercentrum.se vårdprogrammet bröstcancer + HER2CLIMB-05 ASCO/SABCS-data dec 2025"
+      "source": "cancercentrum.se vårdprogrammet bröstcancer + HER2CLIMB-05 SABCS dec 2025 / JCO 2026 (DOI 10.1200/JCO-25-02600)"
     },
     {
       "date": "2027",
@@ -280,13 +294,13 @@
     {
       "date": "2027",
       "kind": "policy",
-      "title": "Vattkoppor-vaccin införande till alla barn (planerat)",
-      "actor": "Regeringen",
-      "summary": "Regeringen föreslår vaccin mot vattkoppor till alla barn (förslag september 2025; planerat införande 2027).",
+      "title": "Vattkoppor-vaccin införs i barnvaccinationsprogrammet",
+      "actor": "Regeringen / Folkhälsomyndigheten",
+      "summary": "Vaccin mot vattkoppor införs i det nationella allmänna vaccinationsprogrammet för barn (regeringsbeslut sep 2025): programstart 1 januari 2027 (2 doser, 18 mån + 7–8 år) och en särskild ikappvaccinationsinsats från 1 mars 2027.",
       "pfizer_impact": "Not directly Pfizer. Adjacent vaccinmarknad context.",
       "products_affected": [],
       "confidence": "OBSERVED",
-      "source": "regeringen.se sep 2025 förslag"
+      "source": "folkhalsomyndigheten.se + regeringen.se (regeringsbeslut sep 2025; ikappvaccination juni 2026)"
     },
     {
       "date": "2027-04-30",
@@ -294,7 +308,7 @@
       "title": "Tukysa regiongemensamt avtal slut",
       "actor": "Regionerna",
       "summary": "Avtalsstart 2025-05-01, avtalsslut 2027-04-30. Förlängningsoption till 2028-04-30.",
-      "pfizer_impact": "Extension/renegotiation window. NT-rådet kommer inte ge rekommendation; vårdprogramgruppen är hävstångspunkten för positionering.",
+      "pfizer_impact": "Extension/renegotiation window. NT-rådet kommer inte ge rekommendation; samverkan delegerar användningsbedömningen till regionala läkemedelskommittéer. Positionering sker via regionala LK + klinisk riktlinje/vårdprogram, inte enbart vårdprogramgruppen.",
       "products_affected": [
         "Tukysa"
       ],
@@ -336,10 +350,10 @@
       "source": "TLV beslut-databasen + samverkanlakemedel.se search 2026-05-10"
     },
     {
-      "topic": "Abrysvo — NT-rådet final recommendation",
-      "status": "PENDING",
-      "note": "TLV tilläggsanalys delivered 2025-08-28. Recommendation ej utfärdad maj 2026. Maternal indication still without Folkhälsomyndigheten utredning.",
-      "source": "samverkanlakemedel.se Abrysvo produktsida"
+      "topic": "Abrysvo — NT-rådet recommendation",
+      "status": "AVVAKTA (reaffirmed 2026-06-12)",
+      "note": "TLV tilläggsanalys delivered 2025-08-28. On 2026-06-12 NT-rådet issued a dated recommendation that regions continue to await financing; NT-rådet is evaluating the health-economic valuations jointly with TLV and Folkhälsomyndigheten. Maternal indication still without Folkhälsomyndigheten utredning.",
+      "source": "samverkanlakemedel.se Abrysvo produktsida — rekommendation att avvakta 2026-06-12"
     },
     {
       "topic": "Lorviqua first-line — formal NT-rådet update",
