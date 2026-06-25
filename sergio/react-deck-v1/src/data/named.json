@@ -1,5 +1,13 @@
 [
   {
+    "rank": 0,
+    "name": "Margareta Holmström",
+    "roles": "NT-rådet ordförande",
+    "regions": "Nationell",
+    "min_conf": "HIGH",
+    "score": 100
+  },
+  {
     "rank": 1,
     "name": "Jan Melin",
     "roles": "LK ordförande (Uppsala) · NT-rådet rep (Mellansverige)",
@@ -74,7 +82,7 @@
   {
     "rank": 10,
     "name": "Mårten Lindström",
-    "roles": "NT-rådet ordförande (tf.) → 2026-06-30 · Sydöstra",
+    "roles": "NT-rådet (tf. ordförande t.o.m. 2026-06-30) · Sydöstra",
     "regions": "Jönköpings län · Kalmar · Östergötland",
     "min_conf": "HIGH",
     "score": 99.8

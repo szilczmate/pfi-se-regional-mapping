@@ -60,7 +60,7 @@ export function Slide_CostDriver({ isActive }: SlideProps) {
               </div>
               <ul style={{ margin: 0, padding: 0, listStyle: 'none', display: 'flex', flexDirection: 'column', gap: 6 }}>
                 {[
-                  'Cancer medicines: roughly 40% of the hospital bill',
+                  'Tumour & immune-system medicines (ATC L): over half the hospital bill',
                   'Immunoglobulins',
                   'Medicines for rare hereditary diseases',
                   'CAR-T, with cost rising in 2026',

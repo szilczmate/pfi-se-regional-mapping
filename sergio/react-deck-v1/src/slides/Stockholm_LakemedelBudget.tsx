@@ -5,6 +5,9 @@ import DATA from '../data/data.json'
 
 // Verified — Kolada KPI N70001 "Nettokostnad läkemedel inom läkemedelsförmånen, kr/inv", 2024.
 // All 21 regions. Source CSV: working/data/interim/kolada_budget_latest.csv.
+// NOTE: This is the FÖRMÅN-only series (N70001), deliberately DISTINCT from data.json
+// `pharma_per_capita`, which is Kolada N70059 "Nettokostnad läkemedel, totalt" (incl. rekvisition).
+// The two genuinely differ for ~10 regions (e.g. VGR 2806.83 vs 2799.49) — do NOT "dedupe" them.
 const FORMAN_2024: Record<string, number> = {
   'Region Stockholm': 3104.35,
   'Region Uppsala': 3478.69,

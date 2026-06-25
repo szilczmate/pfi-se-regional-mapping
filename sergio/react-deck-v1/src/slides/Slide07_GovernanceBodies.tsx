@@ -18,9 +18,9 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
 
   const renderRow = (n: NamedIndividual) => {
     let tag: { label: string; warn?: boolean } | null = null
-    if (n.name === 'Mårten Lindström') tag = { label: 'tf. Chair → 2026-07-01', warn: true }
+    if (n.name === 'Mårten Lindström') tag = { label: 'tf. Chair to 2026-06-30' }
     else if (n.name === 'Anders Bergström') tag = { label: 'Vice Chair' }
-    else if (n.name === 'Margareta Holmström') tag = { label: 'Incoming Chair 2026-07-01' }
+    else if (n.name === 'Margareta Holmström') tag = { label: 'Chair (from 2026-07-01)' }
 
     return (
       <div className="gov-row" key={n.name}>
@@ -38,7 +38,7 @@ export function Slide07_GovernanceBodies({ isActive }: SlideProps) {
       isActive={isActive}
       sectionLabel="Part B · The stakeholders"
       title="Named seats on the governance bodies"
-      subtitle="NT-rådet recommends · NSG coordinates clinical strategy · 21 regional formularies decide locally · Holmström succession 2026-07-01"
+      subtitle="NT-rådet recommends · NSG coordinates clinical strategy · 21 regional formularies decide locally · Holmström chairs NT-rådet from 2026-07-01"
     >
       <div className="gov-grid">
         {/* NT-rådet */}
