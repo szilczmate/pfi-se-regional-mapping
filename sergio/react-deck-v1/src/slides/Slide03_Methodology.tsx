@@ -107,6 +107,12 @@ export function Slide03_Methodology({ isActive }: SlideProps) {
           ))}
         </div>
       </div>
+      <div className="source-note">
+        Data protection: personal data shown (names, public roles, party affiliation) relates solely to individuals’
+        official public functions and is drawn from public regional and national sources or registers. Processed under
+        legitimate interest (GDPR Art. 6(1)(f)) for stakeholder mapping; no private contact details are included. Queries
+        or removal requests should be sent to: mate.szilcz@vitiscience.se.
+      </div>
     </Slide>
   )
 }
