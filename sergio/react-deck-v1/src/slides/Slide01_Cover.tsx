@@ -6,7 +6,7 @@ export function Slide01_Cover({ isActive }: SlideProps) {
       <div className="topbar" />
       <div className="conf-strip">Confidential — General Business · Pfizer Sweden + Viti Science only</div>
       <div className="cover-bg">
-        <div className="cover-title">Pfizer Sweden Regional Landscape Mapping</div>
+        <div className="cover-title">Pfizer Sweden<br />Regional Access Compass</div>
         <div className="cover-sub">
           Who decides on regional access, what shapes their priorities,
           the evidence they use, and where Pfizer can lift the right questions.
