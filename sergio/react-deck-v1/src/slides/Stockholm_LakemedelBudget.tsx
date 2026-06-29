@@ -175,7 +175,7 @@ export function Stockholm_LakemedelBudget({ isActive, region = 'Region Stockholm
             <p style={{ fontSize: 11, color: 'var(--navy-soft)', lineHeight: 1.5, margin: 0 }}>
               demographic groups per region (age, sex, marital status, employment, income, housing type), weighted against
               national average consumption to set each region's modellkostnad. Solidarisk finansiering then tops up
-              regions carrying costly drugs unevenly (≥30 SEK/inv above the national average), where rare-disease
+              regions carrying costly drugs unevenly, where rare-disease
               and specialty therapy areas concentrate.
             </p>
           </div>

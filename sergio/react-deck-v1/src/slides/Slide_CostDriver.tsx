@@ -99,7 +99,7 @@ export function Slide_CostDriver({ isActive }: SlideProps) {
               </ul>
             </div>
             <div style={{ fontSize: 11, fontWeight: 700, color: 'var(--good)', paddingTop: 9, borderTop: '1px solid var(--gray-4)' }}>
-              Qualifying threshold: cost ≥ 30 SEK per inhabitant above the national average.
+              The qualifying bar and the central top-up are set in the state–region agreement, not in regional budget rounds.
             </div>
           </div>
         </div>
